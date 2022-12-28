@@ -2,12 +2,11 @@
   "cacheBootResources": true,
   "config": [ ],
   "debugBuild": false,
-  "entryAssembly": "BlazorGitHubPagesDemo",
+  "entryAssembly": "UWSkillTree",
   "icuDataMode": 0,
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "BlazorGitHubPagesDemo.dll": "sha256-kh+OFk68Us+2ZqbwXAek\/SetPJDLxKixidbUc+lmg5Q=",
       "Microsoft.AspNetCore.Components.dll": "sha256-jrIYq2zZsYjBUjgdBtXTtywDL35d4lmMwmvXH1Bb\/AA=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-0aR4Y1cN4iPqfEadyUaDtu2btR5SjzMAE0C7cPfuo1w=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-hItIMIcIumfGi1q3IylwSEfpyLuK1QShnYCDeXYXF+M=",
@@ -35,7 +34,8 @@
       "System.Runtime.CompilerServices.Unsafe.dll": "sha256-nmoc2OAtRICipGpr3goCkGuiJVRzJhbTixfp4OLDr\/M=",
       "System.Runtime.dll": "sha256-7s368+lt9qPPWJNK0Tzh4RIDxV+OC7w6+mc3eHzu95s=",
       "System.Text.Encodings.Web.dll": "sha256-q9WblqVw1ycDnt\/8BrAMg2wjWHfC9on+f21UJO+4H5Q=",
-      "System.Text.Json.dll": "sha256-Qw23GdLDuSjJMVpA63z6lKWZYJ0+7KGHhi6mPfKYiF8="
+      "System.Text.Json.dll": "sha256-Qw23GdLDuSjJMVpA63z6lKWZYJ0+7KGHhi6mPfKYiF8=",
+      "UWSkillTree.dll": "sha256-2TDrYFhMtPE5EoYLG1QW86TmPkp2S8PSUq8gUMcQrto="
     },
     "extensions": null,
     "lazyAssembly": null,
