@@ -1,2 +1,2 @@
-# BlazorGitHubPagesDemo
-https://ver7ici.github.io/BlazorGitHubPagesDemo/
+# UWSkillTree
+https://ver7ici.github.io/UWSkillTree/

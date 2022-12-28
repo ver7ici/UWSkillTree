@@ -8,7 +8,7 @@
     }
   },
   "profiles": {
-    "BlazorGitHubPagesDemo": {
+    "UWSkillTree": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
