@@ -1,0 +1,21 @@
+{
+    "id": "015406",
+    "subject": "CS",
+    "catalogNumber": "241E",
+    "title": "Foundations of Sequential Programs (Enriched)",
+    "description": "Enriched version of CS 241. [Note: See notes 1 and 9 above. CS 241E may be substituted for CS 241 wherever the latter is a requirement. Enrolment is restricted. Lab is not scheduled and students are expected to find time in open hours to complete their work. CS 251 is a recommended corequisite. Offered: As permitted by demand and available resources.]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "CS 136",
+        "CS 138",
+        "CS 146"
+    ],
+    "coreq": [],
+    "antireq": [
+        "CS 230",
+        "ECE 351"
+    ],
+    "next": []
+}

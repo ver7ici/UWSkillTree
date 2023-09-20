@@ -1,0 +1,14 @@
+{
+    "id": "015602",
+    "subject": "CS",
+    "catalogNumber": "600",
+    "title": "Fundamentals of Computer Science for Data Science",
+    "description": "This course is designed for Data Science MMath students who do not have an undergraduate degree in Computer Science. It provides these students with the background needed to take Data Science graduate courses with a strong computational flavour. Topics include the following. The design and operation of processors. Memory hierarchies. Basic concepts of operating systems, concurrency, parallelism, and networks. Elementary data structures and their use in algorithm design and analysis.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

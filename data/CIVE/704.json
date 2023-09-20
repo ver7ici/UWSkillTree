@@ -1,0 +1,12 @@
+{
+    "id": "000531",
+    "subject": "CIVE",
+    "catalogNumber": "704",
+    "title": "Bridge Design",
+    "description": "The course is based on the development of the Ontario Highway Bridge Design Codes (Editions 1, 2 and 3), and the Canadian Highway Bridge Design Code, as well as experience with the Limit States Design versions of AASHTO Specifications.  The course outline will generally follow these topics as these apply to short and intermediate span structures in North America: Bridge Geometry - types of bridges and various cross sections: Vehicle Loads including dynamic effects, temperature and wind: Earth Forces: Seismic Effects: Load Distribution - how are vehicle force effects transferred to the superstructure, for various cross sectional geometries: Design Criterion - limit states design: Fatigue in Connections: Foundation Design - pile and shallow foundations: Examples of Various Simple Span Designs: Concrete - Prestressed Concrete: Structural Steel: Repair and Rehabilitation.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

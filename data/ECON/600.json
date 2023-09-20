@@ -1,0 +1,14 @@
+{
+    "id": "015645",
+    "subject": "ECON",
+    "catalogNumber": "600",
+    "title": "Mathematics for Economists",
+    "description": "This course is designed to review the basic mathematical background that incoming masters and doctoral students will need for their core economics and econometrics courses.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,16 @@
+{
+    "id": "014497",
+    "subject": "SYDE",
+    "catalogNumber": "644",
+    "title": "Human Factors Testing",
+    "description": "The focus of the course is on in-depth explorations of primary methods of data collection used in human factors engineering research and product design.  We will begin with various philosophical positions regarding human factors for testing and evaluation as they relate to both industrial and research applications.  We will discuss the applications and implications of data collection involving human participants; the limitations of statistical analyses; and the potential application of human factors research as guidelines for product or system design.  Students will be encouraged to explore human factors methods related to their own area of research.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "SYDE 740"
+    ],
+    "next": []
+}

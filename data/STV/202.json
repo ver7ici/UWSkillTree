@@ -1,0 +1,16 @@
+{
+    "id": "008905",
+    "subject": "STV",
+    "catalogNumber": "202",
+    "title": "Design and Society",
+    "description": "The course uses design as a vehicle for examining technology and society interaction, particularly how we design, create, and choose technology. This course has been created to introduce students to various methods to help them view design and technology from a technology-society perspective. The overriding aims of the course are to (a) develop an ability to see through the eyes of others and promote thinking about technology in terms of users as well as producers or creators, (b) develop critical thinking skills, and (c) present design and the choice of technology as an activity involving societal and individual concerns rather than as a purely technical matter. The course does not require advanced technical knowledge and is open to students of all faculties.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "SYDE 261"
+    ],
+    "next": []
+}

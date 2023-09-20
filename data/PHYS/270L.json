@@ -1,0 +1,21 @@
+{
+    "id": "013963",
+    "subject": "PHYS",
+    "catalogNumber": "270L",
+    "title": "Astronomical Observations, Instrumentation, and Data Analysis Laboratory",
+    "description": "Selected experiments in Astronomy. [Offered: W,S]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "PHYS 256",
+        "ECE 404"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PHYS 360A",
+        "PHYS 370L"
+    ]
+}

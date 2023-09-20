@@ -1,0 +1,16 @@
+{
+    "id": "016207",
+    "subject": "AMATH",
+    "catalogNumber": "651",
+    "title": "Introduction to Dynamical Systems",
+    "description": "A unified view of linear and nonlinear systems of ordinary differential equations in Rn. Flow operators and\ntheir classification: contractions, expansions, hyperbolic flows. Stable and unstable manifolds. Phase-space\nanalysis. Nonlinear systems, stability of equilibria and Lyapunov functions. The special case of flows in the\nplane, Poincare-Bendixson theorem and limit cycles. Applications to physical problems will be a motivating\ninfluence. (Heldwith AMATH 451)",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "AMATH 451"
+    ],
+    "next": []
+}

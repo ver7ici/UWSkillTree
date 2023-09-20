@@ -1,0 +1,25 @@
+{
+    "id": "007928",
+    "subject": "PSYCH",
+    "catalogNumber": "257R",
+    "title": "Psychopathology",
+    "description": "This course offers an introduction to understanding, assessing, and treating mental illness from a psychological perspective. Course material will focus on various categories of abnormal behaviour, including personality, anxiety, and mood disorders; schizophrenia; and substance abuse. Clinical methods of assessment, diagnosis, and intervention will also be considered. [Note: PSYCH 257 - offered on campus and at St. Jerome's University; PSYCH 257R - offered at Renison University College.]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "PSYCH 101",
+        "PSYCH 101R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PSYCH 336",
+        "PSYCH 397",
+        "PSYCH 457",
+        "PSYCH 389",
+        "PSYCH 470"
+    ]
+}

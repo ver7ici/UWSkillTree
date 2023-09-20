@@ -1,0 +1,22 @@
+{
+    "id": "007396",
+    "subject": "PHYS",
+    "catalogNumber": "122L",
+    "title": "Waves, Electricity and Magnetism Laboratory",
+    "description": "For students who have taken or are taking PHYS 122. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [
+        "PHYS 122"
+    ],
+    "antireq": [
+        "PHYS 112L",
+        "PHYS 132L"
+    ],
+    "next": [
+        "OPTOM 106",
+        "PHYS 232L"
+    ]
+}

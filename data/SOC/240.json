@@ -1,0 +1,18 @@
+{
+    "id": "014846",
+    "subject": "SOC",
+    "catalogNumber": "240",
+    "title": "Terrorism",
+    "description": "This course offers an introduction to the study of terrorism, with a primary focus on sociological approaches. The course examines the history, causes, and diversity of forms of terrorist groups and the process of radicalization, suicide terrorism, and some aspects of the counter-terrorism response of states.",
+    "term": [],
+    "prereq": [
+        "SOC 101",
+        "SOC 101R",
+        "SOC 120R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ECON 290"
+    ]
+}

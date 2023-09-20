@@ -1,0 +1,21 @@
+{
+    "id": "010154",
+    "subject": "ENBUS",
+    "catalogNumber": "402A",
+    "title": "Environment and Business Project",
+    "description": "The application of the principles learned in earlier courses will focus on a particular project. Applications may include group projects of sufficient scope to demonstrate mastery of problem-solving, integration, and communication on a selected topic related to environment and business, or on selected environmental issues related to a specific business operation. [Note: An all-day retreat will be scheduled for the first Friday of term. Instructor must be informed if student is unable to attend.]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "ENBUS 302",
+        "ENBUS 306"
+    ],
+    "coreq": [],
+    "antireq": [
+        "ENBUS 403A"
+    ],
+    "next": [
+        "ENBUS 402B"
+    ]
+}

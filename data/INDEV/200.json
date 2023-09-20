@@ -1,0 +1,18 @@
+{
+    "id": "012675",
+    "subject": "INDEV",
+    "catalogNumber": "200",
+    "title": "The Political Economy of Development",
+    "description": "This course develops students' understanding of how the complex interplay of international economic and political economy factors influence development initiatives and outcomes. The relation of trade, aid, and international institutions (WTO, IMF, World Bank) on development activity is examined using case studies. Different economic views will be examined.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "INDEV 101"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "INDEV 308"
+    ]
+}

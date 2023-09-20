@@ -1,0 +1,16 @@
+{
+    "id": "003350",
+    "subject": "PMATH",
+    "catalogNumber": "465",
+    "title": "Smooth Manifolds",
+    "description": "Point-set topology; smooth manifolds, smooth maps, and tangent vectors; the tangent and cotangent bundles; vector fields, tensor fields, and differential forms; Stokes's theorem; integral curves, Lie derivatives, the Frobenius theorem; de Rham cohomology.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "PMATH 365"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

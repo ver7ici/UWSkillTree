@@ -1,0 +1,19 @@
+{
+    "id": "006664",
+    "subject": "KIN",
+    "catalogNumber": "493",
+    "title": "Clinical Kinesiology: Movement Assessment Practicum",
+    "description": "Practical experience in movement assessment of persons from various special populations such as the normal elderly and those with neurological, degenerative, or developmental disorders. Motor functions involving gait, posture, and balance or upper-limb movements will typically be examined in these assessments.",
+    "term": [],
+    "prereq": [
+        "KIN 242",
+        "KIN 312",
+        "KIN 456",
+        "KIN 359",
+        "KIN 416",
+        "KIN 422"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,22 @@
+{
+    "id": "003765",
+    "subject": "BIOL",
+    "catalogNumber": "490C",
+    "title": "Biology Field Course 3",
+    "description": "A two-week field study of terrestrial, aquatic, and/or marine biology offered by the Ontario Universities Program in Field Biology (OUPFB). OUPFB offers a diverse array of courses annually that normally take place at off campus locations. Field courses consist of lectures, field exercises, and a small project chosen in consultation with the course instructor(s). Contact the Biology Department field course coordinator for additional information. [Note: Field course fee: $400- $4500. A Biology Department field course information session is held in early January of each year]",
+    "term": [],
+    "prereq": [
+        "BIOL 110",
+        "BIOL 120",
+        "BIOL 150",
+        "BIOL 250",
+        "ENVS 200",
+        "STAT 202",
+        "ENVS 278"
+    ],
+    "coreq": [],
+    "antireq": [
+        "BIOL 491A"
+    ],
+    "next": []
+}

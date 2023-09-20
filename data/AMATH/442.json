@@ -1,0 +1,16 @@
+{
+    "id": "011448",
+    "subject": "AMATH",
+    "catalogNumber": "442",
+    "title": "Computational Methods for Partial Differential Equations",
+    "description": "This course studies several classes of methods for the numerical solution of partial differential equations in multiple dimensions on structured and unstructured grids. Finite volume methods for hyperbolic conservation laws: linear and nonlinear hyperbolic systems; stability; numerical conservation. Finite element methods for elliptic and parabolic equations: weak forms; existence of solutions; optimal convergence; higher-order methods. Examples from fluid and solid mechanics. Additional topics as time permits. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "AMATH 342"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,17 @@
+{
+    "id": "014722",
+    "subject": "PHIL",
+    "catalogNumber": "356",
+    "title": "Intelligence in Machines, Humans, and Other Animals",
+    "description": "A comparison of the representations and processes that produce intelligent performance, such as problem-solving, learning, and language in natural and artificial systems.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "PHIL 256",
+        "PSYCH 256"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,19 @@
+{
+    "id": "015015",
+    "subject": "PSYCH",
+    "catalogNumber": "451",
+    "title": "Honours Seminar - Child and Adolescent Psychopathology",
+    "description": "This seminar addresses issues in child/adolescent psychopathology such as mood/anxiety disorders, conduct disorder, psychosis, eating disorders, Tourette's Syndrome, and severe behavioural problems. Emphasis is on theories and research concerning social-emotional functioning, diagnosis, therapy, and socio-cultural contexts. The course also considers challenges and barriers encountered when raising and teaching children/adolescents with a mental illness.",
+    "term": [],
+    "prereq": [
+        "PSYCH 317"
+    ],
+    "coreq": [
+        "PSYCH 391"
+    ],
+    "antireq": [
+        "PSYCH 463",
+        "PSYCH 002"
+    ],
+    "next": []
+}

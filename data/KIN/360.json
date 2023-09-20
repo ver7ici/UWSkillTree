@@ -1,0 +1,17 @@
+{
+    "id": "016444",
+    "subject": "KIN",
+    "catalogNumber": "360",
+    "title": "Concussion",
+    "description": "This course will provide students a comprehensive exploration of concussion, a mild traumatic brain injury. From mechanisms of injury to long-term consequences of concussion, students will gain knowledge in recognition, evaluation, and rehabilitation techniques related to concussion.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "KIN 255",
+        "PSYCH 261"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

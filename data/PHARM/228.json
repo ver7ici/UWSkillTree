@@ -1,0 +1,24 @@
+{
+    "id": "012475",
+    "subject": "PHARM",
+    "catalogNumber": "228",
+    "title": "Professional Practice 3",
+    "description": "Professional Practice 3 is a lab-based course where knowledge acquired in the introductory Professional Practice courses is applied to simulated pharmacy situations and patient case scenarios.  This provides students with the opportunity to demonstrate their technical skill and clinical knowledge in a practical way and helps prepare students for their first co-op work experience. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "PHARM 130"
+    ],
+    "coreq": [
+        "PHARM 220",
+        "PHARM 221"
+    ],
+    "antireq": [],
+    "next": [
+        "PHARM 229",
+        "PHARM 362",
+        "PHARM 374",
+        "PHARM 226"
+    ]
+}

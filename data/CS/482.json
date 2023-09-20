@@ -1,0 +1,18 @@
+{
+    "id": "004434",
+    "subject": "CS",
+    "catalogNumber": "482",
+    "title": "Computational Techniques in Biological Sequence Analysis",
+    "description": "Computer science principles and algorithms in biological sequence analysis.  Topics include algorithms for sequence comparison, for large-scale database search in biological databases, for sequence assembly, for evolutionary tree reconstruction, for identifying important features in DNA and RNA sequences, and underlying computational techniques for understanding strings and trees and for making probabilistic inferences. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "CS 341",
+        "STAT 241",
+        "STAT 231"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

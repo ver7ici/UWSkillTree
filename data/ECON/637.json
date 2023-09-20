@@ -1,0 +1,16 @@
+{
+    "id": "012850",
+    "subject": "ECON",
+    "catalogNumber": "637",
+    "title": "Economic Analysis and Global Governance",
+    "description": "This course demonstrates the usefulness of economic analysis to the study of global governance.  Topics include the economic analysis of international trade, foreign direct investment, and international finance. Students with more advanced economics background (as a minimum, at least one economics course above the 100 level that focused on international economics or an equivalent applied course such as development economics, environmental economics) are recommended to replace 637 with one of a list of courses, including internationally oriented economics courses, some of the PSCI international political economy courses, or Faulty of Environment courses that include significant international political economy content.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "PSCI 610"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

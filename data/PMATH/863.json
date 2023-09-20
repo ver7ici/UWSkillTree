@@ -1,0 +1,14 @@
+{
+    "id": "002391",
+    "subject": "PMATH",
+    "catalogNumber": "863",
+    "title": "Introduction to Lie Groups and Lie Algebras",
+    "description": "An introduction to matrix Lie groups and their associated Lie algebras: geometry of matrix Lie groups; relations between a matrix Lie group and its Lie algebra; representation theory of matrix Lie groups.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

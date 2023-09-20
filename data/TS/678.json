@@ -1,0 +1,20 @@
+{
+    "id": "012822",
+    "subject": "TS",
+    "catalogNumber": "678",
+    "title": "Supervised Experience in Ministry I",
+    "description": "This course explores ministry in a practical setting.  A ten hour per week placement will be chosen by the student with the approval of the Applied Studies Coordinator.  With the guidance of a local supervisor, the student will set learning goals, develop a reading list, and write a summative paper that will be shared with other students taking this course.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "TS 677"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "TS 679"
+    ]
+}

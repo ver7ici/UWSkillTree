@@ -1,0 +1,25 @@
+{
+    "id": "006729",
+    "subject": "ME",
+    "catalogNumber": "362",
+    "title": "Fluid Mechanics 2",
+    "description": "Basic equations of two-dimensional flow, potential flow, exact viscous solutions. Introduction to lubrication, boundary layers, turbulence, and compressible flow. Turbomachinery fundamentals and applications. Selected advanced topics. [Offered: F, W]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [
+        "ME 351"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ME 456",
+        "ME 557",
+        "ME 563",
+        "ME 564",
+        "ME 566",
+        "ME 571",
+        "ME 562"
+    ]
+}

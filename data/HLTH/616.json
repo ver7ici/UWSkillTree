@@ -1,0 +1,14 @@
+{
+    "id": "014293",
+    "subject": "HLTH",
+    "catalogNumber": "616",
+    "title": "Decision Making and Systems Thinking in Health Informatics",
+    "description": "This course focuses on the process by which decisions are made and how decision-making processes can be codified and machine supported. It will include topics such as reasoning and inference, techniques for managing uncertainty and information representation. The course is anchored in a systems thinking approach to problem solving.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "HSG 652"
+    ],
+    "next": []
+}

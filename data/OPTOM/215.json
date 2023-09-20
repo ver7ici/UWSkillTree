@@ -1,0 +1,19 @@
+{
+    "id": "007093",
+    "subject": "OPTOM",
+    "catalogNumber": "215",
+    "title": "Systemic Disease",
+    "description": "Etiology, signs, symptoms, diagnosis and management of diseases affecting the organs and tissues of the human body including: circulatory, hemopoietic/lymphoid, lungs/upper respiratory tract, kidney, gastrointestinal tract, liver/biliary tract, pancreas, urogenital system, endocrine system, musculoskeletal system, skin, nervous system diseases.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "OPTOM 103",
+        "OPTOM 105"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "OPTOM 385"
+    ]
+}

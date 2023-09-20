@@ -1,0 +1,19 @@
+{
+    "id": "013146",
+    "subject": "SYDE",
+    "catalogNumber": "411",
+    "title": "Optimization and Numerical Methods",
+    "description": "Root-finding methods. Linear programming, simplex and interior-point methods. Local and global optimization methods. Constrained optimization. Multiobjective and multidisciplinary design optimization.[Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "BME 411"
+    ],
+    "next": [
+        "MSCI 332",
+        "MSCI 555"
+    ]
+}

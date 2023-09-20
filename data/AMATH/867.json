@@ -1,0 +1,12 @@
+{
+    "id": "000134",
+    "subject": "AMATH",
+    "catalogNumber": "867",
+    "title": "Dispersive and Nonlinear Waves",
+    "description": "Dispersive waves, propagation of dispersive waves in an inhomogeneous medium (WKB theory). Nonlinear resonant interactions. Solitons: completely integrable nonlinear wave equations (e.g., the KdV equation, nonlinear Schrodinger equations) and the inverse Scattering Transform. Applications to water waves and nonlinear optics. Introducation to weakly nonlocal solitary waves and beyond-all-orders asymptotics. Completion of an upper year course in partial differential equations is strongly recommended.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

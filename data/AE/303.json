@@ -1,0 +1,21 @@
+{
+    "id": "015338",
+    "subject": "AE",
+    "catalogNumber": "303",
+    "title": "Structural Analysis",
+    "description": "Analysis of statically indeterminate structures using force and displacement methods. Influence lines for determinate and indeterminate structures. Introduction to the matrix stiffness method. Computer applications using commercial structural analysis software. [Offered: S]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "AE 205"
+    ],
+    "coreq": [],
+    "antireq": [
+        "CIVE 303"
+    ],
+    "next": [
+        "CIVE 505",
+        "AE 310"
+    ]
+}

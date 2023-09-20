@@ -1,0 +1,16 @@
+{
+    "id": "011836",
+    "subject": "FINE",
+    "catalogNumber": "670B",
+    "title": "Graduate Studio 1 (Part-time)",
+    "description": "This course consists of directed individual studio work in the student's chosen area of concentration, as indicated in their original statement of intention.  Regular critiques and discussions will be scheduled by the Graduate Committee.  Open to Fine Arts part-time graduate students only.",
+    "term": [],
+    "prereq": [
+        "FINE 670A"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "FINE 671"
+    ]
+}

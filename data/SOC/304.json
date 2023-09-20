@@ -1,0 +1,18 @@
+{
+    "id": "015572",
+    "subject": "SOC",
+    "catalogNumber": "304",
+    "title": "Media and Crime",
+    "description": "This course explores the complex interactions between media and crime. Topics to be addressed may include news reporting of crime; moral panics; signal crimes; media constructions of crime, offenders, and victims; \"reality\" crime shows; citizen journalism and the new media; surveillance and social control.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "SOC 101",
+        "SOC 101R",
+        "SOC 120R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

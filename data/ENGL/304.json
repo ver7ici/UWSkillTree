@@ -1,0 +1,18 @@
+{
+    "id": "013106",
+    "subject": "ENGL",
+    "catalogNumber": "304",
+    "title": "Designing with Digital Sound",
+    "description": "In this course students will be introduced to sound analysis and production. Students will learn to record, edit, and implement sound in a variety of linear and non-linear media forms, with emphasis on film and video games.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "DAC 301"
+    ],
+    "next": []
+}

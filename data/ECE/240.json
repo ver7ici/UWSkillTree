@@ -1,0 +1,26 @@
+{
+    "id": "013173",
+    "subject": "ECE",
+    "catalogNumber": "240",
+    "title": "Electronic Circuits 1",
+    "description": "Introduction to electronic signal processing; second-order circuits; operational amplifier circuits; diode device and circuits; metal-oxide-semiconductor (MOS) biasing networks; load-line analysis; diode and MOS small-signal equivalent circuits; single-stage small-signal MOS amplifiers; complementary metal-oxide-semiconductor (CMOS) logic circuits. [Offered: F, W]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [
+        "ECE 106",
+        "ECE 140",
+        "MATH 119"
+    ],
+    "coreq": [
+        "ECE 205",
+        "MATH 211",
+        "MATH 213"
+    ],
+    "antireq": [],
+    "next": [
+        "ECE 207",
+        "ECE 242"
+    ]
+}

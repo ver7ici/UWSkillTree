@@ -1,0 +1,15 @@
+{
+    "id": "004706",
+    "subject": "THPERF",
+    "catalogNumber": "361",
+    "title": "Approaches to Directing",
+    "description": "Exploration of the director's task in its practical, theoretical, and historical aspects.",
+    "term": [],
+    "prereq": [
+        "THPERF 200",
+        "THPERF 243"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

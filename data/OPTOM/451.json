@@ -1,0 +1,14 @@
+{
+    "id": "007140",
+    "subject": "OPTOM",
+    "catalogNumber": "451",
+    "title": "Optometry Research Project",
+    "description": "An independent research project on an approved topic, supervised by a faculty member. This is the completion of the research proposal in OPTOM 441 and it is recommended that the format of the report, to be determined with the supervisor, follow the format selected for OPTOM 441.",
+    "term": [],
+    "prereq": [
+        "OPTOM 441"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

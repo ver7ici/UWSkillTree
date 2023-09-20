@@ -1,0 +1,20 @@
+{
+    "id": "012032",
+    "subject": "PHYS",
+    "catalogNumber": "335",
+    "title": "Condensed Matter Physics",
+    "description": "Overview of condensed matter ordered and disordered systems. Thermodynamic origin of order and phase transitions. Waves. Properties of the solid state. Crystals and fractals. Overview of Fourier Series. Reciprocal lattice. Diffraction. Classical elastic theory of the crystalline state. Electrons in a periodic potential, Band structure and Fermi surface. [Offered:  W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "PHYS 234",
+        "CHEM 356"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PHYS 435",
+        "PHYS 461"
+    ]
+}

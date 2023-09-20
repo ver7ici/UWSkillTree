@@ -1,0 +1,19 @@
+{
+    "id": "004939",
+    "subject": "ECON",
+    "catalogNumber": "351",
+    "title": "Labour Economics",
+    "description": "A study of the supply of labour by individuals (and unions) and the demand for labour by firms. Topics include the labour market effects of social assistance, unemployment insurance and minimum wages, discrimination in the labour market, efficient wage contracts, the determinants of wage inflation and unemployment.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "ECON 101",
+        "ECON 100",
+        "COMM 103",
+        "ECON 102"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

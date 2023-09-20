@@ -1,0 +1,19 @@
+{
+    "id": "003751",
+    "subject": "BIOL",
+    "catalogNumber": "461",
+    "title": "Advanced Biostatistics",
+    "description": "Advanced aspects of statistics and experimental design for biologists. Topics will include analysis of variance (factorial, hierarchical and blocking designs; fixed- and random-effects models); a-priori and a-posteriori comparisons; multivariate analysis of variance; analysis of covariance; multiple linear regression; multivariate statistics (indirect and direct gradient analysis). [Offered: W]",
+    "term": [],
+    "prereq": [
+        "BIOL 361"
+    ],
+    "coreq": [],
+    "antireq": [
+        "PSYCH 202",
+        "PSYCH 391",
+        "STAT 322",
+        "STAT 430"
+    ],
+    "next": []
+}

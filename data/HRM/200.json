@@ -1,0 +1,25 @@
+{
+    "id": "006474",
+    "subject": "HRM",
+    "catalogNumber": "200",
+    "title": "Basic Human Resources Management",
+    "description": "Examines the major areas of human resources administration including recruiting, salary administration, labour relations, benefits administration, employee relations, labour law, and organizational behaviour. Reviews the role of human resources administration in organizations and the manner in which human resources executives contribute to the well-being of a total enterprise. [Offered F, W, S]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "BUS 354W",
+        "BUS 454W"
+    ],
+    "next": [
+        "HRM 301",
+        "PSYCH 467",
+        "HRM 303",
+        "HRM 307",
+        "HRM 305"
+    ]
+}

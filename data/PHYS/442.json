@@ -1,0 +1,19 @@
+{
+    "id": "013647",
+    "subject": "PHYS",
+    "catalogNumber": "442",
+    "title": "Electricity and Magnetism 3",
+    "description": "Review of the origin of Maxwell's equations, conservation laws, potential formulation of Maxwell's equations and gauge choices, vacuum solutions of Maxwell's equations (free space, waveguides, dispersion), solution to Maxwell's equations for arbitrary sources (static and time-dependent problems), relativistic formulation of electrodynamics, macroscopic Maxwell's equations and plane waves in macroscopic media. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "PHYS 342",
+        "PHYS 364",
+        "AMATH 351",
+        "AMATH 353"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

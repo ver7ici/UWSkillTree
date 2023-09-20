@@ -1,0 +1,19 @@
+{
+    "id": "004943",
+    "subject": "ECON",
+    "catalogNumber": "361",
+    "title": "Cost-Benefit Analysis and Project Evaluation",
+    "description": "Methods for evaluating private and public projects; decision rules, efficiency conditions, and methods of conducting cost-benefit analysis. Application of the technique. This course assumes prior familiarity with probability, expected values, and variance.",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [
+        "ECON 201",
+        "ECON 290",
+        "ECON 221"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

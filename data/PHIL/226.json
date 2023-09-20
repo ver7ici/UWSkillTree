@@ -1,0 +1,15 @@
+{
+    "id": "007275",
+    "subject": "PHIL",
+    "catalogNumber": "226",
+    "title": "Biomedical Ethics",
+    "description": "An examination of ethical issues in the health sciences, such as the patient-doctor relationship, reproductive rights and technologies, genetic testing, allocation of medical resources, and end-of-life decisions.",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,32 @@
+{
+    "id": "004375",
+    "subject": "CS",
+    "catalogNumber": "234",
+    "title": "Data Types and Structures",
+    "description": "Top-down design of data structures. Using representation-independent data types. Introduction to commonly used data types, including lists, sets, mappings, and trees. Selection of data representation. [Note: Lab is not scheduled and students are expected to find time in open hours to complete their work. Offered: F,S]",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [
+        "CS 116",
+        "CS 136",
+        "CS 138",
+        "CS 146"
+    ],
+    "coreq": [],
+    "antireq": [
+        "BME 122",
+        "CS 240",
+        "ECE 250",
+        "MSCI 240",
+        "MTE 140",
+        "SYDE 223"
+    ],
+    "next": [
+        "CS 338",
+        "CS 370",
+        "CS 487",
+        "CS 431"
+    ]
+}

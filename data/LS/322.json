@@ -1,0 +1,21 @@
+{
+    "id": "008664",
+    "subject": "LS",
+    "catalogNumber": "322",
+    "title": "Field Research Methods",
+    "description": "This course provides a critical evaluation of research techniques in sociology, criminology, and legal studies with an emphasis on learning and applying qualitative fieldwork approaches.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "SOC 221",
+        "LS 221",
+        "SOC 321",
+        "LS 321"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

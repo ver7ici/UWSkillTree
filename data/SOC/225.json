@@ -1,0 +1,16 @@
+{
+    "id": "015011",
+    "subject": "SOC",
+    "catalogNumber": "225",
+    "title": "Games and Gamers",
+    "description": "This course examines games, gamers, and gaming culture as entry points to understanding the social implications of digital media technologies.",
+    "term": [],
+    "prereq": [
+        "SOC 101",
+        "SOC 101R",
+        "SOC 120R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

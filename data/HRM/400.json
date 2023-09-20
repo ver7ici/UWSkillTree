@@ -1,0 +1,20 @@
+{
+    "id": "013566",
+    "subject": "HRM",
+    "catalogNumber": "400",
+    "title": "Honours Seminar in Human Resources Management - Special Topics",
+    "description": "Topics reflect current issues in human resources management. Consult the departmental listings for the upcoming topics. Activities may include oral presentations, class discussions, individual and/or group projects, and written assignments. [Note: This is a repeatable course, subject to different content; it may be completed a total of three times.]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [
+        "HRM 301",
+        "HRM 303",
+        "HRM 305",
+        "HRM 307"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "004194",
+    "subject": "CHEM",
+    "catalogNumber": "494A",
+    "title": "Research Project",
+    "description": "Laboratory work on a senior year research project. Enrolment into this course requires permission of the CHEM 494 co-ordinator.  See the CHEM 494 coordinator for course details.  No credit or grade will be provided for this course until the two-term sequence CHEM 494A/B has been completed.  CHEM 494A/B may not be taken concurrently without prior permission of the CHEM 494 co-ordinator.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "CHEM 494B"
+    ]
+}

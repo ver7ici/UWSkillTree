@@ -1,0 +1,14 @@
+{
+    "id": "016120",
+    "subject": "CIVE",
+    "catalogNumber": "645",
+    "title": "Modeling Transportation and Spatial Economics",
+    "description": "This course focuses on modeling the Spatial Economic and Transportation Interaction (SETI) process for the purposes of freight flow forecasting, land use transportation interaction modeling, and economic impact analysis of transportation infrastructure. Topics in the course include the specification, estimation, validation, calibration, and application of econometric input-output models, spatial computable general equilibrium models, and agent-based models of transportation and land use.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "CIVE 740"
+    ],
+    "next": []
+}

@@ -1,0 +1,17 @@
+{
+    "id": "004868",
+    "subject": "EARTH",
+    "catalogNumber": "471",
+    "title": "Mineral Deposits",
+    "description": "An introduction to the principles and theories of mineral deposit genesis. Basic technical, economic, legal, and ethical aspects of mineral exploration and responsible development of natural resources are also covered. Laboratories involve hand sample and ore petrology of suites from diverse deposits. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "EARTH 221",
+        "EARTH 232"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

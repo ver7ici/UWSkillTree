@@ -1,0 +1,16 @@
+{
+    "id": "012324",
+    "subject": "CHINA",
+    "catalogNumber": "320R",
+    "title": "Chinese in Mass Media",
+    "description": "A course to develop Chinese language skills in conversation, reading, writing, and critical thinking in both practical and cultural situations through contemporary films, television programs, newspapers, magazines, and literary works.  Selected important issues and themes in Chinese culture and history are considered.",
+    "term": [],
+    "prereq": [
+        "CHINA 302R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "CHINA 390R"
+    ]
+}

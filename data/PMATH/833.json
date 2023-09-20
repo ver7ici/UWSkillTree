@@ -1,0 +1,14 @@
+{
+    "id": "015700",
+    "subject": "PMATH",
+    "catalogNumber": "833",
+    "title": "Harmonic Analysis",
+    "description": "Basic topics in Fourier analysis on locally compact groups, in particular abelian groups: Haar measure, convolution, characters, the dual group, Fourier transform, Parseval's theorem, Plancherel theorem, Pontryagin duality theorem, invrsion theorem, Bochener's theorem.  Other topics such as harmonic analysis on compact or non-albian locally compact groups, Peter-Weyl theorem, amenability, probabilistic methods in harmonic analysis.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "PMATH 950"
+    ],
+    "next": []
+}

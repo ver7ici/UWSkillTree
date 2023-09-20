@@ -1,0 +1,19 @@
+{
+    "id": "015484",
+    "subject": "HLTH",
+    "catalogNumber": "290",
+    "title": "An Introduction to Health Neuroscience",
+    "description": "The primary objective of the course will be to explore the dynamic and bidirectional relationship that develops between the brain and physical health over the life span. By investigating the interaction of individual biological factors (e.g., genetic, epigenetic, and life history traits) and social context (e.g., poverty, socioeconomic position), we would hope to understand how the brain acts as both a target and mediator of processes that influence a person's health and vulnerability to disease. Topics such as developmental programming, gene-environment interactions, resilience, and stress physiology will be considered.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "AHS 150",
+        "HEALTH 150",
+        "BIOL 130",
+        "PSYCH 101"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,16 @@
+{
+    "id": "005657",
+    "subject": "FR",
+    "catalogNumber": "484",
+    "title": "Children's Literature in French",
+    "description": "A detailed study of selected aspects of French and French-Canadian children's literature.",
+    "term": [],
+    "prereq": [
+        "FR 197",
+        "FR 296",
+        "FR 297"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

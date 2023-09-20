@@ -1,0 +1,31 @@
+{
+    "id": "013766",
+    "subject": "MSCI",
+    "catalogNumber": "551",
+    "title": "Quality Management and Control",
+    "description": "The course focuses on the analysis, evaluation, and improvement of quality based on statistical tools. Topics include process capability analysis, statistical process control, experimental design and the Taguchi method, and acceptance sampling. The emphasis is on the assessment of quality and the design of alternate processes and/or quality assessment schemes to improve quality. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "AE 224",
+        "BME 213",
+        "CHE 220",
+        "CIVE 224",
+        "ECE 203",
+        "ECE 306",
+        "ENVE 224",
+        "MSCI 251",
+        "MSCI 252",
+        "ME 202",
+        "MTE 201",
+        "NE 215",
+        "STAT 206",
+        "STAT 231",
+        "STAT 241",
+        "SYDE 212"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

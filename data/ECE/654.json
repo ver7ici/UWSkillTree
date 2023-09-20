@@ -1,0 +1,19 @@
+{
+    "id": "014295",
+    "subject": "ECE",
+    "catalogNumber": "654",
+    "title": "Software Reliability Engineering",
+    "description": "The course consists of two related parts.  The first part deals with the engineering of reliable software.  It introductes basic software reliability concepts, descritbes relevant models and discusses processes for engineering of reliable software, including schemes and patterns for the design of reliable and fault tolerant software.  The second part addresses development of secure software.  It presents key software security concept, techniques and models, overviews major software security vulnerabilities and their exploitation, and considers processes for development of secure software.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "ECE 650",
+        "ECE 750"
+    ],
+    "coreq": [],
+    "antireq": [
+        "ECE 750"
+    ],
+    "next": []
+}

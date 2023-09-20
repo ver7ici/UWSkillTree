@@ -1,0 +1,18 @@
+{
+    "id": "012322",
+    "subject": "CHINA",
+    "catalogNumber": "302R",
+    "title": "Third-Year Chinese 2",
+    "description": "A continuation of China 301R to further students' ability to comprehend and communicate at a higher level in Chinese.  In addition, the course introduces aspects of Chinese society, highlighting traditional and contemporary cultural life.",
+    "term": [],
+    "prereq": [
+        "CHINA 301R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "CHINA 310R",
+        "CHINA 320R",
+        "CHINA 401R"
+    ]
+}

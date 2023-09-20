@@ -1,0 +1,33 @@
+{
+    "id": "013762",
+    "subject": "MSCI",
+    "catalogNumber": "334",
+    "title": "Operations Planning and Inventory Control",
+    "description": "This course exposes students to production planning and inventory control approaches in industrial and service systems. Production planning topics cover capacity and resources planning, production scheduling, manufacturing resource planning, just-in-time and lean manufacturing. Inventory control topics cover lot sizing policies, deterministic and stochastic inventory policies. The course involves a design project of a production and/or inventory system. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "MSCI 131",
+        "CHE 220",
+        "CIVE 224",
+        "ECE 306",
+        "ECE 307",
+        "ENVE 224",
+        "ME 202",
+        "MSCI 252",
+        "MSCI 253",
+        "MTE 201",
+        "STAT 206",
+        "STAT 231",
+        "STAT 241",
+        "SYDE 212"
+    ],
+    "coreq": [],
+    "antireq": [
+        "MSCI 432"
+    ],
+    "next": [
+        "MSCI 434"
+    ]
+}

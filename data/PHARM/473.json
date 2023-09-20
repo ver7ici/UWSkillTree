@@ -1,0 +1,19 @@
+{
+    "id": "014647",
+    "subject": "PHARM",
+    "catalogNumber": "473",
+    "title": "Advanced Infectious Disease",
+    "description": "This course is designed to expand upon students' understanding of infectious disease pharmacotherapy, with a focus on syndromes requiring a higher degree of medical intervention than commonly seen in primary care.  The aim of the course is to develop practicing pharmacists with the knowledge, skills, and critical dispositions necessary for optimizing the use of anti-infectives in challenging infectious syndromes. [Offered: W,S,F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "PHARM 232"
+    ],
+    "coreq": [
+        "PHARM 320",
+        "PHARM 321"
+    ],
+    "antireq": [],
+    "next": []
+}

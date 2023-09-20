@@ -1,0 +1,14 @@
+{
+    "id": "011830",
+    "subject": "ECON",
+    "catalogNumber": "702",
+    "title": "Macro II",
+    "description": "The main purpose of this advanced course is to prepare PhD students to conduct research to conduct research in macroeconomics.",
+    "term": [],
+    "prereq": [
+        "ECON 602"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

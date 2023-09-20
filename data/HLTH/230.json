@@ -1,0 +1,20 @@
+{
+    "id": "011462",
+    "subject": "HLTH",
+    "catalogNumber": "230",
+    "title": "Introduction to Health Informatics",
+    "description": "Health informatics is the multidisciplinary field that aims to optimize the collection, storage, organization, retrieval, analysis, and communication of health data, information, and knowledge. Fueled by recent advances in information technology, informatics increasingly plays a vital role in many areas of health. This introductory course gives an overview of health informatics by discussing modern informatics issues and state-of-the-art applications in various sub-fields within health informatics including bioinformatics, medical informatics, e-Health, public health informatics, and prototyping solutions using open-access data. [Note: Formerly HLTH 330]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "HLTH 330"
+    ],
+    "next": [
+        "HLTH 453",
+        "HLTH 454"
+    ]
+}

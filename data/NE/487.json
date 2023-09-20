@@ -1,0 +1,16 @@
+{
+    "id": "016015",
+    "subject": "NE",
+    "catalogNumber": "487",
+    "title": "Microfluidic and Nanobiotechnological Systems",
+    "description": "Principles, design, and fabrication methods for biomedical devices. Techniques for disease diagnosis, including enzyme-linked immunosorbent assays, current state-of-the-art technologies, lab-on-a-chip devices and biosensors. Microfluidic device design and fabrication. Cleanroom fabrication, soft lithography, hot embossing, micro-milling, and testing. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "NE 381"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

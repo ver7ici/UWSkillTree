@@ -1,0 +1,14 @@
+{
+    "id": "013790",
+    "subject": "QIC",
+    "catalogNumber": "895",
+    "title": "Topics in Quantum Information",
+    "description": "Quantum Information topics course.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

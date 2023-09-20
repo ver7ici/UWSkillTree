@@ -1,0 +1,24 @@
+{
+    "id": "004407",
+    "subject": "CS",
+    "catalogNumber": "436",
+    "title": "Networks and Distributed Computer Systems",
+    "description": "An introduction to networks, protocols, and distributed systems. Layered models, resource management, naming, addressing and routing, reliable communication, security, and higher-level services. [Note: Lab is not scheduled and students are expected to find time in open hours to complete their work. Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "CS 230",
+        "CS 241",
+        "CS 246",
+        "CS 251"
+    ],
+    "coreq": [],
+    "antireq": [
+        "CS 454",
+        "CS 456",
+        "ECE 428",
+        "ECE 454"
+    ],
+    "next": []
+}

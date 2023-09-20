@@ -1,0 +1,12 @@
+{
+    "id": "001855",
+    "subject": "ME",
+    "catalogNumber": "628",
+    "title": "Fracture Mechanics",
+    "description": "Linear elastic, elastic-plastic and fully plastic approaches to the analysis of cracked components. Calculation and measurement of fracture mechanics parameters - Charpy, strain energy release rate, stress intensity factor, crack tip opening displacement and J-integral - will be covered, including correlations between the various parameters and limitations on their use. Applications will include the analysis of sub-critical crack growth (fatigue) and design procedures, especially the failure assessment diagram approach.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

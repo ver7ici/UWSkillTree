@@ -1,0 +1,12 @@
+{
+    "id": "015964",
+    "subject": "CS",
+    "catalogNumber": "754",
+    "title": "Advanced Distributed Systems",
+    "description": "This course provides a broad discussion of advanced topics in modern distributed systems. The course will discuss the state of the art of these systems and how and why they reached there. The course will discuss current data center hardware and software architecture, communication middleware, and how modern systems can tolerate failures, maintain data consistency, scale, leverage the new hardware capabilities, and exploit highly concurrent hardware.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

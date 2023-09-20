@@ -1,0 +1,14 @@
+{
+    "id": "014934",
+    "subject": "CS",
+    "catalogNumber": "634",
+    "title": "Security and Privacy in Health Systems",
+    "description": "An overview of basic security and privacy principles relevant in the design and use of applications in health settings.  Program security, operating system security, network security, data security, and issues related to the management of security and privacy policies are introduced.  Master of Health Informatics students only.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,21 @@
+{
+    "id": "016431",
+    "subject": "ENBUS",
+    "catalogNumber": "304",
+    "title": "Circular Economy",
+    "description": "Students will be equipped with the knowledge and expertise required to design and implement a circular economy initiative and monitor its progress through circularity indicators. In addition, students will be guided in assessing the business value of circular economy cases. Students will also gain a deep understanding by considering the individual circular economy cases from a system perspective to get a complete picture of environmental gains and losses.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "ENBUS 204"
+    ],
+    "coreq": [],
+    "antireq": [
+        "ENBUS 409",
+        "ENBUS 001",
+        "ENBUS 375",
+        "ENBUS 041"
+    ],
+    "next": []
+}

@@ -1,0 +1,14 @@
+{
+    "id": "007064",
+    "subject": "MUSIC",
+    "catalogNumber": "376",
+    "title": "Composition Seminar",
+    "description": "An exploration of the discipline and craft of composing and arranging. Topics include choral, chamber ensemble, and orchestral techniques; electronic music; and charting for popular music. The course includes both score preparation and opportunities for recital performances of original works.",
+    "term": [],
+    "prereq": [
+        "MUSIC 271"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

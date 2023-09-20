@@ -1,0 +1,12 @@
+{
+    "id": "013383",
+    "subject": "SYDE",
+    "catalogNumber": "531",
+    "title": "Design Optimization Under Probabilistic Uncertainty",
+    "description": "Optimization methods for real world problems have to deal with probabilistic uncertainty either due to data uncertainty or manufacturing uncertainty or both. Maximizing the expected value of the objective function subject to reliability (or risk) constraints is commonly used in such design or decision-making problems. Common methods used are stochastic programming, stochastic dynamic programming, chance-constraints, yield optimization and tolerance design. Example applications are selected from water management, energy systems, financial engineering, and manufacturing. [Offered: W]",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

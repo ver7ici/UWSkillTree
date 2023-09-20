@@ -1,0 +1,27 @@
+{
+    "id": "004417",
+    "subject": "CS",
+    "catalogNumber": "348",
+    "title": "Introduction to Database Management",
+    "description": "The main objective of this course is to introduce students to fundamentals of database technology by studying databases from three viewpoints: those of the database user, the database designer, and the database administrator. It teaches the use of a database management system (DBMS) by treating it as a black box, focusing only on its functionality and its interfaces. Topics include introduction to database systems, relational database systems, database design methodology, SQL and interfaces, database application development, concept of transactions, ODBC, JDBC, database tuning, database administration, and current topics (distributed databases, data warehouses, data mining). [Note: Lab is not scheduled and students are expected to find time in open hours to complete their work. Offered: F,W,S]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [
+        "CS 240"
+    ],
+    "antireq": [
+        "CS 338",
+        "ECE 356",
+        "ECE 456",
+        "MSCI 346"
+    ],
+    "next": [
+        "CS 448",
+        "MSCI 436",
+        "CS 451"
+    ]
+}

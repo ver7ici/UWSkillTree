@@ -1,0 +1,18 @@
+{
+    "id": "008049",
+    "subject": "PSYCH",
+    "catalogNumber": "457",
+    "title": "Honours Seminar in Personality and Clinical Psychology",
+    "description": "Topics reflect current issues in personality and clinical psychology. Consult the departmental listings for the upcoming topics. Activities may include oral presentations, class discussions, individual and/or group projects, and written assignments. [Note: This is a repeatable course, subject to different content; it may be completed a total of four times.]",
+    "term": [],
+    "prereq": [
+        "PSYCH 257",
+        "PSYCH 257R",
+        "PSYCH 323R"
+    ],
+    "coreq": [
+        "PSYCH 391"
+    ],
+    "antireq": [],
+    "next": []
+}

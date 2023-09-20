@@ -1,0 +1,18 @@
+{
+    "id": "003094",
+    "subject": "STAT",
+    "catalogNumber": "850",
+    "title": "Estimation and Hypothesis Testing",
+    "description": "Discussion of inference problems under the headings of hypothesis testing and point and interval estimation. Frequentist and Bayesian approaches to inference. Construction and evaluation of tests and estimators. Large sample theory of point estimation.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "STAT 450"
+    ],
+    "next": [
+        "ECON 727"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "id": "000792",
+    "subject": "ECE",
+    "catalogNumber": "647",
+    "title": "Algorithms for Physical Design of Digital Integrated Circuits",
+    "description": "An introduction to the problems and algorithms that arise during the Computer-Aided Design (CAD) of digital circuits.  Course emphasis is on the backend of the CAD flow such as algorithms for solving problems including: technology mapping, partitioning, floor-planning, clustering, placement, routing and physical synthesis.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

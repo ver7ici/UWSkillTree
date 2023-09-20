@@ -1,0 +1,16 @@
+{
+    "id": "014309",
+    "subject": "HLTH",
+    "catalogNumber": "103",
+    "title": "Biological Determinants of Health",
+    "description": "This course is an introduction to the biological determinants of health designed for students who have little formal knowledge of biology, but who wish to train for careers in health promotion, public health or other social and community services.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "BIOL 130"
+    ],
+    "next": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "014524",
+    "subject": "AVIA",
+    "catalogNumber": "408",
+    "title": "Professional Pilot Program Course 8",
+    "description": "This course continues from AVIA 307 and completes the instruction toward the Group 1 Instrument Rating. Training will be conducted using a combination of Simulator, Single Engine aircraft, and Multi-engine aircraft. Flight in instrument meteorological conditions will be conducted whenever practicable. Any outstanding flight time requirements for the issue of the Commercial Pilot Licence will also be completed. This course completes the flight training.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "AVIA 307"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,23 @@
+{
+    "id": "005548",
+    "subject": "FR",
+    "catalogNumber": "152",
+    "title": "Basic French 2",
+    "description": "For students with some elementary or secondary school French, not exceeding Year Three (Grade 11 in Ontario) or equivalent. Emphasizes comprehension, grammar, and basic speaking skills.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "FR 151"
+    ],
+    "coreq": [],
+    "antireq": [
+        "FR 192A",
+        "FR 192B"
+    ],
+    "next": [
+        "FR 192A"
+    ]
+}

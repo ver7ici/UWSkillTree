@@ -1,0 +1,14 @@
+{
+    "id": "000802",
+    "subject": "ECE",
+    "catalogNumber": "763",
+    "title": "Sustainable Distributed Power Generation",
+    "description": "This course covers topics related to sustainable and clean energy resources; distributed generation and utility interfacing.  The following topics are covered: Wind power generators; construction; operation theory, modeling and analysis.  Wind turbine interfacing techniques with the grid.  Photovoltaic energy sources; construction, modeling, loading characteristics and interfacing requirements.  Fuel cells; types, construction, modeling and characteristics, operation theory and interfacing requirement.  Distributed generation concept; Barriers to DG interfacing; Reactive power control applications using the DG interfacing; Ancillary services supplied by DG. System protection requirements with DG.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "ECE 667"
+    ],
+    "next": []
+}

@@ -1,0 +1,19 @@
+{
+    "id": "006166",
+    "subject": "GRK",
+    "catalogNumber": "201",
+    "title": "Intermediate Greek",
+    "description": "This course is a continuation of GRK 102/RS 102. It will complete the initial study of ancient Greek grammar and devote substantial time to the reading of ancient Greek literature. Texts read will include a selection of poetry and prose in a variety of fields, including authors such as Homer, Herodotus, Euripides, Plato, the New Testament, and Josephus.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "GRK 102",
+        "RS 102"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "RS 224"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "id": "008862",
+    "subject": "STAT",
+    "catalogNumber": "220",
+    "title": "Probability (Non-Specialist Level)",
+    "description": "The laws of probability, discrete and continuous random variables, expectation, central limit theorem. [Offered: F,W]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [
+        "MATH 118",
+        "MATH 119",
+        "MATH 128",
+        "MATH 138",
+        "MATH 148"
+    ],
+    "coreq": [],
+    "antireq": [
+        "STAT 202",
+        "STAT 230",
+        "STAT 240"
+    ],
+    "next": [
+        "ACTSC 231",
+        "STAT 221",
+        "STAT 231",
+        "CO 487",
+        "AMATH 383",
+        "ECON 322",
+        "MATBUS 371"
+    ]
+}

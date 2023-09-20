@@ -1,0 +1,18 @@
+{
+    "id": "007947",
+    "subject": "PSYCH",
+    "catalogNumber": "317",
+    "title": "Child Psychopathology",
+    "description": "An examination of children's psychological disorders from several major perspectives with an emphasis on current research findings. Theoretical and clinical issues are considered.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "PSYCH 211"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PSYCH 451"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": "013767",
+    "subject": "MSCI",
+    "catalogNumber": "555",
+    "title": "Scheduling: Theory and Practice",
+    "description": "Scheduling is the sequencing of tasks to scarce resources. By exploring scheduling problems found in industry, this course will discuss scheduling framework and notation as well as algorithmic, heuristic, and mathematical programming solution approaches. Students will be introduced to the theoretical background in these areas, but the emphasis will be placed on modeling and solving scheduling problems in practice. Students will apply these concepts in design activities in assignments and a course project. [Offered:  W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "BME 411",
+        "CHE 521",
+        "CIVE 332",
+        "CO 250",
+        "ENVE 320",
+        "ENVE 335",
+        "MSCI 331",
+        "SYDE 411"
+    ],
+    "coreq": [],
+    "antireq": [
+        "CO 454"
+    ],
+    "next": []
+}

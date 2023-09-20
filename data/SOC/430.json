@@ -1,0 +1,19 @@
+{
+    "id": "015564",
+    "subject": "SOC",
+    "catalogNumber": "430",
+    "title": "Special Topics in Sociology",
+    "description": "In this seminar course, students will have the opportunity to learn about a particular topic in the area of sociology or an interdisciplinary field. Students will gain in-depth analysis skills in this selected area of research. [Note: This is a repeatable course, subject to different content; it may be completed a total of two times.]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "SOC 101",
+        "SOC 101R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

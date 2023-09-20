@@ -1,0 +1,12 @@
+{
+    "id": "003143",
+    "subject": "SYDE",
+    "catalogNumber": "621",
+    "title": "Mathematics of Computation",
+    "description": "Review of mathematical and computational preliminaries; sources of error in floating-point arithmetic; solution of linear equations, eigen value problems, singular value decomposition, non-linear equations, ordinary differential equations and issues in designing mathematical software. The emphasis in this course will be on solution techniques rather than modelling and equation formulation.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

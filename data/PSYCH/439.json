@@ -1,0 +1,21 @@
+{
+    "id": "012754",
+    "subject": "PSYCH",
+    "catalogNumber": "439",
+    "title": "Negotiation in the Workplace: Theory and Practice",
+    "description": "This course addresses planning, motivation, communication, information exchange, influence, relationships, emotion, and reaching objectives in a diverse array of interdependent decision making contexts. Topics include distributive and integrative negotiations, coalitions, negotiating on teams, dispute resolution, and multi-party negotiations. Course format is experiential learning and attendance is required. [Note: In addition to the textbook, there will be a material fee for negotiation cases.]",
+    "term": [],
+    "prereq": [
+        "PSYCH 238",
+        "PSYCH 338",
+        "AFM 280",
+        "MSCI 211",
+        "SCBUS 225"
+    ],
+    "coreq": [],
+    "antireq": [
+        "PACS 323",
+        "LS 319"
+    ],
+    "next": []
+}

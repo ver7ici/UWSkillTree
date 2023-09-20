@@ -1,0 +1,19 @@
+{
+    "id": "008924",
+    "subject": "SWREN",
+    "catalogNumber": "443R",
+    "title": "Practicum 3",
+    "description": "The third practicum phase helps students demonstrate understanding of, and ability to use, a range of interventions within the context of diversity.  Professional identification and the integration of theory with practice are emphasized.  A bi-weekly seminar runs concurrently with the practicum.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "SWREN 414R",
+        "SWREN 442R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

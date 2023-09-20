@@ -1,0 +1,20 @@
+{
+    "id": "013375",
+    "subject": "KIN",
+    "catalogNumber": "308",
+    "title": "Cardiovascular and Pulmonary Physiology",
+    "description": "This course will provide an advanced understanding of heart, lung, blood vessels, and airway physiology. Examples of pathology and exercise will be used to reinforce basic physiological function. Contemporary research that spans from cell to organ to the integrated system level will be used to introduce lecture material.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "BIOL 273"
+    ],
+    "coreq": [],
+    "antireq": [
+        "KIN 408"
+    ],
+    "next": [
+        "KIN 402"
+    ]
+}

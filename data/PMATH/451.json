@@ -1,0 +1,18 @@
+{
+    "id": "003348",
+    "subject": "PMATH",
+    "catalogNumber": "451",
+    "title": "Measure and Integration",
+    "description": "General measures, measurability, Caratheodory Extension theorem and construction of measures, integration theory, convergence theorems, Lp-spaces, absolute continuity, differentiation of monotone functions, Radon-Nikodym theorem, product measures, Fubini's theorem, signed measures, Urysohn's lemma, Riesz Representation theorems for classical Banach spaces.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [
+        "PMATH 354",
+        "PMATH 450"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

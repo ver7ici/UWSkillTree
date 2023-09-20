@@ -1,0 +1,17 @@
+{
+    "id": "004855",
+    "subject": "EARTH",
+    "catalogNumber": "436A",
+    "title": "Thesis Proposal",
+    "description": "The first term of a potential two-term supervised research project in which students prepare a research proposal and conduct research. Students will present their research proposal in an oral presentation and written report. [Note: In order to progress to a two-term project via EARTH 436B, a grade of 75% must be achieved in this course; Offered: F, S]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "EARTH 436B"
+    ]
+}

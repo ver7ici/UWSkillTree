@@ -1,0 +1,19 @@
+{
+    "id": "016151",
+    "subject": "AFM",
+    "catalogNumber": "345",
+    "title": "Business Applications of Social Media Analytics",
+    "description": "This course reinforces the data analytics process, introducing applications that leverage tools such as text analytics and sentiment analysis to analyze content from social networks to address business problems.",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "AFM 244"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "AFM 448"
+    ]
+}

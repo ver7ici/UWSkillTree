@@ -1,0 +1,19 @@
+{
+    "id": "015117",
+    "subject": "HLTH",
+    "catalogNumber": "204",
+    "title": "Quantitative Approaches to Health Science",
+    "description": "An introduction to descriptive and basic inferential statistics and their application to health research. Various statistical techniques commonly used in health research are covered and applied to data using software.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "STAT 316",
+        "HLTH 333",
+        "HLTH 458",
+        "HLTH 335"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "id": "012251",
+    "subject": "OPTOM",
+    "catalogNumber": "347L",
+    "title": "Contact Lenses 1 Laboratory",
+    "description": "Selected clinical techniques for students taking OPTOM 347.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [
+        "OPTOM 347"
+    ],
+    "antireq": [],
+    "next": []
+}

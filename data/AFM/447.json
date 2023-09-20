@@ -1,0 +1,14 @@
+{
+    "id": "016158",
+    "subject": "AFM",
+    "catalogNumber": "447",
+    "title": "Governance and Ethical Issues with Data and Emerging Technologies",
+    "description": "This course examines a host of governance and ethical issues associated with the rapid growth of data analytics and emerging technologies and the related role of accounting and finance professionals.",
+    "term": [],
+    "prereq": [
+        "AFM 244"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

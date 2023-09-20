@@ -1,0 +1,15 @@
+{
+    "id": "000882",
+    "subject": "EARTH",
+    "catalogNumber": "612",
+    "title": "Carbonate Sedimentology",
+    "description": "Weekly seminars will introduce current concepts in a variety of subject areas in the deposition and diagenesis of carbonate sediments. Laboratory exercises will involve study of Pleistocene and older carbonate rock suites from a selection of geologic settings. Several laboratories will be devoted to introduction of common analytical techniques such as cathodoluminescence and SEM.",
+    "term": [],
+    "prereq": [
+        "EARTH 333",
+        "EARTH 433"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

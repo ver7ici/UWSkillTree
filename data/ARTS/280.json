@@ -1,0 +1,34 @@
+{
+    "id": "012283",
+    "subject": "ARTS",
+    "catalogNumber": "280",
+    "title": "Statistics for Arts Students",
+    "description": "A basic course in social statistics for Faculty of Arts students. Introduces descriptive statistics (measures of central tendency, dispersion, cross-tabular analysis) and inferential statistics (sampling, statistical significance, hypothesis testing, test assumptions). Covers a range of statistical techniques including t-tests, one-way ANOVA, Chi square, and bivariate correlation/regression.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "ECON 221",
+        "ENVS 278",
+        "GBDA 205",
+        "HLTH 204",
+        "ISS 250A",
+        "B 250R",
+        "KIN 222",
+        "KIN 232",
+        "KIN 314",
+        "SOC 206",
+        "SOC 211",
+        "SOC 221",
+        "SOC 231",
+        "SOC 241",
+        "B 250R"
+    ],
+    "next": [
+        "PSCI 437"
+    ]
+}

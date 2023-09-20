@@ -1,0 +1,19 @@
+{
+    "id": "011711",
+    "subject": "LS",
+    "catalogNumber": "202",
+    "title": "Criminal Law",
+    "description": "A case-study approach to the study of criminal law in Canada with a focus on basic concepts and core principles relating to legal judgements along with comparative examination between civil and criminal law and attention to legal theory. [Note: Formerly LS 102.]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [
+        "LS 101"
+    ],
+    "coreq": [],
+    "antireq": [
+        "LS 102"
+    ],
+    "next": []
+}

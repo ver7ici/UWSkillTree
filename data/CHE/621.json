@@ -1,0 +1,14 @@
+{
+    "id": "015954",
+    "subject": "CHE",
+    "catalogNumber": "621",
+    "title": "Model Building and Response Surface Methodology",
+    "description": "Process/product optimization based on design of experiments (DOE), empirical modelling, and non-linear mechanistic models. Response surface methods for investigating process/product performance, determining optimal conditions and designs.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

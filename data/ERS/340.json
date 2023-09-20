@@ -1,0 +1,17 @@
+{
+    "id": "014098",
+    "subject": "ERS",
+    "catalogNumber": "340",
+    "title": "Ecosystem Assessment",
+    "description": "An applied ecology course for those interested in becoming professional ecologists. In keeping with the Ecological Society of America's Professional Ecologist Certification and the Society for Ecological Restoration's Certification Programme, intensive, multiple-weeks of field skill exercises are undertaken including advanced ecological sampling and experimental design, ecological sample analysis, use of provincially recommended protocols such as VSP (Vegetative Sampling Protocol), and intermediate to advanced taxonomic identification skills. May include certification and accreditation opportunities such as  the Ontario Benthos Biomonitoring Network (OBBN) and the Ontario Stream Assessment Protocol and training in Electrofishing and Boating (for research). Location of the course will be within southern Ontario. [Note: Field trip fee normally is $700 +HST; it will not exceed $1000+HST. WHMIS required.]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "ENVS 200",
+        "BIOL 150"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

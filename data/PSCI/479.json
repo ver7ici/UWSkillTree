@@ -1,0 +1,15 @@
+{
+    "id": "014531",
+    "subject": "PSCI",
+    "catalogNumber": "479",
+    "title": "International Political Economy of Asia",
+    "description": "What are the political and economic implications of growing interdependence in the region? Students will study patterns of economic development in Asia at the national level.",
+    "term": [],
+    "prereq": [
+        "PSCI 259",
+        "PSCI 283"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

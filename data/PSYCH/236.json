@@ -1,0 +1,29 @@
+{
+    "id": "007918",
+    "subject": "PSYCH",
+    "catalogNumber": "236",
+    "title": "A Psychological Analysis of Human Sexuality",
+    "description": "This course will examine psychological and social psychological theories and empirical investigations of human sexuality.",
+    "term": [],
+    "prereq": [
+        "PSYCH 101",
+        "PSYCH 101R"
+    ],
+    "coreq": [],
+    "antireq": [
+        "SMF 204"
+    ],
+    "next": [
+        "PSYCH 318",
+        "SMF 205",
+        "SMF 304",
+        "SMF 305",
+        "SMF 365",
+        "SMF 310",
+        "SMF 208",
+        "SMF 220",
+        "SMF 230",
+        "SMF 319",
+        "SMF 301"
+    ]
+}

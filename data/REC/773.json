@@ -1,0 +1,16 @@
+{
+    "id": "002905",
+    "subject": "REC",
+    "catalogNumber": "773",
+    "title": "Designing Advanced Qualitative Inquiry",
+    "description": "This course provides a scholarly environment for graduate students working on individual qualitative research projects. It builds on foundational knowledge of onto-epistemological perspectives, theoretical frameworks, and qualitative methodologies explored in REC 663 by examining how these aspects inform and guide individual research designs. Students will be expected to spend considerable time working on research ethics, theoretical perspective, literature review, methodology, data collection techniques, analysis styles, and various forms of representation.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "REC 663"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

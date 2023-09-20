@@ -1,0 +1,18 @@
+{
+    "id": "008932",
+    "subject": "SYDE",
+    "catalogNumber": "162",
+    "title": "Human Factors in Design",
+    "description": "Design of human-machine environments, design to reduce human error. Analytical methods of determining user needs in systems with humans. Information processing and human sensory processes and consideration of these elements in the design of systems with humans. Human physical capabilities and consideration of these in ergonomic design.  [Offered: S]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "BME 162"
+    ],
+    "next": [
+        "SYDE 542"
+    ]
+}

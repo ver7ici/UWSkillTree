@@ -1,0 +1,16 @@
+{
+    "id": "014937",
+    "subject": "EARTH",
+    "catalogNumber": "321",
+    "title": "Introduction to Geomicrobiology",
+    "description": "This course will explore how microbial life influences geochemical cycles in natural environments and engineered systems. Emphasis will be on the interactions between microbial activity and environment geochemistry. Topics will include microbial life on early Earth, biomineralization, biosignature preservation, bioremediation, and geomicrobiological research methods. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "EARTH 221"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

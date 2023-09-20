@@ -1,0 +1,20 @@
+{
+    "id": "015557",
+    "subject": "AVIA",
+    "catalogNumber": "270",
+    "title": "Remotely Piloted Aircraft Systems (RPAS) Knowledge Requirements",
+    "description": "Students will gain knowledge about the requirements and constraints affecting recreational, commercial and research RPAS (Unmanned Aerial Vehicles [UAV], Unmanned Aircraft Systems [UAS]) flights for geomatics applications. Theory and conceptual factors affecting flight, remote sensing, and spatial analysis with very-high resolution data will be discussed. Students will gain knowledge about how to navigate regulatory requirements. They will learn how to link their science and research objectives with geomatics skills to mitigate risk and obtain regulatory approval for legal RPAS flights. Assignments provide a range of experiences to students that may include: applied aspects of flight campaign approval, setup, management; flight training; and integrating imagery with geographic information systems.",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "GEOG 374",
+        "GEOG 001",
+        "AVIA 374",
+        "AVIA 001"
+    ],
+    "next": []
+}

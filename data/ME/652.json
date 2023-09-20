@@ -1,0 +1,14 @@
+{
+    "id": "001865",
+    "subject": "ME",
+    "catalogNumber": "652",
+    "title": "Convective Heat Transfer",
+    "description": "Derivation of the general energy equation. Parameters required for determination of heat transfer in laminar and turbulent flows. Fully numerical solutions, exact solutions, and approximate solutions for internal and external flows. Problems involving frictional heating, property variations and mass injection at the wall will be considered. If interest is indicated, special topics such as heat transfer by boiling, condensation and evaporation will be discussed.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

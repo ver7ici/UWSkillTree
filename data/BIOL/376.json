@@ -1,0 +1,18 @@
+{
+    "id": "012976",
+    "subject": "BIOL",
+    "catalogNumber": "376",
+    "title": "Cellular Neurophysiology",
+    "description": "This course gives students background in neuronal signaling, ion channels, and methods in electrophysiological recording methods. The course requires completion of neuro-simulation laboratories, which provide an introduction to biophysical modelling to explain the functions of neural systems. [Note: PHYS 111/112 are recommended; Offered: F]",
+    "term": [],
+    "prereq": [
+        "BIOL 273",
+        "BME 284",
+        "PSYCH 261",
+        "SYDE 384",
+        "SYDE 584"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,19 @@
+{
+    "id": "009930",
+    "subject": "KOREA",
+    "catalogNumber": "202R",
+    "title": "Second-Year Korean 2",
+    "description": "A continuation of KOREA 201R.  Emphasis is placed on reading and composition.  Students learn complex sentence structure and widely-used idiomatic phrases for advanced reading.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "KOREA 201R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "KOREA 391R",
+        "KOREA 301R"
+    ]
+}

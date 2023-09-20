@@ -1,0 +1,19 @@
+{
+    "id": "013438",
+    "subject": "ECE",
+    "catalogNumber": "444",
+    "title": "Integrated Analog Electronics",
+    "description": "Analog electronics exploits the physical behaviour of electronic devices to create electronic systems. The performance of single and multiple transistor amplifying stages are studied. Followed by a study of biasing, current mirror, and output stages, which are then combined in the study of operational amplifier circuits. Frequency response and feedback are then reviewed leading to a detailed study of stability and compensation for multistage and operational amplifiers. The course finishes with a look at selected topics from A/D (analog-to-digital) converters, oscillators, and phase-locked loops. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "ECE 242",
+        "ECE 340"
+    ],
+    "coreq": [],
+    "antireq": [
+        "MTE 421"
+    ],
+    "next": []
+}

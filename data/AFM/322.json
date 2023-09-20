@@ -1,0 +1,24 @@
+{
+    "id": "011702",
+    "subject": "AFM",
+    "catalogNumber": "322",
+    "title": "Derivative Securities",
+    "description": "Introduction to valuation and applications of financial derivatives such as options, futures, forwards, and swaps.",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "AFM 272",
+        "ACTSC 291",
+        "AFM 273"
+    ],
+    "coreq": [],
+    "antireq": [
+        "ACTSC 446",
+        "ECON 372",
+        "MATBUS 470",
+        "STAT 446"
+    ],
+    "next": []
+}

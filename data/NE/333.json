@@ -1,0 +1,22 @@
+{
+    "id": "011936",
+    "subject": "NE",
+    "catalogNumber": "333",
+    "title": "Macromolecular Science",
+    "description": "Basic definitions and polymer nomenclature, molecular weight averages and distributions, constitutional and configurational isomerism, rubber elasticity, step-growth and free-radical chain-growth polymerizations, emulsion polymerization.  [Offered:  S]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "NE 225"
+    ],
+    "coreq": [],
+    "antireq": [
+        "CHE 541",
+        "CHEM 370",
+        "MNS 322"
+    ],
+    "next": [
+        "NE 335"
+    ]
+}

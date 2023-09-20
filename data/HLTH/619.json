@@ -1,0 +1,16 @@
+{
+    "id": "015445",
+    "subject": "HLTH",
+    "catalogNumber": "619",
+    "title": "Fundamental Research Methods in Health Informatics",
+    "description": "This course focuses on the fundamental methods that are commonly employed in modern health informatics research in order to collect, store, organize, process, analyze, and communicate data/information/knowledge.  Emphasis is on computerized methods and concepts.  Students will gain both theoretical knowledge and practical experience so that they can apply the learned methods in practice after completing this course.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "HLTH 719"
+    ]
+}

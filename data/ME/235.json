@@ -1,0 +1,18 @@
+{
+    "id": "012406",
+    "subject": "ME",
+    "catalogNumber": "235",
+    "title": "Materials Science and Engineering",
+    "description": "The microstructure of crystalline and amorphous materials including metals, polymers and ceramics.  Elastic and plastic deformation in metals, viscoelastic deformation of polymers and viscous deformation of ceramic glasses.  Fracture of brittle and ductile solids.  Phase equilibria, non-equilibrium behaviour, heat treatment of metals, diffusion, strengthening processes. [Offered: F]",
+    "term": [],
+    "prereq": [
+        "CHE 102"
+    ],
+    "coreq": [],
+    "antireq": [
+        "ME 115",
+        "ME 230",
+        "MTE 111"
+    ],
+    "next": []
+}

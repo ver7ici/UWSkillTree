@@ -1,0 +1,17 @@
+{
+    "id": "001929",
+    "subject": "MSCI",
+    "catalogNumber": "605",
+    "title": "Organizational Behaviour",
+    "description": "Introduction to the concepts of learning, person perception, attitudes, and motivation in an organization. Consideration of communication, roles, norms, and decision making within a group. Discussion of power, control, leadership, and management in light of the above concepts. Priority may be given to Management Sciences students.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "MSCI 620",
+        "MSCI 630"
+    ]
+}

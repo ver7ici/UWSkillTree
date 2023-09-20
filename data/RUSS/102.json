@@ -1,0 +1,16 @@
+{
+    "id": "008436",
+    "subject": "RUSS",
+    "catalogNumber": "102",
+    "title": "Elementary Russian 2",
+    "description": "A continuation of RUSS 101. [Note: RUSS 102 is not open to students with native, near-native, or similar advanced ability.]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "RUSS 101"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

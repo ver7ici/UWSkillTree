@@ -1,0 +1,16 @@
+{
+    "id": "015212",
+    "subject": "NE",
+    "catalogNumber": "454A",
+    "title": "Nano-electronics Laboratory 1",
+    "description": "Application of experimental tools and techniques in nano-electronics. Experimental exercises may involve circuit simulation and design, circuit prototyping, design of a driver circuit for a quartz crystal microbalance (QCM), printed circuit board (PCB) design and layout optimization, and the use of various characterization instrumentation. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "NE 455A"
+    ]
+}

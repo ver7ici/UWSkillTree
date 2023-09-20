@@ -1,0 +1,16 @@
+{
+    "id": "012897",
+    "subject": "ENBUS",
+    "catalogNumber": "405",
+    "title": "Introduction to Life Cycle Assessment",
+    "description": "This course builds students' technical competencies in life cycle assessment (LCA) and in critical analysis of products' environmental impacts through an understanding of life cycle management. Course content covers the International Organization for Standardization (ISO) life-cycle assessment framework, how to conduct technical LCA (including applying quantitative approaches using LCA software and databases, as available and appropriate), challenges of application of LCA to a range of product systems, limitations of LCA, and product life cycle management concepts for business and policy decisions. Students will use the knowledge gained to conduct their own technical LCA. [Note: Formerly ENBUS 307]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "ENBUS 307"
+    ],
+    "next": []
+}

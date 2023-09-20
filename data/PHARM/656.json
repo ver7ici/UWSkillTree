@@ -1,0 +1,12 @@
+{
+    "id": "016247",
+    "subject": "PHARM",
+    "catalogNumber": "656",
+    "title": "Analysis of Quantitative Health Care Data",
+    "description": "This course is designed to teach students the fundamentals of planning, conducting, and communicating the analysis of\nquantitative data within the context of applied health research. Students will learn quantitative data analysis through\nhands-on experience using different sources of data (e.g., clinical trial, cross-sectional survey, prospective cohort, etc.).\nTopics will include descriptive statistics, t-Test, ANOVA, linear regression, logistic regression, poisson regression, and\nproportional hazards regression. Several techniques to adjust for confounding will be covered. Students will learn to\napply their analytic skills using SAS.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

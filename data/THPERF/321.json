@@ -1,0 +1,17 @@
+{
+    "id": "004688",
+    "subject": "THPERF",
+    "catalogNumber": "321",
+    "title": "Approaches to Acting with Text",
+    "description": "Students apply conceptual and theoretical approaches to acting in traditions emphasizing the text as a resource for performance.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "THPERF 211",
+        "THPERF 222"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

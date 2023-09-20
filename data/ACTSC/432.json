@@ -1,0 +1,21 @@
+{
+    "id": "003301",
+    "subject": "ACTSC",
+    "catalogNumber": "432",
+    "title": "Property and Casualty Insurance: Pricing",
+    "description": "Introduction to ratemaking; rating factors; insurance pricing using generalized linear models; experience rating; credibility theory: Bayesian, Buhlmann, and Buhlmann-Straub; empirical Bayes parameter estimation. [Offered: F,S]",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [
+        "ACTSC 363",
+        "STAT 330",
+        "STAT 331",
+        "STAT 371",
+        "STAT 373"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

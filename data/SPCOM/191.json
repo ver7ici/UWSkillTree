@@ -1,0 +1,17 @@
+{
+    "id": "015735",
+    "subject": "SPCOM",
+    "catalogNumber": "191",
+    "title": "Communication in the Engineering Profession (AE, CIVE, ENVE, GEOE)",
+    "description": "In this course students in Architectural, Civil, Environmental, and Geological Engineering will enhance oral and written communication competencies in contexts relevant to the engineering profession.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "GENE 199"
+    ],
+    "next": []
+}

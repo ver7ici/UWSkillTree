@@ -1,0 +1,17 @@
+{
+    "id": "004785",
+    "subject": "ECE",
+    "catalogNumber": "414",
+    "title": "Wireless Communications",
+    "description": "Overview of wireless communications including standards. Characterization of mobile radio propagation channels. Signal representations. Transmission and reception techniques for wireless channels. Fundamentals of cellular communications and multiple-access schemes. [Offered: S]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "ECE 306",
+        "ECE 318"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

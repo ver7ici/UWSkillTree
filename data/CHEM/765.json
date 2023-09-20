@@ -1,0 +1,14 @@
+{
+    "id": "000466",
+    "subject": "CHEM",
+    "catalogNumber": "765",
+    "title": "Strategies in Organic Synthesis",
+    "description": "The synthesis of organic compounds is discussed and emphasis is placed on the design of synthetic routes. Examples drawn from the literature are used to illustrate this synthetic planning.",
+    "term": [],
+    "prereq": [
+        "CHEM 764"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

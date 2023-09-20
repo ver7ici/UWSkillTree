@@ -1,0 +1,24 @@
+{
+    "id": "004828",
+    "subject": "EARTH",
+    "catalogNumber": "231",
+    "title": "Mineralogy",
+    "description": "This course provides a systematic study of the physical and chemical properties of the major rock-forming silicate minerals. Study of mineral chemistry, the internal geometry of crystalline solids and the interrelationship of crystal structure to the  physical and chemical properties of minerals. Laboratory work focuses on observing and evaluating the physical properties of minerals and rocks in hand sample in order to identity them. This course includes a weekend field trip to Bancroft, Ontario. [Note: Additional field trip fees will apply; Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "EARTH 121",
+        "EARTH 121L",
+        "EARTH 153",
+        "CIVE 153",
+        "GEOE 153",
+        "ENVE 153"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "EARTH 659",
+        "EARTH 232"
+    ]
+}

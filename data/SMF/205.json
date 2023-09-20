@@ -1,0 +1,17 @@
+{
+    "id": "008555",
+    "subject": "SMF",
+    "catalogNumber": "205",
+    "title": "The Dark Side of Sexuality",
+    "description": "As with all profound and meaningful human activities, sexuality has the potential to involve harm, manipulation, and abuse.  This course offers a theoretical and empirical examination of the dark side of human sexuality.  Topics may include sex work, pornography, sexual violence and abuse, incest, compulsive sexual behaviour, and paraphilias.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "SMF 204",
+        "PSYCH 236"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

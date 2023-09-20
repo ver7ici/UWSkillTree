@@ -1,0 +1,19 @@
+{
+    "id": "004246",
+    "subject": "CIVE",
+    "catalogNumber": "415",
+    "title": "Structural System Design",
+    "description": "Building loads. Lateral load systems. Floor systems for buildings. Composite construction. Introduction to bridge design. Special topics.[Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "AE 310",
+        "CIVE 310",
+        "CIVE 413",
+        "CIVE 414"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

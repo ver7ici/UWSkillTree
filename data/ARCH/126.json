@@ -1,0 +1,16 @@
+{
+    "id": "003541",
+    "subject": "ARCH",
+    "catalogNumber": "126",
+    "title": "Environmental Building Design",
+    "description": "An introduction to environmental design practices leading to low carbon design. Topics of discussion include passive heating and cooling, solar geometry, climate and meteorological influences, microclimate, site design, daylighting, active systems, embodied energy, sustainable rating systems, sustainable design philosophies such as cradle to cradle, biomimicry and design for disassembly. Energy-related issues will be addressed and energy-based software design programs will be introduced. Understanding the role of design in an energy efficient or passive solar building will be a central learning outcome. [Note: Field trip fee: $15. Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "ARCH 226"
+    ],
+    "next": []
+}

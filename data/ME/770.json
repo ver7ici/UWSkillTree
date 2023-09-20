@@ -1,0 +1,16 @@
+{
+    "id": "001912",
+    "subject": "ME",
+    "catalogNumber": "770",
+    "title": "Special Topics in Numerical Methods, Fluid Flow and Heat Transfer",
+    "description": "Various courses dealing with numerical methods of predicting the fluid flow, heat transfer and chemical reaction in engineering equipment, in the human body, and in the environment. The methods usually involve the solution of partial differential equations of the parabolic, elliptic and hyperbolic type.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

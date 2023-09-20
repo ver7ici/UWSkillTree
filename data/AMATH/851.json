@@ -1,0 +1,12 @@
+{
+    "id": "011285",
+    "subject": "AMATH",
+    "catalogNumber": "851",
+    "title": "Stability Theory and Applications",
+    "description": "Concepts of stability and boundedness, basic stability criteria, comparison methods, large scale systems, method of decomposition and aggregation, method of several Lyapunov functions, method of vector Lyapunov functions, method of higher derivatives. Stability problems in ecology, mechanics, neural networks and control systems. Students should have completed AM751 or equivalent.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

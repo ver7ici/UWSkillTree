@@ -1,0 +1,23 @@
+{
+    "id": "007740",
+    "subject": "PSCI",
+    "catalogNumber": "226",
+    "title": "Modern Political Thought",
+    "description": "Where do contemporary ideas about political obligation, equality, freedom, and justice originate? By studying some of the most influential texts in Western political theory that emerged from the 1500s to the 1800s, students will consider such concepts as social contract theory (Hobbes, Locke, Rousseau), personal liberty (Mill), and structural-institutional critiques (Marx).",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "PSCI 100",
+        "PSCI 101",
+        "PSCI 150",
+        "PSCI 225",
+        "CLAS 225"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "LS 464",
+        "PSCI 423"
+    ]
+}

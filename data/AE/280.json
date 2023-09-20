@@ -1,0 +1,22 @@
+{
+    "id": "015335",
+    "subject": "AE",
+    "catalogNumber": "280",
+    "title": "Fluid Mechanics and Thermal Sciences",
+    "description": "An introduction to fluid mechanics and thermal sciences. Aspects of heat transfer via conduction, convection, and radiation. Fluid properties. Fluid statics. Bernoulli equation. The momentum equation and applications. Laminar and turbulent flow. Dimensionless numbers. Closed conduit flow. Pipe network analysis. Steady flow in pipes. [Note: Four lab sessions. Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "CIVE 105",
+        "CIVE 221"
+    ],
+    "coreq": [],
+    "antireq": [
+        "CIVE 280",
+        "ENVE 280"
+    ],
+    "next": [
+        "AE 405"
+    ]
+}

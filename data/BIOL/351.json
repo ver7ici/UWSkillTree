@@ -1,0 +1,22 @@
+{
+    "id": "003740",
+    "subject": "BIOL",
+    "catalogNumber": "351",
+    "title": "Aquatic Ecology",
+    "description": "Study of the structure and function of lake and stream ecosystems. The course emphasizes biological components and processes, but includes the origin and nature of lake and stream systems and the fundamentals of surface water chemistry and physics. Human influences, management options and current issues will be examined with readings and project work.  [Note: Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "BIOL 150",
+        "BIOL 110",
+        "BIOL 120",
+        "BIOL 165"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "BIOL 470",
+        "BIOL 462"
+    ]
+}

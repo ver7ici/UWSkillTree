@@ -1,0 +1,19 @@
+{
+    "id": "008769",
+    "subject": "SDS",
+    "catalogNumber": "357R",
+    "title": "Family Violence",
+    "description": "An application of the principles and models of medical, psychogenic, and sociogenic adjustment to an understanding of family violence. The treatment of victims of family violence, the prevention of such violence and social policies affecting family welfare are considered.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "SOCWK 120R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "SOCWK 390A",
+        "SOCWK 390B"
+    ]
+}

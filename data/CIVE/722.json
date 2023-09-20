@@ -1,0 +1,14 @@
+{
+    "id": "016489",
+    "subject": "CIVE",
+    "catalogNumber": "722",
+    "title": "Intermediate Finite Element Analysis",
+    "description": "This course focuses on the application of Finite Element Method to time dependent and nonlinear problems and the theory that underpins common engineering software used to analyze the deformation of solids and structures, heat transfer, and porous media flow. Topics include: modal analysis; methods of implicit and explicit time integration; the Newton-Raphson method; uniqueness, stability, and convergence in nonlinear problems; introduction to material and geometrical nonlinearities.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

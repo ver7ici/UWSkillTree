@@ -1,0 +1,22 @@
+{
+    "id": "008945",
+    "subject": "SYDE",
+    "catalogNumber": "252",
+    "title": "Linear Systems and Signals",
+    "description": "Models and analysis of linear systems. Discrete time systems, continuous time systems; difference and differential equations; impulse and frequency response. Complex frequency, functions of complex variables, transform domain techniques: Z transforms; Fourier analysis, Laplace transform. Transfer functions and frequency response, frequency domain analysis of linear systems; sampling theory, stability, and linear filters. [Offered: F, S]",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "BME 252"
+    ],
+    "next": [
+        "SYDE 575",
+        "MTE 360",
+        "SYDE 556",
+        "AMATH 391"
+    ]
+}

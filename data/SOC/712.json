@@ -1,0 +1,16 @@
+{
+    "id": "003045",
+    "subject": "SOC",
+    "catalogNumber": "712",
+    "title": "Elements of Social Research",
+    "description": "The social science research process is examined within quantitative, qualitative and mixed methods approaches.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "SOC 715"
+    ]
+}

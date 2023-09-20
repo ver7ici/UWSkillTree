@@ -1,0 +1,17 @@
+{
+    "id": "006823",
+    "subject": "MSCI",
+    "catalogNumber": "431",
+    "title": "Stochastic Models and Methods",
+    "description": "Introduction to operations research models and methods for problems with random, stochastic, and probabilistic components. Topics include birth and death processes, branching processes, waiting line models, and Markov decision processes. Applications include the design, modelling, and analysis of service and manufacturing systems, with emphasis on important functions such as queueing, inventory, reliability, equipment replacement, and maintenance. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "MSCI 433",
+        "MSCI 531"
+    ]
+}

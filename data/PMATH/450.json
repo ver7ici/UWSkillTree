@@ -1,0 +1,20 @@
+{
+    "id": "007674",
+    "subject": "PMATH",
+    "catalogNumber": "450",
+    "title": "Lebesgue Integration and Fourier Analysis",
+    "description": "Lebesgue measure on the line, the Lebesgue integral, monotone and dominated convergence theorems, Lp-spaces: completeness and dense subspaces. Separable Hilbert space, orthonormal bases. Fourier analysis on the circle, Dirichlet kernel, Riemann-Lebesgue lemma, Fejer's theorem, and convergence of Fourier series.",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [
+        "PMATH 351"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PMATH 451",
+        "PMATH 453"
+    ]
+}

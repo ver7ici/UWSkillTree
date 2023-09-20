@@ -1,0 +1,31 @@
+{
+    "id": "009029",
+    "subject": "GSJ",
+    "catalogNumber": "101",
+    "title": "Introduction to Gender and Social Justice: the Global North",
+    "description": "This course surveys contemporary issues and theories relating to the intersection of gender with race, ethnicity, sexual identity, (dis)ability, class, religion, and other axes of oppression in the Global North. What injustices are attendant upon membership in these groups? How are these injustices produced? How can we combat them? What are the possibilities of alliance and solidarities across differences of gender, race, etc.?",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "WS 101"
+    ],
+    "next": [
+        "GSJ 350",
+        "REC 362",
+        "GSJ 334",
+        "GSJ 326",
+        "GSJ 371",
+        "GSJ 331",
+        "GSJ 309",
+        "GSJ 302",
+        "REC 306",
+        "GSJ 347",
+        "GSJ 315",
+        "GSJ 327",
+        "GSJ 307",
+        "GSJ 304"
+    ]
+}

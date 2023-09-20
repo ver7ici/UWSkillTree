@@ -1,0 +1,15 @@
+{
+    "id": "015871",
+    "subject": "SMF",
+    "catalogNumber": "350",
+    "title": "Love and the Law",
+    "description": "Relationship breakdown is a social phenomenon that has legal consequences. This course provides students with a socio-legal foundation in current family law. Topics may include the court system, the litigation process, property division, spousal and child support, child co-parenting, child protection, high conflict families, and alternative dispute resolution processes.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "SMF 365",
+        "SMF 366"
+    ],
+    "next": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "012281",
+    "subject": "PSYCH",
+    "catalogNumber": "486",
+    "title": "Directed Studies - Advanced Statistics",
+    "description": "The student conducts an extensive study of advanced statistical techniques under the supervision of a faculty member. Course requirements normally include assessment of competency through examination. The course application form must include a detailed course plan including the method of evaluation. [Note: Normally students will take no more than three of PSYCH 480-486. Offered: F,W]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "PSYCH 391"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,14 @@
+{
+    "id": "012050",
+    "subject": "ECE",
+    "catalogNumber": "6601PD",
+    "title": "Power System Components and Modeling",
+    "description": "Discuss in detail the basic structure, functional characteristics and protection schemes of the main components that make up a powers system, in particular generators, transformers, transmission lines, cables, loads, HVDC and FACTS controllers.  Understand the modelling and simulation of these components for detailed electromagnetic transients analyses, as well as phasor models for power flow and stability studies.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

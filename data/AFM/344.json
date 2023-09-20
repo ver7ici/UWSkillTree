@@ -1,0 +1,19 @@
+{
+    "id": "015466",
+    "subject": "AFM",
+    "catalogNumber": "344",
+    "title": "Analytic Methods in Business 4",
+    "description": "This course introduces students to business analytics with a focus on problems that accounting and finance professionals face in the real world.",
+    "term": [],
+    "prereq": [
+        "ECON 221",
+        "STAT 211",
+        "STAT 231",
+        "STAT 241",
+        "AFM 241",
+        "CS 330"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

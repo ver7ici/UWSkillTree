@@ -1,0 +1,18 @@
+{
+    "id": "014459",
+    "subject": "BME",
+    "catalogNumber": "386",
+    "title": "The Physics of Medical Imaging",
+    "description": "The fundamental laws of electricity, magnetism, and optics will be taught through the introduction to basic concepts of medical imaging: radiation for imaging, x-ray, computed tomography (CT), magnetic resonance imaging (MRI), ultrasound or sonography imaging, electric impedance tomography, confocal microscopy, fluoroscopy. Radionuclide imaging: Single photon emission computed tomography (SPECT), and positron emission computed tomography (PET). Emerging technologies: elastography, tHz imaging, molecular imaging will also be discussed.  [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "SYDE 283"
+    ],
+    "next": [
+        "BME 581"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "id": "008925",
+    "subject": "SYDE",
+    "catalogNumber": "111",
+    "title": "Calculus 1",
+    "description": "Differential calculus: limits, continuity, derivatives, differentials, applications. Sequences and series: convergence, power series, Taylor expansions. Simple numerical methods. Introduction to integration, indefinite and definite integral, techniques of integration. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "MATH 116",
+        "MATH 117",
+        "MATH 127",
+        "MATH 137",
+        "MATH 147"
+    ],
+    "next": [
+        "PHYS 396"
+    ]
+}

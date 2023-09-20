@@ -1,0 +1,21 @@
+{
+    "id": "016031",
+    "subject": "HLTH",
+    "catalogNumber": "465",
+    "title": "Epigenetics and Health",
+    "description": "This course provides an in-depth examination into how genes, environment, and epigenetics interact over the lifespan to increase risks for complex diseases and disorders. Students will explore how environmental exposures such as diet, drugs, psychosocial stress, and environmental toxicants can become biologically-embedded via stable epigenetic changes that affect long-term gene expression. Underlying molecular mechanisms for epigenetic modifications, such as DNA methylation, histone modification, and the role of non-coding RNAs will also be covered.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "BIOL 239",
+        "BIOL 273",
+        "HLTH 205",
+        "HLTH 333",
+        "BIOL 361",
+        "KIN 232"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "016259",
+    "subject": "GEOG",
+    "catalogNumber": "403",
+    "title": "Eutrophication: From Process to Water-Quality Management",
+    "description": "Eutrophication, caused by excess nutrients (phosphorus and nitrogen) entering water bodies, results in nuisance and harmful algal blooms, and is a major global threat to water quality and water security. This course explores eutrophication drivers, pressures, and impacts on the quality of freshwater systems, from watershed to global scales. Students will learn about the sources and biogeochemical cycling of nutrients along the aquatic (stream-river-lake) continuum, and ecological responses in receiving water bodies. Environmental thresholds for setting water-quality standards and nutrient criteria will be discussed. Students will learn about agricultural beneficial management practices and wastewater management to reduce nutrient inputs to freshwaters. Students will examine the benefits and challenges of sustainable nutrient stewardship in combatting eutrophication, and learn about how this knowledge is used in water-quality management, through international examples.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "GEOG 201",
+        "GEOG 205",
+        "GEOG 209"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

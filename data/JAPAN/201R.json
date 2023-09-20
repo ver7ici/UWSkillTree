@@ -1,0 +1,21 @@
+{
+    "id": "006539",
+    "subject": "JAPAN",
+    "catalogNumber": "201R",
+    "title": "Second-Year Japanese 1",
+    "description": "A continuation of the study of grammar and vocabulary through development of listening, reading, writing, and speaking skills. Some study of Japanese culture is also included. By the end of the course, 120 Kanji (Chinese characters in their Japanese readings) will have been introduced.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "JAPAN 102R",
+        "JAPAN 112R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "JAPAN 202R"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "id": "015208",
+    "subject": "SMF",
+    "catalogNumber": "491",
+    "title": "Practicum and Applied Theory",
+    "description": "This course involves the continuation of the SMF 490 practicum placement along with weekly seminar meetings that focus on integration of theory and practice. [Note: SMF 490 and SMF 491 can be taken independently of the SMF Human Services Practicum Specialization. The practicum placement component of SMF 491 is a continuation of the placement begun in SMF 490. The two courses must be taken in consecutive terms.]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "SMF 490"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

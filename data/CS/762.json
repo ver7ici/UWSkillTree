@@ -1,0 +1,14 @@
+{
+    "id": "000710",
+    "subject": "CS",
+    "catalogNumber": "762",
+    "title": "Graph-Theoretic Algorithms",
+    "description": "Further exposure to the design, analysis and application of algorithms for problems defined on graphs. Topics include planarity testing and embedding; classes of planar graphs and fast algorithms for them; trees and tree-like graphs (bounded pathwidth and treewidth);  perfect graphs and intersection graphs.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "CS 760K"
+    ],
+    "next": []
+}

@@ -1,0 +1,15 @@
+{
+    "id": "012691",
+    "subject": "INTEG",
+    "catalogNumber": "10",
+    "title": "Knowledge Integration Seminar",
+    "description": "General seminar on inter-disciplinary topics and integrative practices of special interest to INTEG students, faculty, and alumni. INTEG students must register every term.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

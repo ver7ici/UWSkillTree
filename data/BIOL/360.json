@@ -1,0 +1,18 @@
+{
+    "id": "004838",
+    "subject": "BIOL",
+    "catalogNumber": "360",
+    "title": "Evolution 2: Fossil Record",
+    "description": "An overview of the origin of life, how it evolved and diversified, modern principles of paleontology with particular emphasis on analytical tools to interpret ancient life forms. Patterns, processes of evolution and paleoecology of key groups of microfossils, invertebrates, plants, vertebrates and their trace fossils.  [Offered: W]",
+    "term": [],
+    "prereq": [
+        "EARTH 121",
+        "CIVE 153",
+        "ENVE 153",
+        "GEOE 153",
+        "BIOL 359"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

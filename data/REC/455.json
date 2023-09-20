@@ -1,0 +1,18 @@
+{
+    "id": "008217",
+    "subject": "REC",
+    "catalogNumber": "455",
+    "title": "Advanced Seminar in Therapeutic Recreation",
+    "description": "This course is designed to facilitate an in-depth exploration and analysis of philosophical issues and interdisciplinary theories to discuss how they relate to therapeutic recreation practice and research.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "REC 253",
+        "REC 351",
+        "REC 357"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,15 @@
+{
+    "id": "015458",
+    "subject": "HLTH",
+    "catalogNumber": "664",
+    "title": "Analysis and Management of Health Information for Aging Societies",
+    "description": "The course focuses on how information from surveys and administrative or clinical databases can be used to support evidence-informed decision making in the context of population aging.  The course will combine an overview of health policy issues and service delivery with methodological considerations in the analysis of health information from a variety of sources.",
+    "term": [],
+    "prereq": [
+        "STAT 316",
+        "HLTH 605"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

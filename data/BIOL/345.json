@@ -1,0 +1,20 @@
+{
+    "id": "003734",
+    "subject": "BIOL",
+    "catalogNumber": "345",
+    "title": "Microorganisms in Foods",
+    "description": "Food preservation, spoilage, poisoning and modern concepts in quality assurance programs are studied. The aim is to understand factors governing microbial changes in foods. Problem solving in the food industry is emphasized. Laboratory work will reflect current practices in quality control and testing. [Note: Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "BIOL 140",
+        "BIOL 240",
+        "BIOL 140L",
+        "BIOL 240L",
+        "BIOL 241"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

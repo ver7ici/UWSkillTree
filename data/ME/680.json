@@ -1,0 +1,17 @@
+{
+    "id": "015079",
+    "subject": "ME",
+    "catalogNumber": "680",
+    "title": "Advanced Design Engineering",
+    "description": "An overview of advanced engineering design, from the establishment of the need to preliminary design, including formal and informal methods to facilitate and encourage innovation. Focus is places on a fundamental understanding of the problem and various theoretical and practical techniques to arrive at feasible solutions. There is a strong focus on practical applications, including case studies, and culminating in a major design project.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ME 681",
+        "ME 682"
+    ]
+}

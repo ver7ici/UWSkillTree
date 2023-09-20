@@ -1,0 +1,14 @@
+{
+    "id": "011276",
+    "subject": "ACTSC",
+    "catalogNumber": "965",
+    "title": "Extreme Value Theory",
+    "description": "Ruin Theory for heavy-tailed distributions. Fluctuation of maxima and upper order statistics. Extreme value distributions: Weibull, Frechet, Gumbel and generalized Pareto. Mean excess function. Statistical methods for external events. Estimation of parameters of extreme value and excess distributions. Applications in finance and insurance.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

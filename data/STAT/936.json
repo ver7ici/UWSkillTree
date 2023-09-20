@@ -1,0 +1,19 @@
+{
+    "id": "013084",
+    "subject": "STAT",
+    "catalogNumber": "936",
+    "title": "Analysis of Longitudinal Data",
+    "description": "This course covers methods for analyzing data in which repeated measures have been obtained for individuals in health studies over time. Different methods will be discussed to handle both continuous and discrete longitudinal response data, with examples from biomedical and population health datasets. Some of the approaches covered will include linear, non-linear, and generalized linear mixed effects models, as well as generalized estimating equations and transition models, with distinctions drawn between subject-specific and population averaged approaches for generalized linear longitudinal response data. Also, there will be coverage of exploratory methods, evaluation of model assumptions and adapting to assumption violations, approaches for handling missing data, and treatment of advanced topics such as semiparametric and nonparametric models for longitudinal data. Software (e.g. R or SAS) will be used throughout the course.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "STAT 431",
+        "STAT 831"
+    ],
+    "coreq": [],
+    "antireq": [
+        "STAT 437"
+    ],
+    "next": []
+}

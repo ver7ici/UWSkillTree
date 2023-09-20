@@ -1,0 +1,14 @@
+{
+    "id": "014433",
+    "subject": "BME",
+    "catalogNumber": "285",
+    "title": "Engineering Biology",
+    "description": "Introduction to basic concepts of biochemistry and cell biology. Overview of the chemistry of amino acids, carbohydrates, lipids and nucleic acid. Structure and properties of proteins and enzymes. Elements of cell structure and diversity, and relationship of biochemistry with cell metabolism. A focus on biomedical engineering with relevant examples such as biomimetic engineering design, system biology, and tissue engineering. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

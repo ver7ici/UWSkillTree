@@ -1,0 +1,14 @@
+{
+    "id": "016337",
+    "subject": "SOC",
+    "catalogNumber": "435",
+    "title": "Cybercrime and Digital Harm",
+    "description": "An examination of theoretical perspectives and empirical developments surrounding cybercrime, digitally-mediated harms, and associated regulatory responses. A range of topics may be explored, including hacking, technology facilitated abuse, (dis)information, censorship, human rights, and cybersecurity.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "LS 496"
+    ],
+    "next": []
+}

@@ -1,0 +1,20 @@
+{
+    "id": "000933",
+    "subject": "ECON",
+    "catalogNumber": "621",
+    "title": "Econometrics I",
+    "description": "Specification and estimation of the linear regression model. Departures from the Gauss-Markov assumptions include heteroskedasticity, serial correlation, and errors in variables. Advanced topics include generalized least squares, and simultaneous equations/instrumental variables. They may also include nonlinear regression, and limited dependent variable models. Some or all of the problem sets involve working with the computer.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ECON 721",
+        "ECON 722",
+        "ECON 723",
+        "ECON 622",
+        "ECON 623"
+    ]
+}

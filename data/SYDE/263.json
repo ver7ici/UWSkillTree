@@ -1,0 +1,14 @@
+{
+    "id": "015792",
+    "subject": "SYDE",
+    "catalogNumber": "263",
+    "title": "Engineering Prototyping",
+    "description": "This course addresses the practical aspects of design and technical communication. By using a series of workshops culminating in a comprehensive final project, students gain the hands-on experience necessary for prototyping and design validation. Topics include generating technical specifications, material selection, fastener basics, motor selection, electronic switching, reading data sheets and schematics, and advanced microcontroller implementation. [Note: the lecture and laboratory components are offered alternate weeks. Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

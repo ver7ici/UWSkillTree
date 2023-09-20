@@ -1,0 +1,17 @@
+{
+    "id": "015643",
+    "subject": "MSCI",
+    "catalogNumber": "623",
+    "title": "Big Data Analytics",
+    "description": "This course focuses on methods and algorithms for turning very large collections of data into actionable insight. Topics may include data profiling, transformation and cleaning, data mining, data warehousing and cloud computing.  Applications will be drawn from various areas such as smart grid analytics and ubiquitous computing.  Students will read and present papers and complete a research project.  Priority may be given to Management Sciences students.  Previous studies in programming, algorithms, statistics and database management are necessary background topics for those taking this course.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "MSCI 723",
+        "ECE 657A"
+    ],
+    "next": []
+}

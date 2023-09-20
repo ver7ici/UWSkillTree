@@ -1,0 +1,19 @@
+{
+    "id": "010001",
+    "subject": "BIOL",
+    "catalogNumber": "373L",
+    "title": "Human Physiology Laboratory",
+    "description": "Laboratory exercises to study the principles of human physiology. [Offered: W]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [
+        "BIOL 373"
+    ],
+    "antireq": [
+        "BIOL 273L"
+    ],
+    "next": []
+}

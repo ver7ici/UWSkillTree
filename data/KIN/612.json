@@ -1,0 +1,14 @@
+{
+    "id": "001749",
+    "subject": "KIN",
+    "catalogNumber": "612",
+    "title": "Instrumentation and Signal Processing in Biophysical Research",
+    "description": "Techniques in data acquisition, reduction, and signal processing commonly employed in biophysical research are discussed in class and used in laboratory sessions. Among other instruments, the student becomes familiar with the use of a variety of transducers and their systems characteristics, electromyographs, the process of analog to digital conversion, documentation of motion, stress and strain, and the quantification of medical image data. Signal to noise enhancement is emphasized through all aspects of the course.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

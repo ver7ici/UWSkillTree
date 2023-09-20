@@ -1,0 +1,15 @@
+{
+    "id": "000912",
+    "subject": "EARTH",
+    "catalogNumber": "691",
+    "title": "Special Studies for MSc Students",
+    "description": "Course credit may be given for special studies related to the research interest of a student and a member of the faculty by special arrangement.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

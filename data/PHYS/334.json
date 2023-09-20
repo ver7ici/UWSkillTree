@@ -1,0 +1,32 @@
+{
+    "id": "007434",
+    "subject": "PHYS",
+    "catalogNumber": "334",
+    "title": "Quantum Physics 2",
+    "description": "Formalism of quantum mechanics. Operator approach to the harmonic oscillator.  Quantum mechanics in three dimensions: Hydrogen atom, angular momentum and spin. Time-independent perturbation theory. Fine structure of hydrogen. Zeeman effect. Identical particles. The variational principle. Ground state of the helium atom. Applications in atomic and molecular physics. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "PHYS 234",
+        "CHEM 356",
+        "MATH 228",
+        "AMATH 250",
+        "AMATH 251",
+        "MATH 227",
+        "MATH 237",
+        "MATH 247"
+    ],
+    "coreq": [],
+    "antireq": [
+        "AMATH 373"
+    ],
+    "next": [
+        "PHYS 454",
+        "PHYS 434",
+        "PHYS 435",
+        "PHYS 444",
+        "PHYS 467",
+        "PHYS 468"
+    ]
+}

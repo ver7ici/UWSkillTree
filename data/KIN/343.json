@@ -1,0 +1,19 @@
+{
+    "id": "014696",
+    "subject": "KIN",
+    "catalogNumber": "343",
+    "title": "Micronutrient Metabolism",
+    "description": "This course examines the metabolism of vitamins and minerals in the context of normal human development and aging with an emphasis on disease prevention and understanding the pathogenesis of deficiencies and toxicities. The function and role of vitamins and minerals will be discussed in specific groupings.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "KIN 146",
+        "KIN 217",
+        "CHEM 233",
+        "CHEM 237"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

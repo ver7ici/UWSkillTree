@@ -1,0 +1,27 @@
+{
+    "id": "015179",
+    "subject": "ECON",
+    "catalogNumber": "206",
+    "title": "Money and Banking 1",
+    "description": "This course offers an overview of the functioning of the financial system both in Canada and abroad. It includes discussions of money and inflation, financial assets, and financial institutions and intermediaries.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "ECON 101",
+        "ECON 100",
+        "COMM 103",
+        "ECON 102"
+    ],
+    "coreq": [],
+    "antireq": [
+        "ECON 304"
+    ],
+    "next": [
+        "ECON 332",
+        "ECON 437",
+        "ECON 467"
+    ]
+}

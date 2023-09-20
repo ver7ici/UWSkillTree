@@ -1,0 +1,14 @@
+{
+    "id": "000471",
+    "subject": "CHEM",
+    "catalogNumber": "772",
+    "title": "Polymerization and Polymer Reactions",
+    "description": "The reactions leading to the production of polymers are considered with emphasis on emulsion and suspension polymerization and polymerization reaction engineering. Polymer degradation, stabilization and modification are also considered in depth.",
+    "term": [],
+    "prereq": [
+        "CHEM 770"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

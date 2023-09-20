@@ -1,0 +1,24 @@
+{
+    "id": "013912",
+    "subject": "CS",
+    "catalogNumber": "484",
+    "title": "Computational Vision",
+    "description": "Introduction to image and vision understanding by computer. Camera-system geometry, image formation and lighting, and image acquisition. Basic visual processes for recognition of edges, regions, lines, and surfaces. Processing of stereo images, and motion in image sequences. Object recognition. Applications of computer-vision systems. [Note: Lab is not scheduled and students are expected to find time in open hours to complete their work.]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [
+        "AMATH 242",
+        "CS 371",
+        "CS 370",
+        "MATH 235",
+        "MATH 245",
+        "STAT 206",
+        "STAT 230",
+        "STAT 240"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

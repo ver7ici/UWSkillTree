@@ -1,0 +1,14 @@
+{
+    "id": "000345",
+    "subject": "CHE",
+    "catalogNumber": "660",
+    "title": "Principles of Biochemical Engineering",
+    "description": "Aspects of mass-transfer, heat-transfer, fluid flow, cell growth, metabolic engineering and enzyme kinetics related to the design of biological processes and process equipment. Sterilization techniques, fermentation, bioreactor design and operation, including immobilized cell or enzyme systems and aspects of bioseparations engineering.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

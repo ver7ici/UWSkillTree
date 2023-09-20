@@ -1,0 +1,18 @@
+{
+    "id": "011862",
+    "subject": "FR",
+    "catalogNumber": "486",
+    "title": "Topics in French and Francophone Cultural Studies",
+    "description": "A study of selected topics in French and Francophone cultural studies. Topics will be chosen by the professor according to their area of specialization. [Note: This is a repeatable course, subject to different content; it may be completed a total of three times.]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "FR 197",
+        "FR 296",
+        "FR 297"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

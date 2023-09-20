@@ -1,0 +1,21 @@
+{
+    "id": "016154",
+    "subject": "AFM",
+    "catalogNumber": "480",
+    "title": "Introduction to Organizational Behaviour",
+    "description": "This course focuses on understanding and applying concepts concerning the behaviour of individuals and groups in organizations. Topics may include performance management, organizational commitment, collaboration, motivation, communication, decision making, culture, and ethical systems.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "AFM 280",
+        "MSCI 211",
+        "PSYCH 238",
+        "PSYCH 338"
+    ],
+    "next": []
+}

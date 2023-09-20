@@ -1,0 +1,14 @@
+{
+    "id": "016208",
+    "subject": "AMATH",
+    "catalogNumber": "653",
+    "title": "Partial Differential Equations 2",
+    "description": "A thorough discussion of the class of second order linear partial differential equations with constant\ncoefficients, in two independent variables. Laplace's equation, the wave equation and the heat equation in\nhigher dimensions. Theoretical/qualitative aspects: well-posed problems, maximum principles for elliptic and\nparabolic equations, continuous dependence results, uniqueness results (including consideration of\nunbounded domains), domain of dependence for hyperbolic equations. Solution procedures: elliptic equations\n-- Green functions, conformal mapping; hyperbolic equations -- generalized d'Alembert solution, spherical\nmeans, method of descent; transform methods -- Fourier, multiple Fourier, Laplace, Hankel (for all three types\nof partial differential equations); Duhamel's method for inhomogeneous hyperbolic and parabolic equations.\n(Heldwith AMATH 453)",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "AMATH 453"
+    ],
+    "next": []
+}

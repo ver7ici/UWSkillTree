@@ -1,0 +1,20 @@
+{
+    "id": "013541",
+    "subject": "COMM",
+    "catalogNumber": "101",
+    "title": "Introduction to Financial Markets",
+    "description": "The course introduces students to the role of finance in the global economy and aims to develop students' understanding of the basic principles of financial decision-making.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "AFM 121",
+        "CFM 101",
+        "BUS 283W"
+    ],
+    "next": []
+}

@@ -1,0 +1,12 @@
+{
+    "id": "000572",
+    "subject": "CIVE",
+    "catalogNumber": "774",
+    "title": "Advanced Numerical Methods for Environmental Applications",
+    "description": "The analyses of natural and/or manmade environmental systems commonly lead to quantitative descriptions, or mathematical models, of the underlying chemical, biological and physical processes.  Numerical models are used for complex situations that may involve spatial variability of material properties, non-uniform geometry, and transient boundary conditions.  The objective of this course is to introduce you to theoretical and practical aspects associated with numerical methods for environmental applications.  Topics include: review of field equations, conservation laws, and continua; classification of PDEs; types of boundary and initial conditions; finite difference method, error analysis and stability; equation solvers; weighted residual techniques; finite element method; introduction to the finite volume method; techniques for advective dominated flows; sensitivity methods; and the solution to coupled non-linear equations.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

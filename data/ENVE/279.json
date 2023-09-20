@@ -1,0 +1,19 @@
+{
+    "id": "014957",
+    "subject": "ENVE",
+    "catalogNumber": "279",
+    "title": "Energy and the Environment",
+    "description": "Conservation of energy, energy balances on closed systems. Steady-state and transient heat transfer via convection, radiation, and conduction. Mechanical and electrical work. Internal energy, enthalpy, and specific heats of solids, liquids and gases. Phase change in natural environmental systems; The basics of heat engines, refrigerators, and heat pumps. Function, evaluation, and design of energy resource technology: wind and hydroelectric turbines, photovoltaics, geothermal energy, biomass and biofuel, natural gas and petroleum extraction, and tidal energy. Renewable energy policy and implications. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "CHE 330",
+        "ECE 309",
+        "ME 250",
+        "SYDE 381"
+    ],
+    "next": []
+}

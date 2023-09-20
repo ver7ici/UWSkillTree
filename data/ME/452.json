@@ -1,0 +1,14 @@
+{
+    "id": "006739",
+    "subject": "ME",
+    "catalogNumber": "452",
+    "title": "HVAC Load Analysis and Design Fundamentals",
+    "description": "Advanced psychrometric analysis applied to HVAC system design. Duct design and fan selection. Indoor air quality and thermal comfort. Heating and cooling load calculations. Heat flow through building elements. Solar radiation and solar gains through windows. Infiltration and exfiltration. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

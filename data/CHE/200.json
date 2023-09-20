@@ -1,0 +1,15 @@
+{
+    "id": "003949",
+    "subject": "CHE",
+    "catalogNumber": "200",
+    "title": "Equilibrium Stage Operations",
+    "description": "Equilibrium between phases; the equilibrium stage concept. Cascades of stages with and without reflux; group methods and stage-by-stage approaches; graphical solutions. Applications in the separation of components by distillation, absorption, stripping, extraction and leaching. [Offered:  F, W]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

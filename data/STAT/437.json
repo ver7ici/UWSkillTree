@@ -1,0 +1,16 @@
+{
+    "id": "013321",
+    "subject": "STAT",
+    "catalogNumber": "437",
+    "title": "Statistical Methods for Life History Analysis",
+    "description": "Statistical methods for the analysis of longitudinal data; hierarchical models, marginal models, and transitional models. Parametric and semiparametric methods for the analysis of survival data under censoring and truncation. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "STAT 431"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

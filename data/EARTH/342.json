@@ -1,0 +1,24 @@
+{
+    "id": "004839",
+    "subject": "EARTH",
+    "catalogNumber": "342",
+    "title": "Geomorphology and GIS Applications",
+    "description": "An introduction of geomorphology with emphasis on landscape-forming processes. Characteristics and development of various landforms (e.g. mountain belts, volcanoes, impact craters, and those created by erosion/deposition of rivers/glaciers) are introduced. Skills for interpreting landforms in air photos or satellite images (in Google Earth or ArcGIS) are practised in the lab work. Application of Geographic Information Systems (GIS) to Earth Sciences. Basic concepts of GIS and GIS applications in mineral exploration industry and in fieldwork are introduced. Laboratory work of GIS involves map construction and spatial analysis (e.g., landslide hazard assessment). [Offered: F]",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [
+        "EARTH 121",
+        "EARTH 122",
+        "CIVE 153",
+        "ENVE 153",
+        "GEOE 153",
+        "SCI 250"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "EARTH 440"
+    ]
+}

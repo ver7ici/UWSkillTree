@@ -1,0 +1,16 @@
+{
+    "id": "004865",
+    "subject": "EARTH",
+    "catalogNumber": "460",
+    "title": "Geophysical Data Analysis",
+    "description": "Geophysical data sets require the application of specialized analysis methods to extract information about the Earth's interior. This course covers commonly used concepts and techniques used in geophysical data analysis including spectral analysis, convolution, filtering, and sampling. Emphasis is given to the analysis and processing of radar and seismic reflection profiling data sets. [Note: A full credit in first-year Calculus is recommended as a prerequisite. Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "EARTH 260"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

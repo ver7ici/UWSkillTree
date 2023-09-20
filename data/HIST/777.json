@@ -1,0 +1,15 @@
+{
+    "id": "013814",
+    "subject": "HIST",
+    "catalogNumber": "777",
+    "title": "World History Minor Area Seminar",
+    "description": "Minor area seminars meet biweekly throughout the Fall and Winter terms for discussion of a reading list of 50 books selected by the instructor.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

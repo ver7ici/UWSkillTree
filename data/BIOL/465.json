@@ -1,0 +1,20 @@
+{
+    "id": "010003",
+    "subject": "BIOL",
+    "catalogNumber": "465",
+    "title": "Structural Bioinformatics",
+    "description": "Analysis of proteins using structural and bioinformatics approaches. Topics include methods of protein structure determination and visualization, structure comparison and prediction, prediction of protein function and interactions, molecular dynamics, and protein design. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "BIOL 266",
+        "BIOL 366",
+        "BIOL 365",
+        "CHEM 233",
+        "CHEM 237"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

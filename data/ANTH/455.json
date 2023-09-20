@@ -1,0 +1,17 @@
+{
+    "id": "011982",
+    "subject": "ANTH",
+    "catalogNumber": "455",
+    "title": "Skeletal Biology and Forensics",
+    "description": "This laboratory course focuses on the evaluation of human skeletal remains in archaeological and forensic contexts. Topics include determination of basic biological categories (e.g., age, sex, race), evaluation of paleopathological conditions, and aspects of forensic anthropology.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "ANTH 355",
+        "ANTH 370W"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,14 @@
+{
+    "id": "013276",
+    "subject": "PHYS",
+    "catalogNumber": "602",
+    "title": "Perimeter Scholars International Statistical Physics",
+    "description": "A brief review of ensembles and quantum gases, Ising model, Landau theory of phase transitions, order parameters, topology, classical solutions.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

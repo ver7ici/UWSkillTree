@@ -1,0 +1,18 @@
+{
+    "id": "012458",
+    "subject": "PHARM",
+    "catalogNumber": "124",
+    "title": "Pharmaceutics 1",
+    "description": "This course, and PHARM 125, consider the scientific and technical aspects important in dosage form design.  The lectures and practical laboratory experiences emphasize the role of biopharmaceutics, preformulation and physical pharmacy in the development of safe and effective dosage forms. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PHARM 125",
+        "PHARM 224",
+        "PHARM 361"
+    ]
+}

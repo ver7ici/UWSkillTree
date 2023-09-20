@@ -1,0 +1,17 @@
+{
+    "id": "004150",
+    "subject": "CHEM",
+    "catalogNumber": "432",
+    "title": "Metabolism 2",
+    "description": "Properties and metabolism of porphyrins, purines, pyrimidines and biogenic amines. Biosynthesis and mode of action of selected cofactors. Structure-function relationships of enzymes. Regulation of enzyme activity. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "CHEM 331",
+        "CHEM 333"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

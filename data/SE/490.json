@@ -1,0 +1,20 @@
+{
+    "id": "012941",
+    "subject": "SE",
+    "catalogNumber": "490",
+    "title": "Design Project 1",
+    "description": "Continuing from SE 390, students undertake a substantial customer-driven group project. Project groups establish and maintain project control processes, delivering a series of iterations on their initial SE 390 prototype. Adaptive methodologies are encouraged and supported. [Offered: S]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "SE 390"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "SE 491"
+    ]
+}

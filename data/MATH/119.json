@@ -1,0 +1,47 @@
+{
+    "id": "006868",
+    "subject": "MATH",
+    "catalogNumber": "119",
+    "title": "Calculus 2 for Engineering",
+    "description": "Elementary approximation methods: interpolation; Taylor polynomials and remainder; Newton's method, Landau order symbol, applications. Infinite series: Taylor series and Taylor's Remainder Theorem, geometric series, convergence test, power series, applications. Functions of several variables: partial derivatives, linear approximation and differential, gradient and directional derivative, optimization and Lagrange multipliers. Vector-valued functions:  parametric representation of curves, tangent and normal vectors, line integrals and applications. [Offered: W,S]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "MATH 116",
+        "MATH 117",
+        "MATH 127",
+        "MATH 137",
+        "MATH 147"
+    ],
+    "coreq": [],
+    "antireq": [
+        "MATH 118",
+        "MATH 128",
+        "MATH 138",
+        "MATH 148"
+    ],
+    "next": [
+        "AMATH 250",
+        "CS 370",
+        "MATH 218",
+        "STAT 220",
+        "STAT 230",
+        "STAT 231",
+        "PMATH 370",
+        "STAT 206",
+        "MATH 213",
+        "BIOL 382",
+        "NE 215",
+        "ECE 240",
+        "PHYS 224",
+        "PHYS 233",
+        "PHYS 383",
+        "AMATH 251",
+        "AMATH 390",
+        "ECE 306",
+        "ECE 404",
+        "ECE 203"
+    ]
+}

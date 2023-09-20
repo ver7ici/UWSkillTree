@@ -1,0 +1,19 @@
+{
+    "id": "015295",
+    "subject": "ECE",
+    "catalogNumber": "320",
+    "title": "Computer Architecture",
+    "description": "Organization and performance of uniprocessors, pipelined processors, dynamically scheduled processors, parallel processors and multiprocessors; memory and cache structures; multiprocessor algorithms and synchronization techniques; special-purpose architectures. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "CS 354",
+        "ECE 222"
+    ],
+    "coreq": [],
+    "antireq": [
+        "ECE 429"
+    ],
+    "next": []
+}

@@ -1,0 +1,23 @@
+{
+    "id": "010053",
+    "subject": "ECE",
+    "catalogNumber": "406",
+    "title": "Algorithm Design and Analysis",
+    "description": "Design and analysis of efficient, correct algorithms. Advanced data structures, divide-and-conquer algorithms, recurrences, greedy algorithms, dynamic programming, graph algorithms, search and backtrack, inherently hard and unsolvable problems, approximation and randomized algorithms, and amortized analysis. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "BME 122",
+        "ECE 250",
+        "MTE 140",
+        "SYDE 223"
+    ],
+    "coreq": [],
+    "antireq": [
+        "CS 341",
+        "CS 466",
+        "SYDE 423"
+    ],
+    "next": []
+}

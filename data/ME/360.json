@@ -1,0 +1,26 @@
+{
+    "id": "006728",
+    "subject": "ME",
+    "catalogNumber": "360",
+    "title": "Introduction to Control Systems",
+    "description": "Open loop and feedback control. Laws governing mechanical, electrical, fluid and thermal control components. Analogies. Analysis of some engineering control systems using block diagram algebra, transient and steady-state operation. Different modes of control. Review of Laplace Transform methods. Concepts of stability. Principles of analog computer simulation. Brief treatment of linear flow graphs and bondgraphs. [Offered: F,W]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [
+        "ME 203",
+        "ME 321"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ECE 486",
+        "ME 547",
+        "ME 548",
+        "ME 561",
+        "ECE 484",
+        "ECE 488",
+        "MTE 460"
+    ]
+}

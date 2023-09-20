@@ -1,0 +1,20 @@
+{
+    "id": "003909",
+    "subject": "CO",
+    "catalogNumber": "444",
+    "title": "Algebraic Graph Theory",
+    "description": "An introduction to the methods of and some interesting current topics in algebraic graph theory.  Topics covered will include vertex-transitive graphs, eigenvalue methods, strongly regular graphs and may include graph homomorphisms, Laplacians or knot and link invariants.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "MATH 239",
+        "MATH 249",
+        "PMATH 336",
+        "PMATH 346",
+        "PMATH 347"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,14 @@
+{
+    "id": "012931",
+    "subject": "ENGL",
+    "catalogNumber": "325",
+    "title": "Austen",
+    "description": "A study of selected novels by Jane Austen, including Pride and Prejudice and Emma. Her letters and juvenilia may also be considered, as well as some of the films based on or inspired by her novels.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

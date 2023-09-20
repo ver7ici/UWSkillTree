@@ -1,0 +1,14 @@
+{
+    "id": "000797",
+    "subject": "ECE",
+    "catalogNumber": "761",
+    "title": "HVDC and FACTS",
+    "description": "Application of state-of-the-art high power electronics to power transmission and distribution systems.  The emphasis will be on three important application areas - high voltage direct current (HVDC) transmission systems, flexible AC transmission Systems (FACTS) and Custom Power devices.  The course addresses FACTS controllers including: static synchronous compensators (STATCOM), static synchronous series compensators (SSSC), interphase power flow controllers (IPFC) and unified spower flow controllers (UPFC).  Custom power devices such as shunt DSTATCOM, series compensating DVR and unified power quality conditioners (UPQC) are also discussed.  This course will concentrate on the operating principles, models, and control and performance of power electronic systems used in these applications.  Background required - ECE 463 or equivalent.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "ECE 661"
+    ],
+    "next": []
+}

@@ -1,0 +1,16 @@
+{
+    "id": "010193",
+    "subject": "EASIA",
+    "catalogNumber": "360R",
+    "title": "Pre-modern Chinese Literature",
+    "description": "This course is an introductory survey of the main genres of classical and pre-modern Chinese literature. Individual works are related to the evolution of the literary tradition and its interaction with history, philosophy, and politics. Classical and historical writing, poetry, drama, and novels are introduced. [Note: Formerly EASIA 210R.]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "EASIA 210R"
+    ],
+    "next": []
+}

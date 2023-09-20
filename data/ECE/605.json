@@ -1,0 +1,12 @@
+{
+    "id": "000767",
+    "subject": "ECE",
+    "catalogNumber": "605",
+    "title": "Queueing Systems",
+    "description": "Introduction to queueing theory, queueing models, performance measures, performance analysis and evaluations, Poisson arrivals and exponential service times, Little's formula, Markov and semi-Markov processes, birth-death processes, single server and multiserver queues, single stage and tandem networks, open and closed networks.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

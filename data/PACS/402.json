@@ -1,0 +1,16 @@
+{
+    "id": "012195",
+    "subject": "PACS",
+    "catalogNumber": "402",
+    "title": "Senior Research Seminar",
+    "description": "A continuation of PACS 401. Each student will work on an integrative research project or projects and will meet regularly with other students and faculty for discussion.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "PACS 401"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,15 @@
+{
+    "id": "007948",
+    "subject": "PSYCH",
+    "catalogNumber": "318",
+    "title": "Psychosexual Organization",
+    "description": "A detailed examination of concepts related to the formation of gender identity and psychosexual orientation. The nature-nurture debate will be explored as well as gay and lesbian identity and consciousness throughout the life cycle.",
+    "term": [],
+    "prereq": [
+        "PSYCH 211",
+        "PSYCH 236"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

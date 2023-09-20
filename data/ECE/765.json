@@ -1,0 +1,14 @@
+{
+    "id": "016038",
+    "subject": "ECE",
+    "catalogNumber": "765",
+    "title": "Power System Protection and Relaying",
+    "description": "This course focuses on the protection of various components of a power system including transmission lines, rotating machinery, transformers, busbars, reactors, capacitors and distribution lines. The course will review the fundamental features of a reliable protection system and will discuss the major components of a protection system including current and voltage transformers, circuit breakers, and relays. Various protection strategies such as nonpilot overcurrent protection, nonpilot distance protection, pilot protection and differential protection will be discussed in this course.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

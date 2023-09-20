@@ -1,0 +1,17 @@
+{
+    "id": "013548",
+    "subject": "ENBUS",
+    "catalogNumber": "630",
+    "title": "Enterprise Marketing and Social Accountability",
+    "description": "Changing boundaries, and shifting social expectations create risks and opportunities for an enterprise.  This course discusses the need to remain accountable to society and manage the firm's reputation in the age of digital information and raised sustainability disclosure expectations.  It also examines the implications for marketing and reporting.  The course introduces core tools for corporate sustainability marketing and reporting, including stakeholder engagement approaches, social accountability and carbon disclosure guidelines, sustainability reporting frameworks, sustainability standards, codes, certifications and labels, and green marketing.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "ENBUS 601",
+        "ENBUS 602"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

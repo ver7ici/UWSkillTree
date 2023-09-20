@@ -1,0 +1,20 @@
+{
+    "id": "010089",
+    "subject": "ENBUS",
+    "catalogNumber": "102",
+    "title": "Introduction to Environment and Business",
+    "description": "Introduction of ways in which business has and is responding to environmental and business issues; business and sustainable development; issues of corporate/business greening.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "SFM 101"
+    ],
+    "next": [
+        "ENBUS 202",
+        "ENBUS 204",
+        "ENBUS 112"
+    ]
+}

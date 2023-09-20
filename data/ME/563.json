@@ -1,0 +1,14 @@
+{
+    "id": "006768",
+    "subject": "ME",
+    "catalogNumber": "563",
+    "title": "Turbomachines",
+    "description": "Classification of turbomachines, performance parameters and laws of modelling. Basic equation of flow in turbomachines, compressible flow. Energy transfer in radial and axial turbomachines, performance characteristics, losses and efficiencies. Blade and cascade design, 3 dimensional effects. [Offered: W]",
+    "term": [],
+    "prereq": [
+        "ME 362"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

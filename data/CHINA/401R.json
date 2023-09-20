@@ -1,0 +1,18 @@
+{
+    "id": "016083",
+    "subject": "CHINA",
+    "catalogNumber": "401R",
+    "title": "Introduction to Classical Chinese 1",
+    "description": "This course examines selected philosophical and historical writings from pre-modern China with an emphasis on introducing the basic vocabulary and grammar of classical Chinese. [Note: Chinese native or near-native proficiency students may enrol; placement test is required.]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "CHINA 302R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "CHINA 402R"
+    ]
+}

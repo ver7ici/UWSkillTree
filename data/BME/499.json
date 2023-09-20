@@ -1,0 +1,17 @@
+{
+    "id": "015626",
+    "subject": "BME",
+    "catalogNumber": "499",
+    "title": "Elective Biomedical Research Project",
+    "description": "A major undergraduate individual biomedical research project carried out as a technical elective (TE) under the supervision of a faculty member. Students are expected to demonstrate initiative and responsibility. An oral presentation of results and a written report are the minimum requirements. The faculty supervisor or department may set other requirements. Students will arrange for a faculty supervisor prior to registration. [Offered: F,W]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [
+        "BME 399"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

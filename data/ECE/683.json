@@ -1,0 +1,12 @@
+{
+    "id": "000812",
+    "subject": "ECE",
+    "catalogNumber": "683",
+    "title": "System Identification",
+    "description": "Estimation theory, linear and nonlinear regression, numerical techniques for parameter estimation for static and dynamic models, the Kalman filter and extensions, stochastic approximation, empirical dynamic models - especially for linear sampled data systems with stochastic inputs.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

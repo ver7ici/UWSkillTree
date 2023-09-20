@@ -1,0 +1,16 @@
+{
+    "id": "014145",
+    "subject": "GEOG",
+    "catalogNumber": "428",
+    "title": "Spatial Demography",
+    "description": "This course develops the capacity of students to apply methods of spatial demography. Spatial demography refers to the statistical study of human population using spatial methods for analyzing demographic data. It can provide insights into the understanding of geographic variations of population's characteristics, which in turn can help to make better plans in building the environment. Through this course, students will learn the basic concepts, data sources, data issues, methodologies, and applications of spatial demography.",
+    "term": [],
+    "prereq": [
+        "ENVS 278",
+        "GEOG 281",
+        "PLAN 281"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

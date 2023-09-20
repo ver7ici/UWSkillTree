@@ -1,0 +1,15 @@
+{
+    "id": "015001",
+    "subject": "ARCH",
+    "catalogNumber": "510",
+    "title": "Special Topics in Visual and Digital Media",
+    "description": "A range of special topics within visual and digital media that include course offerings in parametric design and scripting, advanced visualization, interaction design, and digital fabrication. [Offered: F,W,S]",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

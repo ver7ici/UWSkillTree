@@ -1,0 +1,20 @@
+{
+    "id": "013779",
+    "subject": "MTE",
+    "catalogNumber": "481",
+    "title": "Mechatronics Engineering Design Project",
+    "description": "This course is intended to reinforce the concepts learned in MTE 380 and to extend the significant design experience obtained. Students work individually or in small groups applying the principles of engineering design and problem-solving to a design project of their own choosing. The project must incorporate all elements of Mechatronics, namely, mechanical design, electronics, computers and software. In exceptional circumstances, one or more elements may be exempted by the course instructor. The students are required to consider a need analysis, search for prior art and present alternate designs. The course ends with the selection of a final design. Projects are selected, approved, monitored, and marked by a course co-ordinator. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "MTE 380"
+    ],
+    "coreq": [],
+    "antireq": [
+        "ME 481"
+    ],
+    "next": [
+        "MTE 482"
+    ]
+}

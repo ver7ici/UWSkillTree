@@ -1,0 +1,29 @@
+{
+    "id": "016285",
+    "subject": "ARBUS",
+    "catalogNumber": "302",
+    "title": "Principles of Marketing",
+    "description": "This course is designed to provide a broad understanding of the field of marketing, including consumer behaviour, segmentation, targeting, positioning, branding, and the marketing mix. Students will gain an understanding of how organizations identify the needs of potential consumers and create and deliver value to these consumers through the marketing process.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "ECON 101"
+    ],
+    "coreq": [],
+    "antireq": [
+        "BUS 352W",
+        "ECON 344",
+        "MGMT 344",
+        "ARBUS 302",
+        "ENBUS 211",
+        "ENBUS 311",
+        "GBDA 304"
+    ],
+    "next": [
+        "COMM 432",
+        "ARBUS 303"
+    ]
+}

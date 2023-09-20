@@ -1,0 +1,14 @@
+{
+    "id": "003433",
+    "subject": "ANTH",
+    "catalogNumber": "300",
+    "title": "Practicing Anthropology",
+    "description": "Thinking anthropologically means bringing observations and empirical findings into a dialogue with theoretical approaches. This course explores how anthropologists have developed the methods they use, considers how they interpret their findings through such lenses as functionalism and structuralism, and examines how they formulate critiques of fieldwork.",
+    "term": [],
+    "prereq": [
+        "ANTH 202"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

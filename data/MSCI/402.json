@@ -1,0 +1,16 @@
+{
+    "id": "012384",
+    "subject": "MSCI",
+    "catalogNumber": "402",
+    "title": "Management Engineering Design Project 2",
+    "description": "This is the second course of a two course sequence to provide students with an opportunity to engage in a significant design experience based on the engineering knowledge and skills gained in previous courses and on cooperative work terms. Each student team is required to complete the detailed design for the project defined in MSCI 401, submit a final written report, and make an oral presentation describing their design solution. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "MSCI 401"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

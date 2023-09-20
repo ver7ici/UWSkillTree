@@ -1,0 +1,22 @@
+{
+    "id": "009505",
+    "subject": "PLAN",
+    "catalogNumber": "481",
+    "title": "Geographic Information Systems Project",
+    "description": "The development, implementation, and presentation of a response to a set of GIS related project requirements is the focus of this course. Students work in small teams to enhance and develop their abilities to work with GIS and related spatial technologies and analytical methods in an advanced project setting. The nature of the project requirements and themes varies with faculty and student strengths and interests. Projects may emphasize development of software applications, use of programming, or advanced GIS analysis methods, and draw from theme areas such as environment studies and management, human and physical geography, or planning.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "GEOG 387",
+        "PLAN 387",
+        "GEOG 381",
+        "PLAN 381",
+        "ENVS 278"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

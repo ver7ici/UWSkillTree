@@ -1,0 +1,14 @@
+{
+    "id": "014936",
+    "subject": "CS",
+    "catalogNumber": "638",
+    "title": "Principles of Data Management and Use",
+    "description": "A user-oriented approach to the management of large collections of data. Relational database technology, relational algebra, SQL, database views, transactions, data modelling methodology, entity-relationship models. Introduction to several current topics in database research, such as warehousing, data mining, managing data streams, data cleaning, data integration, and distributed/parallel databases. Master of Health Informatics and Master of Data Science and Artificial Intelligence students only.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "003520",
+    "subject": "ARCH",
+    "catalogNumber": "173",
+    "title": "Building Construction 2",
+    "description": "Focusing on the construction of medium-to large-scale buildings examines relationships between design development, and the building science, and construction practices of structural systems and enclosures. Case studies and projects will be used to investigate steel framing systems (traditional, long span, architectural exposed structural steel [AESS]); reinforced, precast, fibre reinforced and prestressed concrete construction; heavy timber construction (traditional, glulam, cross laminated timber [CLT]); deep foundations; building envelopes (curtain wall, window walls, glazing, insulation strategies, and roofing systems); fire protective design. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "ARCH 172"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ARCH 364"
+    ]
+}

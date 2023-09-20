@@ -1,0 +1,28 @@
+{
+    "id": "004779",
+    "subject": "ECE",
+    "catalogNumber": "380",
+    "title": "Analog Control Systems",
+    "description": "Introduction to control systems. Advantages of closed-loop feedback systems. The role of the system mathematical model. Block diagrams and signal flow graphs. The basic control system design problem, stability in control systems. Frequency response analysis techniques. Root-locus analysis. Elementary lead-lag compensation. [Offered: W, S]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "ECE 207",
+        "MATH 213"
+    ],
+    "coreq": [],
+    "antireq": [
+        "ME 360",
+        "MTE 360",
+        "SE 380",
+        "SYDE 352"
+    ],
+    "next": [
+        "ECE 481",
+        "ECE 486",
+        "ECE 488",
+        "MTE 460"
+    ]
+}

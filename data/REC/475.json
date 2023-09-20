@@ -1,0 +1,16 @@
+{
+    "id": "009509",
+    "subject": "REC",
+    "catalogNumber": "475",
+    "title": "Directed Study in Special Topics",
+    "description": "For the student who desires to pursue a particular topic in depth through guided independent research. A faculty member must approve a student's project prior to enrolment.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

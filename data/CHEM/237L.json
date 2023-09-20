@@ -1,0 +1,17 @@
+{
+    "id": "004062",
+    "subject": "CHEM",
+    "catalogNumber": "237L",
+    "title": "Introductory Biochemistry Laboratory",
+    "description": "Selected experiments for students taking CHEM 237. [Offered: W, S]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [
+        "CHEM 237"
+    ],
+    "antireq": [],
+    "next": []
+}

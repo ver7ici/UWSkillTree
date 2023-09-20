@@ -1,0 +1,18 @@
+{
+    "id": "013236",
+    "subject": "AVIA",
+    "catalogNumber": "101",
+    "title": "Professional Pilot Program Course 1",
+    "description": "This course provides the required Preparatory Ground Instruction to prepare students for the air exercises to be completed during in-aircraft instruction that is conducted as part of the course. Students will complete flight training to the First Solo level and acquire approximately 20 hours of flight time. This course also includes the ground school required to prepare the student to write the Transport Canada Private Pilot Licence - Airplane examination. The course provides a solid base of the knowledge required to be a safe and proficient professional pilot.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "AVIA 102"
+    ]
+}

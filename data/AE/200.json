@@ -1,0 +1,19 @@
+{
+    "id": "015326",
+    "subject": "AE",
+    "catalogNumber": "200",
+    "title": "Enclosure Design Studio",
+    "description": "Development of design and communication expertise through studio projects involving various building enclosure types. Exposure to building enclosure materials, systems, applications, and methods of representation. Emphasis placed on critical evaluation, problem solving, and design synthesis. Introduction to industry standard three-dimensional computer-aided design (3D CAD) software. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "AE 125"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "AE 225",
+        "AE 315"
+    ]
+}

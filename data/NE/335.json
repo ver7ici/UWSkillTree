@@ -1,0 +1,20 @@
+{
+    "id": "011940",
+    "subject": "NE",
+    "catalogNumber": "335",
+    "title": "Soft Nanomaterials",
+    "description": "Introduction to the applications of macromolecules in nanotechnology. Block copolymers and self-assembled polymerization. Micelles and colloids. Dendrimers and molecular brushes. Supramolecular polymers, polymeric blends, and macromolecular nanocomposites. Polymer templates. Applications in the manufacturing of nanostructured materials and nanoscale devices. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "NE 333"
+    ],
+    "coreq": [],
+    "antireq": [
+        "CHE 541"
+    ],
+    "next": [
+        "NE 491"
+    ]
+}

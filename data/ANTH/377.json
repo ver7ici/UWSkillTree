@@ -1,0 +1,16 @@
+{
+    "id": "015712",
+    "subject": "ANTH",
+    "catalogNumber": "377",
+    "title": "Dental Anthropology",
+    "description": "This course introduces students to the analysis of human teeth, which is of central importance to paleopathology, paleoanthropology, forensic science, and contemporary human biomonitoring research. Students will also gain hands-on experience with laboratory techniques as they explore how to address anthropological questions with their data.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "ANTH 204"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

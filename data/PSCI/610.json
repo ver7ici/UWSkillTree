@@ -1,0 +1,14 @@
+{
+    "id": "016365",
+    "subject": "PSCI",
+    "catalogNumber": "610",
+    "title": "International Relations Theory",
+    "description": "This course examines the major theories of International Relations (IR) and the current state of the field. It addresses the major IR theories, how they inform advanced research, and how they relate to the conduct of world politics.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ECON 637"
+    ]
+}

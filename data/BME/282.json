@@ -1,0 +1,16 @@
+{
+    "id": "014457",
+    "subject": "BME",
+    "catalogNumber": "282",
+    "title": "Materials Science for Biomedical Engineers",
+    "description": "Crystalline structure, crystal defects, non-crystalline materials, structure and properties of metals, ceramics, glasses, semi-conductors, polymers, and composites. Factors in materials design, material selection and processing in the context of biomedical devices and instruments will also be discussed.[Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "SYDE 285"
+    ],
+    "next": []
+}

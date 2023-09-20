@@ -1,0 +1,14 @@
+{
+    "id": "010110",
+    "subject": "RS",
+    "catalogNumber": "212",
+    "title": "Great Jewish Books",
+    "description": "Jews are a people of many books. Over the centuries challenges to their faith and very existence have provoked various responses. From the Bible to contemporary times, this course comprehensively examines the history of Jewish thought through essential books that offer radically divergent conceptions of Jewishness and Judaism.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "JS 125"
+    ],
+    "next": []
+}

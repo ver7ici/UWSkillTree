@@ -1,0 +1,15 @@
+{
+    "id": "009212",
+    "subject": "CHE",
+    "catalogNumber": "201",
+    "title": "Seminar",
+    "description": "General Seminar.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

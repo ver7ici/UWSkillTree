@@ -1,0 +1,16 @@
+{
+    "id": "004678",
+    "subject": "THPERF",
+    "catalogNumber": "301",
+    "title": "Performance Creation",
+    "description": "Students study, apply, and critique a range of processes for making performance in a range of media, paying close attention to the relationship between the approach to creation and the significance of works in the communities where they are performed.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "THPERF 243"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,17 @@
+{
+    "id": "008096",
+    "subject": "PSYCH",
+    "catalogNumber": "465",
+    "title": "Applied Apprenticeship",
+    "description": "For Psychology majors interested in a career in applied psychology. The course involves an unpaid apprenticeship in an industrial, medical, government, or other applied setting combined with regular seminar meetings. The apprenticeship will require a volunteer commitment of 60 hours during the lecture period. The course is offered on a credit/no credit basis. Paid or volunteer positions that are obtained outside the context of this course are not eligible for credit in this course. Course application forms are available at the Psychology undergraduate website. [Offered: W]",
+    "term": [],
+    "prereq": [
+        "PSYCH 291",
+        "PSYCH 292"
+    ],
+    "coreq": [],
+    "antireq": [
+        "PSYCH 467"
+    ],
+    "next": []
+}

@@ -1,0 +1,14 @@
+{
+    "id": "013604",
+    "subject": "HLTH",
+    "catalogNumber": "612",
+    "title": "Data Structures and Standards in Health Informatics",
+    "description": "This course focuses on health data as a key component of all health informatics systems.  Topics include ontologies and other classification taxonomies found in health systems, data standards (with a focus on Canadian implementations of international standards), privacy and security of health data, client/patient assessment tools, and ethical considerations.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

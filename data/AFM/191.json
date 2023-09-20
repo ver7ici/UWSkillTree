@@ -1,0 +1,31 @@
+{
+    "id": "016149",
+    "subject": "AFM",
+    "catalogNumber": "191",
+    "title": "Foundations for Financial Reporting",
+    "description": "This course is a foundation for the practice of financial reporting, including topics such as the conceptual framework underlying accounting standards, the purpose of each financial statement, and the relationships among the financial statements.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "AFM 101",
+        "AFM 123",
+        "ARBUS 102",
+        "BUS 127W",
+        "BUS 227W",
+        "MSCI 262"
+    ],
+    "next": [
+        "AFM 291",
+        "AFM 382",
+        "AFM 102",
+        "AFM 276",
+        "AFM 206",
+        "AFM 208",
+        "AFM 212",
+        "AFM 182"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "id": "015277",
+    "subject": "SI",
+    "catalogNumber": "131R",
+    "title": "Arab Culture",
+    "description": "Integrating elements of Arab history, geography, language, literature (prose and poetry), art, music, theatre, cinema, politics, press, humour, dance, fashion, and food, this course explores varied expressions of Arab culture. Students will also study the phenomenon of Orientalism and the impact of European colonialism upon the Arabs.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "ARTS 190"
+    ],
+    "next": []
+}

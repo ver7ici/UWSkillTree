@@ -1,0 +1,18 @@
+{
+    "id": "005311",
+    "subject": "ERS",
+    "catalogNumber": "215",
+    "title": "Environmental and Sustainability Assessment 1",
+    "description": "An introduction to processes and techniques for incorporating environmental considerations in planning and evaluating proposals for future undertakings that may have significant social and biophysical effects. The course provides an overview of methodologies for, and controversies surrounding, the design and conduct of biophysical and socioeconomic impact studies, and the testing of reported findings. The main focus is on the purposes and design of environmental assessment processes, with particular reference to the Canadian federal and Ontario provincial legal mandates, and the evolution of assessment into a sustainability framework.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ERS 315"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": "003951",
+    "subject": "CHE",
+    "catalogNumber": "230",
+    "title": "Physical Chemistry 1",
+    "description": "Thermodynamics: work and heat as forms of energy. First law, internal energy and enthalpy. Heats of chemical and physical changes. Cycles and the second law, entropy. Spontaneity and equilibrium, free energies. Systems of variable composition, chemical equilibrium. Phase equilibrium and the phase rule. Ideal solutions, colligative properties.  [Offered: F, W]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

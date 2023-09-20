@@ -1,0 +1,17 @@
+{
+    "id": "006430",
+    "subject": "GERON",
+    "catalogNumber": "245",
+    "title": "Canadian Health Systems",
+    "description": "This course examines Canadian health systems by considering organizational principles, health resources, service utilization, health care planning, and health promotion strategies. There is a focus on societal and political issues which affect the health of the society through the delivery system.",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "HLTH 392"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "id": "012487",
+    "subject": "PHARM",
+    "catalogNumber": "321",
+    "title": "Integrated Patient Focused Care 6",
+    "description": "This is the sixth of nine sequential courses.  Topics discussed through patient scenarios and assignments will focus on two to three body systems. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "PHARM 222",
+        "PHARM 223"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PHARM 324",
+        "PHARM 323",
+        "PHARM 465",
+        "PHARM 467"
+    ]
+}

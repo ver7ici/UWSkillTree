@@ -1,0 +1,22 @@
+{
+    "id": "006944",
+    "subject": "MUSIC",
+    "catalogNumber": "100",
+    "title": "Understanding Music",
+    "description": "The styles, forms, techniques, and terminology of Western music through lectures and listening, as exemplified by great works from all eras of music history. [Note: The ability to read music notation is not required.]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "MUSIC 231",
+        "MUSIC 275",
+        "MUSIC 326",
+        "MUSIC 361",
+        "MUSIC 362"
+    ]
+}

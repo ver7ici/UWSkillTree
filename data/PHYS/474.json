@@ -1,0 +1,19 @@
+{
+    "id": "013964",
+    "subject": "PHYS",
+    "catalogNumber": "474",
+    "title": "Galaxies",
+    "description": "Galaxy structure, formation and evolution.  Dynamics and stellar populations; gas and dust; supermassive black holes; large-scale structure. [Offered:  F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "AMATH 261",
+        "AMATH 271",
+        "PHYS 263",
+        "PHYS 375"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,16 @@
+{
+    "id": "002317",
+    "subject": "PLAN",
+    "catalogNumber": "801",
+    "title": "Foundations of Planning Scholarship",
+    "description": "Introductory examination of Planning as a discipline, scholarly endeavor and professional field.  Students will learn about and evaluate the evolution of planning scholarship, planning practice and their integration in diverse contexts.  Professional development topics will include journal writing and review, grant applications, consulting, professional writing, professional ethics, and knowledge mobilization.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PLAN 802"
+    ]
+}

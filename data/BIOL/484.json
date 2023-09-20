@@ -1,0 +1,19 @@
+{
+    "id": "012330",
+    "subject": "BIOL",
+    "catalogNumber": "484",
+    "title": "Advanced Eukaryotic Genetics",
+    "description": "The role of classical genetic analysis in the context of today's genomic era. Topics: meiotic recombination, meiosis, complementation analysis, chromosome aberrations, and genetic interactions.  Methods used in model eukaryotic genetic organisms such as forward and reverse genetic screens, genetic mosaics, conditional mutants, and genetic mapping will be discussed.  Examples will illustrate how genes continue to be identified using classical-based approaches in a variety of biological processes, including cell cycle progression, cancer and metastasis, learning and memory, as well as pattern formation and embryonic development.  Alternatives to traditional mutagenesis-based screens and the links between classical and molecular genetics will also be discussed.  [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "BIOL 130",
+        "BIOL 139",
+        "BIOL 239",
+        "BIOL 308"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

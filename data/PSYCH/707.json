@@ -1,0 +1,15 @@
+{
+    "id": "010594",
+    "subject": "PSYCH",
+    "catalogNumber": "707",
+    "title": "Cognitive Neuroscience Seminar",
+    "description": "This is a weekly seminar including both student and faculty presentations of current research and student proposals for MA or PhD work. The format of the seminars may vary from term to term depending on the availability of invited speakers, topics of interest to students and faculty, and the research of members of the group.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

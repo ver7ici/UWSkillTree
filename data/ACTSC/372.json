@@ -1,0 +1,40 @@
+{
+    "id": "012044",
+    "subject": "ACTSC",
+    "catalogNumber": "372",
+    "title": "Investment Science and Corporate Finance",
+    "description": "Introduction to financial markets. Different return and risk measures. Investment rules and capital budgeting. Rigorous derivations of Markowitz portfolio optimization and its application in investment decisions. Capital Asset Pricing Model (CAPM) and Arbitrage Pricing Theory (APT). Weighted average cost of capital (WACC) and efficient market hypothesis (EMH). Long-term financing, capital structure (MM propositions), and dividend policies. Introduction to options, forwards, and swaps. [Offered: F,W,S]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "ACTSC 231",
+        "MATH 235",
+        "MATH 245",
+        "MATH 237",
+        "MATH 247"
+    ],
+    "coreq": [],
+    "antireq": [
+        "AFM 272",
+        "ACTSC 291",
+        "AFM 273",
+        "AFM 274",
+        "AFM 275",
+        "AFM 372",
+        "ACTSC 391",
+        "BUS 393W",
+        "ECON 371",
+        "MATBUS 371"
+    ],
+    "next": [
+        "AFM 424",
+        "ACTSC 446",
+        "ACTSC 445",
+        "ACTSC 471",
+        "MATBUS 471",
+        "MATBUS 472"
+    ]
+}

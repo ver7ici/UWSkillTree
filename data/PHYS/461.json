@@ -1,0 +1,17 @@
+{
+    "id": "013648",
+    "subject": "PHYS",
+    "catalogNumber": "461",
+    "title": "Nanophysics",
+    "description": "Fundamentals of nanotechnology.  Applications of nanotechnology in biology and medicine.  Nanotechnology and society.  Physical foundations of nanodevices.  Conduction at the nanoscale.  Modern nanodevices. [Offered: F]",
+    "term": [],
+    "prereq": [
+        "PHYS 335",
+        "ECE 231"
+    ],
+    "coreq": [],
+    "antireq": [
+        "NE 471"
+    ],
+    "next": []
+}

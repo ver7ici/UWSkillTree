@@ -1,0 +1,14 @@
+{
+    "id": "013284",
+    "subject": "PHYS",
+    "catalogNumber": "622",
+    "title": "Perimeter Scholars International Standard Model",
+    "description": "Application of Yang-Mills theory to particle physics, QCD and its tests in the perturbative regime, theory of weak interactions, precision tests of electroweak theory, CKM matrix and flavour physics, open questions.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

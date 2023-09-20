@@ -1,0 +1,18 @@
+{
+    "id": "016169",
+    "subject": "LS",
+    "catalogNumber": "329",
+    "title": "Security and Governance",
+    "description": "The course examines the relationship between the framing of (in)security and policing as a dominant approach to govern risk in our modern era. Topics may include the policing of political protest, the Anthropocene, and the Internet. Students will analyze what's at stake with the diffusion of security in social life.",
+    "term": [],
+    "prereq": [
+        "SOC 101",
+        "SOC 101R",
+        "SOC 120R"
+    ],
+    "coreq": [],
+    "antireq": [
+        "SOC 330"
+    ],
+    "next": []
+}

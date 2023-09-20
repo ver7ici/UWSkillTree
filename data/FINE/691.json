@@ -1,0 +1,16 @@
+{
+    "id": "001242",
+    "subject": "FINE",
+    "catalogNumber": "691",
+    "title": "Graduate Studio 2",
+    "description": "A continuation of FINE 690 ; directed individual studio work in the student's chosen area of concentration.  Open to Fine Arts graduate students only. Prerequisite: FINE 690.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "FINE 690"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

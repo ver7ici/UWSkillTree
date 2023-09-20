@@ -1,0 +1,18 @@
+{
+    "id": "016396",
+    "subject": "BLKST",
+    "catalogNumber": "302",
+    "title": "Strategic Management of Black Enterprises",
+    "description": "Current real-world challenges in the strategic management of start-ups, technological innovation, and social enterprises are addressed through the lens of Black studies. Students will work collaboratively to address the topics to be pursued, including both cultural and business/economic aspects.",
+    "term": [],
+    "prereq": [
+        "BLKST 103",
+        "BLKST 101",
+        "BLKST 102"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "BLKST 499"
+    ]
+}

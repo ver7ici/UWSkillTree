@@ -1,0 +1,20 @@
+{
+    "id": "006432",
+    "subject": "HLTH",
+    "catalogNumber": "341",
+    "title": "Principles of Pathobiology",
+    "description": "An introduction to the study of biological factors governing disease in humans that will use selected diseases to identify risk factors and illustrate pathogenic mechanisms. The role that behaviour has in modifying biological response to disease may also be considered.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "BIOL 130",
+        "BIOL 273",
+        "KIN 217",
+        "CHEM 233",
+        "CHEM 237"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

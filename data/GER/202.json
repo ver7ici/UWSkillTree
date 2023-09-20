@@ -1,0 +1,21 @@
+{
+    "id": "006072",
+    "subject": "GER",
+    "catalogNumber": "202",
+    "title": "Intermediate German 2",
+    "description": "Strengthening of communicative skills, grammar review, vocabulary building, written practice, and conversation on issues of contemporary life in German-speaking countries. [Note: GER 202 and GER 211 can be taken concurrently. GER 202 is not open to students with native, near-native, or similar advanced ability.]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "GER 201"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "GER 304",
+        "GER 307",
+        "GER 308"
+    ]
+}

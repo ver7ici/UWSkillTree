@@ -1,0 +1,24 @@
+{
+    "id": "016355",
+    "subject": "PHARM",
+    "catalogNumber": "226",
+    "title": "Pharmacy Management",
+    "description": "This course introduces management principles in the context of pharmacy practice. [Offered: S]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "PHARM 228"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PHARM 370",
+        "PHARM 372",
+        "PHARM 460",
+        "PHARM 461",
+        "PHARM 352",
+        "PHARM 353"
+    ]
+}

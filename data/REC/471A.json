@@ -1,0 +1,21 @@
+{
+    "id": "008220",
+    "subject": "REC",
+    "catalogNumber": "471A",
+    "title": "Honours Thesis",
+    "description": "An independent research project on an approved topic supervised by a faculty member. REC 471A includes an approved design and completion of the first segment of the paper. REC 471A requires the completion of REC 471B. REC 471B requires the completion of the project begun in REC 471A.This course will be offered on a credit/no credit basis.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "REC 371",
+        "REC 373"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "REC 471B"
+    ]
+}

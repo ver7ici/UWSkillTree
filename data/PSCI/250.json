@@ -1,0 +1,23 @@
+{
+    "id": "011344",
+    "subject": "PSCI",
+    "catalogNumber": "250",
+    "title": "The Comparative Politics of State and Nation",
+    "description": "How do states and regimes interact with cultural and national identity? In this core comparative politics course, students will assess various approaches to the study of politics within states, emphasizing political developments, institutions, and processes in countries both across the Global South and advanced industrial worlds.",
+    "term": [],
+    "prereq": [
+        "PSCI 100",
+        "PSCI 101",
+        "PSCI 110",
+        "PSCI 150"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PSCI 350",
+        "PSCI 373",
+        "PSCI 452",
+        "LS 365",
+        "PSCI 450"
+    ]
+}

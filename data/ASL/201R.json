@@ -1,0 +1,18 @@
+{
+    "id": "016458",
+    "subject": "ASL",
+    "catalogNumber": "201R",
+    "title": "American Sign Language 3",
+    "description": "This course enables students to rehearse conversation and to correct information to minimize misunderstandings. Major topics will include family and occupations, attributing qualities to others, and discussing routines. Cultural notes and videotapes provide information on Deaf Culture and Community. Grammar is introduced in context.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "ASL 102R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ASL 202R"
+    ]
+}

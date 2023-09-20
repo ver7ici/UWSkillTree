@@ -1,0 +1,25 @@
+{
+    "id": "006721",
+    "subject": "ME",
+    "catalogNumber": "321",
+    "title": "Kinematics and Dynamics of Machines",
+    "description": "Principles of the geometry of motion, uniform and non-uniform motion, linkage, gears, cams. Synthesis and analysis of mechanisms. Consideration of the static and dynamic forces in machines. Vibration analysis, response to shock, motion and force transmissibility, vibration isolation. [Offered: W,S]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "ME 201",
+        "MTE 202",
+        "ME 212",
+        "SYDE 182"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ME 322",
+        "ME 360",
+        "ME 524",
+        "ME 555"
+    ]
+}

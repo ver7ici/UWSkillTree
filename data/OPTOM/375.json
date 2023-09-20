@@ -1,0 +1,17 @@
+{
+    "id": "010390",
+    "subject": "OPTOM",
+    "catalogNumber": "375",
+    "title": "Diseases of the Eye 3",
+    "description": "Advanced considerations of the etiology, signs, symptoms, diagnosis, treatment, and management of ocular disease. Emphasis will be placed on the clinical case management with therapeutic pharmaceutical agents.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "OPTOM 245",
+        "OPTOM 255"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

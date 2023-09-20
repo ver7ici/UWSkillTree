@@ -1,0 +1,24 @@
+{
+    "id": "013172",
+    "subject": "ECE",
+    "catalogNumber": "224",
+    "title": "Embedded Microprocessor Systems",
+    "description": "Microprocessor system architecture, bus systems, memory systems, peripherals, parallel interfaces, serial interfaces, analog interfaces, data transfer, synchronization, error detection/correction, testing and debugging. [Offered F, W, S]",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [
+        "ECE 124",
+        "ECE 222",
+        "ECE 124",
+        "ECE 222"
+    ],
+    "coreq": [],
+    "antireq": [
+        "MTE 325"
+    ],
+    "next": [
+        "ECE 423"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": "015685",
+    "subject": "SOC",
+    "catalogNumber": "252",
+    "title": "The Culture of Cities",
+    "description": "Through the analysis of multiple aspects of city life, this course examines the larger question of a city's uniqueness, identity, and culture. Approaches may include case studies, comparative analyses, and theoretical accounts of city life.",
+    "term": [],
+    "prereq": [
+        "SOC 101",
+        "SOC 101R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

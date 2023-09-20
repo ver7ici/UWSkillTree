@@ -1,0 +1,16 @@
+{
+    "id": "015260",
+    "subject": "HLTH",
+    "catalogNumber": "443",
+    "title": "Epidemiology of Communicable Diseases",
+    "description": "This course introduces the basic methods for communicable disease epidemiology and discusses important infectious diseases, including their history, ecology and current public health significance.  The course focuses on epidemiological methods in infectious disease research, prevention, and control, such as outbreak investigations, disease surveillance, case-control and cohort studies, laboratory tools, molecular epidemiology, dynamics of transmission, and assessment of vaccine field effectiveness.  A range of communicable diseases will be discussed including respiratory infections, diarrheal diseases, sexually transmitted diseases, bloodborne diseases, and vector-borne diseases.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "HLTH 333"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

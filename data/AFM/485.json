@@ -1,0 +1,18 @@
+{
+    "id": "016155",
+    "subject": "AFM",
+    "catalogNumber": "485",
+    "title": "Approaches to Measuring Value",
+    "description": "This course addresses the significant shift in the composition of enterprise value from tangible assets tracked by traditional accounting practices to a range of intangible assets. The course provides a survey of approaches used to identify, measure, report, and create value that consider these intangibles.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "AFM 291",
+        "AFM 382",
+        "AFM 481"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

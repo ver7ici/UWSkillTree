@@ -1,0 +1,25 @@
+{
+    "id": "016148",
+    "subject": "AFM",
+    "catalogNumber": "182",
+    "title": "Foundations for Management Accounting",
+    "description": "This course is a foundation to support managerial decision-making and to enable organizational performance management, including topics such as relevant costs and revenues, the role of budgets in performance management, sustainability reporting, and the relationship between measurement needs and business models.",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "AFM 191"
+    ],
+    "coreq": [],
+    "antireq": [
+        "AFM 102",
+        "AFM 123",
+        "ARBUS 102",
+        "BUS 247W",
+        "MSCI 262"
+    ],
+    "next": [
+        "AFM 241"
+    ]
+}

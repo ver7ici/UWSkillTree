@@ -1,0 +1,12 @@
+{
+    "id": "000251",
+    "subject": "CO",
+    "catalogNumber": "664",
+    "title": "Quadratic Programming",
+    "description": "A course on theory and solution algorithms for the minimization of a convex quadratic function subject to linear constraints. Karush-Kuhn-Tucker conditions, duality theory. Active set solution algorithms and their parametric extensions. Quadratic programmes as linear complementarity problems. Applications in portfolio optimization and structural analysis.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

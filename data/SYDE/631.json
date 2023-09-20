@@ -1,0 +1,14 @@
+{
+    "id": "003147",
+    "subject": "SYDE",
+    "catalogNumber": "631",
+    "title": "Time Series Modelling",
+    "description": "The theory and application of time-series modelling are presented for describing phenomena measured at discrete points in time. The types of time-series models include stationary auto regressive moving average (ARMA), nonstationary, special families of seasonal, transfer function-noise (multiple inputs-single output), intervention, and multivariate (multiple inputs-multiple output) models. Applications are used for explaining how the foregoing models are fitted to both natural and socio-economic time series by following the identification, estimation and diagnostic check stages of model construction. Other topics include simulation in engineering design, forecasting in the operation of large-scale projects, and environmental impact assessment.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

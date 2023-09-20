@@ -1,0 +1,15 @@
+{
+    "id": "011841",
+    "subject": "PHIL",
+    "catalogNumber": "674",
+    "title": "Graduate Courses",
+    "description": "Graduate level courses covering specialized topics in the department's fields of research concentration.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

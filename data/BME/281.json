@@ -1,0 +1,20 @@
+{
+    "id": "014455",
+    "subject": "BME",
+    "catalogNumber": "281",
+    "title": "Mechanics of Deformable Solids",
+    "description": "Introduction to mechanical response of materials and stress-strain relationship. Behaviour of prismatic members in tension, compression, shear, bending, and torsion. Shear-force and bending-moment diagrams. Introduction to instability. Mechanical properties of biological tissues, and viscoeleastic models. Applications to bone, cartilage, and biomedical implants. [Offered:  F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "CIVE 204",
+        "ME 219",
+        "SYDE 286"
+    ],
+    "next": [
+        "BME 550"
+    ]
+}

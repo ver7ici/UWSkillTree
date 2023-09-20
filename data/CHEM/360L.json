@@ -1,0 +1,21 @@
+{
+    "id": "004108",
+    "subject": "CHEM",
+    "catalogNumber": "360L",
+    "title": "Senior Organic Chemistry Laboratory",
+    "description": "Selected microscale synthetic experiments for students in Year Three Chemistry and Biochemistry programs, including spectroscopic identification of organic compounds. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "CHEM 265",
+        "CHEM 265L"
+    ],
+    "coreq": [
+        "CHEM 360"
+    ],
+    "antireq": [],
+    "next": [
+        "CHEM 382L"
+    ]
+}

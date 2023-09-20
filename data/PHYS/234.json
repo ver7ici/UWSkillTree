@@ -1,0 +1,41 @@
+{
+    "id": "007407",
+    "subject": "PHYS",
+    "catalogNumber": "234",
+    "title": "Quantum Physics 1",
+    "description": "Background of quantum physics. Introduction to formalism of quantum physics. Introduction to operators. Quantization, waves, and particles. The uncertainty principle. The Schroedinger equation for one-dimensional problems: bound states in square wells, harmonic oscillator, transmission through barriers. [Note: CS 114, PHYS 236, or knowledge of computational methods is recommended. Offered: W, S]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "PHYS 112",
+        "PHYS 122",
+        "PHYS 249",
+        "MATH 114",
+        "MATH 136",
+        "MATH 128",
+        "MATH 138",
+        "MATH 148"
+    ],
+    "coreq": [
+        "MATH 228",
+        "AMATH 250",
+        "AMATH 251"
+    ],
+    "antireq": [
+        "CHEM 356",
+        "NE 232",
+        "PHYS 233",
+        "ECE 405"
+    ],
+    "next": [
+        "AMATH 373",
+        "PHYS 334",
+        "PHYS 359",
+        "PHYS 375",
+        "PHYS 396",
+        "PHYS 335",
+        "PHYS 349"
+    ]
+}

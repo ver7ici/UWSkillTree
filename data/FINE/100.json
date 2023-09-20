@@ -1,0 +1,34 @@
+{
+    "id": "013490",
+    "subject": "FINE",
+    "catalogNumber": "100",
+    "title": "Studio Fundamentals",
+    "description": "This course introduces the basic principles of drawing as it relates to concepts of 2D, 3D, and time-based media, through a series of drawing exercises and projects. [Note: This course is primarily for students who are considering a Fine Arts studio academic plan. It includes a significant component of mandatory life drawing from the nude model. Please see the Fine Arts academic plans concerning admission to upper-level studio courses.]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "FINE 221",
+        "FINE 222",
+        "FINE 223",
+        "FINE 272",
+        "FINE 224",
+        "FINE 225",
+        "FINE 230",
+        "FINE 228",
+        "FINE 227",
+        "FINE 202",
+        "FINE 226",
+        "FINE 231",
+        "FINE 232",
+        "FINE 204",
+        "FINE 271",
+        "FINE 246",
+        "FINE 247"
+    ]
+}

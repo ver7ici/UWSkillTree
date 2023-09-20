@@ -1,0 +1,16 @@
+{
+    "id": "015218",
+    "subject": "NE",
+    "catalogNumber": "455C",
+    "title": "Nanobiosystems Laboratory 2",
+    "description": "Application of experimental tools and techniques employed in Nanobiotechnology. Experimental exercises may involve investigation of microbial culture protocols, biosensor applications, and the use of various characterization techniques. These exercises also stress the need for safe handling of micro-organisms and biomaterials. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "NE 454C"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

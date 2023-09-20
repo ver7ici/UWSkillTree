@@ -1,0 +1,23 @@
+{
+    "id": "004215",
+    "subject": "CIVE",
+    "catalogNumber": "222",
+    "title": "Differential Equations",
+    "description": "An introduction to linear and partial differential equations. Standard methods of solution, applications to physical and engineering problems, linear equations with constant coefficients, basic systems of differential equations, partial differential equations. Applications. [Offered: S]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "CIVE 221"
+    ],
+    "coreq": [],
+    "antireq": [
+        "MATH 218",
+        "ENVE 223"
+    ],
+    "next": [
+        "CIVE 505",
+        "CIVE 422",
+        "CIVE 332"
+    ]
+}

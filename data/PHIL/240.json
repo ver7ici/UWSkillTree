@@ -1,0 +1,17 @@
+{
+    "id": "007285",
+    "subject": "PHIL",
+    "catalogNumber": "240",
+    "title": "Introduction to Formal Logic",
+    "description": "An examination of classical propositional logic, covering proof methods, expressive completeness, soundness, and completeness. Also an introduction to quantificational logic.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PHIL 441"
+    ]
+}

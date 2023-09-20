@@ -1,0 +1,14 @@
+{
+    "id": "011288",
+    "subject": "CS",
+    "catalogNumber": "784",
+    "title": "Computational Linguistics",
+    "description": "Computer understanding and generation of natural (i.e., human) languages. Basic topics in natural language understanding (syntax, semantics, pragmatics, connected discourse). Selected applications (e.g., automated language generation, machine translation, natural language processing and the Web).",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "CS 684"
+    ],
+    "next": []
+}

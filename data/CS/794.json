@@ -1,0 +1,14 @@
+{
+    "id": "015821",
+    "subject": "CS",
+    "catalogNumber": "794",
+    "title": "Optimization for Data Science",
+    "description": "Techniques for formulating data science models as optimization problems. Algorithms for solving data science problems with an emphasis on scalability, efficiency and parallelizability including gradient-descent based algorithms, derivative-free algorithms, and randomized algorithms. Theoretical analyses of algorithms and approaches for recognizing the most suitable algorithm for solving a particular problem.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

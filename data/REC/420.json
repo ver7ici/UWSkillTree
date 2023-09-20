@@ -1,0 +1,17 @@
+{
+    "id": "008207",
+    "subject": "REC",
+    "catalogNumber": "420",
+    "title": "Advanced Program Evaluation in Leisure Services",
+    "description": "Students will acquire knowledge and skills to plan and conduct evaluations of leisure services and programs. The course will cover pre-evaluation, needs assessment, goals and outcomes, evaluation designs, process and outcome evaluation, report preparation, evaluation politics, and ethics.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "REC 371",
+        "REC 373"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

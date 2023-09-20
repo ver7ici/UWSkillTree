@@ -1,0 +1,26 @@
+{
+    "id": "015985",
+    "subject": "PHYS",
+    "catalogNumber": "267",
+    "title": "Probability, Statistics, and Data Analysis for Physics and Astronomy",
+    "description": "Probability, probability distributions, errors, descriptive statistics, statistical inference (hypothesis testing, fitting, confidence intervals), computational methods (e.g., Monte Carlo) in Python, examples from physics and astronomy. [Offered: W, S]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "PHYS 122",
+        "MATH 227",
+        "PHYS 236",
+        "CS 114",
+        "CS 116",
+        "CS 136",
+        "CS 146"
+    ],
+    "coreq": [],
+    "antireq": [
+        "STAT 230",
+        "STAT 231"
+    ],
+    "next": []
+}

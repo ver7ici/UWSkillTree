@@ -1,0 +1,16 @@
+{
+    "id": "001241",
+    "subject": "FINE",
+    "catalogNumber": "690",
+    "title": "Graduate Studio 1",
+    "description": "This course consists of directed individual studio work in the student's chosen area of concentration, as indicated in their original statement of intention. Appropriate studio space will be provided for all students enroled in this course, and regular critiques and discussions will be scheduled by the First Year Graduate Committee.  Open to Fine Arts graduate students only.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "FINE 691"
+    ]
+}

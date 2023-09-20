@@ -1,0 +1,19 @@
+{
+    "id": "006583",
+    "subject": "KIN",
+    "catalogNumber": "422",
+    "title": "Human Posture, Balance and Gait",
+    "description": "This course will provide a detailed understanding of the kinematics, kinetics, and neural control of standing posture, stepping, walking, and running. Measurement techniques and the interpretation of movement data will be emphasized from biomechanical and neural control perspectives. Applications to aging and pathology will be emphasized.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "KIN 221",
+        "KIN 221L"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "KIN 493"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "id": "013956",
+    "subject": "ERS",
+    "catalogNumber": "361",
+    "title": "Food Systems and Sustainability",
+    "description": "This course examines dimensions of food systems sustainability and food security, from production to consumption, from local to global scales, in the Global North and South. Specific themes covered in the course include technological and genetic change in food production, resource depletion and wider environmental impacts of the industrial food system, and policy, market-oriented, and civil society initiatives to bring about change in the food system, including organic production and localizing food systems. [formerly: GEOG/ERS 461] [Offered online only.]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "ERS 461",
+        "GEOG 461",
+        "ERS 489",
+        "PSCI 489",
+        "GEOG 429"
+    ],
+    "next": [
+        "ERS 460"
+    ]
+}

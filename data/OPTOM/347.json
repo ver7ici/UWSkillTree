@@ -1,0 +1,20 @@
+{
+    "id": "007115",
+    "subject": "OPTOM",
+    "catalogNumber": "347",
+    "title": "Contact Lenses 1",
+    "description": "Indications and contra-indications for contact lens wear. Lens selection and design.  Fitting and evaluating rigid and hydrogel soft contact lenses. Physico-chemical and mechanical properties of contact lens materials. Optical and mathematical concepts. The ocular physiological response to contact lens wear.  Care and maintenance of contact lenses.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "OPTOM 143",
+        "OPTOM 246",
+        "OPTOM 252"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "OPTOM 367"
+    ]
+}

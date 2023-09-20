@@ -1,0 +1,14 @@
+{
+    "id": "009528",
+    "subject": "PHIL",
+    "catalogNumber": "363",
+    "title": "Philosophy of Language",
+    "description": "Topics in the philosophy of language such as meaning, truth, reference, speech acts, mental representations of syntax and semantics, psycholinguistics, and relations between logical and natural languages.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

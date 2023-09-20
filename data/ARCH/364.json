@@ -1,0 +1,18 @@
+{
+    "id": "011141",
+    "subject": "ARCH",
+    "catalogNumber": "364",
+    "title": "Building Science",
+    "description": "The physio-technical factors that influence building design for performance,  durability, efficiency, health, and sustainability will be explored. Common building design construction problems, their causes and solutions, will be examined with the aid of case studies. Using the principles of building science, good details of masonry, wood, steel, and glass will be developed. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "ARCH 173"
+    ],
+    "coreq": [],
+    "antireq": [
+        "ARCH 264"
+    ],
+    "next": []
+}

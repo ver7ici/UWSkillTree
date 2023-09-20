@@ -1,0 +1,15 @@
+{
+    "id": "012542",
+    "subject": "HLTH",
+    "catalogNumber": "637",
+    "title": "Public Health Informatics",
+    "description": "This course examines the application of information technologies and information systems in public health practice. Selected topics include managing information to deliver value; data standards in public health; privacy, confidentiality and security in public health; surveillance systems, informatics of toxicology and environmental public health. Course open to MPH students. Others may be admitted with consent of instructor.",
+    "term": [],
+    "prereq": [
+        "PHS 613",
+        "HLTH 613"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

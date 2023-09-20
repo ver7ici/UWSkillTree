@@ -1,0 +1,14 @@
+{
+    "id": "010030",
+    "subject": "SE",
+    "catalogNumber": "101",
+    "title": "Introduction to Methods of Software Engineering",
+    "description": "An introduction to some of the basic methods and principles used by software engineers, including fundamentals of technical communication, measurement, analysis, and design. Some aspects of the software engineering profession, including standards, safety and intellectual property. Professional development including r\u00e9sum\u00e9 skills, interview skills, and preparation for co-op terms. Safety-orientation training, including WHMIS assessment, is included in this course. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

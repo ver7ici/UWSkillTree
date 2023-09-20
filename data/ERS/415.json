@@ -1,0 +1,16 @@
+{
+    "id": "005386",
+    "subject": "ERS",
+    "catalogNumber": "415",
+    "title": "Environmental and Sustainability Assessment 3",
+    "description": "Continuing from concepts developed in ERS 215 and ERS 315, this course will focus on the latest concepts and applications of assessment principles and practices. The course focus will vary from year to year following development in the field. Topics may include assessment into land use planning and community design, policy and program assessment, and assessment of new technologies and alternative futures.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "ERS 315"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

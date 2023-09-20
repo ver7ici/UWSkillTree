@@ -1,0 +1,23 @@
+{
+    "id": "009956",
+    "subject": "OPTOM",
+    "catalogNumber": "245",
+    "title": "Diseases of the Eye 1",
+    "description": "Anterior segment disease including etiology, pathogenesis, signs, symptoms, differential diagnosis and management of diseases of the ocular adnexa and anterior segment of the eye: the lids, orbit and adnexa, conjunctiva, cornea, uvea, sclera, lens and cataract, the glaucomas and ocular emergencies.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "OPTOM 103",
+        "OPTOM 105"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "OPTOM 255",
+        "OPTOM 261",
+        "OPTOM 367",
+        "OPTOM 342A",
+        "OPTOM 375"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "015020",
+    "subject": "ERS",
+    "catalogNumber": "346",
+    "title": "Wildlife Ecology",
+    "description": "This course introduces the main concepts and principles of wildlife ecology. Topics  include: population dynamics, animal behavior, habitats, genetics, predation, and habitat use. The lab component will introduce students to wildlife data collection, analysis, and interpretation.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "ENVS 178",
+        "STAT 202",
+        "ENVS 200",
+        "BIOL 150"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ERS 446"
+    ]
+}

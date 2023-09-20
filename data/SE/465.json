@@ -1,0 +1,20 @@
+{
+    "id": "010036",
+    "subject": "SE",
+    "catalogNumber": "465",
+    "title": "Software Testing and Quality Assurance",
+    "description": "Introduces students to systematic testing of software systems. Software verification, reviews, metrics, quality assurance, and prediction of software reliability and availability. Related management issues. [Note: Lab is not scheduled and students are expected to find time in open hours to complete their work. Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "CS 246",
+        "CS 247"
+    ],
+    "coreq": [],
+    "antireq": [
+        "CS 447",
+        "ECE 453"
+    ],
+    "next": []
+}

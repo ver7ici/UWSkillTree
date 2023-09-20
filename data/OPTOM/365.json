@@ -1,0 +1,14 @@
+{
+    "id": "009994",
+    "subject": "OPTOM",
+    "catalogNumber": "365",
+    "title": "Ophthalmic Lasers and Refractive Surgery",
+    "description": "General principles, types and uses of lasers in eyecare. Biagnostic, thermal, ionizing, and excimer lasers. Refractive surgery. Safety and efficacy. Pre-operative and post-operative care.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

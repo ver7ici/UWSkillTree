@@ -1,0 +1,16 @@
+{
+    "id": "016177",
+    "subject": "PSCI",
+    "catalogNumber": "437",
+    "title": "Working with Data in Politics",
+    "description": "This course will help students to develop the specialized skills required to analyze political data, and to use data in order to answer political questions. For example, where should one go to collect political data? How does one use data to understand political trends, to predict electoral victories, or identify polarizing tendencies in society? The course also trains students on the use of software to process data.",
+    "term": [],
+    "prereq": [
+        "PSCI 100",
+        "PSCI 150",
+        "ARTS 280"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

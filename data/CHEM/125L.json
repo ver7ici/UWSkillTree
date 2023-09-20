@@ -1,0 +1,28 @@
+{
+    "id": "004045",
+    "subject": "CHEM",
+    "catalogNumber": "125L",
+    "title": "Chemical Reaction Laboratory 2",
+    "description": "Selected experiments for student taking CHEM 125. This course is a continuation of CHEM 121L, with increased emphasis on assessment of experimental design. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "CHEM 121L"
+    ],
+    "coreq": [
+        "CHEM 125"
+    ],
+    "antireq": [
+        "CHEM 123L"
+    ],
+    "next": [
+        "CHEM 220L",
+        "CHEM 265L",
+        "CHEM 266L",
+        "CHEM 310L",
+        "CHEM 313L",
+        "CHEM 200",
+        "CHEM 233L"
+    ]
+}

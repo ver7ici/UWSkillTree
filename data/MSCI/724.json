@@ -1,0 +1,15 @@
+{
+    "id": "014928",
+    "subject": "MSCI",
+    "catalogNumber": "724",
+    "title": "Game Theory and Recent Applications",
+    "description": "Introduction to game theory including symmetric and asymmetric games, as well as static and dynamic games. Topics include game rules and information, mixed and continuous strategies, moral hazard, adverse selection, and introductory mechanism design. Applications such as: sustainability in supply chains, prediction markets, and contract design, are reviewed in this course.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "MSCI 760",
+        "MSCI 700"
+    ],
+    "next": []
+}

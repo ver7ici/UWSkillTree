@@ -1,0 +1,25 @@
+{
+    "id": "014241",
+    "subject": "ARBUS",
+    "catalogNumber": "200",
+    "title": "Entrepreneurship Principles and Practices",
+    "description": "The role of the entrepreneur, the entrepreneurial firm, and the creative society are examined. Students are exposed to the practices that enable workplace creativity and innovation with exposure to leadership theory and project management. [Note: Additional fee may be required.]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "ECON 101"
+    ],
+    "coreq": [],
+    "antireq": [
+        "MGMT 220",
+        "ECON 220",
+        "ARBUS 200",
+        "ENBUS 203"
+    ],
+    "next": [
+        "ARBUS 300"
+    ]
+}

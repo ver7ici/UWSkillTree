@@ -1,0 +1,18 @@
+{
+    "id": "012936",
+    "subject": "FR",
+    "catalogNumber": "373",
+    "title": "Languages in Contact: The History of French-English Bilingualism",
+    "description": "This course will examine, from a historical and sociolinguistic perspective, the long-standing rivalry of our country's two official languages, the origins of their relationship, and the socio-political and linguistic implications of bilingualism.",
+    "term": [],
+    "prereq": [
+        "FR 197",
+        "FR 296",
+        "FR 251",
+        "FR 252",
+        "FR 297"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,17 @@
+{
+    "id": "012199",
+    "subject": "CHEM",
+    "catalogNumber": "381",
+    "title": "Bioorganic Chemistry",
+    "description": "Review of stereochemistry, racemic and enantioselective syntheses of amino acids, peptide synthesis, development of peptides into drugs, physical properties and structures of monosaccharides, reactions of monosaccharides, glycoside synthesis, structures of disaccharides and polysaccharides, synthesis of oligosaccharides, physical properties and synthesis of nucleosides, nucleotides, and nucleic acids, nucleotides and nucleic acids as drugs, general drug development. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "CHEM 233",
+        "CHEM 265"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

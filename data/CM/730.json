@@ -1,0 +1,14 @@
+{
+    "id": "000626",
+    "subject": "CM",
+    "catalogNumber": "730",
+    "title": "Introduction to Symbolic Computation",
+    "description": "An introduction to the use of computers for symbolic mathematical computation, involving traditional mathematical computations such as solving linear equations (exactly), analytic differentiation and integration of functions, and analytic solution of differential equations.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

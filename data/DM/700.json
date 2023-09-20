@@ -1,0 +1,12 @@
+{
+    "id": "011069",
+    "subject": "DM",
+    "catalogNumber": "700",
+    "title": "Numerical Simulation of Sheet Metal Forming",
+    "description": "This course will cover numerical simulation techniques used to accurately and efficiently simulate industrial sheet forming processes. A variety of finite element based techniques will be considered including explicit and so-called single and multi-step methods.\r\n* Review of sheet forming concepts\r\n* Numerical modeling techniques\r\n* Contact algorithms, friction\r\n* Material modelling, sheet anisotrophy, use of FLDs in formability prediction\r\n* Spring - back and trimming\r\n* Survey of commercial codes, Pre- and post- processing, CAD interface.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

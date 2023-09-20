@@ -1,0 +1,19 @@
+{
+    "id": "007896",
+    "subject": "PSYCH",
+    "catalogNumber": "213R",
+    "title": "Exceptional Children",
+    "description": "Educational  issues associated with cognitive, emotional, sensory, and physical differences and challenges.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "PSYCH 101",
+        "PSYCH 101R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PSYCH 312R"
+    ]
+}

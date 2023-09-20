@@ -1,0 +1,37 @@
+{
+    "id": "004385",
+    "subject": "CS",
+    "catalogNumber": "330",
+    "title": "Management Information Systems",
+    "description": "An introduction to information systems and their strategic role in business. Topics include types of information systems, organizational requirements, systems development strategies, decision support systems, data and information management, and information systems management, control and implementation. [Offered: F,W,S]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "CS 106",
+        "CS 116",
+        "CS 136",
+        "CS 138",
+        "CS 146"
+    ],
+    "coreq": [],
+    "antireq": [
+        "AFM 241",
+        "BUS 415W",
+        "BUS 486W",
+        "CS 480",
+        "CS 490",
+        "MSCI 441"
+    ],
+    "next": [
+        "CS 338",
+        "CS 430",
+        "AFM 442",
+        "AFM 443",
+        "COMM 432",
+        "AFM 344",
+        "CS 431"
+    ]
+}

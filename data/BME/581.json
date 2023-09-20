@@ -1,0 +1,18 @@
+{
+    "id": "016235",
+    "subject": "BME",
+    "catalogNumber": "581",
+    "title": "Ultrasound in Medicine and Biology",
+    "description": "Ultrasound physics, scanning modes, data acquisition schemes, transducer basics, wave-matter interactions; biomedical applications of ultrasound including imaging, flow measurements, microscopy, therapy, drug delivery. [Offered: F]",
+    "term": [],
+    "prereq": [
+        "BME 386",
+        "PHYS 395",
+        "PHYS 396"
+    ],
+    "coreq": [],
+    "antireq": [
+        "BME 487"
+    ],
+    "next": []
+}

@@ -1,0 +1,17 @@
+{
+    "id": "007088",
+    "subject": "OPTOM",
+    "catalogNumber": "105",
+    "title": "Medical Microbiology",
+    "description": "Bacterial physiology and genetics, normal flora, bacteria (including chlamydiae and rickettsiae), fungi, viruses, parasites and related diseases, with emphasis on molecular mechanisms of ocular disease and relevant ocular manifestations in appropriate topics.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "OPTOM 215",
+        "OPTOM 245"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "id": "016322",
+    "subject": "SCI",
+    "catalogNumber": "266",
+    "title": "Ancient Science",
+    "description": "The ancient Greeks developed scientific theories that were influential for over a thousand years. Their worldview was different from ours, but they sought to explain some of the same phenomena that we grapple with today. In this course, we will study ancient Greek theories and methodologies in the sciences, which may include physics, astronomy, mathematics, meteorology, cosmology, astrology, and geography.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "PHIL 271"
+    ],
+    "next": []
+}

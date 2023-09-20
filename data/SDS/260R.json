@@ -1,0 +1,21 @@
+{
+    "id": "015514",
+    "subject": "SDS",
+    "catalogNumber": "260R",
+    "title": "Ecology, Society, and Justice: Social Development and the Environment",
+    "description": "This course introduces theory and concepts of social ecology, an interdisciplinary approach to understanding the interrelationship of social and environmental well-being. Students critically examine the implications of environment and environmentalism for human society, as well as explore ideas for community action and social institutions that reflect a social-ecological ethic.",
+    "term": [],
+    "prereq": [
+        "SDS 131R",
+        "PSCI 150",
+        "SOC 101R",
+        "SOC 101",
+        "EARTH 122",
+        "ERS 100",
+        "ENVS 105",
+        "ENVS 205"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

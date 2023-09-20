@@ -1,0 +1,20 @@
+{
+    "id": "008590",
+    "subject": "SOC",
+    "catalogNumber": "207R",
+    "title": "Sociology of Education",
+    "description": "The focus of this course is on the sociological study of education in Canadian society. This course applies classical and contemporary theoretical approaches to study education systems and the relationship between school and society.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "SOC 101",
+        "SOC 101R",
+        "SOC 120R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "SOC 307"
+    ]
+}

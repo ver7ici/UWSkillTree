@@ -1,0 +1,22 @@
+{
+    "id": "007672",
+    "subject": "PMATH",
+    "catalogNumber": "352",
+    "title": "Complex Analysis",
+    "description": "Analytic functions, Cauchy-Riemann equations, Goursat's theorem, Cauchy's theorems, Morera's theorem, Liouville's theorem, maximum modulus principle, harmonic functions, Schwarz's lemma, isolated singularities, Laurent series, residue theorem.",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "MATH 247",
+        "PMATH 333"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PMATH 652",
+        "AMATH 455",
+        "PMATH 440"
+    ]
+}

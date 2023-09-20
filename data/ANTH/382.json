@@ -1,0 +1,14 @@
+{
+    "id": "014709",
+    "subject": "ANTH",
+    "catalogNumber": "382",
+    "title": "Anthropology of Contemporary China",
+    "description": "This course explores cultural and social change in contemporary China, including Taiwan, Hong Kong, and global migration. Topics include politics, identity, medicine and disease, urbanization, food security, post-colonialism, and transnationalism.",
+    "term": [],
+    "prereq": [
+        "ANTH 202"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

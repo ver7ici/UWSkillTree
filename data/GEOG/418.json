@@ -1,0 +1,14 @@
+{
+    "id": "014544",
+    "subject": "GEOG",
+    "catalogNumber": "418",
+    "title": "Cold Region Climates",
+    "description": "This course provides a comprehensive overview of the Arctic climate system. A variety of topics are considered including: key components and processes of the energy and water budgets; the current state of the cryosphere; the relationship between the cryosphere and past variability; the role of the Arctic in the global climate system; and the prediction of future changes using global climate models. Various observational perspectives on the climate system, including conventional measurements, atmospheric reanalysis, and remote sensing are presented.",
+    "term": [],
+    "prereq": [
+        "GEOG 309"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

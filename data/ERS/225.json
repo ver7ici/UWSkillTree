@@ -1,0 +1,19 @@
+{
+    "id": "015426",
+    "subject": "ERS",
+    "catalogNumber": "225",
+    "title": "Gendering Environmental Politics",
+    "description": "Social identities such as gender, race, and class shape our interactions with our environment. This course provides the tools to analyze gender and other forms of social difference in the context of environmental and resource issues. This course also examines how governance, policy, and politics can be used to create social and environmental change.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "ERS 275",
+        "ERS 001",
+        "ERS 275",
+        "ERS 001"
+    ],
+    "next": []
+}

@@ -1,0 +1,17 @@
+{
+    "id": "009958",
+    "subject": "OPTOM",
+    "catalogNumber": "231",
+    "title": "Introductory Clinical Pharmacology",
+    "description": "Pharmacokinetic and pharmacodynamic theory. Systemic medications used to manage most major diseases. Mechanism of action, contraindications and systemic and ocular adverse drug reactions.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "OPTOM 261",
+        "OPTOM 385"
+    ]
+}

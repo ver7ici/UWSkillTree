@@ -1,0 +1,40 @@
+{
+    "id": "016252",
+    "subject": "CS",
+    "catalogNumber": "114",
+    "title": "Principles of Computing for Science",
+    "description": "Introduction to basic imperative programming principles; programming concepts including functions, flow control, lists, arrays; numerical accuracy and efficiency; data analysis and general-purpose algorithms. Introduction to object-oriented programming concepts.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "CS 116",
+        "CS 135",
+        "CS 136",
+        "CS 137",
+        "CS 138",
+        "CS 145",
+        "CS 146",
+        "BME 121",
+        "CHE 120",
+        "CIVE 121",
+        "ECE 150",
+        "GENE 121",
+        "MTE 121",
+        "ME 101",
+        "MSCI 121",
+        "NE 111",
+        "PHYS 236",
+        "SYDE 121"
+    ],
+    "next": [
+        "PHYS 363",
+        "PHYS 364",
+        "PHYS 375",
+        "PHYS 267",
+        "PHYS 249"
+    ]
+}

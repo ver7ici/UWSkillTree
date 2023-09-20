@@ -1,0 +1,17 @@
+{
+    "id": "016211",
+    "subject": "PHYS",
+    "catalogNumber": "449",
+    "title": "Machine Learning in Physics",
+    "description": "Machine learning applications in the physical sciences. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "PHYS 236",
+        "PHYS 349"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

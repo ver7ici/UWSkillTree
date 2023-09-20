@@ -1,0 +1,21 @@
+{
+    "id": "003325",
+    "subject": "PMATH",
+    "catalogNumber": "365",
+    "title": "Differential Geometry",
+    "description": "Submanifolds of Euclidean n-space; vector fields and differential forms; integration on submanifolds and Stokes's Theorem; metrics and geodesics; Gauss-Bonnet Theorem.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "MATH 235",
+        "MATH 245",
+        "MATH 237",
+        "MATH 247"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PMATH 465"
+    ]
+}

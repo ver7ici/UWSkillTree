@@ -1,0 +1,16 @@
+{
+    "id": "013723",
+    "subject": "SPCOM",
+    "catalogNumber": "204",
+    "title": "Leadership, Teams, and Communication",
+    "description": "This course examines leadership, team dynamics, and communication in organizational contexts. Students will develop communication knowledge and skills to enhance their abilities to be effective in leadership and team roles.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "SPCOM 111"
+    ],
+    "next": []
+}

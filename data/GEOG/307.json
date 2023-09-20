@@ -1,0 +1,18 @@
+{
+    "id": "015436",
+    "subject": "GEOG",
+    "catalogNumber": "307",
+    "title": "Societal Adaptation to Climate Change",
+    "description": "Climate change is a pervasive factor affecting the future of society. Recognizing that dangerous climate change cannot be avoided through greenhouse gas emissions reductions alone, adaptation to climate change has emerged as a central component of global climate policy. An in depth understanding of the diverse impacts of climate change on communities, economic sectors and society will provide a foundation for examining adaptation strategies to build resilience to accelerated climate change. Examples will drawn from multiple sectors in both developed and developing world contexts, with an emphasis on solutions and the limits to adaptation.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "GEOG 207",
+        "GEOG 208",
+        "GEOG 308"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,40 @@
+{
+    "id": "008866",
+    "subject": "STAT",
+    "catalogNumber": "240",
+    "title": "Probability (Advanced Level)",
+    "description": "STAT 240 is an advanced-level enriched version of STAT 230. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "MATH 137",
+        "MATH 147",
+        "MATH 138",
+        "MATH 148"
+    ],
+    "coreq": [],
+    "antireq": [
+        "STAT 220",
+        "STAT 230"
+    ],
+    "next": [
+        "ACTSC 232",
+        "CS 240",
+        "STAT 340",
+        "STAT 221",
+        "STAT 231",
+        "STAT 241",
+        "STAT 330",
+        "STAT 333",
+        "CO 487",
+        "STAT 341",
+        "STAT 334",
+        "CS 485",
+        "CS 484",
+        "AFM 483",
+        "ECON 322",
+        "AMATH 477",
+        "MATBUS 371"
+    ]
+}

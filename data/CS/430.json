@@ -1,0 +1,21 @@
+{
+    "id": "004404",
+    "subject": "CS",
+    "catalogNumber": "430",
+    "title": "Applications Software Engineering",
+    "description": "An investigation into the role and function of software engineering practice in the construction of computer based systems. Topics include: requirements and specification; documentation techniques; analysis and design; implementation; testing and maintenance; management issues. [Offered: F,W]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [
+        "CS 330"
+    ],
+    "coreq": [],
+    "antireq": [
+        "CS 446",
+        "ECE 452",
+        "SE 464"
+    ],
+    "next": []
+}

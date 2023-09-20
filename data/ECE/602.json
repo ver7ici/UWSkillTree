@@ -1,0 +1,16 @@
+{
+    "id": "000764",
+    "subject": "ECE",
+    "catalogNumber": "602",
+    "title": "Introduction to Optimization",
+    "description": "Fundamental optimization techniques.  Modelling. Shortest path. Network flow. Matching. Set packing, covering partitioning.  Branch and bound. Cutting Planes, Dynamic programming.  Search Heuristics.  (Students will gain valuable background in optimization techniques that are applicable to a wide range of engineering problems.  They will also gain experience using a state of the art optimizer, in solving an optimization problem of their own choice using techniques discussed in the course).",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "ECE 700"
+    ],
+    "next": []
+}

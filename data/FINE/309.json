@@ -1,0 +1,18 @@
+{
+    "id": "016222",
+    "subject": "FINE",
+    "catalogNumber": "309",
+    "title": "Advanced Topics in Two-Dimensional Media",
+    "description": "This course will broaden the scope of students' ideas and techniques in two-dimensional media (including, but not limited to: printmaking, drawing, collage, photography, painting). Through experimentation and individual research, students will be encouraged to take a personal approach to themes of interest to contemporary artists. [Note: Studio course.]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "FINE 209",
+        "FINE 243",
+        "FINE 200"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

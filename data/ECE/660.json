@@ -1,0 +1,14 @@
+{
+    "id": "016535",
+    "subject": "ECE",
+    "catalogNumber": "660",
+    "title": "Operation and Control of Future Integrated Energy Systems",
+    "description": "The course will provide a comprehensive overview of the operation and control of the integrated energy systems of the future. The course will be offered in modules, each module discussing one aspect of the subject, so as to provide a broad spectrum of coverage and understanding. Many emerging issues related to the paradigm of smart electricity grids, such as energy storage, demand response, microgrids, and others, will be discussed. The course will provide a multi-disciplinary perspective on the energy system of the future, and will be open to graduate students from all engineering streams.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "ECE 760"
+    ],
+    "next": []
+}

@@ -1,0 +1,15 @@
+{
+    "id": "013799",
+    "subject": "PHARM",
+    "catalogNumber": "461",
+    "title": "Advanced Patient Safety",
+    "description": "This course focuses on applying the Canadian Patient Safety Institute's domains to projects with community partners and local healthcare agencies. Students will learn to develop strategies to integrate medication safety updates and implement recommendations into their practices. [Offered: W,S,F]",
+    "term": [],
+    "prereq": [
+        "PHARM 226",
+        "PHARM 329"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

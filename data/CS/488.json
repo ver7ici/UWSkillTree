@@ -1,0 +1,22 @@
+{
+    "id": "004437",
+    "subject": "CS",
+    "catalogNumber": "488",
+    "title": "Introduction to Computer Graphics",
+    "description": "Software and hardware for interactive computer graphics. Implementation of device drivers, 3-D transformations, clipping, perspective, and input routines. Data structures, hidden surface removal, colour shading techniques, and some additional topics will be covered. [Note: This course involves project work. Offered: F,W,S]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "CS 341",
+        "CS 350",
+        "SE 350",
+        "CS 370",
+        "CS 371"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

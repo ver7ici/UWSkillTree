@@ -1,0 +1,19 @@
+{
+    "id": "003728",
+    "subject": "BIOL",
+    "catalogNumber": "439",
+    "title": "Environmental and Natural Products Biochemistry",
+    "description": "This course deals with the functions, distribution and environmental ramifications of natural compounds produced by plants and other biological systems. Natural products are those compounds usually described as secondary metabolites, i.e. those apparently non-essential products whose physiological and ecological functions are either obscure or are of peripheral importance to the organism. However, many of these non-essential products have profound competitive, economic and pharmacological significance; and as research proceeds, their physiological roles within the parent organisms are becoming clearer. As well, this course has a strong emphasis on how environmental chemical and physical processes impact on living organisms and their biochemistry. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "CHEM 233",
+        "CHEM 237",
+        "CHEM 264",
+        "CHEM 266"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,26 @@
+{
+    "id": "011724",
+    "subject": "STAT",
+    "catalogNumber": "372",
+    "title": "Survey Sampling and Experimental Design Techniques for Business",
+    "description": "Design and analysis of surveys. Management of sample and non-sample error. Simple random sampling and stratified random sampling. Additional topics in survey sampling. Observational and experimental studies. Principles for the design of experiments. Analysis of variance, factorial experiments, and interaction. Application to problems in business. [Offered: F,W,S]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "STAT 231",
+        "STAT 241"
+    ],
+    "coreq": [],
+    "antireq": [
+        "STAT 322",
+        "STAT 332"
+    ],
+    "next": [
+        "STAT 430",
+        "STAT 454",
+        "STAT 435"
+    ]
+}

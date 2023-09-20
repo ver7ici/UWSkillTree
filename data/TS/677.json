@@ -1,0 +1,16 @@
+{
+    "id": "012821",
+    "subject": "TS",
+    "catalogNumber": "677",
+    "title": "Church and Ministry",
+    "description": "This course combines a theological study of the Christian church and the development of a theology of ministry, including the church's mission and institutional life and the personal calling to a life of ministry.  The Believers Church tradition provides the primary perspective, augmented by the experiences of other Christian traditions",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "TS 678"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "id": "013668",
+    "subject": "PMATH",
+    "catalogNumber": "733",
+    "title": "Model Theory and Set Theory",
+    "description": "Model theory: the semantics of first order logic including the compactness theorem and its consequences, elementary embedding and equivalence, the theory of definable sets and types, quantifier elimination, and w-stability.  Set theory: well-orderings, ordinals, cardinals, Zermelo-Fraenkel axioms, axiom of choice, informal discussion of classes and independence results.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

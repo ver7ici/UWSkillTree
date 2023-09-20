@@ -1,0 +1,15 @@
+{
+    "id": "015798",
+    "subject": "CHE",
+    "catalogNumber": "181",
+    "title": "Chemical Engineering Design Studio 2",
+    "description": "Development of chemical engineering analysis, investigation, design, and communication skills. Introduction to engineering measurement. Instrument performance characteristics. Electric circuits, current, voltage and resistance, measurements, and signal transmission. Electrical safety. Measurement uncertainty, types of errors, calibration, instrument uncertainty analysis, and error propagation. Measurement of force and load, chemical composition, temperature, pressure and flow. Sensor interfacing and data acquisition using software. Process safety management and inherently safer design. Prototyping, testing, and verification. Communication of technical information, written reports, and oral presentations. Teamwork. Students undertake a term-long design project under the supervision of the instructor. [Offered: W,S]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

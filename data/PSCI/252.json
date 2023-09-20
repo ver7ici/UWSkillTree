@@ -1,0 +1,22 @@
+{
+    "id": "007724",
+    "subject": "PSCI",
+    "catalogNumber": "252",
+    "title": "Global South",
+    "description": "Why are some countries in the world poor and others rich? Why have some developing countries experienced rapid economic growth in recent years while others remain stagnant? What are some of the costs and benefits of development for societies and the environment? Students will explore multiple factors shaping economic growth, and political and social development in the Global South.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "PSCI 150",
+        "INTST 101"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PSCI 350",
+        "PSCI 452",
+        "LS 365",
+        "PSCI 404"
+    ]
+}

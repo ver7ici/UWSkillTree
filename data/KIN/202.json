@@ -1,0 +1,25 @@
+{
+    "id": "015478",
+    "subject": "KIN",
+    "catalogNumber": "202",
+    "title": "Exercise Physiology and Metabolism",
+    "description": "This course is designed to provide students with a molecular, cellular, and systems level understanding of the physiological and metabolic responses to different types and intensities of exercise. Physiological and metabolic adaptations to different types of chronic exercise, such as endurance, high-intensity interval, and resistance training, will also be examined.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "BIOL 273",
+        "KIN 104",
+        "KIN 104L"
+    ],
+    "coreq": [
+        "KIN 202L"
+    ],
+    "antireq": [],
+    "next": [
+        "KIN 307",
+        "KIN 403",
+        "KIN 204",
+        "KIN 204L"
+    ]
+}

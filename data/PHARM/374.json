@@ -1,0 +1,16 @@
+{
+    "id": "014162",
+    "subject": "PHARM",
+    "catalogNumber": "374",
+    "title": "Complementary and Alternate Medicine",
+    "description": "This complementary and alternate medicine(CAM) course is designed to give the student an overview of complementary and alternative healing practices and will heighten student awareness that CAM is multifactorial and often includes belief systems and practices other than drug therapy. [Offered: W,S,F]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "PHARM 228"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

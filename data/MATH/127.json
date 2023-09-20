@@ -1,0 +1,38 @@
+{
+    "id": "006871",
+    "subject": "MATH",
+    "catalogNumber": "127",
+    "title": "Calculus 1 for the Sciences",
+    "description": "Functions of a real variable: powers, rational functions, trigonometric, exponential and logarithmic functions, their properties and inverses. Intuitive discussion of limits and continuity. Definition and interpretation of the derivative, derivatives of elementary functions, derivative rules and applications. Riemann sums and other approximations to the definite integral. Fundamental theorems and antiderivatives; change of variable. Applications to area, rates, average value. [Offered: F,W,S; online: F,W,S]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "MATH 104"
+    ],
+    "coreq": [],
+    "antireq": [
+        "MATH 109",
+        "MATH 116",
+        "MATH 117",
+        "MATH 124",
+        "MATH 137",
+        "MATH 147"
+    ],
+    "next": [
+        "KIN 121",
+        "MATH 118",
+        "MATH 119",
+        "MATH 128",
+        "MATH 138",
+        "OPTOM 106",
+        "BIOL 364",
+        "PHYS 175",
+        "PHYS 225",
+        "KIN 121L",
+        "PMATH 320",
+        "PMATH 321"
+    ]
+}

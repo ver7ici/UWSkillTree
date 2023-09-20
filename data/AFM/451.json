@@ -1,0 +1,23 @@
+{
+    "id": "003275",
+    "subject": "AFM",
+    "catalogNumber": "451",
+    "title": "Audit Strategy",
+    "description": "An examination of elements of audit strategy and their interrelationships, including financial assertions, types and sources of audit assurance, and evidence-gathering procedures within a framework of professional judgment. [Note: Formerly AFM 351]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "AFM 291",
+        "AFM 341"
+    ],
+    "coreq": [],
+    "antireq": [
+        "AFM 351"
+    ],
+    "next": [
+        "AFM 445"
+    ]
+}

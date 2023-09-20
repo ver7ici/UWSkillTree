@@ -1,0 +1,19 @@
+{
+    "id": "013911",
+    "subject": "CS",
+    "catalogNumber": "485",
+    "title": "Statistical and Computational Foundations of Machine Learning",
+    "description": "Extracting meaningful patterns from random samples of large data sets. Statistical analysis of the resulting problems. Common algorithmic paradigms for such tasks. Central concepts: VC-dimension, margins of a classifier, sparsity and description length, other types of regularization. Performance guarantees: generalization bounds, data dependent error bounds, and computational complexity of learning algorithms. Common paradigms: neural networks, kernel methods and support-vector machines, boosting, nearest neighbor classifiers. Applications to data mining.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "CS 341",
+        "STAT 206",
+        "STAT 230",
+        "STAT 240"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

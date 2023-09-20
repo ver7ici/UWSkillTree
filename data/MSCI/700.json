@@ -1,0 +1,15 @@
+{
+    "id": "010503",
+    "subject": "MSCI",
+    "catalogNumber": "700",
+    "title": "Topics in Operations Research and Management",
+    "description": "Priority may be given to Management Sciences students.",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

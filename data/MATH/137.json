@@ -1,0 +1,34 @@
+{
+    "id": "006880",
+    "subject": "MATH",
+    "catalogNumber": "137",
+    "title": "Calculus 1 for Honours Mathematics",
+    "description": "Absolute values and inequalities. Sequences and their limits. Introduction to series. Limits of functions and continuity. The Intermediate Value theorem and approximate solutions to equations. Derivatives, linear approximation, and Newton's method. The Mean Value theorem and error bounds. Applications of the Mean Value theorem, Taylor polynomials and Taylor's theorem, Big-O notation. Suitable topics are illustrated using computer software. [Offered: F,W,S; online: F,W,S]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "MATH 116",
+        "MATH 117",
+        "MATH 127",
+        "MATH 147"
+    ],
+    "next": [
+        "ACTSC 231",
+        "MATH 118",
+        "MATH 119",
+        "MATH 128",
+        "MATH 138",
+        "STAT 230",
+        "STAT 240",
+        "BIOL 364",
+        "PHYS 175",
+        "PHYS 225",
+        "PMATH 320",
+        "PMATH 321"
+    ]
+}

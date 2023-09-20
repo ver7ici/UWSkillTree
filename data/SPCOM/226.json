@@ -1,0 +1,19 @@
+{
+    "id": "012411",
+    "subject": "SPCOM",
+    "catalogNumber": "226",
+    "title": "Introduction to Race, Culture, and Communication",
+    "description": "This course introduces theories and practices central to the relationship between communication and race/ethnicity. Students gain theoretical and practical understanding of the opportunities and obstacles that exist for racialized equity-deserving groups. Students are prompted to recognize their positionality in relation to race and how communication can be meaningfully used toward anti-racist ends.",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [
+        "SPCOM 101"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "SPCOM 402"
+    ]
+}

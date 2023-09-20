@@ -1,0 +1,19 @@
+{
+    "id": "016168",
+    "subject": "SOC",
+    "catalogNumber": "436",
+    "title": "Alcohol and Well-Being",
+    "description": "This seminar examines the relation between well-being, culture, alcohol consumption, and regulation from an interpretive focus. Topics addressed may include health, Alcoholics Anonymous, addiction vs. dependence, prohibition, and social discourses around alcohol consumption.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "SOC 101",
+        "SOC 101R"
+    ],
+    "coreq": [],
+    "antireq": [
+        "SOC 430"
+    ],
+    "next": []
+}

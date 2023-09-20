@@ -1,0 +1,18 @@
+{
+    "id": "013670",
+    "subject": "PMATH",
+    "catalogNumber": "753",
+    "title": "Functional Analysis",
+    "description": "Banach and Hilbert spaces, bounded linear maps, Hahn-Banach theorem, open mapping theorem, closed graph theorem, topologies, nets, Hausdorff spaces, Tietze extension theorem, dual spaces, weak topologies, Tychonoff's theorem, Banach-Alaoglu theorem, reflexive spaces.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "PMATH 453"
+    ],
+    "next": [
+        "PMATH 810"
+    ]
+}

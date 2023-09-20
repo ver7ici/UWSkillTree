@@ -1,0 +1,17 @@
+{
+    "id": "015053",
+    "subject": "MATH",
+    "catalogNumber": "661",
+    "title": "Problem Solving and Proof in Geometry",
+    "description": "This course explores the Euclidean geometry of triangles and circles from elementary to advanced settings. The course also briefly discusses three-dimensional geometry. An emphasis is placed on proof, on problem solving, on problem creation in a geometric context, and on aspects of teaching geometry. Where possible, problems that combine multiple areas of mathematics are used.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [
+        "MATH 600",
+        "MATH 692"
+    ],
+    "antireq": [],
+    "next": []
+}

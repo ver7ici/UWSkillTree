@@ -1,0 +1,17 @@
+{
+    "id": "016142",
+    "subject": "ECON",
+    "catalogNumber": "426",
+    "title": "Quantile Regression in Economics",
+    "description": "This course explores techniques to estimate conditional quantiles of a responsive variable. As opposed to least squares methods, which estimate the conditional mean, it provides a more complete picture of relationships between variables.",
+    "term": [],
+    "prereq": [
+        "ECON 323",
+        "STAT 221",
+        "STAT 231",
+        "STAT 241"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

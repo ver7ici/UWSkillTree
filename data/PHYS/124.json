@@ -1,0 +1,22 @@
+{
+    "id": "013640",
+    "subject": "PHYS",
+    "catalogNumber": "124",
+    "title": "Modern Physics",
+    "description": "An introductory course in modern physics; includes relativity, quantum physics, atomic physics, nuclear physics, particle physics and gravitation. [Offered:  W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "PHYS 111",
+        "PHYS 115",
+        "PHYS 121",
+        "ECE 105"
+    ],
+    "coreq": [
+        "PHYS 112",
+        "PHYS 122"
+    ],
+    "antireq": [],
+    "next": []
+}

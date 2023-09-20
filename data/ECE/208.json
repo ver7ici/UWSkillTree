@@ -1,0 +1,23 @@
+{
+    "id": "015300",
+    "subject": "ECE",
+    "catalogNumber": "208",
+    "title": "Discrete Mathematics and Logic 2",
+    "description": "Formal logics, methods, and associated tools, and their uses in specifying, synthesizing, and verifying computing systems. Predicate logic. Temporal logic. Relational logic. Set theory. Proof theory. Model theory. Graph theory. Formal models of computation. Applications in computer and software engineering. [Offered: F, S]",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [
+        "ECE 108"
+    ],
+    "coreq": [],
+    "antireq": [
+        "CS 245",
+        "SE 212"
+    ],
+    "next": [
+        "ECE 351",
+        "ECE 356"
+    ]
+}

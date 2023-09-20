@@ -1,0 +1,16 @@
+{
+    "id": "015555",
+    "subject": "ME",
+    "catalogNumber": "562",
+    "title": "Experimental Methods in Fluids",
+    "description": "This course is focused on theory and practice of experimental analysis of fluid mechanics problems. It covers the following topics: experimental facilities and techniques for measurements in fluid flows, flow visualization, identification of appropriate tools for experimental assessment, planning of experiments, laboratory experiments, data acquisition, analysis of experimental results and uncertainty estimation. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "ME 362"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

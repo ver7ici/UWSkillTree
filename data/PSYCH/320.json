@@ -1,0 +1,17 @@
+{
+    "id": "011305",
+    "subject": "PSYCH",
+    "catalogNumber": "320",
+    "title": "Language Development",
+    "description": "Examines early language development including how children learn about sounds, words, higher-level sentence structure, and how to communicate effectively. Explores factors within the child and aspects of the environment that make language acquisition possible, as well as special populations of learners who provide additional insight into the acquisition process.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "PSYCH 211",
+        "PSYCH 207"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

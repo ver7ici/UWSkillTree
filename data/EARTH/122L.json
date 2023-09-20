@@ -1,0 +1,18 @@
+{
+    "id": "004822",
+    "subject": "EARTH",
+    "catalogNumber": "122L",
+    "title": "Introductory Environmental Sciences Laboratory",
+    "description": "For students taking EARTH 122. Laboratory exercises cover selected topics from EARTH 122 lectures. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [
+        "EARTH 122"
+    ],
+    "antireq": [],
+    "next": [
+        "EARTH 458"
+    ]
+}

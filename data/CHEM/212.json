@@ -1,0 +1,24 @@
+{
+    "id": "004048",
+    "subject": "CHEM",
+    "catalogNumber": "212",
+    "title": "Structure and Bonding",
+    "description": "An introduction to the principles of chemical structure and bonding, with emphasis on their application to inorganic systems. Topics include atoms, orbitals, and periodicity; localized bonding models; symmetry and group theory; and molecular orbital theory. The subjects treated in this course are foundational components for advanced studies in all areas of chemistry. [Offered: W,S]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "CHEM 120",
+        "CHEM 123",
+        "CHEM 121",
+        "CHEM 125"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "CHEM 310",
+        "CHEM 310L",
+        "CHEM 313"
+    ]
+}

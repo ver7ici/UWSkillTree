@@ -1,0 +1,17 @@
+{
+    "id": "012942",
+    "subject": "SE",
+    "catalogNumber": "491",
+    "title": "Design Project 2",
+    "description": "Final implementation, testing, and communication of the design project started in SE 390. Technical presentations by groups. Analysis of social, legal, and economic impacts. Final release of the project. Project retrospective. [Offered: W]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [
+        "SE 490"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,32 @@
+{
+    "id": "006827",
+    "subject": "MSCI",
+    "catalogNumber": "452",
+    "title": "Decision Making Under Uncertainty",
+    "description": "This course deals with normative, descriptive, and prescriptive theories and models of decision making under uncertainty. The course focuses on concepts such as risk measures, Bayes theorem, and basic and multi-attribute utility theories. The course uses these concepts to build analytical decision-making models considering the randomness and/or risk-attitude of the decision-makers. Various forms of decision analysis techniques will be covered and typically include, expected utility maximization, the value of information analysis, one/two-way sensitivity analysis, and sequential Bayesian inference. Practical uses and limitations of the models and techniques will be illustrated. [Offered: S]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "AE 224",
+        "BME 213",
+        "CHE 220",
+        "CIVE 224",
+        "ECE 203",
+        "ECE 306",
+        "ENVE 224",
+        "MSCI 251",
+        "MSCI 252",
+        "ME 202",
+        "MTE 201",
+        "NE 215",
+        "STAT 206",
+        "STAT 211",
+        "STAT 231",
+        "STAT 241",
+        "SYDE 212"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

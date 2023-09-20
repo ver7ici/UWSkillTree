@@ -1,0 +1,23 @@
+{
+    "id": "001730",
+    "subject": "HLTH",
+    "catalogNumber": "606A",
+    "title": "Epidemiological Methods",
+    "description": "An investigation of the epidemiology of selected non-infectious diseases with emphasis on the identification of risk factors and on the methodology of epidemiological investigations.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "HSG 605B",
+        "HSG 605C",
+        "HLTH 605B"
+    ],
+    "coreq": [],
+    "antireq": [
+        "HLTH 606B"
+    ],
+    "next": [
+        "HLTH 631",
+        "HLTH 636"
+    ]
+}

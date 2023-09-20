@@ -1,0 +1,27 @@
+{
+    "id": "004885",
+    "subject": "ECON",
+    "catalogNumber": "201",
+    "title": "Microeconomic Theory for Business and Policy",
+    "description": "This course offers an introduction to the theory of market based economies. Topics include consumer choice, production, price and output under perfect and imperfect competition, price discrimination and two part pricing, vertical and horizontal firm boundaries and integration, and market structure.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "ECON 101",
+        "ECON 100",
+        "COMM 103"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ECON 311",
+        "ECON 332",
+        "ECON 361",
+        "ECON 363",
+        "ECON 422",
+        "ECON 451"
+    ]
+}

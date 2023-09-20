@@ -1,0 +1,19 @@
+{
+    "id": "003891",
+    "subject": "CO",
+    "catalogNumber": "330",
+    "title": "Combinatorial Enumeration",
+    "description": "The algebra of formal power series. The combinatorics of the ordinary and exponential generating series. Lagrange's implicit function theorem, applications to the enumeration of permutations, functions, trees and graphs. Integer partitions, geometric methods, enumerating linear transformations. Introduction to the pattern algebra, applications to the enumeration of strings. Lattice paths, Wiener-Hopf factorization. Enumeration under symmetries. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "MATH 239",
+        "MATH 249"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "CO 430"
+    ]
+}

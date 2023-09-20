@@ -1,0 +1,30 @@
+{
+    "id": "004390",
+    "subject": "CS",
+    "catalogNumber": "338",
+    "title": "Computer Applications in Business: Databases",
+    "description": "A user-oriented approach to the management of large collections of data. Methods used for the storage, selection, and presentation of data. Common database management systems. [Note: Lab is not scheduled and students are expected to find time in open hours to complete their work. Offered: F,W,S]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "CS 230",
+        "CS 231",
+        "CS 234",
+        "CS 246",
+        "CS 330",
+        "AFM 341",
+        "CS 116",
+        "CS 136",
+        "CS 146"
+    ],
+    "coreq": [],
+    "antireq": [
+        "CS 348",
+        "CS 448",
+        "MSCI 346"
+    ],
+    "next": []
+}

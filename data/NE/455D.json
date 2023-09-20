@@ -1,0 +1,16 @@
+{
+    "id": "015219",
+    "subject": "NE",
+    "catalogNumber": "455D",
+    "title": "Nanostructured Materials Laboratory 2",
+    "description": "Application of experimental tools and techniques employed in nanomaterials. Experimental exercises may investigate and design the production and performance of electronic double layer capacitors (EDLC) for battery applications through the use of dispersion and mixing protocols to prepare carbon materials. Performance of the materials may be quantified using defined testing methods for measurement of electrical storage metrics. The exercise also stresses safe handling of nanomaterials. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "NE 454D"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

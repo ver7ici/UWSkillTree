@@ -1,0 +1,22 @@
+{
+    "id": "003691",
+    "subject": "BIOL",
+    "catalogNumber": "342",
+    "title": "Molecular Biotechnology 1",
+    "description": "Molecular biotechnology applies the principles of recombinant DNA technology (genetic engineering, gene cloning) to the development of commercial products. The methods of recombinant DNA technology, molecular diagnostic systems for detecting diseases and transgenic organisms will be discussed. [Note: Recommended prerequisite BIOL 241.  It is recommended that BIOL 342 be taken after completion of second year. Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "BIOL 140",
+        "BIOL 240",
+        "BIOL 208",
+        "BIOL 309"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "BIOL 432",
+        "BIOL 483"
+    ]
+}

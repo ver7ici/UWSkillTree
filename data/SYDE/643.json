@@ -1,0 +1,14 @@
+{
+    "id": "014495",
+    "subject": "SYDE",
+    "catalogNumber": "643",
+    "title": "Collaborative Systems Design",
+    "description": "Interaction of humans with technological systems often takes place within the broader context of a collaborative setting.  Therefore, there is an increasing trend for the design of these systems to incorporate and support group interactions.  This course will emphasize the study of collaboration from an interdisciplinary perspective and the derivation of system design criteria.  Topics will include group theories, collaboration requirements (including communication, coordination, team awareness), quantitative and qualitative research methods (including laboratory studies, surveys, ethnographic research methods), data analysis, and collaboration technologies.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "SYDE 740"
+    ],
+    "next": []
+}

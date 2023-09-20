@@ -1,0 +1,17 @@
+{
+    "id": "015202",
+    "subject": "ECON",
+    "catalogNumber": "491",
+    "title": "Advanced Microeconomics",
+    "description": "This course prepares students for graduate-level theory courses. Students will be exposed to a selection of topics treated with the mathematical rigour required for graduate work.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "ECON 392",
+        "ECON 393"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

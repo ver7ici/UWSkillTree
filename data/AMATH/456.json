@@ -1,0 +1,23 @@
+{
+    "id": "003357",
+    "subject": "AMATH",
+    "catalogNumber": "456",
+    "title": "Calculus of Variations",
+    "description": "Concept of functional and its variations. The solution of problems using variational methods - the Euler-Lagrange equations. Applications include an introduction to Hamilton's principle and optimal control.  [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "MATH 237",
+        "MATH 247",
+        "AMATH 250",
+        "AMATH 251",
+        "MATH 211",
+        "ECE 205",
+        "MATH 218",
+        "MATH 228"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

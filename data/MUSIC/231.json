@@ -1,0 +1,15 @@
+{
+    "id": "006990",
+    "subject": "MUSIC",
+    "catalogNumber": "231",
+    "title": "Music Cognition",
+    "description": "The study of music from a behavioural science perspective. Topics include auditory perception, creativity and aesthetic experience, emotive human responses, and the social psychology of music activities. Recent research in the field of music cognition will be explored in detail.",
+    "term": [],
+    "prereq": [
+        "MUSIC 100",
+        "MUSIC 110"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

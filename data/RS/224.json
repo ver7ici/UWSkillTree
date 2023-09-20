@@ -1,0 +1,22 @@
+{
+    "id": "006169",
+    "subject": "RS",
+    "catalogNumber": "224",
+    "title": "Selections from Greek Authors",
+    "description": "This course is designed to follow GRK 201/RS 201 and to expand students' experience of reading ancient Greek texts for the study of classical studies and religious studies. Texts read will include a selection of poetry and prose in a variety of fields, including authors such as Homer, Herodotus, Euripides, Plato, the New Testament, and Josephus.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "GRK 201",
+        "RS 223"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "GRK 351",
+        "GRK 331",
+        "GRK 332",
+        "GRK 341"
+    ]
+}

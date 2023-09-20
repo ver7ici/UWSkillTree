@@ -1,0 +1,20 @@
+{
+    "id": "009047",
+    "subject": "WKRPT",
+    "catalogNumber": "200",
+    "title": "Work-term Report",
+    "description": "A work-term report presenting in detail a technical project, activity, or analysis engaged by the student normally during the preceding work term.  The report is evaluated on the basis of written communication skills and technical proficiency in the subject matter as demonstrated by the report.  Work-term reports are required courses for the degree but their grades are not included in the average.  However, failed work-term report evaluations may delay a student's progress as indicated in the Examinations and Promotions section of this calendar.  Details regarding the evaluation of the work-term reports can be obtained from the student's program advisor.  [Note:  This course is considered as DRNA]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "MSCI 391",
+        "NE 250",
+        "WKRPT 201"
+    ],
+    "next": []
+}

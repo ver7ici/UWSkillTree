@@ -1,0 +1,19 @@
+{
+    "id": "006741",
+    "subject": "ME",
+    "catalogNumber": "459",
+    "title": "Energy Conversion",
+    "description": "Review of reserves and consumption trends of Canada's and the world's energy resources. Design of fossil-fuel central power plants, including boiler efficiency calculations and advanced steam and binary cycles. Review of atomic physics including fission and fusion energy. Design of nuclear fission power plants including design of reactor core for critical conditions, fuel cycles and radiation hazards. Design considerations for solar energy conversion devices including: availability of solar energy, solar-thermal converters, thermal storage and photovoltaics. Principles of fuel cells and some aspects of their design. Other topics as appropriate. [Offered: F, S]",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [
+        "ME 353",
+        "ME 354",
+        "MTE 309"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

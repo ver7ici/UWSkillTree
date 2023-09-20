@@ -1,0 +1,20 @@
+{
+    "id": "004058",
+    "subject": "CHEM",
+    "catalogNumber": "224L",
+    "title": "Analytical Instrumentation Laboratory",
+    "description": "Extensive lab experience for students who have taken CHEM 220. [Offered: W,S]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "CHEM 220",
+        "CHEM 220L"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "CHEM 323"
+    ]
+}

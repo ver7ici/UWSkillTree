@@ -1,0 +1,12 @@
+{
+    "id": "000538",
+    "subject": "CIVE",
+    "catalogNumber": "711",
+    "title": "Computer-Aided Project Organization and Management",
+    "description": "This course deals with the application of computerized tools to develop decision-support systems to effectively manage time, money, and resources associated with construction projects.  It covers: introduction to computer tools, review of the CPM method and project management software, optimization using Excel Solver, Expert Systems, Neural Networks, OOP programming, Genetic Algorithms, process modeling and simulation, multi-criteria decision-making, integrated project Management tools, networking, workgroup management, Internet, dealing with project uncertainty using Monte-Carlo simulation, various case studies and computer workshops.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,16 @@
+{
+    "id": "000627",
+    "subject": "CS",
+    "catalogNumber": "688",
+    "title": "Introduction to Computer Graphics",
+    "description": "Software and hardware for interactive computer graphics. Implementation of device drivers, 3-D transformations, clipping, perspective, and input routines. Data structures, hidden surface removal, colour shading techniques, and some additional topics will be covered. Preference will be given to CS graduate students.  All others require approval from the department.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

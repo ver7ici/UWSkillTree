@@ -1,0 +1,17 @@
+{
+    "id": "015683",
+    "subject": "SOC",
+    "catalogNumber": "383",
+    "title": "Ethnomethodology in Theory and Practice",
+    "description": "Ethnomethodology is a study of the methods and practices people use to produce and recognize social actions. Topics may include greetings, the sex/gender distinction, science and common sense, breaching experiments, and jury deliberation.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "SOC 101",
+        "SOC 101R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

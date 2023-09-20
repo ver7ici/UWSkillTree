@@ -1,0 +1,18 @@
+{
+    "id": "015220",
+    "subject": "NE",
+    "catalogNumber": "381",
+    "title": "Introduction to Nanoscale Biosystems",
+    "description": "Specific aspects of biosystems required for the engineering of nanobiotechnological applications: topics to be covered may include surface and bulk science concepts needed for the development of lab-on-chip systems and those aspects of molecular biology of the cell necessary for application to medical diagnostics. Elements of design required for the development of modern instrumentation may also be covered, thereby providing a solid foundation for more advanced topics and applications. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "NE 481",
+        "NE 486",
+        "NE 487"
+    ]
+}

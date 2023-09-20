@@ -1,0 +1,18 @@
+{
+    "id": "009910",
+    "subject": "CHEM",
+    "catalogNumber": "494B",
+    "title": "Research Project",
+    "description": "A continuation of CHEM 494A.  No credit or grade will be provided for this course until the two-term sequence CHEM 494A/B has been completed. CHEM 494A/B may not be taken concurrently without prior permission of the CHEM 494 co-ordinator.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "CHEM 494A"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,19 @@
+{
+    "id": "015321",
+    "subject": "AE",
+    "catalogNumber": "104",
+    "title": "Mechanics 1",
+    "description": "Newtonian mechanics. Force systems; vectors, forces, and moments; equilibrium and free body diagrams. Mechanics of simple structures. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "CIVE 104",
+        "PHYS 115"
+    ],
+    "next": [
+        "AE 105"
+    ]
+}

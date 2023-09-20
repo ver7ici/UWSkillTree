@@ -1,0 +1,18 @@
+{
+    "id": "013742",
+    "subject": "AFM",
+    "catalogNumber": "211",
+    "title": "Connections to Business Context",
+    "description": "This course focuses on developing the qualities and transferable skills necessary for integration, continuous learning, and professional development. The course integrates an understanding of business, basic functional competencies, leadership, collaboration, and communication skills to address a range of business decisions.",
+    "term": [],
+    "prereq": [
+        "AFM 101",
+        "AFM 131",
+        "SPCOM 111"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "AFM 311"
+    ]
+}

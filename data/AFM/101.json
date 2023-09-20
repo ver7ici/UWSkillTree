@@ -1,0 +1,32 @@
+{
+    "id": "011404",
+    "subject": "AFM",
+    "catalogNumber": "101",
+    "title": "Introduction to Financial Accounting",
+    "description": "This course is an introduction to financial accounting. The preparation and use of financial statements is examined. The accounting cycle and assets and liabilities reporting, is discussed.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "AFM 123",
+        "ARBUS 102",
+        "AFM 191",
+        "BUS 127W",
+        "BUS 227W",
+        "MSCI 262"
+    ],
+    "next": [
+        "AFM 291",
+        "AFM 102",
+        "COMM 321",
+        "AFM 202",
+        "AFM 203",
+        "AFM 211",
+        "AFM 212",
+        "MATBUS 371"
+    ]
+}

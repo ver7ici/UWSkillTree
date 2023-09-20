@@ -1,0 +1,17 @@
+{
+    "id": "013549",
+    "subject": "ENBUS",
+    "catalogNumber": "640",
+    "title": "Strategies for Sustainable Enterprises",
+    "description": "This course looks at organizational strategy through the \"lens\" of sustainability.  It explores how corporations (and other types of organizations) are realigning and in some cases reinventing their corporate strategies to move toward more sustainable business models.  This includes initiatives undertaken within the firms, as well as initiatives pursued outside the firm (such as through partnerships).  Several frameworks are offered for assessing the degree to which principles of sustainability are embraced within an organization's strategies.  In addition, tools for formulation and implementing a sustainability strategic plan are presented.  Case studies draw from different sectors and also different organizational types.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "ENBUS 601",
+        "ENBUS 602"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

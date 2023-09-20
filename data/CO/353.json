@@ -1,0 +1,18 @@
+{
+    "id": "011442",
+    "subject": "CO",
+    "catalogNumber": "353",
+    "title": "Computational Discrete Optimization",
+    "description": "Formulations of combinatorial optimization problems, greedy algorithms, dynamic programming, branch-and-bound, cutting plane algorithms, decomposition techniques in integer programming, approximation algorithms.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "CO 250",
+        "CO 255",
+        "CO 352"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

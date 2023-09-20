@@ -1,0 +1,14 @@
+{
+    "id": "000180",
+    "subject": "BIOL",
+    "catalogNumber": "624",
+    "title": "Environmental Biogeochemistry",
+    "description": "The influence of physical, chemical and microbiological processes on groundwater geochemistry are examined. Background concepts in microbial ecology and organic geochemistry are developed and related to subsurface environments. Treatment is given to biodegradation of organic pollutants, microbially-mediated redox reactions and organic-metal interactions. EARTH 439 is strongly recommended.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

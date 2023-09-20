@@ -1,0 +1,18 @@
+{
+    "id": "013432",
+    "subject": "ECE",
+    "catalogNumber": "416",
+    "title": "Advanced Topics in Networking",
+    "description": "This course introduces advanced topics in networking with a focus on applications and wireless technologies. Topics include: Cellular networks (2G, 3G, 4G and beyond), applications (Domain Name System [DNS], Simple Mail Transfer Protocol[SMTP], Post Office Protocol [POP], Internet Message Access Protocol [ IMAP], Hypertext Transfer Protocol [HTTP]) and socket programming, Content-centric networks (content delivery networks, peer-to-peer protocols, data centers, etc.), protocols for multimedia applications (Session Initiation Protocol [SIP], Real-time Transport Protocol [RTP], RTP Control Protocol [RTCP]), emerging technologies (Internet of Things, sensors, software defined networks), policy issues (network neutrality, who controls the Internet?). [Offered W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "ECE 358"
+    ],
+    "coreq": [],
+    "antireq": [
+        "CS 456"
+    ],
+    "next": []
+}

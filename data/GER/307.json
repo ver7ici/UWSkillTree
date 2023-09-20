@@ -1,0 +1,17 @@
+{
+    "id": "013631",
+    "subject": "GER",
+    "catalogNumber": "307",
+    "title": "German for Professional Purposes",
+    "description": "This language course teaches students the skills needed to function in German business and professional environments. Praxis-oriented language and intercultural training are combined with a discussion of the German business world.",
+    "term": [],
+    "prereq": [
+        "GER 202",
+        "GER 211"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "GER 331"
+    ]
+}

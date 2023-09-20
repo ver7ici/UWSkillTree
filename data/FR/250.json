@@ -1,0 +1,19 @@
+{
+    "id": "005579",
+    "subject": "FR",
+    "catalogNumber": "250",
+    "title": "Intermediate Spoken French",
+    "description": "A course intended to develop the oral and aural skills. [Note: Formerly FR 250A]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [
+        "FR 192B"
+    ],
+    "antireq": [
+        "FR 250A"
+    ],
+    "next": []
+}

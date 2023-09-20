@@ -1,0 +1,22 @@
+{
+    "id": "008791",
+    "subject": "SPAN",
+    "catalogNumber": "201A",
+    "title": "Intermediate Spanish 1",
+    "description": "This course develops intermediate skills in reading, writing, speaking, and listening. The primary goals are to build communicative competence and enhance social and cultural awareness of the Spanish-speaking world.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "SPAN 102"
+    ],
+    "coreq": [],
+    "antireq": [
+        "SPAN 210"
+    ],
+    "next": [
+        "SPAN 201B",
+        "SPAN 290",
+        "SPAN 210"
+    ]
+}

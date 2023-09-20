@@ -1,0 +1,14 @@
+{
+    "id": "001986",
+    "subject": "MSCI",
+    "catalogNumber": "741",
+    "title": "Economics of Technological Change",
+    "description": "This is an applied course in industrial organization economics. It deals with productivity, the relationship between productivity and technological change, the determinants to firms' investments in research, development and innovation, the diffusion of innovations, entrepreneurship, and technology policy.  Priority may be given to Management Sciences students.",
+    "term": [],
+    "prereq": [
+        "MSCI 607"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

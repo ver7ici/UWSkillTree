@@ -1,0 +1,26 @@
+{
+    "id": "015481",
+    "subject": "KIN",
+    "catalogNumber": "221L",
+    "title": "Advanced Biomechanics of Human Movement Laboratory",
+    "description": "This laboratory course provides students with advanced practical tools used in the biomechanical assessment of human movement. The labs have been designed to assist with students' knowledge and understanding of material discussed in the KIN 221 lectures.",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "KIN 121",
+        "KIN 121L"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "KIN 422",
+        "KIN 425",
+        "KIN 427",
+        "KIN 320",
+        "KIN 428",
+        "KIN 326",
+        "KIN 327"
+    ]
+}

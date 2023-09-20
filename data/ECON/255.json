@@ -1,0 +1,20 @@
+{
+    "id": "015182",
+    "subject": "ECON",
+    "catalogNumber": "255",
+    "title": "Introduction to the Economics of Natural Resources",
+    "description": "This course uses the theory and tools of economics to explore key problems in natural resource use and management. The meaning and implications of natural resource scarcity are explored, as well as how the insights of economics can be used to guide policies to promote a more sustainable path for our future. The course examines issues of economic efficiency and equity in specific resource sectors such as energy resources, fisheries, forestry, and water.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "ECON 101",
+        "ECON 100",
+        "COMM 103"
+    ],
+    "coreq": [],
+    "antireq": [
+        "ECON 355"
+    ],
+    "next": []
+}

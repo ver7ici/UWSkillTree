@@ -1,0 +1,24 @@
+{
+    "id": "013727",
+    "subject": "AFM",
+    "catalogNumber": "323",
+    "title": "Quantitative Foundations for Finance",
+    "description": "This course introduces analytical and statistical methods commonly used in finance, with applications to investment management and corporate finance.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [
+        "AFM 272",
+        "ACTSI 291",
+        "AFM 273"
+    ],
+    "coreq": [],
+    "antireq": [
+        "ECON 321",
+        "STAT 373"
+    ],
+    "next": [
+        "AFM 423"
+    ]
+}

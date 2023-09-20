@@ -1,0 +1,17 @@
+{
+    "id": "015894",
+    "subject": "PACS",
+    "catalogNumber": "325",
+    "title": "Refugees and Forced Migration",
+    "description": "This course will draw on case studies from past and present to understand why people flee their homes and homelands to seek refuge elsewhere. It will examine the policies and practices of government and non-governmental agencies in facilitating or blocking such movements. The course will also analyze the attitudes, values, and language that shape local and global responses to refugee movements, on the part of civil society and the state. Students in the course will become acquainted with organizations that work with refugees in Waterloo Region and will gain a critical understanding of Canada's role in refugee reception.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "PACS 301",
+        "LEC 001"
+    ],
+    "next": []
+}

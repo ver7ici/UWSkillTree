@@ -1,0 +1,18 @@
+{
+    "id": "014026",
+    "subject": "MTE",
+    "catalogNumber": "420",
+    "title": "Power Electronics and Motor Drives",
+    "description": "Analysis, design and control of power electronic converters, principles of operation and control of DC and special-purpose motors, power electronics-based control of DC and special-purpose motors.  [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "MTE 320"
+    ],
+    "coreq": [],
+    "antireq": [
+        "ECE 463"
+    ],
+    "next": []
+}

@@ -1,0 +1,16 @@
+{
+    "id": "005642",
+    "subject": "FR",
+    "catalogNumber": "410",
+    "title": "Medieval French Literature",
+    "description": "An introduction to French literature of the Middle Ages through the study of representative texts.",
+    "term": [],
+    "prereq": [
+        "FR 197",
+        "FR 296",
+        "FR 297"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

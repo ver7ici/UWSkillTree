@@ -1,0 +1,19 @@
+{
+    "id": "008938",
+    "subject": "SYDE",
+    "catalogNumber": "192",
+    "title": "Digital Systems",
+    "description": "Digital technology, combinatorial logic, binary arithmetic, synchronous sequential circuits, design methodology, algorithmic state machines, microcomputer interfacing. [Offered: S]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "BME 292",
+        "BME 393"
+    ],
+    "next": [
+        "ECE 327"
+    ]
+}

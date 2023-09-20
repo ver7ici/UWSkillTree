@@ -1,0 +1,19 @@
+{
+    "id": "012536",
+    "subject": "HLTH",
+    "catalogNumber": "631",
+    "title": "Public Health Surveillance",
+    "description": "Fundamental principles of public health surveillance and monitoring, describe the source of public health data in Canada and other countries. Topics covered include forecasting, information management and organization, and technological innovations for assessment, evaluation and program delivery.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "PHS 606",
+        "HSG 606",
+        "HLTH 606B",
+        "HLTH 606A"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

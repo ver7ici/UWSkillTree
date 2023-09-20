@@ -1,0 +1,16 @@
+{
+    "id": "008933",
+    "subject": "SYDE",
+    "catalogNumber": "161",
+    "title": "Introduction to Design",
+    "description": "Multidisciplinary system design, the design process, problem definition, life-cycle design, design specification, concept/design generation and evaluation, design for manufacturing and assembly, system modelling and analysis, introduction to mechanical design, prototyping, safety and responsibility in engineering design, design documentation. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "BME 161"
+    ],
+    "next": []
+}

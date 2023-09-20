@@ -1,0 +1,14 @@
+{
+    "id": "011944",
+    "subject": "NE",
+    "catalogNumber": "345",
+    "title": "Photonic Materials and Devices",
+    "description": "Wave nature of light, refractive index and dispersion, group velocity, irradiance and Poynting vector, Snell's law, Fresnel's Equation, antireflection coatings, absorption of light, temporal and spatial coherence, dielectric waveguides and optical fibers, planar waveguides, dispersion in waveguides; light emitting diodes (LED), pn junction, LED materials, stimulated emission, lasers, photodetectors, photovoltaic devices, solar cells. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

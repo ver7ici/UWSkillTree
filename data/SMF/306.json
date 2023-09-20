@@ -1,0 +1,23 @@
+{
+    "id": "008568",
+    "subject": "SMF",
+    "catalogNumber": "306",
+    "title": "Intimate Relationships",
+    "description": "The interpersonal dynamics involved in intimate relationships will be examined. Topics such as attraction, commitment, love, trust, dissolution, and communication will be examined from various theoretical and empirical perspectives.",
+    "term": [],
+    "prereq": [
+        "SMF 101",
+        "PSYCH 253",
+        "PSYCH 253R"
+    ],
+    "coreq": [],
+    "antireq": [
+        "PSYCH 354",
+        "PSYCH 354R"
+    ],
+    "next": [
+        "SMF 404",
+        "SMF 496",
+        "PSYCH 459"
+    ]
+}

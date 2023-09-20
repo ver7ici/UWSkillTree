@@ -1,0 +1,31 @@
+{
+    "id": "013805",
+    "subject": "CS",
+    "catalogNumber": "247",
+    "title": "Software Engineering Principles",
+    "description": "Systematic methods for designing, coding, testing, and documenting medium-sized programs. Major topics include abstraction, modularity, software modeling, object-oriented programming and design, generic programming, testing and debugging. [Note: Lab is not scheduled and students are expected to find time in open hours to complete their work. Offered: S]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "CS 241"
+    ],
+    "coreq": [],
+    "antireq": [
+        "CS 246",
+        "MSCI 342",
+        "SYDE 322"
+    ],
+    "next": [
+        "CS 240",
+        "CS 457",
+        "SE 463",
+        "SE 464",
+        "SE 465",
+        "CS 398",
+        "CS 399",
+        "MSCI 436",
+        "SE 390",
+        "SE 350"
+    ]
+}

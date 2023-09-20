@@ -1,0 +1,37 @@
+{
+    "id": "003895",
+    "subject": "CO",
+    "catalogNumber": "250",
+    "title": "Introduction to Optimization",
+    "description": "A broad introduction to the field of optimization, discussing applications, and solution techniques. Mathematical models for real life applications; algorithms; aspects of computational complexity; geometry; linear programming duality, focusing on the development of algorithms. [Offered: F,W,S]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "MATH 106",
+        "MATH 114",
+        "MATH 115",
+        "MATH 136",
+        "MATH 146"
+    ],
+    "coreq": [],
+    "antireq": [
+        "CO 227",
+        "CO 255"
+    ],
+    "next": [
+        "CO 327",
+        "CO 351",
+        "CO 367",
+        "CO 370",
+        "CO 454",
+        "CO 456",
+        "CO 466",
+        "CO 353",
+        "CO 372",
+        "MSCI 332",
+        "MSCI 555"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "id": "015957",
+    "subject": "BIOL",
+    "catalogNumber": "312",
+    "title": "The Natural History of Aquatic Organisms",
+    "description": "This course will introduce students to the diversity of freshwater organisms and their habitats. Emphasis will be placed on sampling techniques, taxonomic identification, life histories, and adaptations to aquatic environments. The course will introduce students to the use of aquatic organisms in environmental impact and biodiversity assessments. Students must be prepared to work outdoors in potentially inclement weather. [Note: A field trip fee of $60 is required toward the cost of transportation; Offered: S]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "BIOL 150",
+        "BIOL 165"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

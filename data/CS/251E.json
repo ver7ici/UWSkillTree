@@ -1,0 +1,22 @@
+{
+    "id": "015893",
+    "subject": "CS",
+    "catalogNumber": "251E",
+    "title": "Computer Organization and Design (Enriched)",
+    "description": "Enriched version of CS 251. [Note: Students enrolled in Digital Hardware Specialization should enrol in ECE 222. See notes 1 and 9 above. CS 251E may be substituted for CS 251 wherever the latter is a requirement. Enrolment is restricted. Lab is not scheduled and students are expected to find time in open hours to complete their work. Offered: As permitted by demand and available resources.]",
+    "term": [],
+    "prereq": [
+        "CS 136",
+        "CS 146"
+    ],
+    "coreq": [],
+    "antireq": [
+        "BME 292",
+        "BME 393",
+        "ECE 222",
+        "ME 262",
+        "MTE 262",
+        "SYDE 192"
+    ],
+    "next": []
+}

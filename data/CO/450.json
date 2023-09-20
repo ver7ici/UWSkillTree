@@ -1,0 +1,17 @@
+{
+    "id": "003910",
+    "subject": "CO",
+    "catalogNumber": "450",
+    "title": "Combinatorial Optimization",
+    "description": "Characterizations of optimal solutions and efficient algorithms for optimization problems over discrete structures. Topics include network flows, optimal matchings, T-joins and postman tours, matroid optimization. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "CO 255",
+        "CO 351"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

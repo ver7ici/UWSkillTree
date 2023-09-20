@@ -1,0 +1,16 @@
+{
+    "id": "014071",
+    "subject": "NE",
+    "catalogNumber": "451",
+    "title": "Simulation Methods",
+    "description": "This course provides an introduction to and an overview of computational methods that are currently employed for the simulation of structural and bulk properties of matter, particularly as applied to physical and biological systems at the nanometer scale.  Topics to be covered in this course include energy functions and force fields, geometry optimization, normal mode analysis, and reaction--path techniques at the molecular level, and an introduction to the simulation of static and dynamic properties of substances via both Monte Carlo and molecular dynamics (MD) methodologies. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "NE 452"
+    ]
+}

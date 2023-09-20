@@ -1,0 +1,24 @@
+{
+    "id": "005582",
+    "subject": "FR",
+    "catalogNumber": "252",
+    "title": "French Language 2: Module 2",
+    "description": "Intensive work on grammar and written French.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "FR 192B"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "FR 303",
+        "FR 351",
+        "FR 373",
+        "FR 353",
+        "FR 355"
+    ]
+}

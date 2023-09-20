@@ -1,0 +1,18 @@
+{
+    "id": "001238",
+    "subject": "FINE",
+    "catalogNumber": "681",
+    "title": "Issues in Contemporary Art 2",
+    "description": "A continuation of FINE 680. The research begun in FINE 680 will be continued in greater depth and consolidated in a major written paper.  Open to Fine Arts graduate students only. Prerequisite: FINE 680.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "FINE 680"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "FINE 682"
+    ]
+}

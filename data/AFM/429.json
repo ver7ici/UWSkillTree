@@ -1,0 +1,21 @@
+{
+    "id": "014478",
+    "subject": "AFM",
+    "catalogNumber": "429",
+    "title": "Investment Management - Senior Portfolio Manager",
+    "description": "This course provides students hands-on training in equity valuation and portfolio management. As a senior portfolio manager, a student will make allocations in different industry sectors, monitor the performance of the existing equity holdings in these sectors, mentor analysts, make equity trading decisions for these sectors, and present portfolio performance reports to the investment team and the advisory board.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "AFM 274",
+        "AFM 275",
+        "AFM 372",
+        "ACTSC 391"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

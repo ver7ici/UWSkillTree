@@ -1,0 +1,18 @@
+{
+    "id": "016339",
+    "subject": "SOC",
+    "catalogNumber": "213",
+    "title": "Surveillance Studies",
+    "description": "An introduction to the central role of surveillance in shaping power relations and knowledge across a range of social and cultural contexts. Foundational historical, theoretical, and empirical texts that define the field of surveillance studies will be explored.",
+    "term": [],
+    "prereq": [
+        "SOC 101",
+        "SOC 101R",
+        "LS 101"
+    ],
+    "coreq": [],
+    "antireq": [
+        "LS 203"
+    ],
+    "next": []
+}

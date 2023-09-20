@@ -1,0 +1,31 @@
+{
+    "id": "007393",
+    "subject": "PHYS",
+    "catalogNumber": "121",
+    "title": "Mechanics",
+    "description": "An introductory course in physics for students intending to concentrate their future studies in the physical sciences, optometry, or mathematics; includes vectors (dot and cross products), particle kinematics and dynamics, forces in nature, work and energy, conservation of energy and linear momentum, rotational kinematics and dynamics, and conservation of angular momentum. [Note: Successful completion of 4U Calculus and Vectors, 4U Advanced Functions and 4U Physics is required. Offered: F, also offered online: W]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [
+        "MATH 104",
+        "MATH 127",
+        "MATH 137",
+        "MATH 147"
+    ],
+    "antireq": [
+        "PHYS 111",
+        "PHYS 115",
+        "ECE 105"
+    ],
+    "next": [
+        "OPTOM 106",
+        "PHYS 112",
+        "PHYS 124",
+        "PHYS 122",
+        "AMATH 271",
+        "PHYS 175"
+    ]
+}

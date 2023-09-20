@@ -1,0 +1,16 @@
+{
+    "id": "014639",
+    "subject": "PHARM",
+    "catalogNumber": "155",
+    "title": "Introduction to Drug Information Fundamentals",
+    "description": "This course provides students with basic skills in retrieving and assessing drug information and medical literature.  The foundation acquired in this course will be used throughout the Integrated Patient Focused Care series in critically appraising literature to support an evidence-based patient care model. [Offered: S]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PHARM 380"
+    ]
+}

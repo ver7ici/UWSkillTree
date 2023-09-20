@@ -1,0 +1,16 @@
+{
+    "id": "012827",
+    "subject": "TS",
+    "catalogNumber": "690",
+    "title": "Seminars in Theological Studies",
+    "description": "Course topics and instructors will be announced each term.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

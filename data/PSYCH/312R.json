@@ -1,0 +1,20 @@
+{
+    "id": "007943",
+    "subject": "PSYCH",
+    "catalogNumber": "312R",
+    "title": "Learning Disabilities",
+    "description": "A critical examination of the concept of learning disability and of current issues in the assessment and remediation of learning problems. [Note: PSYCH 312 offered Online; PSYCH 312R offered at Renison.]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "PSYCH 207",
+        "PSYCH 211",
+        "PSYCH 212",
+        "PSYCH 212R",
+        "PSYCH 213R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

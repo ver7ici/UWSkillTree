@@ -1,0 +1,21 @@
+{
+    "id": "010655",
+    "subject": "ECE",
+    "catalogNumber": "750",
+    "title": "Special Topics in Computer Software",
+    "description": "",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ECE 651",
+        "ECE 653",
+        "ECE 654",
+        "ECE 656",
+        "ECE 657"
+    ]
+}

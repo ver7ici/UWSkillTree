@@ -1,0 +1,16 @@
+{
+    "id": "013960",
+    "subject": "PHYS",
+    "catalogNumber": "175L",
+    "title": "Introduction to the Universe Laboratory",
+    "description": "For students who are taking PHYS 175. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [
+        "PHYS 175"
+    ],
+    "antireq": [],
+    "next": []
+}

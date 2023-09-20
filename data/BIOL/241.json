@@ -1,0 +1,32 @@
+{
+    "id": "003667",
+    "subject": "BIOL",
+    "catalogNumber": "241",
+    "title": "Introduction to Applied Microbiology",
+    "description": "Introduction to microbial ecology, environmental microbiology, food microbiology, and medical microbiology. Topics in environmental microbiology include biogeochemical cycling and biological treatment of wastes and pollutants. Topics in medical microbiology include concepts of immunology and host-parasite relationships. [Offered: W,S]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "BIOL 140",
+        "BIOL 240",
+        "BIOL 140",
+        "BIOL 240L"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "BIOL 442",
+        "BIOL 443",
+        "BIOL 444",
+        "BIOL 345",
+        "BIOL 346",
+        "BIOL 447",
+        "BIOL 448",
+        "BIOL 348L",
+        "BIOL 475",
+        "BIOL 449",
+        "BIOL 341"
+    ]
+}

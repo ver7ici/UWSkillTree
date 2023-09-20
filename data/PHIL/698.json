@@ -1,0 +1,16 @@
+{
+    "id": "010436",
+    "subject": "PHIL",
+    "catalogNumber": "698",
+    "title": "Research Area Tutorials for PhD",
+    "description": "PhD candidates select two of these tutorials on topics approved by the department, each to be taken with a different instructor, as part of their degree requirements.  The goal of each area is to allow the student to reach a point where she or he is ready to make a research contribution to a particular area of philosophy.  One of the areas will normally be in the subject the student intends to pursue for the dissertation.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,21 @@
+{
+    "id": "008871",
+    "subject": "STAT",
+    "catalogNumber": "322",
+    "title": "Sampling and Experimental Design (Non-Specialist Level)",
+    "description": "Planning sample surveys; simple random sampling; stratified sampling. Observational and experimental studies. Blocking, randomization, factorial designs. Analysis of variance. Applications of design principles. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "STAT 221",
+        "STAT 231",
+        "STAT 241"
+    ],
+    "coreq": [],
+    "antireq": [
+        "STAT 332",
+        "STAT 372"
+    ],
+    "next": []
+}

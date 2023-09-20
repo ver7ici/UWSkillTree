@@ -1,0 +1,14 @@
+{
+    "id": "015311",
+    "subject": "PHIL",
+    "catalogNumber": "207J",
+    "title": "Philosophy and J.R.R. Tolkien",
+    "description": "An introduction to the implicit philosophical content of Tolkien's works, with a special emphasis on Lord of the Rings. Problems such as the existence of God, fate, free will, evil, death, and technology will be explored. Tolkien's views will be examined in relation to philosophical works.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "PHIL 209"
+    ],
+    "next": []
+}

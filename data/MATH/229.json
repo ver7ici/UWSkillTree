@@ -1,0 +1,27 @@
+{
+    "id": "013104",
+    "subject": "MATH",
+    "catalogNumber": "229",
+    "title": "Introduction to Combinatorics (Non-Specialist Level)",
+    "description": "Introduction to graph theory: colourings, connectivity, Eulerian tours, planarity. Introduction to combinatorial analysis: elementary counting, generating series, binary strings. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "MATH 106",
+        "MATH 136",
+        "MATH 146",
+        "MATH 135",
+        "MATH 145"
+    ],
+    "coreq": [],
+    "antireq": [
+        "CO 220",
+        "MATH 239",
+        "MATH 249"
+    ],
+    "next": [
+        "CO 454",
+        "CO 456"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "015630",
+    "subject": "ECE",
+    "catalogNumber": "307",
+    "title": "Probability Theory and Statistics 2",
+    "description": "This course provides in depth knowledge of statistics motivated by electrical and computer engineering applications. Use of modern statistical software tools is introduced. Topics include sufficient statistics, exponential families, hypothesis testing, error estimation, confidence intervals, chi-square tests, analysis of variance, regression, correlation, decision theory, and Bayesian and non-Bayesian statistics. [Offered: F, W]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "ECE 203"
+    ],
+    "coreq": [],
+    "antireq": [
+        "STAT 330",
+        "STAT 331",
+        "STAT 332"
+    ],
+    "next": [
+        "MSCI 446",
+        "MSCI 334"
+    ]
+}

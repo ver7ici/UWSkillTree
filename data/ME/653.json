@@ -1,0 +1,14 @@
+{
+    "id": "001866",
+    "subject": "ME",
+    "catalogNumber": "653",
+    "title": "Radiation Heat Transfer",
+    "description": "Blackbody radiation; properties of surfaces; heat exchange between black, isothermal surfaces; heat exchange in an enclosure composed of diffuse-gray surfaces; radiation in the presence of other modes of heat transfer; radiation in absorbing-emitting media; heat exchange in enclosures containing absorbing-emitting gases; flames, luminous flames and particle radiation.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

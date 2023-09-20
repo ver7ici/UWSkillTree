@@ -1,0 +1,21 @@
+{
+    "id": "014960",
+    "subject": "CIVE",
+    "catalogNumber": "310",
+    "title": "Introduction to Structural Design",
+    "description": "Introduction to structural systems. Systems for carrying gravity and lateral loads in buildings. Structural design concepts. Analysis and design of concrete beams, and one-way slabs. Design of steel beams and tension members. Comparison of steel and concrete framing systems. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "CIVE 205"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "CIVE 413",
+        "CIVE 414",
+        "CIVE 415",
+        "CIVE 512"
+    ]
+}

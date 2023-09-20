@@ -1,0 +1,23 @@
+{
+    "id": "003239",
+    "subject": "AFM",
+    "catalogNumber": "123",
+    "title": "Accounting Information for Managers",
+    "description": "This course is designed for non-accountants who will use accounting information for planning, control, and decision-making.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "AFM 101",
+        "AFM 102",
+        "AFM 121",
+        "BUS 127W",
+        "BUS 227W",
+        "BUS 247W",
+        "MSCI 262"
+    ],
+    "next": []
+}

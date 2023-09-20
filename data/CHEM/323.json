@@ -1,0 +1,18 @@
+{
+    "id": "004089",
+    "subject": "CHEM",
+    "catalogNumber": "323",
+    "title": "Analytical Instrumentation",
+    "description": "Detailed study of selected instruments and instrumental methods. Introduction to chemometrics and to computer interfacing. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "CHEM 221",
+        "CHEM 223",
+        "CHEM 224L"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,12 @@
+{
+    "id": "000496",
+    "subject": "CIVE",
+    "catalogNumber": "614",
+    "title": "Structural Dynamics",
+    "description": "Introduction to the mechanics of vibrations and Laplace transforms: dynamics of discretized systems; one degree of freedom systems; free and forced vibration; response to base excitation, stochastic excitation, impact. Lumped - mass multidegree systems: free and forced vibration of two degrees of freedom systems in response to harmonic and step functions, pulses, and general type. Matrix formulation for multiple degrees of freedom, natural frequencies (matrix iteration, Stodola-Vianello, Rayleigh), Lagrange equations, modal analysis. Flexural vibrations of beams, plates and frames. Earthquake response of single and multistorey buildings and practical considerations of earthquake design.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

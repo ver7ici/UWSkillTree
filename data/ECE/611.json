@@ -1,0 +1,12 @@
+{
+    "id": "000769",
+    "subject": "ECE",
+    "catalogNumber": "611",
+    "title": "Digital Communications",
+    "description": "Representation of bandpass signals and systems, modulation and demodulation for the additive white Gaussian noise channel, optimal demodulation for signals with random phase, noncoherent detection for binary and M-ary orthogonal signals, hard and soft decision decoding for linear codes, concatenated codes, performance of coded modulation systems, characterization of fading multipath channels, diversity techniques, performance of coded systems on fading channels, direct sequence and frequency hopped spread spectrum systems.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

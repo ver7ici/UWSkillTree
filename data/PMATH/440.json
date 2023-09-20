@@ -1,0 +1,14 @@
+{
+    "id": "007690",
+    "subject": "PMATH",
+    "catalogNumber": "440",
+    "title": "Analytic Number Theory",
+    "description": "Summation methods, analytic theory of the Riemann zeta function, Prime Number Theorem, primitive roots, quadratic reciprocity. Dirichlet characters and infinitude of primes in arithmetic progressions, and assorted topics.",
+    "term": [],
+    "prereq": [
+        "PMATH 352"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

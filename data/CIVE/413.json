@@ -1,0 +1,19 @@
+{
+    "id": "004244",
+    "subject": "CIVE",
+    "catalogNumber": "413",
+    "title": "Structural Steel Design",
+    "description": "Advanced coverage of design of structural steel members and connections, building on CIVE 310. Design of laterally-unsupported beams, compression members and beam-columns. Plate girders. Connections. Special topics in design of structural steel or other metals. [Offered: S]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "AE 310",
+        "CIVE 310"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "CIVE 415"
+    ]
+}

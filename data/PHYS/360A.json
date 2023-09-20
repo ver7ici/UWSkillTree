@@ -1,0 +1,23 @@
+{
+    "id": "007446",
+    "subject": "PHYS",
+    "catalogNumber": "360A",
+    "title": "Modern Physics Laboratory 1",
+    "description": "Selected experiments in mechanics, optics, electronics, atomic, molecular, nuclear, and solid state physics. [Note: Students in programs joint with Physics should see department for enrolment access. Offered: F,W,S]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "MNS 201L",
+        "PHYS 260L",
+        "PHYS 270L"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PHYS 360B",
+        "PHYS 460A"
+    ]
+}

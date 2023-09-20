@@ -1,0 +1,14 @@
+{
+    "id": "013351",
+    "subject": "CO",
+    "catalogNumber": "646",
+    "title": "Matroid Theory",
+    "description": "This is an introductory course on matroid theory, with particular emphasis on graphic matroids and on topics that are applicable to graph theory.  The topics include: matroid intersection and partition, graphic matroids, matroid connectivity, regular matroids, and representable matroids.  Applications include: matching, disjoint spanning trees, the 8-flow theorem for graphs, planarity testing, and recognizing totally unimodular matrices.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

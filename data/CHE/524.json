@@ -1,0 +1,14 @@
+{
+    "id": "004004",
+    "subject": "CHE",
+    "catalogNumber": "524",
+    "title": "Process Control Laboratory",
+    "description": "Experiments on process dynamics, control, and simulation of processes. Time constant; step and frequency response; controller tuning; multivariable control strategies. Implementation using simulation systems, mainframe computer control, microcomputers. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

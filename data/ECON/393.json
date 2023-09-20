@@ -1,0 +1,30 @@
+{
+    "id": "015195",
+    "subject": "ECON",
+    "catalogNumber": "393",
+    "title": "Market Failures",
+    "description": "This course explores the many ways in which the assumptions of the perfectly competitive model are violated in the real world, and the consequences of these market failures for consumers and firms. The course examines potential government intervention to \"fix\" the failures as well as the limits of government intervention. Topics include monopoly/monopsony, externalities, the tragedy of the commons, public goods, asymmetric information, and incomplete information.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "ECON 391"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ECON 436",
+        "ECON 456",
+        "ECON 406",
+        "ECON 407",
+        "ECON 408",
+        "ECON 409",
+        "ECON 474",
+        "ECON 491",
+        "ECON 496",
+        "ECON 441",
+        "ECON 443"
+    ]
+}

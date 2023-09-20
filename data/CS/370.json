@@ -1,0 +1,46 @@
+{
+    "id": "004400",
+    "subject": "CS",
+    "catalogNumber": "370",
+    "title": "Numerical Computation",
+    "description": "Principles and practices of basic numerical computation as a key aspect of scientific computation. Visualization of results. Approximation by splines, fast Fourier transforms, solution of linear and nonlinear equations, differential equations, floating point number systems, error, stability. Presented in the context of specific applications to image processing, analysis of data, scientific modeling. [Note: Lab is not scheduled and students are expected to find time in open hours to complete their work. Offered: F,W,S]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "MATH 118",
+        "MATH 119",
+        "MATH 128",
+        "MATH 138",
+        "MATH 148",
+        "MATH 106",
+        "MATH 114",
+        "MATH 115",
+        "MATH 136",
+        "MATH 146",
+        "CS 231",
+        "CS 234",
+        "CS 241",
+        "CS 246"
+    ],
+    "coreq": [],
+    "antireq": [
+        "AMATH 242",
+        "CS 371",
+        "CHE 121",
+        "CIVE 121",
+        "CS 335",
+        "ECE 204",
+        "MTE 204"
+    ],
+    "next": [
+        "CS 476",
+        "CS 488",
+        "CS 475",
+        "AMATH 342",
+        "CS 484",
+        "CS 479"
+    ]
+}

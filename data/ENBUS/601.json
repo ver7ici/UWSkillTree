@@ -1,0 +1,17 @@
+{
+    "id": "013545",
+    "subject": "ENBUS",
+    "catalogNumber": "601",
+    "title": "Business and the Case for Sustainability",
+    "description": "This on-site intensive course introduces students to basic business concepts and integrates them with concerns for sustainability.  The underlying emphasis is on the value and rationale, opportunities and risks for businesses to undertake and integrate environmental and social sustainability initiatives.  Business topics to be covered include an introduction to concepts and terminology from finance,accounting, strategy, marketing, organization behaviour and operations.  Guests from academia, industry, governments, and non-profit organizations present topics and case studies.  Students also learn about the MEB program, meet faculty members, meet each other, and are introduced to distance education tools.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ENBUS 620",
+        "ENBUS 630",
+        "ENBUS 640",
+        "ENBUS 650"
+    ]
+}

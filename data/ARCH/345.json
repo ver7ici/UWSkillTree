@@ -1,0 +1,14 @@
+{
+    "id": "003535",
+    "subject": "ARCH",
+    "catalogNumber": "345",
+    "title": "Architectural Theory 1850-1990",
+    "description": "Beginning with the introduction of important theories of architecture in vogue prior to 1850, this course examines texts, movements, buildings, projects, and urban proposals of the period in order to understand the structure of contemporary architectural theory.",
+    "term": [],
+    "prereq": [
+        "ARCH 247"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

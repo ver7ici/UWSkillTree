@@ -1,0 +1,24 @@
+{
+    "id": "015862",
+    "subject": "INDG",
+    "catalogNumber": "102",
+    "title": "Mohawk Language 2",
+    "description": "This course builds on the content learned in MOHAWK 101R/INDG 101. Students will expand their working vocabulary and learn to create more complex sentences. The emphasis will continue to be on improving oral proficiency and comprehension. [Note: Conducted in Mohawk.]",
+    "term": [],
+    "prereq": [
+        "MOHAWK 101R",
+        "INDG 101",
+        "ARTS 190",
+        "LEC 002",
+        "ARTS 190",
+        "LEC 003",
+        "ARTS 190",
+        "LEC 001"
+    ],
+    "coreq": [],
+    "antireq": [
+        "ARTS 290",
+        "LEC 001"
+    ],
+    "next": []
+}

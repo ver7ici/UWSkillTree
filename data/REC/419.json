@@ -1,0 +1,17 @@
+{
+    "id": "015903",
+    "subject": "REC",
+    "catalogNumber": "419",
+    "title": "Event Implementation and Evaluation",
+    "description": "This course explores the effective implementation and leverage of events to achieve event impacts. Students will also examine various quantitative and/or qualitative event evaluation methods.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "REC 219",
+        "REC 319"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,14 @@
+{
+    "id": "015416",
+    "subject": "ECE",
+    "catalogNumber": "608",
+    "title": "Quantitative Methods in Biomedical Engineering",
+    "description": "This biomedical engineering core course focuses on topics related to the use of quantitative tools in biomedical engineering research studies.  It will teach students how to conduct statistical analysis of biomedical data, design biomedical experiments that can offer statistical insight, and apply computational methods to solve problems in biomedical engineering.  Educational emphasis will be placed on developing students' core competence in biostatistics and biomedical computing, so as to prepare them to pursue biomedical engineering investigations that are backed by quantitative reasoning and numerical insights.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

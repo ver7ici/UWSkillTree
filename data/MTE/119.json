@@ -1,0 +1,20 @@
+{
+    "id": "011426",
+    "subject": "MTE",
+    "catalogNumber": "119",
+    "title": "Statics",
+    "description": "Basic concepts of mechanics, vectors. Statics of particles. Rigid bodies and force systems, equilibrium of rigid bodies. Analysis of trusses and frames. Distributed forces, centroids and moments of inertia. Friction. Internal shear and bending moments in beams.[Offered: W,S]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "CIVE 105",
+        "SYDE 181"
+    ],
+    "next": [
+        "MTE 219"
+    ]
+}

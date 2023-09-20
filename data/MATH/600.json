@@ -1,0 +1,14 @@
+{
+    "id": "013923",
+    "subject": "MATH",
+    "catalogNumber": "600",
+    "title": "Introduction to Mathematical Software for Teachers",
+    "description": "This course exposes students to the technical tools that professional mathematicians use.  The software presented in the course will enhance each student's communication, presentation, visualization, and problem-solving skills.  The course will also take a brief look at the history of mathematical communication and its impact on the development of the subject.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

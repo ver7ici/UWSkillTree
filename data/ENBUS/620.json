@@ -1,0 +1,17 @@
+{
+    "id": "013547",
+    "subject": "ENBUS",
+    "catalogNumber": "620",
+    "title": "Business Operations and Sustainability",
+    "description": "This course examines environmental and sustainability management tools for business operations; it addresses process and product considerations.  These include environmental management system tools; cleaner production and pollution prevention tools (environmental risk management, environmental impact assessment, emissions quantification and verification, eco-efficiency, etc.); product stewardship and eco-design tools (design for environment, life cycle assessment/costing, greening supply chain, etc.); sustainability accounting tools (key performance indicators, ecological footpint, social balance, full cost accounting, etc.); and human resource tools (managing teams, motivating people for sustainability, diversity policies, etc.).  The sustainability tools are explained in relation to health/safety programs, human resources management, and operations and quality management.  The course draws on practices and illustrative examples of performance of organizations in different sectors, around different environmental issues (energy, waste, water, air emissions, etc.).",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "ENBUS 601",
+        "ENBUS 602"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

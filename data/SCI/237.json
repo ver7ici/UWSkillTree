@@ -1,0 +1,15 @@
+{
+    "id": "008513",
+    "subject": "SCI",
+    "catalogNumber": "237",
+    "title": "Exploring the Universe",
+    "description": "A survey course in astronomy (primarily intended for students in Applied Health Sciences, Arts and Environment). The solar system, stars, the Milky Way, galaxies and the Universe.  [Note:  Cannot be taken for credit by Engineering, Mathematics, or Science students.  Offered: F]",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "PHYS 175",
+        "SCI 238"
+    ],
+    "next": []
+}

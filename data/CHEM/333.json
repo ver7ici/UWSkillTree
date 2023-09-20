@@ -1,0 +1,26 @@
+{
+    "id": "004091",
+    "subject": "CHEM",
+    "catalogNumber": "333",
+    "title": "Metabolism 1",
+    "description": "Metabolism of carbohydrates, lipids and amino acids. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "CHEM 233",
+        "CHEM 237",
+        "NE 224",
+        "CHEM 265",
+        "CHEM 267"
+    ],
+    "coreq": [],
+    "antireq": [
+        "CHEM 331"
+    ],
+    "next": [
+        "CHEM 432",
+        "CHEM 433",
+        "CHEM 430"
+    ]
+}

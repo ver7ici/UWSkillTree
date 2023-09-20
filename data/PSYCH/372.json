@@ -1,0 +1,17 @@
+{
+    "id": "014512",
+    "subject": "PSYCH",
+    "catalogNumber": "372",
+    "title": "Environmental Psychology",
+    "description": "This course is intended to increase the awareness and understanding of the impact of the environment on human behaviour and experience. Topics to be discussed include territoriality and crowding, environment cognition, the psychology of public spaces, the influence of digital and social media on environment perception, and the impact of urban design on mental health. The course will include both lectures and interactive activities.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "PSYCH 101",
+        "PSYCH 121R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

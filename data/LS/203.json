@@ -1,0 +1,14 @@
+{
+    "id": "015560",
+    "subject": "LS",
+    "catalogNumber": "203",
+    "title": "Special Topics in Legal Studies",
+    "description": "An in-depth analysis of research in selected topics in Legal Studies. [Note: This is a repeatable course, subject to different content; it may be completed a total of two times.]",
+    "term": [],
+    "prereq": [
+        "LS 101"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

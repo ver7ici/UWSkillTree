@@ -1,0 +1,19 @@
+{
+    "id": "013442",
+    "subject": "ECE",
+    "catalogNumber": "457B",
+    "title": "Fundamentals of Computational Intelligence",
+    "description": "Fundamentals and recent advances in computational intelligence. Building accurate models with collected data or rules bases. Model-based prediction and classification. Concepts in machine learning, supervised and unsupervised learning, artificial neural networks, deep learning, feature extraction, feature selection, dimensionality reduction, classification and clustering, support vector machines.  Approximate reasoning based on fuzzy set theory. Performance metrics to assess the validity of produced models. Multiple examples and case studies such as autonomous driving, intelligent manufacturing, natural language understanding, speech recognition, computer vision, stock market prediction, disease early detection and diagnosis. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "CS 486",
+        "SYDE 522"
+    ],
+    "next": [
+        "MSCI 546"
+    ]
+}

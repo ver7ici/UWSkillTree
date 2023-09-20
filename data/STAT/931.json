@@ -1,0 +1,14 @@
+{
+    "id": "014341",
+    "subject": "STAT",
+    "catalogNumber": "931",
+    "title": "Causal Inference and Epidemiological Studies",
+    "description": "Causal inference in health research will be covered. Methods for the design and analysis of randomized controlled trials including randomization techniques, sample size and power calculations, and specialized additional topics including missing data, noncompliance, and ethics. The design and analysis of classical and modern epidemiological studies will then be discussed for settings in which randomization is not feasible. Causal inference methodologies for the analysis of observational data include propensity scores, marginal structural models and instrumental variables. Studies will be discussed from the epidemiological literature and other sources in the public domain. Simulations and data analyses will be carried out using software (e.g. R or SAS). Students will be trained and assessed in part based on the preparation of reports and delivery of presentations.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

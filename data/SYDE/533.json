@@ -1,0 +1,14 @@
+{
+    "id": "009003",
+    "subject": "SYDE",
+    "catalogNumber": "533",
+    "title": "Conflict Resolution",
+    "description": "Formal methods for studying engineering decision-making problems involving multiple participants and multiple objectives. Topics include the graph model for conflict resolution, normal game form, metagame analysis, games with misperceptions, preference elicitation, human behaviour under conflict, evolution of a conflict, decision-making under uncertainty, sensitivity analyses, multiple criteria decision analysis, group decision and negotiation, coalition analysis, decision support systems, and real-world applications of the foregoing concepts.  [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

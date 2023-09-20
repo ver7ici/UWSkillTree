@@ -1,0 +1,17 @@
+{
+    "id": "011938",
+    "subject": "NE",
+    "catalogNumber": "318",
+    "title": "Continuum Mechanics for Nanotechnology Engineering",
+    "description": "Tensor operations. Kinematics of a continuum: material and spatial frames, strain and displacement, conservation of mass. Stress, conservation of momentum, energy, and mass. Linear elastic solids: Hooke's Law, infinitesimal elasticity theory. Introduction to Newtonian viscous fluids: hydrostatics, Navier-Stokes equations, flow regimes, and the Reynolds number. Engineering applications in anisotropy, heat transfer, and fluid mechanics will be discussed. [Offered: S]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "NE 216",
+        "NE 217"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

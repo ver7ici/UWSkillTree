@@ -1,0 +1,20 @@
+{
+    "id": "011333",
+    "subject": "ECE",
+    "catalogNumber": "488",
+    "title": "Multivariable Control Systems",
+    "description": "Review of feedback control design fundamentals; SISO controller parameterizations; the fundamental effect of MIMO interaction; introduction to state-space models in continuous and discrete time; SISO techniques for MIMO design; optimal control; model-predictive control design; state estimation; decoupling, MIMO PID control design; applications in areas such as aerospace systems. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "ECE 380",
+        "SE 380",
+        "MTE 360",
+        "ME 360",
+        "SYDE 352"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

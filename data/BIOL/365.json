@@ -1,0 +1,23 @@
+{
+    "id": "009501",
+    "subject": "BIOL",
+    "catalogNumber": "365",
+    "title": "Methods in Bioinformatics",
+    "description": "This course covers bioinformatics methods with an emphasis on analysis of high-throughput `-omics' data. Topics include analysis of genome-scale gene and protein expression, construction of species and gene trees from molecular sequence data, and analysis of biological systems using bioinformatics tools. Included will be practical experience with bioinformatics tools and datasets.\n[Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "BIOL 239",
+        "BIOL 266",
+        "CHEM 140",
+        "CS 116",
+        "CS 136"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "BIOL 465",
+        "BIOL 469"
+    ]
+}

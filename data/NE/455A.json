@@ -1,0 +1,16 @@
+{
+    "id": "015216",
+    "subject": "NE",
+    "catalogNumber": "455A",
+    "title": "Nano-electronics Laboratory 2",
+    "description": "Application of experimental tools and techniques in nano-electronics. Experimental exercises to complete the design cycle involve printed circuit board (PCB) assembly and soldering, measurement of the formation of a nonanethiol self- assembled monolayer, determination of the partition coefficient for a solvent vapour into a monolayer-protected-cluster film deposited on a quartz crystal microbalance (QCM), and the use of various characterization methods. These exercises also stress the safe handling of chemicals in the process. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "NE 454A"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

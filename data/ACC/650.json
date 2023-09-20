@@ -1,0 +1,14 @@
+{
+    "id": "000020",
+    "subject": "ACC",
+    "catalogNumber": "650",
+    "title": "Assurance and Governance",
+    "description": "This course considers the role of risk in the context of assurance and the client's risk management process and addresses the impact of risk on an assurance provider's professional practice.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,14 @@
+{
+    "id": "000601",
+    "subject": "CS",
+    "catalogNumber": "644",
+    "title": "Compiler Construction",
+    "description": "Phases of compilation. Lexical analysis and a review of parsing. Compiler-compilers and translator writing systems. LEX and YACC. Scope rules, block structure, and symbol tables. Runtime stack management. Parameter passage mechanisms. Stack storage organization and templates. Heap storage management. Intermediate code. Code generation. Macros.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

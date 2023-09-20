@@ -1,0 +1,21 @@
+{
+    "id": "014964",
+    "subject": "GEOE",
+    "catalogNumber": "280",
+    "title": "Fluid Mechanics",
+    "description": "An introduction to fluid mechanics. Fluid properties. Review of fluid statics. Buoyancy. Bernoulli equation. The momentum equation and applications. Laminar and turbulent flow. Dimensionless numbers. Closed conduit flow including friction losses. Pipe network analysis including energy losses and efficiencies. Four lab sessions. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "CIVE 105"
+    ],
+    "coreq": [],
+    "antireq": [
+        "CIVE 280"
+    ],
+    "next": [
+        "CIVE 375",
+        "ENVE 382"
+    ]
+}

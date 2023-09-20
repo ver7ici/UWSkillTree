@@ -1,0 +1,14 @@
+{
+    "id": "011090",
+    "subject": "CS",
+    "catalogNumber": "856",
+    "title": "Advanced Topics in Distributed Computing",
+    "description": "",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

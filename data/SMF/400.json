@@ -1,0 +1,18 @@
+{
+    "id": "015161",
+    "subject": "SMF",
+    "catalogNumber": "400",
+    "title": "Capstone Seminar",
+    "description": "This seminar invites students to integrate their knowledge in the domains of sexuality, relationships, and families and make connections among theories, research, and practices. The capstone focus provides students the opportunity for critical self-reflection on their university experience. [Note: Normally students will take SMF 400 in their last term of study. Offered: Winter. SMF 220 equivalent courses: KIN 330, PSCI 315, PSYCH 291, REC 270, SDS/SWREN 251R, SOC/LS 221. SMF 230 equivalent courses: ARTS 280, ECON 221, ENVS 278, KIN 222, PSCI 314, PSYCH 292, REC 371, SDS/SWREN 250R, SOC/LS 280, STAT 202, 206, 211, 221, 231, 241.]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "SMF 220",
+        "SMF 230",
+        "SMF 310"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

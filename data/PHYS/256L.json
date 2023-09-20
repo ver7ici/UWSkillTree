@@ -1,0 +1,18 @@
+{
+    "id": "007423",
+    "subject": "PHYS",
+    "catalogNumber": "256L",
+    "title": "Optics Laboratory",
+    "description": "For students who have taken or are taking PHYS 256. [Note: Lab alternates weeks. Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [
+        "PHYS 256"
+    ],
+    "antireq": [],
+    "next": [
+        "PHYS 260L"
+    ]
+}

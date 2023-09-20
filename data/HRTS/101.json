@@ -1,0 +1,23 @@
+{
+    "id": "015743",
+    "subject": "HRTS",
+    "catalogNumber": "101",
+    "title": "Introduction to Human Rights",
+    "description": "An introduction to the subject of human rights and to the way it is studied. Questions to be examined include: What are human rights and where do they come from? How are they defined? How are they applied and enforced? What happens when they conflict? The course will draw on Canadian, Indigenous, and international ideas and examples.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "HRTS 204",
+        "HRTS 201",
+        "HRTS 203",
+        "HRTS 301",
+        "HRTS 390",
+        "HRTS 490"
+    ]
+}

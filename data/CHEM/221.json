@@ -1,0 +1,22 @@
+{
+    "id": "004054",
+    "subject": "CHEM",
+    "catalogNumber": "221",
+    "title": "Multi-Component Analysis",
+    "description": "Instrumental analytical chemistry, including traditional and more recent methods.  Emphasis on planning and decision-making in the analytical process.  [Offered W,S]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "CHEM 220",
+        "CHEM 220L"
+    ],
+    "coreq": [],
+    "antireq": [
+        "CHEM 223"
+    ],
+    "next": [
+        "CHEM 323"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "id": "012879",
+    "subject": "MATH",
+    "catalogNumber": "124",
+    "title": "Calculus and Vector Algebra for Kinesiology",
+    "description": "Review of trigonometry and basic algebra. Introduction to vectors in 2- and 3-space: sums, addition, dot products, cross products and angles between vectors. Solving linear systems in two and three variables. Functions of a real variable: powers, rational functions, trigonometric, exponential and logarithmic functions, their properties. Intuitive discussion of limits and continuity. Derivatives of elementary functions, derivative rules; applications to curve sketching, optimization. Relationships between distance, velocity, and acceleration. The definite integral, antiderivatives, the Fundamental Theorem of Calculus; change of variable and integration by parts; applications to area, centre of mass. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "MATH 109",
+        "MATH 116",
+        "MATH 117",
+        "MATH 127",
+        "MATH 137",
+        "MATH 147"
+    ],
+    "next": [
+        "KIN 121",
+        "KIN 121L",
+        "PMATH 320",
+        "PMATH 321"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "id": "015729",
+    "subject": "PSYCH",
+    "catalogNumber": "744",
+    "title": "Personality in Social Context",
+    "description": "This seminar introduces grad students to theories, ideas, and findings in modern personality research, with an emphasis on the interplay between the person and the social psychological situation. Readings and class discussion focus on these questions: What influences behavior: the person or the situation he or she is in? Although the obvious answer is \"both,\" how exactly do the person and the situation interact? What forms can interactionism take? What features of people are important in which situations? What features of situations are influential, and for whom?",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "PSYCH 690"
+    ],
+    "next": []
+}

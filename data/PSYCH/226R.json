@@ -1,0 +1,17 @@
+{
+    "id": "013890",
+    "subject": "PSYCH",
+    "catalogNumber": "226R",
+    "title": "Positive Psychology",
+    "description": "This course surveys theories and studies related to human strength and positive human functioning, with a focus on the psychological aspects of a fulfilling life. Topics include optimism, creativity, humour, resilience, wisdom, empathy, love, friendship, achievement, and happiness.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "PSYCH 101",
+        "PSYCH 101R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,19 @@
+{
+    "id": "006501",
+    "subject": "SDS",
+    "catalogNumber": "131R",
+    "title": "Political Ideologies and Social Development",
+    "description": "This course introduces major political ideologies, their influence in political institutions and public discourse, and their impact on contemporary Canadian social policy and social development. [Note: Formerly ISS 131R]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "SDS 431R",
+        "SDS 260R"
+    ]
+}

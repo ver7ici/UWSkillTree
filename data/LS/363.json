@@ -1,0 +1,18 @@
+{
+    "id": "007797",
+    "subject": "LS",
+    "catalogNumber": "363",
+    "title": "Canadian Constitutional Law",
+    "description": "An introduction to the nature and basic principles of constitutional law. Explores constitutional conventions, the distribution of powers in the Canadian federalism, Aboriginal and treaty rights, and the Charter of Rights and Freedoms.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "LS 101",
+        "LS 206",
+        "PSCI 260"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

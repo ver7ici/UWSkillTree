@@ -1,0 +1,26 @@
+{
+    "id": "004408",
+    "subject": "STAT",
+    "catalogNumber": "340",
+    "title": "Stochastic Simulation Methods",
+    "description": "Random variate generation in the univariate and multivariate case, Monte Carlo integration, advanced computer implementation, variance reduction, statistical analysis of simulated data, extensions to challenging simulation problems. Mathematical treatment of the underlying stochastic concepts and proofs. [Offered: W,S]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "CS 116",
+        "CS 136",
+        "CS 138",
+        "CS 145",
+        "SYDE 221",
+        "SYDE 322",
+        "STAT 230",
+        "STAT 240",
+        "STAT 231",
+        "STAT 241"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

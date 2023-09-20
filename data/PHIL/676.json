@@ -1,0 +1,14 @@
+{
+    "id": "002157",
+    "subject": "PHIL",
+    "catalogNumber": "676",
+    "title": "Graduate Courses in Applied Philosophy",
+    "description": "Graduate level courses covering specialized topics in the department's field of research concentration. These courses are often held in conjunction with PHIL 674, Graduate Course in Philosophy; the course requirements in PHIL 676 will involve application of philosophical methods and theories to practical problems.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

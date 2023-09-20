@@ -1,0 +1,15 @@
+{
+    "id": "000461",
+    "subject": "CHEM",
+    "catalogNumber": "760",
+    "title": "Selected Topics in Organic Chemistry",
+    "description": "Two or three topics from a range including: bio-organic chemistry; environmental organic chemistry; free radicals; heterocyclic molecules; molecular rearrangements; organometallic chemistry; photochemistry; natural products.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,15 @@
+{
+    "id": "013477",
+    "subject": "ENGL",
+    "catalogNumber": "100A",
+    "title": "Fiction",
+    "description": "An introduction to fiction through the detailed examination of a range of novels and/or short stories.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

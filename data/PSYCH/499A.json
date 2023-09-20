@@ -1,0 +1,32 @@
+{
+    "id": "008105",
+    "subject": "PSYCH",
+    "catalogNumber": "499A",
+    "title": "Honours Thesis - Part 1",
+    "description": "Under supervision of a faculty member students normally will review literature, design a study, present an oral research proposal, collect data, and write a scholarly report of the project. Students may choose to begin PSYCH 499 in their 3B or 4A term. [Note: No more than two of PSYCH 499A/499B/499C may be taken in one term. A grade for PSYCH 499A and 499B will be submitted only after completion of 499C. Further details are available in the Honours Thesis Handbook. Offered: F,W,S]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "PSYCH 391",
+        "PSYCH 389",
+        "PSYCH 390",
+        "PSYCH 392",
+        "PSYCH 393",
+        "PSYCH 394",
+        "PSYCH 395",
+        "PSYCH 396",
+        "PSYCH 397",
+        "PSYCH 398",
+        "PSYCH 399",
+        "PSYCH 483",
+        "PSYCH 484"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PSYCH 499C"
+    ]
+}

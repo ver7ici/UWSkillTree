@@ -1,0 +1,19 @@
+{
+    "id": "012526",
+    "subject": "HLTH",
+    "catalogNumber": "604",
+    "title": "Public Health and the Environment",
+    "description": "This course will explore the major sources of environmental stressors and types of environmental processes posing a risk to public health, and the mechanisms through which these interact with biological systems to exert adverse effects on human health.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "HLTH 623",
+        "HLTH 624",
+        "HLTH 635",
+        "HLTH 651"
+    ]
+}

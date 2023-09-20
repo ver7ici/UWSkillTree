@@ -1,0 +1,17 @@
+{
+    "id": "006584",
+    "subject": "KIN",
+    "catalogNumber": "425",
+    "title": "Biomechanical Modelling",
+    "description": "This course will examine the quantitative measurement and analysis of the human musculoskeletal system. Multi-segment dynamic movements will be studied using computer programs, with emphasis on kinematics, kinetics and energetics, as well as the use of EMG in the assessment of the control of the movement. Examples are presented from pathological, normal, and athletic movement.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "KIN 221",
+        "KIN 221L"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

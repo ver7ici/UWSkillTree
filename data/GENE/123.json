@@ -1,0 +1,18 @@
+{
+    "id": "005780",
+    "subject": "GENE",
+    "catalogNumber": "123",
+    "title": "Electrical Circuits and Instrumentation",
+    "description": "Charge, current and voltage. Voltage and current sources, resistors, capacitors and inductors. Ohm's Law, Kirchhoff's Laws, nodal analysis, Thevenin and Norton models, instrumentation amplifier circuits, time response, impedance. Function and characteristics of basic electrical transducers. Resolution, precision and accuracy. Basics of data acquisition. [Note: Normally labs are held alternate weeks. Offered: W,S]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ME 262",
+        "ME 269",
+        "MTE 262"
+    ]
+}

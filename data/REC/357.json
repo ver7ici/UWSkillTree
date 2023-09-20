@@ -1,0 +1,21 @@
+{
+    "id": "014697",
+    "subject": "REC",
+    "catalogNumber": "357",
+    "title": "Theories and Evidence for Therapeutic Recreation Practice",
+    "description": "This course is designed to examine theories, concepts, and evidence informing the design and facilitation of therapeutic recreation practice.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "REC 151",
+        "REC 251",
+        "REC 252"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "REC 450",
+        "REC 455"
+    ]
+}

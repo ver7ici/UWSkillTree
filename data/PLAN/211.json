@@ -1,0 +1,18 @@
+{
+    "id": "016263",
+    "subject": "PLAN",
+    "catalogNumber": "211",
+    "title": "Design Studio Foundations",
+    "description": "A studio-based course that explores, through problem solving, the built form's connections to its physical-natural setting and its socio-cultural and economic contexts. Individual and group projects, and studio critiques and reviews will underscore visual communication skills through qualitative and quantitative visual analyses, design drawings (e.g., site plans, cross sections, elevations, axonometric projections, and perspective drawings), and constructed and computer models. This course normally includes a field component. [Note: Field trip fee will not exceed $25+HST. Estimated material cost to student will not exceed $150+HST.]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "PLAN 210"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PLAN 309"
+    ]
+}

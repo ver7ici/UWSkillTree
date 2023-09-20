@@ -1,0 +1,27 @@
+{
+    "id": "006822",
+    "subject": "MSCI",
+    "catalogNumber": "331",
+    "title": "Introduction to Optimization",
+    "description": "This first course in optimization uses a quantitative approach to problem solving involving, mathematical modelling and formulations, solution methods, and output analysis. Students are introduced to a variety of practical problem formulations in management and engineering, a number of solution methods, including, but not limited to, linear optimization, network models, project management, and decision analysis. Students are also involved in a group project, where they go through conceptual and operational model design, analytical solution, output analysis, and recommendation. [Offered: F,W,S]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "BME 411",
+        "CHE 521",
+        "CIVE 332",
+        "CO 250",
+        "ENVE 320",
+        "ENVE 335",
+        "SYDE 411"
+    ],
+    "next": [
+        "MSCI 332",
+        "MSCI 555"
+    ]
+}

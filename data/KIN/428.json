@@ -1,0 +1,17 @@
+{
+    "id": "012555",
+    "subject": "KIN",
+    "catalogNumber": "428",
+    "title": "Upper Extremity Disorders",
+    "description": "This course introduces the multiple factors that mediate the initiation, diagnosis, treatment, and rehabilitation of disorders in the upper extremities. Beginning with a systematic review of hand, wrist, elbow, and shoulder region functional anatomy, a knowledge base is developed to provide a means for the analysis of injury mechanisms. Current prevention, clinical diagnosis, and rehabilitation techniques for specific disorders will be examined, including carpal tunnel syndrome, rotator cuff tears, and lateral epicondylitis. Pathologies arising from occupational, sport, and daily living activities will be addressed.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "KIN 221",
+        "KIN 221L"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

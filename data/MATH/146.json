@@ -1,0 +1,46 @@
+{
+    "id": "006887",
+    "subject": "MATH",
+    "catalogNumber": "146",
+    "title": "Linear Algebra 1 (Advanced Level)",
+    "description": "MATH 146 is an advanced-level version of MATH 136. [Note: Students who receive a minimum grade of 90% in MATH 135 may contact the instructor of MATH 146 to seek admission without the formal prerequisites. Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "MATH 145"
+    ],
+    "coreq": [],
+    "antireq": [
+        "MATH 106",
+        "MATH 114",
+        "MATH 115",
+        "MATH 136",
+        "NE 112"
+    ],
+    "next": [
+        "AMATH 250",
+        "CO 227",
+        "CO 250",
+        "CO 380",
+        "CO 480",
+        "CS 370",
+        "MATH 225",
+        "MATH 235",
+        "MATH 237",
+        "MATH 239",
+        "MATH 245",
+        "MATH 247",
+        "MATH 249",
+        "PMATH 370",
+        "CS 349",
+        "ACTSC 291",
+        "AMATH 391",
+        "MATH 229",
+        "CS 335",
+        "AMATH 251",
+        "AMATH 383",
+        "PMATH 320",
+        "PMATH 321"
+    ]
+}

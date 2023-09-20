@@ -1,0 +1,21 @@
+{
+    "id": "011118",
+    "subject": "PSCI",
+    "catalogNumber": "373",
+    "title": "Political Parties, Elections, and Political Marketing",
+    "description": "What is the role of political parties and electoral competition in established democracies? Students will focus on the practice of political marketing and its implications for democracy.",
+    "term": [],
+    "prereq": [
+        "PSCI 231",
+        "PSCI 250",
+        "PSCI 255",
+        "PSCI 264",
+        "LS 206",
+        "PSCI 260"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PSCI 452"
+    ]
+}

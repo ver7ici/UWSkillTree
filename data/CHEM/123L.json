@@ -1,0 +1,28 @@
+{
+    "id": "004041",
+    "subject": "CHEM",
+    "catalogNumber": "123L",
+    "title": "General Chemistry Laboratory 2",
+    "description": "Selected experiments based on introductory-level chemistry topics. This course is a continuation of CHEM 120L, with increased emphasis on assessment of experimental design. [Note: Students who are not taking, or who have not previously taken CHEM 123, will be removed from CHEM 123L; Offered: W,S]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "CHEM 120L"
+    ],
+    "coreq": [
+        "CHEM 123"
+    ],
+    "antireq": [
+        "CHEM 125L"
+    ],
+    "next": [
+        "CHEM 220L",
+        "CHEM 265L",
+        "CHEM 266L",
+        "CHEM 310L",
+        "CHEM 313L",
+        "CHEM 233L"
+    ]
+}

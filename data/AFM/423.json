@@ -1,0 +1,19 @@
+{
+    "id": "014855",
+    "subject": "AFM",
+    "catalogNumber": "423",
+    "title": "Topics in Financial Econometrics",
+    "description": "This course introduces the use of advanced econometric/statistical methods in studying financial market data, and in quantitatively assessing risks associated with financial investments. The methods presented in this course are tailored to address specific issues of interest in finance, such as the quantification of the risk-return tradeoff, the modelling of time-varying stock/bond market volatility and, possibly, also the statistical analysis of financial derivatives such as options.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "AFM 323",
+        "STAT 373"
+    ],
+    "coreq": [],
+    "antireq": [
+        "ECON 405"
+    ],
+    "next": []
+}

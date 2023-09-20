@@ -1,0 +1,19 @@
+{
+    "id": "003744",
+    "subject": "BIOL",
+    "catalogNumber": "455",
+    "title": "Ecological Risk Assessment and Management",
+    "description": "Examination of the use of scientific information characterizing the risks posed to the environment by anthropogenic stresses. Discussions will take place in the context of aquatic ecology and presume a background of standard aquatic toxicology methods. Methods for assessing risks, including environmental impact assessment, risk quotients, national, and international risk assessment paradigms, and cumulative effects assessment will be examined. Critical connections between assessment and management will also be discussed. [Offered: F of even years]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "BIOL 150",
+        "BIOL 250",
+        "BIOL 354",
+        "STAT 202"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,19 @@
+{
+    "id": "013360",
+    "subject": "CHEM",
+    "catalogNumber": "481",
+    "title": "Rational Design of Potential Drug Candidates",
+    "description": "This course provides an introduction to strategies for design of potential drug candidates. It builds upon molecular modelling principles introduced in CHEM 340 and will apply them to specific problems in drug design. Topics include conformational analysis, molecular mechanics, and molecular dynamics; computational studies of drug-receptor interactions, docking of small organic molecules to biological receptors, and alteration of molecular structures for improvement of bioactivity. [Offered: F or W]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "CHEM 233",
+        "CHEM 237",
+        "CHEM 340",
+        "CHEM 360"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

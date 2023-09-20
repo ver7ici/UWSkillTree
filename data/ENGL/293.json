@@ -1,0 +1,16 @@
+{
+    "id": "013353",
+    "subject": "ENGL",
+    "catalogNumber": "293",
+    "title": "Introduction to Digital Media Studies",
+    "description": "A study of theories of digital media, including critical, rhetorical, and semiotic approaches, and of the interpretation and creation of digital media artifacts.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "CS 383"
+    ]
+}

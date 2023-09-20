@@ -1,0 +1,14 @@
+{
+    "id": "015138",
+    "subject": "MUSIC",
+    "catalogNumber": "262",
+    "title": "Music for Vocal Ensemble",
+    "description": "A survey of the great masterpieces for vocal ensemble from Medieval times to the present studied through reading, lecture, and listening. Principle choral genres of each historical era are studied and discussed including works performed by the Grand Philharmonic Choir during the term. [Note: The ability to read music notation is not required.]",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "MUSIC 290"
+    ],
+    "next": []
+}

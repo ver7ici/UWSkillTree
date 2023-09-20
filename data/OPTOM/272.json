@@ -1,0 +1,20 @@
+{
+    "id": "009996",
+    "subject": "OPTOM",
+    "catalogNumber": "272",
+    "title": "Strabismus and Aniseikonia",
+    "description": "Detection and evaluation of sensory and motor characteristics of vision in aniseikonic, strabismic and nonstrabismic patients. Classifications, diagnoses, prognoses, and modes of therapy for aniseikonic, nonstrabismic, and strabismic patients.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "OPTOM 152",
+        "OPTOM 219",
+        "OPTOM 252"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "OPTOM 342A"
+    ]
+}

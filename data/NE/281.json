@@ -1,0 +1,16 @@
+{
+    "id": "016349",
+    "subject": "NE",
+    "catalogNumber": "281",
+    "title": "Biology for Nanotechnology Engineers",
+    "description": "Introduction to cell biology. Cell structure and components. Critical molecular processes of living organisms. Applications to nanobiotechnology. [Offered: S, first offered spring 2024]",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "BIOL 130",
+        "CHE 161",
+        "BME 285"
+    ],
+    "next": []
+}

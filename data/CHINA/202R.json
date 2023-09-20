@@ -1,0 +1,21 @@
+{
+    "id": "004204",
+    "subject": "CHINA",
+    "catalogNumber": "202R",
+    "title": "Second-Year Chinese 2",
+    "description": "The study of Chinese characters receives more emphasis. Grammar instruction includes comparisons and different kinds of complements.  The course includes topics of interest to students illustrating cultural differences between China and the West.  Upon completion of CHINA 201R and 202R, the student should have a reading vocabulary of 1,600 Chinese characters and have learned about 300 key sentence patterns.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "CHINA 201R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "CHINA 301R",
+        "CHINA 391R"
+    ]
+}

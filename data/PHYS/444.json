@@ -1,0 +1,23 @@
+{
+    "id": "007470",
+    "subject": "PHYS",
+    "catalogNumber": "444",
+    "title": "Introduction to Particle Physics",
+    "description": "This course introduces students to the standard model of particle physics. Topics covered include symmetries, particle classification, experimental methods and tools, scattering, Feynman diagrams, gauge theories, quantum electrodynamics, quarks, quantum chromodynamics, weak interactions, and the Higgs mechanism. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "PHYS 334",
+        "AMATH 373",
+        "PHYS 363",
+        "PHYS 364",
+        "PHYS 365",
+        "AMATH 332",
+        "AMATH 351",
+        "AMATH 353"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

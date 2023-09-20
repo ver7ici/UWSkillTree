@@ -1,0 +1,14 @@
+{
+    "id": "011335",
+    "subject": "SE",
+    "catalogNumber": "301",
+    "title": "Seminar",
+    "description": "General seminar. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

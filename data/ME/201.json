@@ -1,0 +1,21 @@
+{
+    "id": "006706",
+    "subject": "ME",
+    "catalogNumber": "201",
+    "title": "Advanced Calculus",
+    "description": "A continuation of First Year calculus, focusing on calculus of scalar and vector functions of several variables. Both classical calculus techniques and the computer implementation of numerical methods are discussed. Partial differentiation, total derivatives, chain rule, transformation of variables, Taylor series. Applications include geometrical problems, error estimation, maxima and minima, least squares curve fits. Multiple integration in standard coordinate systems, Jacobians. Vector calculus, divergence, curl, Laplacian, and Stokes', Green's and Divergence theorems. Scalar flux transport, work and energy, conservative force fields. [Offered: F, W]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [
+        "MATH 118"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ME 203",
+        "ME 303",
+        "ME 321"
+    ]
+}

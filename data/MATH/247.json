@@ -1,0 +1,43 @@
+{
+    "id": "006921",
+    "subject": "MATH",
+    "catalogNumber": "247",
+    "title": "Calculus 3 (Advanced Level)",
+    "description": "Topology of real n-dimensional space: completeness, closed and open sets, connectivity, compact sets, continuity, uniform continuity. Differential calculus on multivariable functions: partial differentiability, differentiability, chain rule, Taylor polynomials, extreme value problems. Riemann integration: Jordan content, integrability criteria, Fubini's theorem, change of variables. Local properties of continuously differentiable functions: open mapping theorem, inverse function theorem, implicit function theorem. [Offered: F,W,S]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "MATH 146",
+        "MATH 148"
+    ],
+    "coreq": [],
+    "antireq": [
+        "MATH 237"
+    ],
+    "next": [
+        "AMATH 231",
+        "PMATH 331",
+        "PMATH 332",
+        "PMATH 365",
+        "AMATH 351",
+        "AMATH 456",
+        "CO 255",
+        "PHYS 334",
+        "PHYS 358",
+        "PHYS 363",
+        "PMATH 343",
+        "PMATH 351",
+        "PMATH 352",
+        "STAT 330",
+        "STAT 333",
+        "CS 371",
+        "STAT 341",
+        "ACTSC 372",
+        "STAT 334",
+        "CS 335",
+        "ECE 403"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "id": "014751",
+    "subject": "CHEM",
+    "catalogNumber": "201",
+    "title": "Environmental Impact and Management of Resources 1",
+    "description": "Introduction to the management of resources used in the production, conversion and disposal/recycling of chemicals. Biobased versus fossil resources. Introduction to the life cycle analysis of a material. Principles of green chemistry. [Offered: F; Based in Bordeaux; online only]",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "CHEM 301"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "id": "011664",
+    "subject": "PSYCH",
+    "catalogNumber": "264",
+    "title": "Research Apprenticeship",
+    "description": "Students are introduced to the research process by participating in an unpaid apprenticeship of 96 hours in a faculty member's research lab in the Psychology Department. Apprenticeship hours will be completed before the end of the lecture period for the term of enrolment. Application forms are available on the Psychology undergraduate website. Grading is on a credit/no credit basis. Paid or volunteer positions obtained outside the context of this course are not eligible for credit in this course.  [Offered: F,W,S.]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "PSYCH 291"
+    ],
+    "coreq": [],
+    "antireq": [
+        "PSYCH 464"
+    ],
+    "next": []
+}

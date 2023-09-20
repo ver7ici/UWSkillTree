@@ -1,0 +1,14 @@
+{
+    "id": "001939",
+    "subject": "MSCI",
+    "catalogNumber": "633",
+    "title": "Production and Inventory Management",
+    "description": "The course emphasizes inventory control models with deterministic and stochastic demand, and supply chain management. Other areas which might be addressed are aggregate planning, machine scheduling, material requirements planning, and multi-echelon production and distribution systems.  Priority may be given to Management Sciences students.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

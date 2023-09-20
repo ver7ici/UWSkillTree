@@ -1,0 +1,21 @@
+{
+    "id": "010373",
+    "subject": "CHINA",
+    "catalogNumber": "120R",
+    "title": "Advanced First-Year Chinese",
+    "description": "Equivalent to 101R and 102R but covered in one term.  This introductory Chinese course is designed for two major groups of students who have different initial advantages in learning Chinese: 1) students who have substantial aural-oral proficiency but limited ability in reading and writing Chinese characters and 2) those who know characters but cannot speak Mandarin (Putonghua). [Note: CHINA 120R is not open to students with native, near-native, or similar advanced ability.]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "CHINA 101R",
+        "CHINA 102R"
+    ],
+    "next": [
+        "CHINA 201R"
+    ]
+}

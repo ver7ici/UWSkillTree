@@ -1,0 +1,14 @@
+{
+    "id": "013225",
+    "subject": "BE",
+    "catalogNumber": "603",
+    "title": "Operations and Supply Chain Management",
+    "description": "Introduces students to supply chain and operations management.  Covers systems integration, scheduling, forecasting, inventory management, quality management, lean thinking, supply chain management, supply chain collaboration and people and operations.  The course uses case studies, a simulation, class discussions, exercises and lectures covering a broad range of operations environments.  MEng and GDip students only.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

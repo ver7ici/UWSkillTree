@@ -1,0 +1,14 @@
+{
+    "id": "002765",
+    "subject": "PSYCH",
+    "catalogNumber": "777",
+    "title": "Human Memory",
+    "description": "A seminar considering various aspects of human memory. Topics may include long-term and short-term memory, memory codes, storage and retrieval processes, and theories of forgetting.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

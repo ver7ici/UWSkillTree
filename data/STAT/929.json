@@ -1,0 +1,14 @@
+{
+    "id": "003116",
+    "subject": "STAT",
+    "catalogNumber": "929",
+    "title": "Time Series 1",
+    "description": "Iterative model building. ARIMA models, application to forecasting, seasonal models, applications.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

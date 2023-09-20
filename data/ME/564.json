@@ -1,0 +1,16 @@
+{
+    "id": "006770",
+    "subject": "ME",
+    "catalogNumber": "564",
+    "title": "Aerodynamics",
+    "description": "An introductory course in aerodynamics for engineers. Kinematics and dynamics of inviscid flow; airfoil dynamics including thin airfoil theory, finite wings, panel methods and airfoil parameters. Boundary layer theory and boundary layer control as applied in aerodynamics. Introduction to high speed aerodynamics. Introduction to dynamics of flight including stability and control. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "ME 362"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

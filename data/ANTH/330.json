@@ -1,0 +1,14 @@
+{
+    "id": "003452",
+    "subject": "ANTH",
+    "catalogNumber": "330",
+    "title": "Environmental Anthropology",
+    "description": "This course examines the relationships between environments and human societies, focusing on the nature/culture divide and social and economic organization. Topics may include politics and practice, the influence of globalization, and regional perspectives.",
+    "term": [],
+    "prereq": [
+        "ANTH 202"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

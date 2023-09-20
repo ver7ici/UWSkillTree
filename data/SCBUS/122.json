@@ -1,0 +1,19 @@
+{
+    "id": "012255",
+    "subject": "SCBUS",
+    "catalogNumber": "122",
+    "title": "Management of Business Organizations",
+    "description": "This course uses case studies, project management, team/group dynamics, and strategies to explore the essential parameters that comprise the management of business organizations: planning, organization, leadership, control, and ethics. The course considers the importance of diversity/globalization, human resource management, a comparison of traditional and entrepreneurial leadership, and management as well as business ethics. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "AFM 131",
+        "ARBUS 101"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "SCBUS 424"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "id": "007445",
+    "subject": "PHYS",
+    "catalogNumber": "359",
+    "title": "Statistical Mechanics",
+    "description": "Fundamental postulate of statistical thermodynamics. Entropy. Microcanonical, canonical, and grand canonical ensembles. Fermi-Dirac, Bose-Einstein, and Boltzmann Statistics. Maxwell-Boltzmann velocity distribution. Applications to specific heat of solids, classical and quantum gases, electrons in metals, Planck's law of radiation, and Bose-Einstein condensation. [Offered: W]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [
+        "PHYS 358",
+        "ECE 403",
+        "CHEM 254",
+        "ME 250",
+        "PHYS 233",
+        "PHYS 234",
+        "CHEM 356"
+    ],
+    "coreq": [
+        "AMATH 373"
+    ],
+    "antireq": [],
+    "next": [
+        "PHYS 435"
+    ]
+}

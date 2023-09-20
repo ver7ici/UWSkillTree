@@ -1,0 +1,19 @@
+{
+    "id": "011423",
+    "subject": "MTE",
+    "catalogNumber": "204",
+    "title": "Numerical Methods",
+    "description": "Number Systems and Machine Errors; Roots of Non-Linear Equations; Matrix Calculations; Eigenvalue and Eigenvector Calculations; Interpolation and Approximation; Numerical Integration and Solution of ODE's (linear and non-linear) and systems of ODEs; Calculation of Series; Solution Methods for PDE's; Use of numeric and symbolic computing tools. [Offered: F,S]",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [
+        "MTE 202"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ME 559"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "id": "012539",
+    "subject": "HLTH",
+    "catalogNumber": "634",
+    "title": "Environmental Epidemiology for Public Health",
+    "description": "This course will cover epidemiological theories, methods, and applications used to address major environmental risks to public health, through a focus on the design, conduct, and interpretation of results from epidemiological studies of various designs. Public health risks will include the major pathways for exposure to microbial, chemical and physical hazards (e.g. ambient and indoor air, drinking and recreational water, food, physical contact).",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "PHS 606",
+        "HSG 606"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

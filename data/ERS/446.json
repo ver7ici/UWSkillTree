@@ -1,0 +1,18 @@
+{
+    "id": "015021",
+    "subject": "ERS",
+    "catalogNumber": "446",
+    "title": "Wildlife Management",
+    "description": "This course introduces the main concepts and principles for the management of wildlife species. This course builds on ERS 346 and explores the application of the principles from that course to the management of wildlife.  The lab component will build on the skills of wildlife data collection, analysis, and interpretation presented in ERS 346.",
+    "term": [],
+    "prereq": [
+        "ENVS 178",
+        "STAT 202",
+        "ENVS 200",
+        "BIOL 150",
+        "ERS 346"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

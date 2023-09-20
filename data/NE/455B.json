@@ -1,0 +1,16 @@
+{
+    "id": "015217",
+    "subject": "NE",
+    "catalogNumber": "455B",
+    "title": "Nano-instrumentation Laboratory 2",
+    "description": "Application of experimental tools and techniques employed in nanotechnology. Experimental exercises may involve microfabrication (photolithography, film deposition, and etching) and testing of micro-electro-mechanical-system (MEMS) devices based on the design from NE 454B. These exercises also stress working safely in a clean-room environment. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "NE 454B"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

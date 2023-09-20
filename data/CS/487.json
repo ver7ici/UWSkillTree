@@ -1,0 +1,18 @@
+{
+    "id": "004436",
+    "subject": "CS",
+    "catalogNumber": "487",
+    "title": "Introduction to Symbolic Computation",
+    "description": "An introduction to the use of computers for symbolic mathematical computation, involving traditional mathematical computations such as solving linear equations (exactly), analytic differentiation and integration of functions, and analytic solution of differential equations. [Note: Lab is not scheduled and students are expected to find time in open hours to complete their work. Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "CS 231",
+        "CS 234",
+        "CS 240"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,17 @@
+{
+    "id": "014212",
+    "subject": "MATH",
+    "catalogNumber": "640",
+    "title": "Number Theory for Teachers",
+    "description": "This course explores the many fascinating properties of the natural numbers. Topics include: the Euclidean algorithm, congruences and modular arithmetic, primitive roots and quadratic residues, sums of squares, multiplicative functions, continued fractions and Diophantine equations.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [
+        "MATH 600",
+        "MATH 692"
+    ],
+    "antireq": [],
+    "next": []
+}

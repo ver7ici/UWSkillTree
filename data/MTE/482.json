@@ -1,0 +1,19 @@
+{
+    "id": "013780",
+    "subject": "MTE",
+    "catalogNumber": "482",
+    "title": "Mechatronics Engineering Project",
+    "description": "This course is an extension of MTE 481. Students work on prototyping the designs they proposed and finalized in MTE 481. The students either individually or in small groups demonstrate the working prototypes; make a poster presentation for the design competition; and pitch their product on a web site. The projects are monitored by the course instructor and evaluated by the instructor with feedback from an expert judging panel. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "MTE 380",
+        "MTE 481"
+    ],
+    "coreq": [],
+    "antireq": [
+        "ME 482"
+    ],
+    "next": []
+}

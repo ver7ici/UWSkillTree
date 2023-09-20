@@ -1,0 +1,16 @@
+{
+    "id": "016014",
+    "subject": "NE",
+    "catalogNumber": "486",
+    "title": "Biosensors",
+    "description": "Introduction to biosensors. Chemical, optical, and pattern recognition-based sensing. Sensors for metal ions, small molecules, proteins, cancer cells. Deoxyribonucleic acid/ribonucleic acid (DNA/RNA) properties and chemical synthesis. DNA aptamer-based sensors and devices. Combinatorial selection of functional DNA. Applications in drug screening and diagnostics. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "NE 381"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

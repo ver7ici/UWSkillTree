@@ -1,0 +1,14 @@
+{
+    "id": "014437",
+    "subject": "BME",
+    "catalogNumber": "355",
+    "title": "Physiological Systems Modelling",
+    "description": "Introduction to systems theory as a general modelling method, and applied to the skeletal, neuromuscular, central nervous, cardiovascular, and respiratory systems of the human body. Time-domain simulations, sensitivity analyses, and parameter identification, with the latter driven by experimental measurements of system performance. [Offered:  W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

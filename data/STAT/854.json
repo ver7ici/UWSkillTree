@@ -1,0 +1,16 @@
+{
+    "id": "003097",
+    "subject": "STAT",
+    "catalogNumber": "854",
+    "title": "Sampling Theory and Practice",
+    "description": "Sources of survey error. Probability sampling designs, estimation and efficiency comparisons. Distribution theory and confidence intervals. Generalized regression estimation. Software for survey analysis.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "STAT 454"
+    ],
+    "next": []
+}

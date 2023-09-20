@@ -1,0 +1,16 @@
+{
+    "id": "016401",
+    "subject": "BLKST",
+    "catalogNumber": "399",
+    "title": "Special Topics in Black Studies",
+    "description": "A seminar course investigating special issues related to Black studies. Content may vary from year to year. [Note: This is a repeatable course, subject to different content; it may be completed a total of two times.]",
+    "term": [],
+    "prereq": [
+        "BLKST 101",
+        "BLKST 102",
+        "BLKST 103"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

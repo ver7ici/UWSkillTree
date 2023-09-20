@@ -1,0 +1,23 @@
+{
+    "id": "011928",
+    "subject": "NE",
+    "catalogNumber": "121",
+    "title": "Chemical Principles",
+    "description": "Chemical reactions. Mass and charge balance. Introduction to the first, second, and third laws of thermodynamics. Chemical equilibrium. Applications of chemical equilibrium principles to proton-transfer reactions. Electronic structure of atoms and molecules. Periodicity and chemical bonding. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "CHE 102",
+        "CHEM 120",
+        "CHEM 123"
+    ],
+    "next": [
+        "CHEM 262",
+        "NE 343",
+        "CHEM 209",
+        "NE 125"
+    ]
+}

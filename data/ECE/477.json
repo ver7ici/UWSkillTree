@@ -1,0 +1,16 @@
+{
+    "id": "011045",
+    "subject": "ECE",
+    "catalogNumber": "477",
+    "title": "Photonic Devices and Systems",
+    "description": "Review of Maxwell's equations and electromagnetic plane waves, dielectric waveguides, optical fibers, lasers and photonic transmitters, photodetectors and photonic receivers, optical amplifiers, and photonic systems and networks. [Offered: W]",
+    "term": [],
+    "prereq": [
+        "ECE 375",
+        "ECE 206",
+        "MATH 212"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

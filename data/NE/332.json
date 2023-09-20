@@ -1,0 +1,19 @@
+{
+    "id": "011935",
+    "subject": "NE",
+    "catalogNumber": "332",
+    "title": "Quantum Mechanics",
+    "description": "Historical background; the differential equation approach to quantum mechanics; treatments of solvable problems such as the particle-in-a-box, harmonic oscillator, rigid rotor, and the hydrogen atom; introduction to approximation methods for more complex systems; application to solid state problems, including band theory. [Offered: S]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "CHEM 356",
+        "ECE 405",
+        "PHYS 233",
+        "PHYS 234"
+    ],
+    "next": []
+}

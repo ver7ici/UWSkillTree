@@ -1,0 +1,14 @@
+{
+    "id": "011283",
+    "subject": "AMATH",
+    "catalogNumber": "732",
+    "title": "Asymptotic Analysis and Perturbation Theory",
+    "description": "Elements of asymptotic analysis. Techniques of perturbation theory such as Poincare-Lindstedt, matched asymptotic expansions and multiple scales. Applications to various areas form an essential aspect of the course. Previous courses in real analysis and differential equations at the undergraduate level are strongly recommended.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

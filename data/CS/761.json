@@ -1,0 +1,14 @@
+{
+    "id": "011296",
+    "subject": "CS",
+    "catalogNumber": "761",
+    "title": "Randomized Algorithms",
+    "description": "Introduction to the design and analysis of algorithms that make use of randomization. Topics include review of basic probabiloity and introduction to randomized algorithms; game theoretic techniques; uses of Markov and Chebyshev inequalities; tail inequalities; Markov chains and random walks; algebraic techniques; data structures and graph algorithms.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

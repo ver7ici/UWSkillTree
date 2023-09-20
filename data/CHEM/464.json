@@ -1,0 +1,16 @@
+{
+    "id": "004182",
+    "subject": "CHEM",
+    "catalogNumber": "464",
+    "title": "Spectroscopy in Organic Chemistry",
+    "description": "Elucidation and identification of organic structures by contemporary spectroscopic techniques. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "CHEM 265"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

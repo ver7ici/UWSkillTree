@@ -1,0 +1,15 @@
+{
+    "id": "015051",
+    "subject": "PSYCH",
+    "catalogNumber": "823",
+    "title": "Research Apprenticeship I",
+    "description": "Intended for students who will be seeking further studies at the Ph.D. level, this research apprenticeship will provide a student with a more advanced laboratory research project over two terms and requiring approximately an extra 3.5 hours per week in addition to the 10 hours per week required of the Research Lab Internship required of all MASc DCS students. The particular project that the student will be engaged in, and the ultimate end product of the Apprenticeship at the end of the two terms, will be determined by the student and advisor together.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

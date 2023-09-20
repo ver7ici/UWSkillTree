@@ -1,0 +1,12 @@
+{
+    "id": "001875",
+    "subject": "ME",
+    "catalogNumber": "709",
+    "title": "Control Engineering and Mechanical Systems",
+    "description": "This course is aimed at applications of control to Mechanical Systems. Course contents: Review of Control; Poles and zeros, Transfer functions, Time Reponse, Actuators, Electrical Systems, PID Control, designing controllers with root locus, state space representations, phase planes, stability concepts, frequency Response. Applications to Mechanical systems: Robots, Hydraulic systems, Active Vibration Control.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

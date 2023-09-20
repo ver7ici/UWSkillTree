@@ -1,0 +1,34 @@
+{
+    "id": "011617",
+    "subject": "BIOL",
+    "catalogNumber": "130",
+    "title": "Introductory Cell Biology",
+    "description": "An introduction to the concepts of cell biology with emphasis on (1) the structural organization of the cell and (2) the function of critical molecular processes that are characteristic of living organisms. [Note: BIOL 130L may be required for entrance to certain professional/graduate programs. Offered: F,W]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "BIOL 201",
+        "BIOL 273",
+        "BIOL 302",
+        "BIOL 303",
+        "BIOL 323",
+        "BIOL 433",
+        "HLTH 340",
+        "HLTH 341",
+        "BIOL 321",
+        "BIOL 266",
+        "BIOL 309",
+        "BIOL 308",
+        "BIOL 484",
+        "KIN 406",
+        "BIOL 486",
+        "PHYS 395",
+        "GERON 355",
+        "HLTH 290"
+    ]
+}

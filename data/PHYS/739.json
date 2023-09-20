@@ -1,0 +1,15 @@
+{
+    "id": "015873",
+    "subject": "PHYS",
+    "catalogNumber": "739",
+    "title": "Quantum Many Body Physics",
+    "description": "A modern approach to the quantum many-body problem from the perspective of condensed matter physics. Low energy effective theories, continuum field theories, and lattice models. Phases and phase transitions in the path integral formulation of bosons, fermions and quantum spins. Quantum critical points, topological phases, gauge theories, and connections to quantum information.",
+    "term": [],
+    "prereq": [
+        "PHYS 701",
+        "PHYS 704"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

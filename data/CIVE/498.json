@@ -1,0 +1,14 @@
+{
+    "id": "009223",
+    "subject": "CIVE",
+    "catalogNumber": "498",
+    "title": "Seminar",
+    "description": "General seminar. [Offered: S]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

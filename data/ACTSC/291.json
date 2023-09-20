@@ -1,0 +1,38 @@
+{
+    "id": "011750",
+    "subject": "ACTSC",
+    "catalogNumber": "291",
+    "title": "Global Capital Markets",
+    "description": "This course offers an overview of global capital markets and asset valuation. Topics may include an overview of financial markets and instruments, time value of money, valuation of financial assets, and financial risk and portfolio management. Where suitable, topics are treated from a mathematical and quantitative perspective",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "MATH 128",
+        "MATH 138",
+        "MATH 148",
+        "MATH 136",
+        "MATH 146"
+    ],
+    "coreq": [
+        "STAT 230",
+        "STAT 240"
+    ],
+    "antireq": [
+        "AFM 273",
+        "ACTSC 372",
+        "ECON 371"
+    ],
+    "next": [
+        "AFM 433",
+        "AFM 424",
+        "AFM 322",
+        "AFM 425",
+        "CO 372",
+        "ACTSC 391",
+        "AFM 422",
+        "AFM 205",
+        "AFM 324",
+        "CFM 301"
+    ]
+}

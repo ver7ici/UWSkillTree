@@ -1,0 +1,33 @@
+{
+    "id": "006819",
+    "subject": "MSCI",
+    "catalogNumber": "251",
+    "title": "Probability and Statistics 1",
+    "description": "A first of a two-course sequence that introduces fundamental concepts in probability and statistics. It covers probability concepts, random variables, graphical display of distributions and data, discrete and continuous probability distributions, sampling, estimation, confidence intervals, experimental design, hypothesis testing, and simple linear regression and correlation. Students learn how to graphically explore data, conduct, and analyze a two-treatment experiment, and model data with linear regression, and interpret its fit. Students learn to use statistical computing software (e.g., R) to perform data analyses. Emphasis is placed on gaining experience with data collected from student-conducted experiments. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "AE 224",
+        "BME 213",
+        "CHE 220",
+        "CIVE 224",
+        "ECE 203",
+        "ECE 306",
+        "ECON 221",
+        "ENVE 224",
+        "ME 202",
+        "MTE 201",
+        "NE 215",
+        "STAT 231",
+        "SYDE 212"
+    ],
+    "next": [
+        "MSCI 452",
+        "MSCI 541",
+        "MSCI 551",
+        "MSCI 253"
+    ]
+}

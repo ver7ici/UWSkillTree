@@ -1,0 +1,16 @@
+{
+    "id": "015433",
+    "subject": "ERS",
+    "catalogNumber": "301",
+    "title": "Sustainability Thought, Practice and Prospects",
+    "description": "A survey of humans making a living and otherwise interacting with each other and the biophysical environment in a complex world from ancient times to the present. Emphasis on the great agricultural and industrial transitions, reactions to their consequences, the rise of current sustainability concerns, and implications for transitions today in the pursuit of desirable and viable futures.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "ERS 310"
+    ],
+    "next": []
+}

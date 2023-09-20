@@ -1,0 +1,16 @@
+{
+    "id": "008612",
+    "subject": "SOC",
+    "catalogNumber": "232",
+    "title": "Technology and Social Change",
+    "description": "This course examines how forms of society influence technological developments and, reciprocally, how society is influenced by technology. It covers such topics as the de-skilling of work, technocracy, communications technology, and cyberspace, from an historical perspective, looking for the unifying features of technologies ranging from Stone Age tools to the microprocessor.",
+    "term": [],
+    "prereq": [
+        "SOC 101",
+        "SOC 101R",
+        "SOC 120R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

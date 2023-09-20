@@ -1,0 +1,21 @@
+{
+    "id": "012081",
+    "subject": "CHEM",
+    "catalogNumber": "240",
+    "title": "Mathematical Methods for Chemistry",
+    "description": "Mathematical techniques useful for chemistry students.  Introduction to complex numbers, plus topics chosen from:  calculus; differential equations; vector spaces and vector algebra; matrices and determinants; elementary probability theory; basic group theory and symmetry.  Applications to problems of chemical interest. [Offered:  F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "MATH 128",
+        "MATH 138",
+        "MATH 148"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "CHEM 356",
+        "CHEM 350"
+    ]
+}

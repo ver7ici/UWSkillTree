@@ -1,0 +1,14 @@
+{
+    "id": "011941",
+    "subject": "NE",
+    "catalogNumber": "336",
+    "title": "Micro and Nanosystem Computer-aided Design",
+    "description": "Modeling and simulation. Lumped versus distributed approaches. Review of differential-equation systems, constitutive relations, boundary conditions, and solvers for complex, coupled transport problems pertinent to micro and nanosystems. Coupling strategies. Numerical schemes for nonlinear systems.  Basic modeling and simulation of micro and nanosystems, and fluidic systems.  Relevant nanotechnology applications: optical, thermal, mechanical, and fluidic microstructures, and nanoscale devices. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

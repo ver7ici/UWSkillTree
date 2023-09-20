@@ -1,0 +1,16 @@
+{
+    "id": "007559",
+    "subject": "GEOG",
+    "catalogNumber": "368",
+    "title": "Conservation/Resource Management of the Built Environment",
+    "description": "Consideration of the constraints and guidelines that an application of the principles of ecology places on the planning and management of resources within urban spaces and the implications for urban design. The theory and history of this subject will be discussed together with urban ecomanagement, the management of waste, urban open space and parks, rehabilitated sites, and environmentally sensitive areas.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "ENVS 200"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

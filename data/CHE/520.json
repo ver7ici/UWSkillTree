@@ -1,0 +1,14 @@
+{
+    "id": "016187",
+    "subject": "CHE",
+    "catalogNumber": "520",
+    "title": "Process Flowsheet Analysis",
+    "description": "An integrated view of process flowsheet synthesis, analysis and optimization, emphasizing the use of computer aids to perform steady-state mass and energy balancing on chemical processes. Application of relevant chemical engineering concepts, including mass and energy balances, thermodynamics of mixtures and unit operation models, to process simulation. Process simulation modes, numerical solution of relevant non-linear equation systems, recycle partitioning, and tearing. Applications including heat exchanger networks, multistage separation processes, and chemical reactor networks. Practical skills will be developed through the application of available process simulation software. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

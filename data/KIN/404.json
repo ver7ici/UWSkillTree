@@ -1,0 +1,16 @@
+{
+    "id": "012966",
+    "subject": "KIN",
+    "catalogNumber": "404",
+    "title": "Physiology of Obesity and Type 2 Diabetes",
+    "description": "This course will examine the environmental and physiological aspects of obesity and Type 2 Diabetes, emphasizing the molecular pathways involved in energy balance regulation. Topics to be covered include the epidemiology of obesity and Type 2 Diabetes, regulation of energy intake (appetite), energy storage and energy expenditure, and the role of physical inactivity and activity in the causes and prevention of obesity and Type 2 Diabetes.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "BIOL 273"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

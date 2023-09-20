@@ -1,0 +1,14 @@
+{
+    "id": "012925",
+    "subject": "LAT",
+    "catalogNumber": "341",
+    "title": "Advanced Studies in Latin: Selected Topics",
+    "description": "An investigation of selected themes, topics, time periods, or genres in Latin. [Note: This is a repeatable course, subject to different content; it may be completed a total of four times.]",
+    "term": [],
+    "prereq": [
+        "LAT 202"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

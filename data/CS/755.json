@@ -1,0 +1,17 @@
+{
+    "id": "013603",
+    "subject": "CS",
+    "catalogNumber": "755",
+    "title": "System and Network Architectures and Implementation",
+    "description": "Distributed, multi-user applications are designed and implemented using many underlying technologies that must be coordinated to provide important features such as robustness, scalability, manageability, ubiquitous access, privacy, security, authentication, and role-based access control, to name only a few.  The network supporting the application may be crucial to its successful implementation.  The application logic itself is likely implemented in a number of languages and programming environments.  Students will be provided with an advanced overview of current networking and distributed systems topics, and will apply it to case studies drawn form consumer internet applications, enterprise systems, and medical and healthcare systems.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "CS 456",
+        "CS 656",
+        "CS 454",
+        "CS 654"
+    ],
+    "next": []
+}

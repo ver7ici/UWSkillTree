@@ -1,0 +1,22 @@
+{
+    "id": "003718",
+    "subject": "BIOL",
+    "catalogNumber": "431",
+    "title": "Bacterial Molecular Genetics",
+    "description": "Bacterial molecular biology with an emphasis on the use of genetic tools to study the biology of microorganisms. Topics include mutagenesis, conjugation, recombination, gene regulation, plasmids, transposons, bacteriophage and genomics. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "BIOL 140",
+        "BIOL 240",
+        "BIOL 140",
+        "BIOL 240L",
+        "BIOL 208",
+        "BIOL 309",
+        "BIOL 308"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

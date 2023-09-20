@@ -1,0 +1,14 @@
+{
+    "id": "010356",
+    "subject": "CHEM",
+    "catalogNumber": "495",
+    "title": "Advanced Research Project",
+    "description": "This course is only for exchange students wishing to carry out an advanced research project during the fall term.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

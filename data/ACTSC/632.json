@@ -1,0 +1,14 @@
+{
+    "id": "013400",
+    "subject": "ACTSC",
+    "catalogNumber": "632",
+    "title": "Data Science with Actuarial Applications",
+    "description": "This course provides a comprehensive treatment of various techniques from statistics, predictive analytics and machine learning that can be used to analyze data sets relevant for actuarial applications. Specific topics covered include: modeling principles and practice, analysis and estimation of survival models, insurance pricing using generalized linear models, classification and tree-based methods.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,29 @@
+{
+    "id": "013105",
+    "subject": "MATH",
+    "catalogNumber": "207",
+    "title": "Calculus 3 (Non-Specialist Level)",
+    "description": "Multivariable functions and partial derivatives. Gradients. Optimization including Lagrange multipliers. Polar coordinates. Multiple integrals. Surface integrals on spheres and cylinders. Introduction to Fourier Series. [Offered: F,W,S]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "MATH 128",
+        "MATH 138",
+        "MATH 148"
+    ],
+    "coreq": [],
+    "antireq": [
+        "AMATH 231",
+        "MATH 212",
+        "MATH 212N",
+        "NE 217",
+        "MATH 217",
+        "MATH 227",
+        "MATH 237",
+        "MATH 247"
+    ],
+    "next": []
+}

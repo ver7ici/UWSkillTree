@@ -1,0 +1,19 @@
+{
+    "id": "013120",
+    "subject": "PHARM",
+    "catalogNumber": "110",
+    "title": "Systems Approach to the Study of the Human Body 1",
+    "description": "This integrated anatomy and physiology course and its continuation in PHARM 111 cover all the major human body systems using a systems approach. Major themes are the relationships between structure and function, and homeostasis of the cellular environment.   [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PHARM 220",
+        "PHARM 221",
+        "PHARM 224",
+        "PHARM 111"
+    ]
+}

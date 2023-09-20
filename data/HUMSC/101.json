@@ -1,0 +1,21 @@
+{
+    "id": "011869",
+    "subject": "HUMSC",
+    "catalogNumber": "101",
+    "title": "Great Dialogues: Reflection and Action",
+    "description": "What is the relationship between thinking and action? Do they pull us in different directions? Can they be integrated? This course investigates how our own dialogue with core texts, from antiquity (e.g., Homer, Plato, Christian Scriptures) to the present (e.g., Joyce, Arendt), offers ways of understanding the dilemmas and issues raised by these texts and present in our culture.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "HUMSC 301",
+        "HUMSC 401",
+        "HUMSC 289",
+        "HUMSC 389",
+        "HUMSC 489",
+        "HUMSC 498"
+    ]
+}

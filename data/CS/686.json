@@ -1,0 +1,16 @@
+{
+    "id": "000625",
+    "subject": "CS",
+    "catalogNumber": "686",
+    "title": "Introduction to Artificial Intelligence",
+    "description": "Goals and methods of artificial intelligence. Methods of general problem solving. Introduction to mathematical logic Mechanical theorem proving. Game playing. Natural language processing. Preference will be given to CS graduate students.  All others require approval from the department. Department approval will be by Undergraduate Advisor.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

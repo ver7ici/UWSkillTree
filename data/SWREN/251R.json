@@ -1,0 +1,27 @@
+{
+    "id": "006508",
+    "subject": "SWREN",
+    "catalogNumber": "251R",
+    "title": "Social Research",
+    "description": "Introduction to the philosophy and methodology of applied social science research, including treatment of the problems and strategies of research design and execution. [Note: SWREN 251R is available only to students who have been given conditional admission to the BSW program; such students must have already completed their first undergraduate degree.]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "ISS 251R",
+        "LS 221",
+        "SOC 221",
+        "LS 321",
+        "SOC 321",
+        "PSYCH 291",
+        "REC 270",
+        "SMF 220"
+    ],
+    "next": [
+        "HLTH 253"
+    ]
+}

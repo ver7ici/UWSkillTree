@@ -1,0 +1,18 @@
+{
+    "id": "008610",
+    "subject": "LS",
+    "catalogNumber": "228",
+    "title": "Sociology of Criminal Justice",
+    "description": "Decisions to process offenders and the role of social factors in the Canadian criminal justice system are critically examined. Focal issues include police discretion, the legal profession, and prison systems.",
+    "term": [],
+    "prereq": [
+        "SOC 101",
+        "SOC 101R",
+        "SOC 120R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "LS 327"
+    ]
+}

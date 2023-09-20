@@ -1,0 +1,17 @@
+{
+    "id": "014283",
+    "subject": "GENE",
+    "catalogNumber": "404",
+    "title": "Interdisciplinary Design Project 2",
+    "description": "This is the second course in a two-course sequence where students from more than one engineering plan work together to solve an interdisciplinary engineering problem.  At the end of this course students will be able to re-formulate and re-communicate an engineering problem or opportunity (as appropriate); revise and communicate a feasible design project plan; revise solutions that address the formulated problem (as appropriate); implement and verify design solutions by analysis, test or prototype; communicate design solutions using accepted data formats, working documents and oral presentations; address safety, regulatory, sustainability and professional ethics requirements, as appropriate; effectively manage and communicate design project plans, technical and non-technical risks, using project management tools and techniques; work effectively as an interdisciplinary team member and/or team leader. [Note: Permission of the instructor is required]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [
+        "GENE 403"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

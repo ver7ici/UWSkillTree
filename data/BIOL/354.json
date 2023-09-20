@@ -1,0 +1,21 @@
+{
+    "id": "003694",
+    "subject": "BIOL",
+    "catalogNumber": "354",
+    "title": "Environmental Toxicology 1",
+    "description": "An introduction to the basic theories, principles and techniques of environmental toxicology. A comparative study of the effects of specific groups of toxicants on ecosystems; biodegradation and cycling. [Offered: F,S]",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [
+        "CHE 102",
+        "CHEM 120",
+        "CHEM 121"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "BIOL 455"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "id": "014506",
+    "subject": "GEOG",
+    "catalogNumber": "652",
+    "title": "Climate Prediction, Modeling and Scenarios",
+    "description": "Computer models of the physical climate system are essential tools for investigating future climate change.  This course will introduce students to the basic formulation of these models, and their strengths and limitations.  Inter-linkages between climate modeling and mitigation and adaptation policy agendas is reviewed and critiqued.  The types of climate modeling experiments peformed with such models and scenarios will be reviewed.  The latest projections of future climate on a variety of temporal and spatial scales will be presented and evaluated.  *eligible for MES",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "GEOG 408"
+    ],
+    "next": []
+}

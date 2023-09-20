@@ -1,0 +1,32 @@
+{
+    "id": "013145",
+    "subject": "SYDE",
+    "catalogNumber": "212",
+    "title": "Probability and Statistics",
+    "description": "Elementary probability theory. Random variables and distributions. Binomial, Poisson, and normal distributions. Elementary sampling. Statistical estimation. Tests of hypotheses and significance. Regression. Goodness-of-fit tests. Analysis of experimental measurements. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "BME 213",
+        "CIVE 224",
+        "ECE 316",
+        "NE 115"
+    ],
+    "next": [
+        "MSCI 432",
+        "MSCI 452",
+        "STAT 331",
+        "STAT 332",
+        "SYDE 334",
+        "MSCI 446",
+        "ECE 358",
+        "MSCI 334",
+        "MSCI 541",
+        "MSCI 551",
+        "MSCI 543",
+        "ECE 457C"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "011364",
+    "subject": "CO",
+    "catalogNumber": "471",
+    "title": "Semidefinite Optimization",
+    "description": "Optimization over convex sets described as the intersection of the set of symmetric, positive semidefinite matrices with affine spaces.  Formulations of problems from combinatorial optimization, graph theory,  number theory, probability and statistics, engineering design, and control theory. Theoretical and practical consequences of these formulations. Duality theory and algorithms.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "MATH 239",
+        "MATH 249",
+        "AMATH 331",
+        "PMATH 331",
+        "PMATH 351",
+        "CO 255"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

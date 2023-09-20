@@ -1,0 +1,21 @@
+{
+    "id": "005902",
+    "subject": "GEOG",
+    "catalogNumber": "309",
+    "title": "Physical Climatology",
+    "description": "Principles of physical climatology with emphasis on regional and global change and variability. Topics include radiation and energy balances, general circulation patterns, synoptic development and micro-climatology.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "GEOG 102",
+        "EARTH 121"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "GEOG 409",
+        "GEOG 408",
+        "GEOG 418"
+    ]
+}

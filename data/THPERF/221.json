@@ -1,0 +1,16 @@
+{
+    "id": "004663",
+    "subject": "THPERF",
+    "catalogNumber": "221",
+    "title": "Performing Text",
+    "description": "Students explore techniques to analyze, interpret, and perform texts.",
+    "term": [],
+    "prereq": [
+        "THPERF 100",
+        "THPERF 102",
+        "SPCOM 102"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

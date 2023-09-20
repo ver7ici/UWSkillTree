@@ -1,0 +1,19 @@
+{
+    "id": "015094",
+    "subject": "MSCI",
+    "catalogNumber": "391",
+    "title": "Work-term Report",
+    "description": "A work-term report is a written report that provides an opportunity for students to effectively communicate, document, and reflect on engineering experience gained during a preceding work term. In the report, students draw connections between the theoretical aspects of engineering taught in the classroom and the practical applications of that theory in the workplace. Reports are due on the 10th day of lectures for the academic term in which the report is required.  [Offered: W]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "WKRPT 200",
+        "WKRPT 201"
+    ],
+    "next": []
+}

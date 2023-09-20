@@ -1,0 +1,22 @@
+{
+    "id": "014526",
+    "subject": "FR",
+    "catalogNumber": "101",
+    "title": "Beginner French",
+    "description": "An intensive beginner course for students with no prior knowledge of French. Emphasizes listening, reading, writing, and oral communication skills. [Note: Not open to students who have previously taken a French course.]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "FR 151",
+        "FR 152",
+        "FR 192A",
+        "FR 192B"
+    ],
+    "next": [
+        "FR 151"
+    ]
+}

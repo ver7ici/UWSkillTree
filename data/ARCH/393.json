@@ -1,0 +1,18 @@
+{
+    "id": "003557",
+    "subject": "ARCH",
+    "catalogNumber": "393",
+    "title": "Option Design Studio",
+    "description": "This design studio is subdivided into distinct studio sections, each of which provides a specific platform for advanced research and design presented within the context of a topic or set of issues to be explored in relation to a specific design project, program and site. These studios range in both scale and scope, traversing an array of academic investigations, design hypotheses, research agendas, interdisciplinary explorations, and pedagogical intentions. These topics foreground the disciplinary arenas within architecture in the areas of architectural theory, media, technology, urbanism, and landscape. [Note: Passing grade is 60%. Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "ARCH 392"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ARCH 492"
+    ]
+}

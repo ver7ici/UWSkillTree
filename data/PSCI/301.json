@@ -1,0 +1,14 @@
+{
+    "id": "015920",
+    "subject": "PSCI",
+    "catalogNumber": "301",
+    "title": "Canadian Political Economy",
+    "description": "What is the relationship between Canadian politics and economics? How do states and markets, and governments and businesses interact? Focusing on theoretical understandings of historical Canadian political-economic development, students will examine a range of current issues. Topics may include the evolution of the Canadian welfare state, labour relations, capitalist (re)production, and gendered and environmental concerns.",
+    "term": [],
+    "prereq": [
+        "PSCI 231"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

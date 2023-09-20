@@ -1,0 +1,16 @@
+{
+    "id": "016192",
+    "subject": "GEMCC",
+    "catalogNumber": "690",
+    "title": "Climate Change Projects",
+    "description": "In this problem-based learning course, concepts, knowledge and skills developed throughout the program are integrated and applied to research projects. The focus of this highly interactive course is the development, implementation and communication of applied research to contribute knowledge and solutions to climate change challenges specified by government, business or civil society. Students work in small collaborative teams in an interdisciplinary, professional\npractice environment.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "GEMCC 675"
+    ],
+    "next": []
+}

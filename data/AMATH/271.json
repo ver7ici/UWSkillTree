@@ -1,0 +1,37 @@
+{
+    "id": "013864",
+    "subject": "AMATH",
+    "catalogNumber": "271",
+    "title": "Introduction to Theoretical Mechanics",
+    "description": "Newtonian dynamics, gravity and the two-body problem, introduction to Lagrangian mechanics, introduction to Hamiltonian mechanics, non-conservative forces, oscillations, introduction to special relativity. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "MATH 128",
+        "MATH 138",
+        "MATH 148",
+        "PHYS 121"
+    ],
+    "coreq": [
+        "AMATH 250",
+        "AMATH 251",
+        "MATH 228",
+        "MATH 227",
+        "MATH 237",
+        "MATH 247"
+    ],
+    "antireq": [
+        "PHYS 263"
+    ],
+    "next": [
+        "AMATH 361",
+        "AMATH 373",
+        "PHYS 476",
+        "PHYS 363",
+        "PHYS 375",
+        "PHYS 475",
+        "PHYS 474",
+        "PHYS 349"
+    ]
+}

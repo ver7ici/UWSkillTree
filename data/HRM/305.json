@@ -1,0 +1,22 @@
+{
+    "id": "013565",
+    "subject": "HRM",
+    "catalogNumber": "305",
+    "title": "Health and Safety",
+    "description": "This course introduces the broad and ever-changing field of occupational health and safety. Understanding the multiple dimensions of the various issues - technical, legislative, political, personal - is essential to HR professionals overseeing an organization's health and safety function, and to those dealing with consultants or joint health and safety committees.",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [
+        "HRM 200"
+    ],
+    "coreq": [],
+    "antireq": [
+        "BUS 414W"
+    ],
+    "next": [
+        "PSYCH 467",
+        "HRM 400"
+    ]
+}

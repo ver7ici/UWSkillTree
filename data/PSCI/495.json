@@ -1,0 +1,25 @@
+{
+    "id": "016175",
+    "subject": "PSCI",
+    "catalogNumber": "495",
+    "title": "Research Apprenticeship in Political Science",
+    "description": "Research apprenticeship in which students assist a political science professor with a research project. Students will complete assignments, share their experiences with other students, and complete a final project related to their research apprenticeship.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "PSCI 494",
+        "PSCI 496",
+        "PSCI 497",
+        "PSCI 497A",
+        "PSCI 497B",
+        "PSCI 498A",
+        "PSCI 498B",
+        "PSCI 498C"
+    ],
+    "next": []
+}

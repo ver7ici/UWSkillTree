@@ -1,0 +1,16 @@
+{
+    "id": "007059",
+    "subject": "MUSIC",
+    "catalogNumber": "371",
+    "title": "Music Theory 4 (20th Century)",
+    "description": "The study of the compositional aspects of 20th century music, including extended tonality, atonality, 12-tone writing, neo-classical idioms, and contemporary compositional procedures. Lab sessions will cover non-tonal melodic reading and complex chord structures.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "MUSIC 370"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

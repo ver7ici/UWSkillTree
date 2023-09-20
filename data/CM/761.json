@@ -1,0 +1,18 @@
+{
+    "id": "003090",
+    "subject": "CM",
+    "catalogNumber": "761",
+    "title": "Computational Inference",
+    "description": "Introduction to and application of computational methods in statistical inference.\nMonte Carlo evaluation of statistical procedures, exploration of the likelihood function through graphical and optimization techniques. Topics include expectation-maximization, bootstrapping, Markov Chain Monte Carlo, and other computationally intensive methods.",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "CM 461",
+        "STAT 440"
+    ],
+    "next": []
+}

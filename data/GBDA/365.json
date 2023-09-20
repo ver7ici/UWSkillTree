@@ -1,0 +1,16 @@
+{
+    "id": "014250",
+    "subject": "GBDA",
+    "catalogNumber": "365",
+    "title": "Study Abroad",
+    "description": "Study abroad for academic transfer credit during a fall term. Discussion and approval of options with the advisor is required. Credit for specific courses will be evaluated following receipt of a transcript of academic results and supporting course outline documentation.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "GBDA 302"
+    ]
+}

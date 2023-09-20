@@ -1,0 +1,14 @@
+{
+    "id": "000046",
+    "subject": "ACTSC",
+    "catalogNumber": "972",
+    "title": "Finance 3",
+    "description": "The course will cover selected and advanced topics in quantitative finance and risk management, with a particular focus on current developments. Topics may include robust and Bayesian portfolio optimization, limits to arbitrage, derivatives pricing under model uncertainty, credit risk models, and models of systematic risk.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

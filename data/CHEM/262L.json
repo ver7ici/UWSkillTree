@@ -1,0 +1,17 @@
+{
+    "id": "004030",
+    "subject": "CHEM",
+    "catalogNumber": "262L",
+    "title": "Organic Chemistry Laboratory for Engineering Students",
+    "description": "Selected experiments for engineering students taking CHEM 262. [Offered: F,W]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [
+        "CHEM 262"
+    ],
+    "antireq": [],
+    "next": []
+}

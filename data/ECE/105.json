@@ -1,0 +1,21 @@
+{
+    "id": "013166",
+    "subject": "ECE",
+    "catalogNumber": "105",
+    "title": "Classical Mechanics",
+    "description": "Forces in nature and Newton's laws, dynamics and circular motion, work, energy, and conservation of energy. Linear momentum and linear impulse, rotational dynamics. Oscillations; simple harmonic motion. Wave motion; traveling waves and standing waves. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ECE 106",
+        "PHYS 124",
+        "PHYS 122",
+        "ECE 403",
+        "ECE 404",
+        "ECE 405"
+    ]
+}

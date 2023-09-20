@@ -1,0 +1,17 @@
+{
+    "id": "014282",
+    "subject": "GENE",
+    "catalogNumber": "403",
+    "title": "Interdisciplinary Design Project 1",
+    "description": "This is the first course in a two-course sequence where students from more than one engineering plan work together to solve an interdisciplinary engineering problem.  In the course they will formulate and communicate an interdisciplinary engineering problem or opportunity; develop a feasible design project proposal and plan; generate feasible solutions that address the formulated problem; evaluate alternatives and identify preferred solution; address safety, regulatory, sustainability and professional ethics requirements, as appropriate; effectively manage design project technical and non-technical risks using project management tools and techniques; deliver a report and/or a presentation that summarizes the work completed; work effectively as an interdisciplinary team member and/or team leader. [Note: Permission of the instructor is required]",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "GENE 404"
+    ]
+}

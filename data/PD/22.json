@@ -1,0 +1,18 @@
+{
+    "id": "014339",
+    "subject": "PD",
+    "catalogNumber": "22",
+    "title": "Professionalism and Ethics in Engineering Practice",
+    "description": "This course provides a framework for understanding professionalism and ethics within society as reflected through practice in the field of professional engineering.  Course topics on professionalism include:  the history of engineering and professions, the licensing of professional engineers and the certification of the practice of offering engineering services to the public, and the regulation of professional engineering in Ontario through Professional Engineers Ontario.  Course topics on ethics include: the philosophy of ethics and the Code of Ethics, the philosophy of justice, and the definition and disciplining of professional misconduct.  Case studies will apply these principles to workplace situations including factors such as environmental ethics, whistle blowing, conflict of interest, and health and safety.  [Note: Course will be graded on a CR/NCR basis.]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "ECE 290"
+    ],
+    "next": []
+}

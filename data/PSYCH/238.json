@@ -1,0 +1,30 @@
+{
+    "id": "007967",
+    "subject": "PSYCH",
+    "catalogNumber": "238",
+    "title": "Organizational Psychology",
+    "description": "Survey of organizational, group, and individual processes involved in work motivation, group dynamics, leadership, organizational climate, and organizational culture. [Note: Formerly PSYCH 338]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "PSYCH 338",
+        "AFM 280",
+        "MSCI 211",
+        "BUS 288W",
+        "BUS 388W",
+        "SCBUS 225"
+    ],
+    "next": [
+        "PSYCH 339",
+        "PSYCH 462",
+        "PSYCH 399",
+        "PSYCH 439",
+        "PSYCH 467",
+        "PSYCH 389",
+        "PSYCH 470"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": "011429",
+    "subject": "MTE",
+    "catalogNumber": "322",
+    "title": "Electromechanical Machine Design",
+    "description": "Integrated design of mechanical motion transmission systems: gearing, couplings, bearings, power screws, fasteners, and their integration; sensing and measurement of mechanical motion; specification and selection of motors and electromechanical actuators; analysis and design of controllers for motion transmission systems; case studies. [Offered: F,W]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [
+        "MTE 220",
+        "MTE 262",
+        "MTE 320",
+        "MTE 321"
+    ],
+    "coreq": [],
+    "antireq": [
+        "ME 321"
+    ],
+    "next": [
+        "ME 555"
+    ]
+}

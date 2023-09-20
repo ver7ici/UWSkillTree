@@ -1,0 +1,24 @@
+{
+    "id": "004832",
+    "subject": "EARTH",
+    "catalogNumber": "238",
+    "title": "Introductory Structural Geology",
+    "description": "Concepts of stress and strain; elementary rock mechanics; description and classification of folds, faults, foliations, lineations and joints; use of primary structures; introduction to geometrical analysis. Labs will emphasize geometrical problems, including geological maps and cross sections, and stereographic projection. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "EARTH 121",
+        "EARTH 121L",
+        "EARTH 153",
+        "CIVE 153",
+        "GEOE 153",
+        "ENVE 153"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "EARTH 435",
+        "EARTH 438"
+    ]
+}

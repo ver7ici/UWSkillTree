@@ -1,0 +1,17 @@
+{
+    "id": "014164",
+    "subject": "PHARM",
+    "catalogNumber": "376",
+    "title": "Practicing Pharmacy with Diverse Populations",
+    "description": "This course will provide students with tools to optimize patient care when working with diverse communities. Diversity will be defined in its broadest sense encompassing a discussion in how differences in ethnicity, gender, sexual orientation, physical or mental ability, etc. impact patient care. Students will learn about the unique needs of different populations and through a combination of lectures and case studies learn how to sensitively and effectively work with a variety of patients. [Offered: W,S,F]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "PHARM 220",
+        "PHARM 221"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

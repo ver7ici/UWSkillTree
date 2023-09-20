@@ -1,0 +1,18 @@
+{
+    "id": "013491",
+    "subject": "FINE",
+    "catalogNumber": "202",
+    "title": "Painting",
+    "description": "This course explores issues of representation and abstraction, with a focus on painting and colour theory and practice. [Note: Studio course]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "FINE 100"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "FINE 220"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "006724",
+    "subject": "ME",
+    "catalogNumber": "340",
+    "title": "Manufacturing Processes",
+    "description": "The principles of manufacturing unit processes including casting, forming, machining and joining. Interactions between design, materials (metals, polymers, ceramics) and processes. Advantages and limitations, relative cost, and production rates of competitive processes. [Offered: W, S]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "ME 219",
+        "ME 230"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

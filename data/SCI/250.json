@@ -1,0 +1,16 @@
+{
+    "id": "008515",
+    "subject": "SCI",
+    "catalogNumber": "250",
+    "title": "Environmental Geology",
+    "description": "An introduction to geological concepts; the influence of geological factors on the natural environment; Earth processes and natural hazards; Earth resources, including water, energy and mineral resources; waste disposal and pollution; global climatic and environmental change.  [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "EARTH 342"
+    ]
+}

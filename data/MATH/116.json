@@ -1,0 +1,37 @@
+{
+    "id": "006865",
+    "subject": "MATH",
+    "catalogNumber": "116",
+    "title": "Calculus 1 for Engineering",
+    "description": "Functions: review of polynomials, exponential, logarithmic, trigonometric. Operations on functions, curve sketching. Trigonometric identities, inverse functions. Derivatives, rules of differentiation. Mean Value Theorem, Newton's Method. Indeterminate forms and L'Hopital's rule, applications. Integrals, approximations, Riemann definite integral, Fundamental Theorems. Applications of the integral. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "MATH 117",
+        "MATH 124",
+        "MATH 127",
+        "MATH 137",
+        "MATH 147"
+    ],
+    "next": [
+        "CIVE 224",
+        "GEOE 224",
+        "ME 202",
+        "MATH 118",
+        "MATH 119",
+        "MATH 128",
+        "MATH 138",
+        "STAT 230",
+        "BIOL 364",
+        "PHYS 175",
+        "PHYS 225",
+        "GEOE 392",
+        "AE 224",
+        "AE 392",
+        "PMATH 320",
+        "PMATH 321"
+    ]
+}

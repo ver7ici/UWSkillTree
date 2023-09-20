@@ -1,0 +1,14 @@
+{
+    "id": "015577",
+    "subject": "HUMSC",
+    "catalogNumber": "498",
+    "title": "Directed Studies in Human Sciences",
+    "description": "Selected study and assignments under the direction of a faculty member.",
+    "term": [],
+    "prereq": [
+        "HUMSC 101"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

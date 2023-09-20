@@ -1,0 +1,15 @@
+{
+    "id": "006748",
+    "subject": "ME",
+    "catalogNumber": "524",
+    "title": "Advanced Dynamics and Vibrations",
+    "description": "This course is a continuation of ME 212 and ME 321. It includes study of planar and three-dimensional motion of rigid bodies and systems, including gyroscopic effects. Vector (Newton's Method) and analytical (Lagrange's Equation) methods are used to derive equations of motion. Linear vibrational analyses are performed to examine natural frequencies, stability, and mode shapes. Computer simulation of non-linear systems is discussed. [Offered: W]",
+    "term": [],
+    "prereq": [
+        "ME 212",
+        "ME 321"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

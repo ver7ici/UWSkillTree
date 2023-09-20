@@ -1,0 +1,21 @@
+{
+    "id": "014475",
+    "subject": "AFM",
+    "catalogNumber": "428",
+    "title": "Investment Management - Junior Portfolio Manager",
+    "description": "This course provides students hands-on training in equity valuation and portfolio management. As a junior portfolio manager, a student will make allocations in two sectors, monitor the performance of the existing equity holdings in these two sectors, mentor two analysts, make equity trading decisions for these two sectors, and present portfolio performance reports to the investment team and the advisory board. [Note: This is a repeatable course, subject to different content; it may be completed a total of four times.]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "AFM 274",
+        "AFM 275",
+        "AFM 372",
+        "ACTSC 391"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

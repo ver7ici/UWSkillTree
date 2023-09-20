@@ -1,0 +1,15 @@
+{
+    "id": "003448",
+    "subject": "ANTH",
+    "catalogNumber": "322",
+    "title": "The Archaeology of the Great Lakes Area",
+    "description": "An in-depth study of the archaeological evidence for prehistoric cultures in the Great Lakes area from their arrival ca. 11,000 years ago to the coming of Europeans. Cultural ecology and cultural evolution will be stressed.",
+    "term": [],
+    "prereq": [
+        "ANTH 201",
+        "CLAS 221"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

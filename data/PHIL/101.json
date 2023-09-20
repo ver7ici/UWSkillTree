@@ -1,0 +1,19 @@
+{
+    "id": "015390",
+    "subject": "PHIL",
+    "catalogNumber": "101",
+    "title": "Challenging Ideas: An Introduction to Philosophy",
+    "description": "Students will examine and challenge some influential ideas in philosophy and consider their importance to our lives. Questions might include: Does science describe the world as it really is? Is the mind just the brain? What can we know? Should we be moral? Do we have free will?",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "PHIL 110A",
+        "PHIL 110B"
+    ],
+    "next": []
+}

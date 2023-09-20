@@ -1,0 +1,14 @@
+{
+    "id": "016012",
+    "subject": "NE",
+    "catalogNumber": "466",
+    "title": "Tactile Sensors and Transducers",
+    "description": "Tactile sensors, wearable sensors and applications. Principles of transduction including capacitive, piezoelectric, piezoresistive, percolation, and tunneling-based sensing. Designing bendable and stretchable sensors, and self-powered sensors. Applications including robotics, electronic skin, biometrics, and bio-vitals. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

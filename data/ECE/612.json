@@ -1,0 +1,14 @@
+{
+    "id": "000770",
+    "subject": "ECE",
+    "catalogNumber": "612",
+    "title": "Information Theory",
+    "description": "An introduction to information measures, entropy, mutual information and information divergence, noiseless codes and the noiseless coding theorem, channel capacity for discrete and continuous channels, randomly chosen code words, the noisy coding theorem, error rate exponents, computational cut-off rate and its application to digital communications.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

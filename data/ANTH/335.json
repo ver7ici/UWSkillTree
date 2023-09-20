@@ -1,0 +1,16 @@
+{
+    "id": "009883",
+    "subject": "ANTH",
+    "catalogNumber": "335",
+    "title": "Arctic Archaeology",
+    "description": "A detailed examination of the prehistoric development of human adaptations to the Inuit-Eskimo region of Arctic North America, eastern Siberia, and Greenland.  Topics covered will include the ecology of the Arctic and the culture history of the peoples who first colonized the region as revealed by archaeological research.",
+    "term": [],
+    "prereq": [
+        "ANTH 201",
+        "CLAS 221",
+        "ANTH 233"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

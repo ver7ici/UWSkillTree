@@ -1,0 +1,20 @@
+{
+    "id": "008512",
+    "subject": "SCBUS",
+    "catalogNumber": "223",
+    "title": "Workshop 2: Strategies Behind Technological Innovation",
+    "description": "This workshop is organized as a strategic management process, focusing on the management of technology, innovation, research and development in scientific team-based settings. Students working in groups analyze real business ventures, their launch, and growth, synthesizing major field research to develop a term deliverable in the form of a company report and final project presentation. Students engage in experiential learning involving theory, case studies, scientific team debates, and critical reasoning. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "SCBUS 123"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "SCBUS 323",
+        "SCBUS 423",
+        "SCBUS 424"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "id": "004698",
+    "subject": "THPERF",
+    "catalogNumber": "343",
+    "title": "Stage Management",
+    "description": "Students explore approaches to stage management for theatre and performance.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "THPERF 243"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

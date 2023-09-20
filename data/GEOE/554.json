@@ -1,0 +1,17 @@
+{
+    "id": "004252",
+    "subject": "GEOE",
+    "catalogNumber": "554",
+    "title": "Geotechnical Engineering 3",
+    "description": "Simulation of geotechnical consulting practice. Students are required to complete several projects, based on actual case studies, which require problem identification, evaluation of geotechnical data, analysis, design, and report preparations. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "CIVE 353",
+        "CIVE 354"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

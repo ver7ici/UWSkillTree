@@ -1,0 +1,22 @@
+{
+    "id": "003914",
+    "subject": "CO",
+    "catalogNumber": "456",
+    "title": "Introduction to Game Theory",
+    "description": "A broad introduction to game theory and its applications to the modeling of competition and cooperation in business, economics, and society. Two-person games in strategic form and Nash equilibria. Extensive form games, including multi-stage games. Coalition games and the core. Bayesian games, mechanism design, and auctions.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "MATH 229",
+        "MATH 239",
+        "MATH 249",
+        "CO 227",
+        "CO 250",
+        "CO 255",
+        "CO 352"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

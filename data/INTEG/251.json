@@ -1,0 +1,16 @@
+{
+    "id": "014109",
+    "subject": "INTEG",
+    "catalogNumber": "251",
+    "title": "Creative Thinking",
+    "description": "An introductory, integrative course in the history, psychology, value and practice of creativity across a variety of domains, from scientific research to the fine and performing arts. Students will learn to identify and explain key ideas and historical figures in the study and practice of creative thinking. They'll also learn to reliably generate novel ideas of value, both solo and collaboratively.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "INTEG 275"
+    ],
+    "next": []
+}

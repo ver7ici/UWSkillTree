@@ -1,0 +1,18 @@
+{
+    "id": "015210",
+    "subject": "NE",
+    "catalogNumber": "350",
+    "title": "Work-term Report 2",
+    "description": "An engineering report based upon a technical project, activity, or analysis carried out by the student, normally during work-term employment following the 2B academic term. Evaluation is based upon a level of written communication, technical proficiency, and engineering analysis appropriate to a third-year engineering student. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "MSCI 392",
+        "WKRPT 300",
+        "WKRPT 301"
+    ],
+    "next": []
+}

@@ -1,0 +1,16 @@
+{
+    "id": "016217",
+    "subject": "CI",
+    "catalogNumber": "400",
+    "title": "Cultural Identities Seminar",
+    "description": "In this seminar students work on an interdisciplinary term-long knowledge mobilization project under the direction of a faculty member. The seminar aims to help students to integrate their knowledge of cultural identities with personal and/or professional interests.",
+    "term": [],
+    "prereq": [
+        "CI 100",
+        "CI 200",
+        "GER 200"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

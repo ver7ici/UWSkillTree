@@ -1,0 +1,19 @@
+{
+    "id": "016536",
+    "subject": "PLAN",
+    "catalogNumber": "606",
+    "title": "Modelling the City",
+    "description": "This course examines the use of computer modeling and simulation in the realm of urban analysis and forecasting, with the goal of understanding urban land-use change trajectories. Topics include an overview of the drivers and consequences in urban land-use change, the role of models, an overview of current methodological approaches, and an examination of urban simulation models as used in the development of urban policies and official plans. This course provides an applied learning environment in which students will gain experience in the use of spatial (GIS) modeling approaches.",
+    "term": [],
+    "prereq": [
+        "PLAN 281",
+        "GEOG 281",
+        "ENVS 278"
+    ],
+    "coreq": [],
+    "antireq": [
+        "PLAN 416",
+        "PLAN 674"
+    ],
+    "next": []
+}

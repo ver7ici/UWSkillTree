@@ -1,0 +1,12 @@
+{
+    "id": "003151",
+    "subject": "SYDE",
+    "catalogNumber": "652",
+    "title": "Dynamics of Multibody  Systems",
+    "description": "In this course, linear graph theory is used to model the topology of 2-d and 3-d systems of rigid bodies connected by mechanical joints, springs, dampers, and actuators. Graph-theoretic methods are then used to systematically derive the kinematic and dynamic equations; the numeric solution of these equations provides a simulation of the system's motion. Topics include: review of kinematics, dynamics and graph theoretic (GT) methods; application to one-dimensional mechanical systems; GT representation of two-dimensional components and systems; formulation and solution of governing system equations; extension to three dimensional mechanical systems with flexible bodies and mechatronic components; application to kinematic and dynamic analysis of mechanisms, robotic manipulators, vehicles and satellites.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

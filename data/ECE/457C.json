@@ -1,0 +1,22 @@
+{
+    "id": "016244",
+    "subject": "ECE",
+    "catalogNumber": "457C",
+    "title": "Reinforcement Learning",
+    "description": "Introduction to reinforcement learning (RL) theory and algorithms for learning decision-making policies in situations with uncertainty and limited information. Topics include Markov decision processes, classic exact/approximate RL algorithms such as value/policy iteration, Q-learning, State-action-reward-state-action (SARSA), Temporal Difference (TD) methods, policy gradients, actor-critic, and Deep RL such as Deep Q-Learning (DQN), Asynchronous Advantage Actor Critic (A3C), and Deep Deterministic Policy Gradient (DDPG). [Offered: S]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "BME 213",
+        "ECE 203",
+        "MTE 201",
+        "STAT 206",
+        "SYDE 212"
+    ],
+    "coreq": [],
+    "antireq": [
+        "ECE 493"
+    ],
+    "next": []
+}

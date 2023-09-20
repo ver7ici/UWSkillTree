@@ -1,0 +1,20 @@
+{
+    "id": "015490",
+    "subject": "DAC",
+    "catalogNumber": "204",
+    "title": "Introduction to Game Design",
+    "description": "This course explores the fundamentals of game design. It focuses on the essentials shared by all games that are fundamental for a game designer working in any medium, from sports to board games to computer and video games. Although the focus of the course is on designing, prototyping, and testing non-digital games, digital games will be discussed in class to provide students with a broad theoretical and conceptual understanding of the field of game design and development along with practical exercises to train for creating a game.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "DAC 300",
+        "ENGL 303",
+        "SPCOM 300"
+    ],
+    "next": []
+}

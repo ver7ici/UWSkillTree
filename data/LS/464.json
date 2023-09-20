@@ -1,0 +1,22 @@
+{
+    "id": "007813",
+    "subject": "LS",
+    "catalogNumber": "464",
+    "title": "Justice and Gender",
+    "description": "Theories of justice are concerned with the distribution of the basic goods of society - money, power, status, leisure, and so on. This course considers how the gender system fares from the standpoint of liberal justice, and to what extent the promises of liberal justice can be used to overturn the unequal treatment of women.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "LS 201",
+        "PSCI 225",
+        "CLAS 225",
+        "PSCI 226",
+        "PSCI 291",
+        "PSCI 292",
+        "PSCI 370"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

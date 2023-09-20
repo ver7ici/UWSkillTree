@@ -1,0 +1,18 @@
+{
+    "id": "015905",
+    "subject": "SPCOM",
+    "catalogNumber": "201",
+    "title": "Introduction to Gender and Sexuality in Communication",
+    "description": "This course introduces the basic theories for studying the multiple relationships between communication practices and gender. The course emphasizes how communication creates gender and power roles and how communicative patterns reflect, sustain, and alter social conceptions of gender.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "SPCOM 401",
+        "SPCOM 301"
+    ]
+}

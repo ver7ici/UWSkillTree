@@ -1,0 +1,19 @@
+{
+    "id": "011597",
+    "subject": "GER",
+    "catalogNumber": "303",
+    "title": "Interactive German Language and Culture",
+    "description": "This course develops German language skills and cultural awareness. Discussions include such topics as Heimat, nation, migration, and study abroad. Students will engage with and reflect on different social and cultural perspectives through interviews, videos, and texts. Online interactions, including with people in and from Germany, form an integral part of the course. [Note: Offered through University of Guelph in alternating years, but always available to both University of Waterloo and University of Guelph students.]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "GER 201",
+        "GER 211"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "GER 331"
+    ]
+}

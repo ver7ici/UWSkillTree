@@ -1,0 +1,21 @@
+{
+    "id": "015203",
+    "subject": "ECON",
+    "catalogNumber": "496",
+    "title": "Advanced Macroeconomics",
+    "description": "This course provides students with the methodological principles that underlie modern analyses of the macro-economy, and to prepare students for graduate-level macroeconomic theory courses.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "ECON 306",
+        "ECON 393",
+        "ECON 322",
+        "STAT 221",
+        "STAT 231",
+        "STAT 241"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

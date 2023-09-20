@@ -1,0 +1,18 @@
+{
+    "id": "015143",
+    "subject": "CS",
+    "catalogNumber": "383",
+    "title": "Computational Digital Art Studio",
+    "description": "An upper-level studio course to create computational projects that function as art works and aesthetic experiences. Students will work in an interdisciplinary environment to combine computer science principles with fine art technical and conceptual skills. [Offered: W]",
+    "term": [],
+    "prereq": [
+        "CS 240",
+        "FINE 228",
+        "FINE 229",
+        "FINE 257",
+        "ENGL 293"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,14 @@
+{
+    "id": "004444",
+    "subject": "CS",
+    "catalogNumber": "499R",
+    "title": "Readings in Computer Science",
+    "description": "Reading course as announced by the department.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,17 @@
+{
+    "id": "012661",
+    "subject": "ENVS",
+    "catalogNumber": "444",
+    "title": "Ecosystem and Resource Management in Parks/Natural Areas",
+    "description": "From the local to the national level, this course examines the role of protecting and managing terrestrial, aquatic and marine ecosystems. This course also examines the tension between the development of natural resources and conservation by exploring a variety of major themes including biodiversity, ecological integrity and restoration. Normally analytical and field-based activities will be included as well as guest lectures from professionals working in the fields of conservation and protected areas. [Note: WHMIS may be required pending project lab analysis.]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "ENVS 200",
+        "BIOL 150"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

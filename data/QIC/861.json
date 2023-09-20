@@ -1,0 +1,14 @@
+{
+    "id": "016249",
+    "subject": "QIC",
+    "catalogNumber": "861",
+    "title": "Laboratory on Photonic Quantum Technology",
+    "description": "Selected advanced experiments in photonics-based quantum technology.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

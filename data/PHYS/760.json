@@ -1,0 +1,14 @@
+{
+    "id": "016232",
+    "subject": "PHYS",
+    "catalogNumber": "760",
+    "title": "Laboratory on Control of Quantum Technology",
+    "description": "Experiments to control and characterize quantum systems.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

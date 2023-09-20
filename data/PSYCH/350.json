@@ -1,0 +1,18 @@
+{
+    "id": "013526",
+    "subject": "PSYCH",
+    "catalogNumber": "350",
+    "title": "Political Psychology",
+    "description": "What can psychological science contribute to our understanding of political behaviour? To answer this question we will review psychological theory and research on such topics as voter decision-making, political ideologies, issue framing and public opinion, activism in social movements, barriers to conflict resolution, leadership, multiculturalism, political extremism, and collective violence.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "PSYCH 101",
+        "PSYCH 101R",
+        "PSYCH 121R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

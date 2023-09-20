@@ -1,0 +1,16 @@
+{
+    "id": "015513",
+    "subject": "HIST",
+    "catalogNumber": "207",
+    "title": "The Beatles and the Sixties",
+    "description": "The Beatles - their lives, their music, their films, and their impact - are this course's lens to examine the social, political, and cultural upheavals and transformations of the 1960s, and to consider memory, nostalgia, and mythmaking about that storied decade. Primary focus is on the U.K. and U.S., with consideration of Beatlemania as a global phenomenon.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "HIST 291"
+    ],
+    "next": []
+}

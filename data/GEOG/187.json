@@ -1,0 +1,18 @@
+{
+    "id": "014543",
+    "subject": "GEOG",
+    "catalogNumber": "187",
+    "title": "Geospatial Data Science",
+    "description": "A specialized introduction to fundamental concepts and emerging trends in geomatics and geospatial data science. Overview of the geospatial industry, including application in government, research, and private sector. Students are introduced to cross-discipline tools and techniques for accessing, visualizing, and analyzing geospatial data.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "GEOG 281",
+        "GEOG 271",
+        "GEOG 310"
+    ]
+}

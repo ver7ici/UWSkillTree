@@ -1,0 +1,14 @@
+{
+    "id": "014812",
+    "subject": "PHARM",
+    "catalogNumber": "498",
+    "title": "Clinical Rotation 2: Direct Patient Care",
+    "description": "Advanced practice rotation (8 weeks) in an approved clinical practice setting (institutional or primary care, depending on prior experience assessed through PHARM 497).  Provision of direct patient care in an inter-professional setting.  \r\n[Offered W, S, F]",
+    "term": [],
+    "prereq": [
+        "PHARM 497"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

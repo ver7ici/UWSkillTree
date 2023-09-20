@@ -1,0 +1,15 @@
+{
+    "id": "011992",
+    "subject": "CHE",
+    "catalogNumber": "290",
+    "title": "Chemical Engineering Lab 1",
+    "description": "A selection of computer and laboratory exercises refreshing and reinforcing material covered in the previous term.  Topics may include:  basic microbiology and biotechnology, introductory physical chemistry, mass and energy balances.  [Offered:  F, W]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

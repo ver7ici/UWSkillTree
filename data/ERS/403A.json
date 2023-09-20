@@ -1,0 +1,19 @@
+{
+    "id": "005401",
+    "subject": "ERS",
+    "catalogNumber": "403A",
+    "title": "Senior Honours Thesis",
+    "description": "This course is for students who have defined a problem, which fits within the scope of research in the School of Environment, Resources and Sustainability, and will undertake original research that leads to production of a thesis. ERS 403A normally leads to the production of a research proposal and the beginning of the research tasks; this process may vary slightly, depending on the nature of the research. The research process and thesis write-up will continue and be concluded in ERS 403B. [Note: Students who wish to take this course should begin intensive planning and discussion with potential advisors in a field relevant to their intended research 6-12 months prior to the course. Students must secure agreement with a professor in SERS to act as the thesis advisor no later than 4 months prior to the start of the course. Note: WHMIS may be required pending project lab analysis.]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "ERS 402",
+        "ERS 411A"
+    ],
+    "next": []
+}

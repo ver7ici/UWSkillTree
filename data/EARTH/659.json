@@ -1,0 +1,18 @@
+{
+    "id": "000906",
+    "subject": "EARTH",
+    "catalogNumber": "659",
+    "title": "Chemical Hydrogeology",
+    "description": "This course builds on the fundamental principles of aqueous chemistry and water-rock interactions with emphasis on groundwater environments. Topics include the evolution of natural groundwater chemistry, chemical aspects of contaminant hydrogeology such as hydrocarbons, radioactive wastes, acid mine drainage and industrial and municipal waste disposal. Geochemical models are introduced and applied by students in a course project. Students without the required prerequisite may seek consent of the instructor.",
+    "term": [],
+    "prereq": [
+        "EARTH 458",
+        "EARTH 221",
+        "EARTH 231",
+        "CIV 375",
+        "E 375"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

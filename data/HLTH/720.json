@@ -1,0 +1,16 @@
+{
+    "id": "010539",
+    "subject": "HLTH",
+    "catalogNumber": "720",
+    "title": "Advanced Topics",
+    "description": "An in-depth analysis of specific topics of interest. Representative topics may include advanced epidemiological and statistical methods for health research, cancer prevention and control, advanced health program evluation, psychoneuroimmunology, addictions, caregiver issues, etc. The form of the study may include a literature review or the planning and execution of and execution of an independent study leading to a mamor paper for possible publication.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

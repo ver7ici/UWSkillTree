@@ -1,0 +1,17 @@
+{
+    "id": "013122",
+    "subject": "PHARM",
+    "catalogNumber": "232",
+    "title": "Medical Microbiology",
+    "description": "This course applies microbiological methods (aseptic techniques, streak plating, culture handling, laboratory safety, etc.) to clinically relevant microbiological and immunological practice. Course material is applicable to and coordinated with Integrated Patient Focused Care courses. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PHARM 363",
+        "PHARM 473"
+    ]
+}

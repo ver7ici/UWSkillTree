@@ -1,0 +1,12 @@
+{
+    "id": "002206",
+    "subject": "PHYS",
+    "catalogNumber": "731",
+    "title": "Solid State Physics 1",
+    "description": "Phonons, electron states, electron-electron interaction, electron-ion interaction, static properties of solids.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

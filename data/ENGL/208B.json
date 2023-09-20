@@ -1,0 +1,15 @@
+{
+    "id": "005082",
+    "subject": "ENGL",
+    "catalogNumber": "208B",
+    "title": "Science Fiction",
+    "description": "Various examples drawn, for instance, from Utopian and anti-Utopian science fiction, social science fiction, \"gadget\" science fiction, parapsychology, and alternate worlds and beings will be considered. Some attention will be given to the historical development of the genre.",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

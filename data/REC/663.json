@@ -1,0 +1,16 @@
+{
+    "id": "015452",
+    "subject": "REC",
+    "catalogNumber": "663",
+    "title": "Foundations for Qualitative Inquiry",
+    "description": "This course provides an introductory overview of various qualitative research processes beginning with onto-epistemological underpinnings, and continuing through theoretical frameworks, methodologies, methods, analysis, and both traditional and creative analytic representations.  Specifically, epistemological approaches of prediction, understanding, emancipation, and deconstruction will be introduced and discussed in relation to current qualitative trends in social sciences.  Students will investigate methodological possibilities and various ways of navigating philosophical, procedural, analytical, reflective, and ethical issues related to undertaking humanist and post-humanist qualitative inquiry.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "REC 773"
+    ]
+}

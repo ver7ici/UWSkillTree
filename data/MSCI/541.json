@@ -1,0 +1,37 @@
+{
+    "id": "013765",
+    "subject": "MSCI",
+    "catalogNumber": "541",
+    "title": "Search Engines",
+    "description": "This course provides an opportunity for students to learn the engineering behind search engines and how to optimize search engines to provide higher quality user experiences. This course focuses on text retrieval and web search. Topics include design and construction of retrieval systems, retrieval models, and evaluation of search engines. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "BME 122",
+        "CS 240",
+        "ECE 250",
+        "MSCI 240",
+        "MTE 140",
+        "SYDE 223",
+        "AE 224",
+        "BME 213",
+        "CHE 220",
+        "CIVE 224",
+        "ECE 203",
+        "ECE 306",
+        "ENVE 224",
+        "MSCI 251",
+        "MSCI 252",
+        "ME 202",
+        "MTE 201",
+        "NE 215",
+        "STAT 206",
+        "STAT 231",
+        "STAT 241",
+        "SYDE 212"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

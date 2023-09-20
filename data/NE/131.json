@@ -1,0 +1,21 @@
+{
+    "id": "011930",
+    "subject": "NE",
+    "catalogNumber": "131",
+    "title": "Physics for Nanotechnology Engineering",
+    "description": "A first course in physics that introduces basic topics in classical mechanics, wave mechanics, and physical optics. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "MATH 117"
+    ],
+    "coreq": [],
+    "antireq": [
+        "PHYS 111",
+        "PHYS 115",
+        "PHYS 121",
+        "SYDE 182"
+    ],
+    "next": []
+}

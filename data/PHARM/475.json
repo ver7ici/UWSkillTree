@@ -1,0 +1,14 @@
+{
+    "id": "014744",
+    "subject": "PHARM",
+    "catalogNumber": "475",
+    "title": "Advanced Pharmacotherapeutics in the Ambulatory Care Setting",
+    "description": "This course will provide students the opportunity to apply clinical knowledge and skills to manage pharmacotherapy problems commonly encountered by pharmacists practicing in an outpatient environment. The focus will be on disease states not covered in the integrated patient focused care series. Additionally, problems unique to delivery of care in the ambulatory setting, such as coordination of care within an interdisciplinary team, working within the constraints of the Ontario Drug Benefit (ODB) program and insurance plan formularies, and provision of best practice care with limited resources. [Offered: W,S,F]",
+    "term": [],
+    "prereq": [],
+    "coreq": [
+        "PHARM 323"
+    ],
+    "antireq": [],
+    "next": []
+}

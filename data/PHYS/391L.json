@@ -1,0 +1,16 @@
+{
+    "id": "007439",
+    "subject": "PHYS",
+    "catalogNumber": "391L",
+    "title": "Electronics Laboratory",
+    "description": "For students who have taken or are taking PHYS 391. [Note: Lab alternates weeks. Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [
+        "PHYS 391"
+    ],
+    "antireq": [],
+    "next": []
+}

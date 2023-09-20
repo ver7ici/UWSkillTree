@@ -1,0 +1,15 @@
+{
+    "id": "011993",
+    "subject": "CHE",
+    "catalogNumber": "291",
+    "title": "Chemical Engineering Lab 2",
+    "description": "A selection of computer and laboratory exercises refreshing and reinforcing material covered in the previous term.  Topics may include:  physical chemistry, design of experiments and statistics, and equilibrium stage operations.  [Offered:  F, S]",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

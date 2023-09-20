@@ -1,0 +1,12 @@
+{
+    "id": "001870",
+    "subject": "ME",
+    "catalogNumber": "670",
+    "title": "Atmospheric Dynamics",
+    "description": "Hydrodynamic equations of motion on a rotating axis. Geostropic balance in the atmosphere and oceans, vertical variation of wind and pressure fields in the atmosphere, mechanisms of pressure change, vorticity equation.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

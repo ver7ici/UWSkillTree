@@ -1,0 +1,21 @@
+{
+    "id": "008569",
+    "subject": "SMF",
+    "catalogNumber": "307",
+    "title": "Conflict in Close Relationships",
+    "description": "Families and close relationships are among the most important and valued human experiences, but they can also be the source of much conflict and pain. This course will examine the role that conflict plays in close relationships, with a focus on topics such as emotions, power, third-party interventions, breakdown of relationships, conflict styles, and conflict resolution.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "SMF 101",
+        "PSYCH 253",
+        "PSYCH 253R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "SMF 404",
+        "SMF 496"
+    ]
+}

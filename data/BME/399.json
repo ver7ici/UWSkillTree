@@ -1,0 +1,17 @@
+{
+    "id": "015625",
+    "subject": "BME",
+    "catalogNumber": "399",
+    "title": "Directed Biomedical Research Project",
+    "description": "A biomedical research project carried out under the supervision of a faculty member. Students interested in graduate studies or industrial research careers will gain experience in advanced research techniques and develop valuable research skills. A written report is to be submitted to the course co-ordinator. This course is extra over and above the normal course load. [Note: This course is graded as CR/NCR. Offered: F,W]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "BME 499"
+    ]
+}

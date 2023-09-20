@@ -1,0 +1,19 @@
+{
+    "id": "013168",
+    "subject": "ECE",
+    "catalogNumber": "124",
+    "title": "Digital Circuits and Systems",
+    "description": "Number systems and Boolean arithmetic. Boolean algebra and simplification of Boolean functions. Combinational circuits. Sequential circuits; design and implementation. Hardware description languages. Timing analysis. Implementation technologies. [Offered: W,S]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ECE 222",
+        "ECE 327",
+        "ECE 224"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": "013357",
+    "subject": "CHE",
+    "catalogNumber": "312",
+    "title": "Mathematics of Heat and Mass Transfer",
+    "description": "Fundamentals of mass transfer: species and mixture velocities, diffusive and convective fluxes, Fick's law and the diffusion coefficient. Vector form of the microscopic (differential) mass balance. Fundamentals of heat transfer: conduction, convection and radiation, Fourier's law and thermal conductivity. Vector form of the microscopic thermal energy balance for solids and incompressible fluids. Mass and heat transfer models leading to ordinary differential equation problems in Cartesian, cylindrical and spherical geometries; types of boundary conditions. Bessel functions. Analytical solution of linear partial differential equations: combination of variables, separation of variables and Sturm-Liouville theory, Laplace transform. Mass and heat transfer models leading to linear partial differential equations: 1D transient diffusion and conduction in Cartesian, cylindrical and spherical geometries; steady-state 2D conduction and diffusion. Heat-mass transfer analogies and dimensionless numbers. [Offered:  W,S]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,24 @@
+{
+    "id": "008001",
+    "subject": "PSYCH",
+    "catalogNumber": "394",
+    "title": "Research in Cognition and Perception",
+    "description": "Current topics in the study of cognitive and perceptual processes including research methods and procedures are covered. Activities may include research proposals, group and/or individual projects (e.g., \"hands on\" lab experience and data collection), research reports, critiques of published and proposed research, individual and/or group presentations. [Offered: W and/or S]",
+    "term": [],
+    "prereq": [
+        "PSYCH 207"
+    ],
+    "coreq": [
+        "PSYCH 391"
+    ],
+    "antireq": [
+        "PSYCH 390",
+        "PSYCH 392",
+        "PSYCH 396",
+        "PSYCH 398"
+    ],
+    "next": [
+        "PSYCH 464",
+        "PSYCH 499A"
+    ]
+}

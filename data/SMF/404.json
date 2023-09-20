@@ -1,0 +1,24 @@
+{
+    "id": "008574",
+    "subject": "SMF",
+    "catalogNumber": "404",
+    "title": "Independent Study in Sexuality, Relationships, and/or Families",
+    "description": "An independent, in-depth study based on empirical research and/or extensive reading of a topic in the area of sexuality, relationships, and/or families. The project must be approved by the academic supervisor of the course prior to enrolment. [Note: This is a repeatable course, subject to different content; it may be completed a total of five times. SMF 220 equivalent courses: KIN 330, PSCI 315, PSYCH 291, REC 270, SDS/SWREN 251R, SOC/LS 221. SMF 230 equivalent courses: ARTS 280, ECON 221, ENVS 278, KIN 222, PSCI 314, PSYCH 292, REC 371, SDS/SWREN 250R, SOC/LS 280, STAT 202, 206, 211, 221, 231, 241.]",
+    "term": [],
+    "prereq": [
+        "SMF 220",
+        "SMF 230",
+        "SMF 304",
+        "SMF 305",
+        "SMF 306",
+        "SMF 307",
+        "SMF 365",
+        "SMF 366",
+        "PSYCH 354",
+        "PSYCH 354R",
+        "SMF 310"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

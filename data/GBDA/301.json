@@ -1,0 +1,18 @@
+{
+    "id": "013261",
+    "subject": "GBDA",
+    "catalogNumber": "301",
+    "title": "Global Digital Project 1",
+    "description": "In this course, students will create critical design projects that explore the intersection of design, technology, and culture in a global context. Students will experiment with and prototype objects/systems that engage with contemporary ideas and technologies, while reflecting on how these objects/systems shape our everyday experiences. Students will be guided through one or more design cycles that unite design thinking with critical reflection through the practical application of theory. [Note: Offered at Stratford campus.]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "GBDA 202"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "GBDA 302"
+    ]
+}

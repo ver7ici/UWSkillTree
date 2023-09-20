@@ -1,0 +1,18 @@
+{
+    "id": "015363",
+    "subject": "WKRPT",
+    "catalogNumber": "200S",
+    "title": "Science Work-Term Report 2",
+    "description": "Students submit a detailed work-term report based on a technical project, activity or analysis they conducted during their work term. Work-term reports are required courses for the co-op designation. Submitted grades are not included in any averages. Detailed guidelines for work-term reports are posted on the Faculty website. [Note: PD 11 counts as work-term report 1]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "WKRPT 300S"
+    ]
+}

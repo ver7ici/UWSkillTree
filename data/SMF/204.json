@@ -1,0 +1,28 @@
+{
+    "id": "008554",
+    "subject": "SMF",
+    "catalogNumber": "204",
+    "title": "Introduction to Human Sexuality",
+    "description": "This course provides a broad interdisciplinary overview of theories and research on human sexuality. Topics may include human anatomy, sexual health, sexual response cycle, sexual orientation, gender, sex work, sexual practices, fetishes and paraphilias, and attraction/intimacy/love.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "PSYCH 236"
+    ],
+    "next": [
+        "SMF 205",
+        "SMF 304",
+        "SMF 305",
+        "SMF 365",
+        "SMF 310",
+        "SMF 208",
+        "SMF 220",
+        "SMF 230",
+        "SMF 319",
+        "SMF 301"
+    ]
+}

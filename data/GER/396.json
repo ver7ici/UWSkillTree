@@ -1,0 +1,14 @@
+{
+    "id": "006128",
+    "subject": "GER",
+    "catalogNumber": "396",
+    "title": "Waterloo in Germany Program",
+    "description": "Study abroad at a German university in the winter term.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "012612",
+    "subject": "CM",
+    "catalogNumber": "762",
+    "title": "Data Visualization",
+    "description": "Visualization methods applied to data. Both human perception and statistical\nproperties inform the methods used to display and visually explore categorical, continuous, time-ordered, map, and high dimensional data. Order and layout effects on tables and graphics. Statistical concepts visually presented include variability, densities, quantiles, conditioning, and hypothesis testing. Interactive graphics\ninclude linking, brushing, motion, and the navigation of high dimensional spaces guided via projection indices. Glyphs (e.g. cartoon, statistical, or heatmap) and radial and parallel coordinates.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "CM 462",
+        "STAT 442"
+    ],
+    "next": []
+}

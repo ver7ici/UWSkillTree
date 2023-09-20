@@ -1,0 +1,14 @@
+{
+    "id": "008704",
+    "subject": "SOC",
+    "catalogNumber": "405",
+    "title": "Seminar in Classical Sociological Theory",
+    "description": "An analysis of selected original writings by the major figures in the classical sociological tradition of the 19th and early 20th centuries and selected critical literature.",
+    "term": [],
+    "prereq": [
+        "SOC 302"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

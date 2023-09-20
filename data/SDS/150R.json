@@ -1,0 +1,18 @@
+{
+    "id": "006502",
+    "subject": "SDS",
+    "catalogNumber": "150R",
+    "title": "Lifespan Processes",
+    "description": "This course is an introduction to human development that spans conception to death. It provides an overview of events which occur throughout the lifespan and considers how biological, psychological, and social factors may impact healthy development. [Note: Formerly ISS 150R]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "SDS 350R"
+    ]
+}

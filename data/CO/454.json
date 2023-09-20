@@ -1,0 +1,22 @@
+{
+    "id": "003913",
+    "subject": "CO",
+    "catalogNumber": "454",
+    "title": "Scheduling",
+    "description": "An overview of practical optimization problems that can be posed as scheduling problems. Characterizations of optimal schedules. Simple and efficient combinatorial algorithms for easy problems. A brief overview of computational complexity, definition of P, NP, NP-complete and NP-hard. Integer programming formulations, the traveling salesman problem, heuristics, dynamic programming, and branch-and-bound approaches. Polynomial-time approximation algorithms. [Offered: S]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "MATH 229",
+        "MATH 239",
+        "MATH 249",
+        "CO 227",
+        "CO 250",
+        "CO 255",
+        "CO 352"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

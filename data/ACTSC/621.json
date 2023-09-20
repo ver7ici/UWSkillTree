@@ -1,0 +1,14 @@
+{
+    "id": "013406",
+    "subject": "ACTSC",
+    "catalogNumber": "621",
+    "title": "Financial Mathematics II",
+    "description": "Mean-Variance portfolio theory; utility based portfolio theory; Capital-Asset Pricing Method, Arbitrage Pricing Theory, Efficient Markets Hypotheses; Capital structure and dividend policy; introduction to options with applications in corporate finance. Behavioural finance.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

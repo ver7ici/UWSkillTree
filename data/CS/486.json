@@ -1,0 +1,22 @@
+{
+    "id": "004435",
+    "subject": "CS",
+    "catalogNumber": "486",
+    "title": "Introduction to Artificial Intelligence",
+    "description": "Goals and methods of artificial intelligence. Methods of general problem solving. Knowledge representation and reasoning. Planning. Reasoning about uncertainty. Machine learning. Multi-agent systems. Natural language processing. [Note: Lab is not scheduled and students are expected to find time in open hours to complete their work. Offered: F,W,S]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "CS 341"
+    ],
+    "coreq": [
+        "STAT 206",
+        "STAT 231",
+        "STAT 241"
+    ],
+    "antireq": [],
+    "next": []
+}

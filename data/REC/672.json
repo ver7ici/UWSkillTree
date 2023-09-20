@@ -1,0 +1,16 @@
+{
+    "id": "002904",
+    "subject": "REC",
+    "catalogNumber": "672",
+    "title": "Quantitative Research Data Analysis and Interpretation",
+    "description": "Examines and applies a variety of statistical techniques used in the analysis of leisure research data.  Emphasis is placed on the interpretation and implications of empirical research in the field.  Note: An undergraduate statistics course and permission of the instructor is required.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "REC 662"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,17 @@
+{
+    "id": "013374",
+    "subject": "HLTH",
+    "catalogNumber": "435",
+    "title": "Knowledge Translation for Public Health and Health Care",
+    "description": "This course is about bridging gaps between evidence-based knowledge and real world policies and practices. Along with concepts and skills about knowledge synthesis, the focus is on integrated knowledge-to-action processes for engagement, collaboration, implementation, and scale-up to meet objectives of changing policies, behaviours of health care providers and other individuals, and organizational practices. Topics and skills may include use of systematic and scoping reviews of literature, Diffusion of Innovations and Social Marketing frameworks, behavioural economics, policy change strategies, public health ethics, Health Impact Assessments, Critical Public Health perspectives, and issues from current events.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "HLTH 260",
+        "HLTH 344"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

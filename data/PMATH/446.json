@@ -1,0 +1,18 @@
+{
+    "id": "014185",
+    "subject": "PMATH",
+    "catalogNumber": "446",
+    "title": "Introduction to Commutative Algebra",
+    "description": "Module theory: classification of finitely generated modules over PIDs, exact sequences and tensor products, algebras, localisation, chain conditions. Primary decomposition, integral extensions, Noether's normalisation lemma, and Hilbert's Nullstellensatz.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "PMATH 347"
+    ],
+    "coreq": [
+        "PMATH 348"
+    ],
+    "antireq": [],
+    "next": []
+}

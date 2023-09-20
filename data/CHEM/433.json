@@ -1,0 +1,17 @@
+{
+    "id": "004151",
+    "subject": "CHEM",
+    "catalogNumber": "433",
+    "title": "Advanced Biochemistry",
+    "description": "Nitrogen fixation. Assimilation of nitrogen. Amino acid metabolism. Metabolic regulation. Proteolytic enzymes, ubiquitin. Blood coagulation. Signal transduction and amplification. Biochemistry of nitric oxide. Biochemistry of vision. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "CHEM 331",
+        "CHEM 333"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

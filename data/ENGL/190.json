@@ -1,0 +1,15 @@
+{
+    "id": "005068",
+    "subject": "ENGL",
+    "catalogNumber": "190",
+    "title": "Shakespeare",
+    "description": "Designed for students in all faculties, the course examines some of Shakespeare's comedies, history plays, and tragedies. Shakespeare's variety and flexibility in developing characters and dramatic structures are stressed, as are significant themes. [Note: No previous work in Shakespeare is required.]",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

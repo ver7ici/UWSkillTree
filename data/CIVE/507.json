@@ -1,0 +1,14 @@
+{
+    "id": "004243",
+    "subject": "CIVE",
+    "catalogNumber": "507",
+    "title": "Building Science and Technology",
+    "description": "The building process. Loadings; gravity, wind, thermal, moisture, and fire. Enclosure design; walls, windows, and roof. Subgrade construction. Energy related considerations. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

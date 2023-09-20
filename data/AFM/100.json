@@ -1,0 +1,14 @@
+{
+    "id": "015679",
+    "subject": "AFM",
+    "catalogNumber": "100",
+    "title": "Introduction to Experiential Learning",
+    "description": "The objective of this non-credit course is to expose students to the expectations for experiential learning, helping them develop the skills and relationships needed to allocate their time and maintain balance across their academics, career, health and wellness, and community.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "AFM 200"
+    ]
+}

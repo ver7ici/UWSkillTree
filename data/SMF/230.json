@@ -1,0 +1,45 @@
+{
+    "id": "013010",
+    "subject": "SMF",
+    "catalogNumber": "230",
+    "title": "Introduction to Statistics in Sexuality, Marriage, and Family Studies",
+    "description": "The goal of this introductory statistics course is to help students understand the logic and appropriate application of commonly used descriptive and inferential statistics, with examples drawn from various disciplines relevant to sexuality, marriage, and family studies.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "SMF 101",
+        "SMF 204",
+        "PSYCH 236"
+    ],
+    "coreq": [],
+    "antireq": [
+        "ARTS 280",
+        "ECON 221",
+        "ENVS 278",
+        "KIN 222",
+        "PSCI 314",
+        "PSYCH 292",
+        "REC 371",
+        "SDS 250R",
+        "SWREN 250R",
+        "SOC 280",
+        "LS 280",
+        "STAT 202",
+        "STAT 206",
+        "STAT 211",
+        "STAT 221",
+        "STAT 231",
+        "STAT 241"
+    ],
+    "next": [
+        "SMF 404",
+        "SMF 460",
+        "SMF 462",
+        "SMF 494",
+        "SMF 496",
+        "SMF 498",
+        "SMF 400",
+        "SMF 499A"
+    ]
+}

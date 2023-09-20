@@ -1,0 +1,12 @@
+{
+    "id": "009358",
+    "subject": "PHYS",
+    "catalogNumber": "715",
+    "title": "Nuclear Physics",
+    "description": "Static properties of nuclei; alpha, beta, gamma-decay; two-body systems; nuclear forces; nuclear reactions; single-particle models for spherical and deformed nuclei; shell, collective, interacting boson models.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

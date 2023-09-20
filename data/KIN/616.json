@@ -1,0 +1,14 @@
+{
+    "id": "001750",
+    "subject": "KIN",
+    "catalogNumber": "616",
+    "title": "Neural Control of Human Movement",
+    "description": "An examination of current theories and evidence concerning the neural control of human movement. Topics may include: origin of kinesthesia, organization of spinal circuits and reflex actions regulating posture and movement, neural strategies for the control of upright stance and locomotion, functional organization of the motor cortex, cerebellum and basal ganglia for the control of voluntary movement.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

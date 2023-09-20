@@ -1,0 +1,16 @@
+{
+    "id": "004078",
+    "subject": "CHEM",
+    "catalogNumber": "310",
+    "title": "Transition Element Compounds and Inorganic Materials",
+    "description": "The inorganic, organic, and solid state chemistry of the d-block elements. The structure and physical properties of co-ordination compounds and transition metal containing solids. The role of transition metal organometallics in catalysis. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "CHEM 212"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

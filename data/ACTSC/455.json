@@ -1,0 +1,18 @@
+{
+    "id": "013318",
+    "subject": "ACTSC",
+    "catalogNumber": "455",
+    "title": "Life Contingencies 3",
+    "description": "Profit testing for traditional and non-traditional life insurance. Pricing and valuation of embedded options in life insurance products. Defined benefit and defined contribution pension plan design. Theory and practice of unit credit methods for pension plan funding and valuation for final average salary, career average earnings, and career average revalued earnings pension plans; post-retirement health benefits.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "ACTSC 331"
+    ],
+    "coreq": [
+        "ACTSC 446"
+    ],
+    "antireq": [],
+    "next": []
+}

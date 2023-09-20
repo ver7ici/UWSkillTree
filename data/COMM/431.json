@@ -1,0 +1,17 @@
+{
+    "id": "012954",
+    "subject": "COMM",
+    "catalogNumber": "431",
+    "title": "Project Management",
+    "description": "This course will introduce students to approaches, techniques, and terminology used in project management. In particular, students will learn project planning principles, product and process metrics, people and organizational issues, task allocation and scheduling, monitoring and control, change management, and methods for cost estimation and risk assessment. Students will also be introduced to current project management tools, and will manage their own term project.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "AFM 102",
+        "MSCI 211"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

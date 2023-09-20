@@ -1,0 +1,15 @@
+{
+    "id": "013813",
+    "subject": "HIST",
+    "catalogNumber": "776",
+    "title": "Medieval History Minor Area Seminar",
+    "description": "Minor area seminars meet bi-weekly throughout the Fall and Winter terms for discussion of a reading list of 50 books selected by the instructor.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

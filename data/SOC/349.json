@@ -1,0 +1,16 @@
+{
+    "id": "014133",
+    "subject": "SOC",
+    "catalogNumber": "349",
+    "title": "Migration and Development",
+    "description": "This course explores theoretical perspectives and empirical studies on development and the related field of migration studies. Specific themes may include history and colonialism, seasonal and labour migration, forced migration, immigration policies and their social and economic implications, and transnationalism and diasporas.",
+    "term": [],
+    "prereq": [
+        "SOC 101",
+        "SOC 101R",
+        "SOC 120R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

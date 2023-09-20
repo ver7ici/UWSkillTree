@@ -1,0 +1,14 @@
+{
+    "id": "015701",
+    "subject": "ACTSC",
+    "catalogNumber": "962",
+    "title": "Insurance Risk Models",
+    "description": "This course presents advanced mathematical and computational tools useful to study loss frequency and severity models, and also aggregate claims models.  Analytic and recursive evaluation of compound distributions are discussed, as well as generalized linear models for frequency and severity models.  Other topics covered include pricing and insurance risk processes.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

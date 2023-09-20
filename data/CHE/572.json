@@ -1,0 +1,14 @@
+{
+    "id": "004021",
+    "subject": "CHE",
+    "catalogNumber": "572",
+    "title": "Air Pollution Control",
+    "description": "Nature and sources of air pollutants.  Transport of pollutants and dispersion modeling for regulatory purposes. Design of industrial particulate capture systems using cyclones, electrostatic precipitators, filters, scrubbers.  Design of organic compound emissions control using incineration, biofiltration, adsorption and absorption.  Overview of NOx and SOx control.  Indoor air quality assessment techniques.  [Offered:  W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

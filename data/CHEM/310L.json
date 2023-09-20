@@ -1,0 +1,18 @@
+{
+    "id": "004079",
+    "subject": "CHEM",
+    "catalogNumber": "310L",
+    "title": "Inorganic Chemistry Laboratory 2",
+    "description": "Synthesis of transition and non-transition metal compounds. Characterization of compounds using IR, UV-VIS, and NMR spectroscopy. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "CHEM 123L",
+        "CHEM 125L",
+        "CHEM 212"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

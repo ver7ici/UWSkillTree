@@ -1,0 +1,14 @@
+{
+    "id": "012670",
+    "subject": "AMATH",
+    "catalogNumber": "740",
+    "title": "Numerical Analysis",
+    "description": "Introduction to basic algorithms and techniques for numerical computing.  Error analysis, interpolation (including splines), numerical differentiation and integration, numerical linear algebra (including methods for linear systems, eigenvalue problems, and the singular value decomposition), root finding for nonlinear equations and systems, numerical ordinary differential equations, and approximation methods (including least squares, orthogonal polynomials, and Fourier transforms).",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

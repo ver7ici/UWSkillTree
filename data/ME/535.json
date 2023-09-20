@@ -1,0 +1,18 @@
+{
+    "id": "006754",
+    "subject": "ME",
+    "catalogNumber": "535",
+    "title": "Welding Metallurgy",
+    "description": "Metallurgy of welding of steels (carbon, microalloy, low alloy and stainless steels), cast irons, aluminum-based, copper-based, nickel-based, cobalt-based, titanium-based and other alloys, (including dissimilar combinations) to explain the effects of welding processes and conditions (including post-weld heat treating) on microstructure and properties; causes and prevention of defects and deficiencies which can occur in different alloys, including porosity, cracking, embrittlement (hydrogen, temper, strain aging, ductile-brittle transition temperatures), overaging; metallurgy of soldered and brazed joints. Laboratory experiments will demonstrate microstructural effects and defects in a range of alloys for different welding processes and conditions. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "ME 230",
+        "ME 435",
+        "ME 436"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

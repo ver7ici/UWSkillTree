@@ -1,0 +1,20 @@
+{
+    "id": "003651",
+    "subject": "BIOL",
+    "catalogNumber": "201",
+    "title": "Human Anatomy",
+    "description": "This course takes a systems approach to study the structure of the human body and its relationship to function. [Formerly BIOL 301; Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "BIOL 130"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "KIN 301",
+        "KIN 340",
+        "KIN 429"
+    ]
+}

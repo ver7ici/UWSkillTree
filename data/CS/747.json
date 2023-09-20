@@ -1,0 +1,14 @@
+{
+    "id": "016280",
+    "subject": "CS",
+    "catalogNumber": "747",
+    "title": "Software Verification Using Proof Assistants",
+    "description": "Dependent types and the Curry-Howard correspondence (proofs as programs); constructing inductive datatypes and proofs by induction; relations; equality; logical connectives and quantifiers; decision procedures; the simply-typed lambda calculus and theorems about it; intrinsically-typed representation; verification of elementary algorithms.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "CS 842"
+    ],
+    "next": []
+}

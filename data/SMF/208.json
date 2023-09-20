@@ -1,0 +1,22 @@
+{
+    "id": "012038",
+    "subject": "SMF",
+    "catalogNumber": "208",
+    "title": "Introduction to Systemic Therapies and Anti-Oppressive Practices",
+    "description": "This course provides an overview of various theoretical and therapeutic practices in relational and sex therapy, and serves as an introduction to social justice, anti-oppressive, and inclusionary therapeutic practices. In doing so, the intersections of social locations such as class, culture, dis/ability, gender, and race within various social contexts are critically analyzed.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "SMF 101",
+        "SMF 204",
+        "SMF 207",
+        "PSYCH 236"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "SMF 308",
+        "SMF 309"
+    ]
+}

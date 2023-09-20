@@ -1,0 +1,16 @@
+{
+    "id": "014406",
+    "subject": "PLAN",
+    "catalogNumber": "720",
+    "title": "Introductory Planning Project Studio",
+    "description": "This studio course introduces students to the process of collaborative problem solving central in Planning practice.  Students work in teams, led by faculty facilitators, in applying theory and knowledge from Planning and related disciplines to problems drawn from the local community planning context.  The emphasis is on the development of student skills including design, plan making, teamwork, creativity, negotiation, management, and policy application and creation.  Problem based learning, reflection on process and communications are central in this course.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PLAN 721"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "id": "012886",
+    "subject": "CS",
+    "catalogNumber": "137",
+    "title": "Programming Principles",
+    "description": "Review of fundamental programming concepts and their application. Procedures and parameter passing. Arrays and structures. Recursion.  Sorting. Pointers and simple dynamic structures.  Space and time analysis of designs. Design methodologies. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ECE 222",
+        "CS 138"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": "000899",
+    "subject": "EARTH",
+    "catalogNumber": "650",
+    "title": "Physical Processes in Groundwater Systems",
+    "description": "This course aims to deepen the student's understanding of physical processes occurring in natural groundwater systems. Flow and transport processes and their interrelationships with the characteristics of the porous medium are studied and the governing equations developed. Topics covered include the fundamental concepts of physical hydrogeology, flow in the saturated and unsaturated zones, flownet analysis, immiscible flow of non-aqueous phase liquids (NAPLs), contaminant transport in porous and fractured media, stochastic principles of transport in heterogeneous media, coupled nonlinear processes, and applications in groundwater contamination/remediation. Recommended: EARTH 456 (can be taken concurrently with EARTH 650).",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "MATH 213A",
+        "EARTH 359",
+        "EARTH 458"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "EARTH 651",
+        "EARTH 654",
+        "EARTH 656",
+        "EARTH 657",
+        "EARTH 671"
+    ]
+}

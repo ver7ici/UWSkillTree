@@ -1,0 +1,25 @@
+{
+    "id": "006550",
+    "subject": "KIN",
+    "catalogNumber": "121",
+    "title": "Biomechanics of Human Movement",
+    "description": "This course will provide students an understanding of human movement from a mechanical perspective, which enables identification of potential risks for injury, optimizes exercise prescription, and promotes understanding of clinical evaluations. Specifically, concepts related to functional anatomy, muscle and passive tissue mechanics, anthropometry, electromyography, and linked segment mechanics are introduced and applied to clinical, occupational, and athletic situations.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "PHYS 111",
+        "KIN 104",
+        "KIN 104L",
+        "MATH 124",
+        "MATH 127"
+    ],
+    "coreq": [
+        "KIN 121L"
+    ],
+    "antireq": [],
+    "next": [
+        "KIN 221",
+        "KIN 221L"
+    ]
+}

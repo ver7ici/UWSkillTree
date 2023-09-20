@@ -1,0 +1,20 @@
+{
+    "id": "015902",
+    "subject": "REC",
+    "catalogNumber": "319",
+    "title": "Event Planning and Design",
+    "description": "This course focuses on the core areas of event planning and design including logistics, risk management, human resources, sponsorship and financial management, marketing and assessments. Students will learn through lectures and collaboration with community partners how to conceptualize and design events to achieve important outcomes such as social justice, inclusion, economic development, environmental sustainability, tourism development, sport development, and community well-being.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "REC 219"
+    ],
+    "coreq": [],
+    "antireq": [
+        "REC 311"
+    ],
+    "next": [
+        "REC 419"
+    ]
+}

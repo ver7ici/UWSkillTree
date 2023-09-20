@@ -1,0 +1,33 @@
+{
+    "id": "007889",
+    "subject": "PSYCH",
+    "catalogNumber": "207",
+    "title": "Cognitive Processes",
+    "description": "An examination and evaluation of selected topics dealing with human information processing such as attention, memory, pattern recognition, consciousness, language, dyslexia, decision making, and problem solving.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "PSYCH 101",
+        "PSYCH 101R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PSYCH 306",
+        "PSYCH 307",
+        "PSYCH 308",
+        "PSYCH 312R",
+        "PSYCH 314",
+        "PSYCH 361",
+        "PSYCH 394",
+        "PSYCH 398",
+        "PSYCH 458",
+        "PSYCH 320",
+        "PSYCH 335",
+        "PSYCH 390",
+        "PSYCH 470"
+    ]
+}

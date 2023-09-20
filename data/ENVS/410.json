@@ -1,0 +1,16 @@
+{
+    "id": "016425",
+    "subject": "ENVS",
+    "catalogNumber": "410",
+    "title": "Urban Futures Project",
+    "description": "Methods for future studies are reviewed. Students will then produce a research or design project focused on an urban futures theme.",
+    "term": [],
+    "prereq": [
+        "ENVS 210",
+        "ENVS 310",
+        "STV 305"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

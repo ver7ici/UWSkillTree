@@ -1,0 +1,16 @@
+{
+    "id": "003492",
+    "subject": "ARCH",
+    "catalogNumber": "110",
+    "title": "Visual and Digital Media 1",
+    "description": "Introduction to the use of graphic media in architecture. Students will engage in exercises in drawing using various media, acquire digital skills, and develop fluency in diverse forms of architectural presentation. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ARCH 113"
+    ]
+}

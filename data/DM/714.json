@@ -1,0 +1,12 @@
+{
+    "id": "011074",
+    "subject": "DM",
+    "catalogNumber": "714",
+    "title": "Industrial Noise Analysis and Control",
+    "description": "Government regulations are becoming tighter regarding noise levels at industrial installations. This course is aimed at acquiring the necessary design tools to implement different measures for reducing noise generated from sources encountered in typical manufacturing environments.\r\n* Fundamentals of acoustics, noise analysis and measurement: Acoustic quantities, noise propagation, free and reverberant fields, room acoustics, near and far fields, noise measurements: frequency spectrum, octave and fraction octave filters, microphones, sound level meters, sound intensity measurements. \r\n* Noise Control: Response of the human ear to noise, Government regulations, noise level curves, noise control using sound absorption, using walls and partial partitions, using full enclosures and using vibration isolation.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,21 @@
+{
+    "id": "011520",
+    "subject": "PLAN",
+    "catalogNumber": "233",
+    "title": "People and Plans",
+    "description": "This course examines major social problems and the role of social planning as a contributing and resolving factor. The relationship between physical and social planning will be discussed along with a selection of social planning topics.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "PLAN 100"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "GEOG 432",
+        "PLAN 333",
+        "PLAN 433",
+        "GEOG 436"
+    ]
+}

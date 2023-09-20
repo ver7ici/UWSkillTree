@@ -1,0 +1,31 @@
+{
+    "id": "011700",
+    "subject": "AFM",
+    "catalogNumber": "102",
+    "title": "Introduction to Managerial Accounting",
+    "description": "This course is an introduction to the preparation and use of accounting information for management decision-making and reporting. Cost behaviour, cost accumulation systems, and short- and long-term decision models are discussed.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "AFM 101",
+        "AFM 191",
+        "BUS 127W",
+        "BUS 227W"
+    ],
+    "coreq": [],
+    "antireq": [
+        "AFM 182",
+        "AFM 123",
+        "ARBUS 102",
+        "BUS 247W",
+        "MSCI 262"
+    ],
+    "next": [
+        "AFM 382",
+        "AFM 241",
+        "COMM 431"
+    ]
+}

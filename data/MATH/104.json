@@ -1,0 +1,24 @@
+{
+    "id": "006848",
+    "subject": "MATH",
+    "catalogNumber": "104",
+    "title": "Introductory Calculus for Arts and Social Science",
+    "description": "An introduction to applications of calculus in business, the behavioural sciences, and the social sciences. The models studied will involve polynomial, rational, exponential, and logarithmic functions. The major concepts introduced to solve problems are rate of change, optimization, growth and decay, and integration. [Offered: F,W]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "MATH 127",
+        "MATH 137",
+        "MATH 147"
+    ],
+    "next": [
+        "ECON 211",
+        "MATH 127",
+        "PMATH 320",
+        "PMATH 321"
+    ]
+}

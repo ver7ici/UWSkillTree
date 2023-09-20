@@ -1,0 +1,16 @@
+{
+    "id": "000210",
+    "subject": "BIOL",
+    "catalogNumber": "680",
+    "title": "Specialized Studies of Selected Research Procedures, Strategies or Topics",
+    "description": "Critical evaluation and discussion of topics and procedures in biology that are not covered in existing graduate courses. The course must be specially arranged with a faculty member. Students may take only one BIOL 680 course for credit. (Offered to Master's students only.)",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

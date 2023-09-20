@@ -1,0 +1,14 @@
+{
+    "id": "001345",
+    "subject": "GEOG",
+    "catalogNumber": "602",
+    "title": "Remote Sensing of Cold Regions",
+    "description": "This course focuses on the extraction of hydrologically-relevant parameters from remote sensing that are germane to cold regions such as snowfall, snow cover, glaciers & ice caps, lake and river ice, permafrost, and seasonally frozen ground.  The determination of hydrological parameters in the liquid and vapour phases such precipitiation, soild moisture, surface water, and evaporation/evapotranspiration from remote sensing, as well as the integration of remote sensing data into hydrological models are also covered.  Prerequisites: UW undergraduates: GEOG 271, 371, 471 or undergraduate Geomatics degree.  Undergraduate Geography degree with suitable remote sensing experience. Students with no remote sensing experience but strong GIS experience are required to take a 675 Directed Reading course entitled \"Remote Sensing Analysis\" prior to enrolment in 602. *eligible for MES.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,20 @@
+{
+    "id": "006982",
+    "subject": "MUSIC",
+    "catalogNumber": "217",
+    "title": "Music Ensemble",
+    "description": "The study of selected music literature through rehearsals and performance in one of the Music Department ensembles: Chamber Choir, Chapel Choir, University Choir, Vocal Techniques, Orchestra, Instrumental Chamber Ensembles, Jazz Ensemble, World Music Ensemble. Regular attendance at rehearsals and performances is required. [Note: For musical reasons, admission to any particular ensemble is at the discretion of the director. Audition required for some ensembles. Contact music department prior to first day of class. Course will be graded on a CR/NCR basis.]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "MUSIC 216"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "MUSIC 316"
+    ]
+}

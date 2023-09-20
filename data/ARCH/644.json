@@ -1,0 +1,15 @@
+{
+    "id": "010638",
+    "subject": "ARCH",
+    "catalogNumber": "644",
+    "title": "Architecture, Memory and Commemoration",
+    "description": "From its very beginnings, building has consecrated sites of history by transforming, through a process of reification, the fleeting memories of individuals into a communally shared and politically significant history. This course examines the different ways buildings and architecturally articulated precincts have operated as instruments of memory in the traditional tribal society, the ancient city-states, the multi-ethnic empire, Christendom, the modern nation state, and the post-industrial, post-modern, and multi-cultural commonwealths of today. Consent of instructor required for those who do not have the required prerequisite.",
+    "term": [],
+    "prereq": [
+        "ARCH 246",
+        "ARCH 247"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

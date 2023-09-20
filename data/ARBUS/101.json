@@ -1,0 +1,20 @@
+{
+    "id": "003243",
+    "subject": "ARBUS",
+    "catalogNumber": "101",
+    "title": "Introduction to Business in North America",
+    "description": "The functional areas of business: finance, personnel administration, production, marketing, and accounting are examined within differing organizational structures. Coverage also includes study of the principles of effective management and the financial system as a source of corporate capital.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "BUS 111W"
+    ],
+    "next": [
+        "SCBUS 122",
+        "ARBUS 301"
+    ]
+}

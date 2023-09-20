@@ -1,0 +1,16 @@
+{
+    "id": "005536",
+    "subject": "FINE",
+    "catalogNumber": "475",
+    "title": "Honours Studio Practicum 2",
+    "description": "Students will research and execute a series of self-directed projects, addressing historical precedents in the context of the concerns of contemporary art practice, and supported and complemented by appropriate documentation. Submitted studio work will be evaluated by a committee of Fine Arts Faculty.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "FINE 474"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

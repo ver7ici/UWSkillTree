@@ -1,0 +1,20 @@
+{
+    "id": "003087",
+    "subject": "STAT",
+    "catalogNumber": "831",
+    "title": "Generalized  Linear Models and Applications",
+    "description": "Review of normal linear regression and maximum likelihood estimation. Computational methods, including Newton-Raphson and iteratively reweighted least squares. Binomial regression; the role of the link function. Goodness-of-fit, goodness-of-link, leverage. Poisson regression models. Generalized linear models. Other topics in regression modelling.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "STAT 431"
+    ],
+    "next": [
+        "STAT 936",
+        "STAT 836",
+        "STAT 932"
+    ]
+}

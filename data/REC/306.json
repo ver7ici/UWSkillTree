@@ -1,0 +1,19 @@
+{
+    "id": "012750",
+    "subject": "REC",
+    "catalogNumber": "306",
+    "title": "Gender and Health",
+    "description": "This course draws on a range of feminist theories and frameworks to examine the interconnections between gender and health in local, national, and international contexts. Topics may include the medicalization of gendered bodies; reproductive experiences, choices, technologies and rights; health care systems and institutions; health policy; and the links with leisure, recreation, and health. Intersections of gender with race, ethnicity, sexual identity, (dis)ability, class, religion, aging, and other axes of oppression will also be addressed.",
+    "term": [],
+    "prereq": [
+        "GSJ 101",
+        "GSJ 102",
+        "WS 101",
+        "WS 102"
+    ],
+    "coreq": [],
+    "antireq": [
+        "WS 306"
+    ],
+    "next": []
+}

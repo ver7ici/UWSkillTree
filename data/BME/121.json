@@ -1,0 +1,16 @@
+{
+    "id": "014449",
+    "subject": "BME",
+    "catalogNumber": "121",
+    "title": "Digital Computation",
+    "description": "The key skills necessary to develop software solutions to solve biomedical engineering problems. Topics include software development, software design, programming language syntax, object oriented programming, structured programming, arrays, matrices, pointers, and algorithm efficiency. The topics will be reinforced in the context of practical biomedical software systems such as physiological monitoring systems and clinical support systems.  [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "SYDE 121"
+    ],
+    "next": []
+}

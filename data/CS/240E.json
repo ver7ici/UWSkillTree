@@ -1,0 +1,22 @@
+{
+    "id": "015405",
+    "subject": "CS",
+    "catalogNumber": "240E",
+    "title": "Data Structures and Data Management (Enriched)",
+    "description": "Enriched version of CS 240. [Note: See notes 1 and 9 above. CS 240E may be substituted for CS 240 wherever the latter is a requirement. Enrolment is restricted. Lab is not scheduled and students are expected to find time in open hours to complete their work. Offered: As permitted by demand and available resources.]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "CS 136",
+        "CS 138",
+        "CS 146"
+    ],
+    "coreq": [],
+    "antireq": [
+        "CS 234",
+        "ECE 250"
+    ],
+    "next": []
+}

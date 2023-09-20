@@ -1,0 +1,18 @@
+{
+    "id": "010353",
+    "subject": "SMF",
+    "catalogNumber": "365",
+    "title": "Special Topics in Human Sexuality",
+    "description": "A specialized course in topics related to human sexuality. Topics cover the application of theory and research in any area related to human sexuality. [Note: This is a repeatable course, subject to different content; it may be completed a total of five times.]",
+    "term": [],
+    "prereq": [
+        "SMF 204",
+        "PSYCH 236"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "SMF 404",
+        "SMF 494"
+    ]
+}

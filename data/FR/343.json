@@ -1,0 +1,18 @@
+{
+    "id": "005609",
+    "subject": "FR",
+    "catalogNumber": "343",
+    "title": "18th-Century French Literature",
+    "description": "A detailed study of selected aspects of 18th-century French literature.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "FR 197",
+        "FR 296",
+        "FR 297"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

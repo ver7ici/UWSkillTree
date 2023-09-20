@@ -1,0 +1,21 @@
+{
+    "id": "016098",
+    "subject": "ECON",
+    "catalogNumber": "467",
+    "title": "Canadian Economic History",
+    "description": "The course begins with an examination of the processes of state formation, trade, migration, borrowing, and transfer of technologies and institutions that contributed to the development of a settler colonial economy. It will study how the internal economic geography of Canada was differentiated, and how the economy modernized through changes in market and business organization and state development. An overarching concern will be with how a national economy could be articulated.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "ECON 206",
+        "ECON 207",
+        "ECON 231",
+        "ECON 306"
+    ],
+    "coreq": [],
+    "antireq": [
+        "ECON 483"
+    ],
+    "next": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "014689",
+    "subject": "BIOL",
+    "catalogNumber": "414",
+    "title": "Parasitology",
+    "description": "This course will explore how parasites affect their host(s) and interact with other parasites. Attention will be given to eukaryotic parasites impacting human and domestic animal health. Public measures of parasite control will be covered.  [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "BIOL 110",
+        "BIOL 165",
+        "BIOL 359"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

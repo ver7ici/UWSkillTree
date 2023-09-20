@@ -1,0 +1,18 @@
+{
+    "id": "012377",
+    "subject": "MSCI",
+    "catalogNumber": "333",
+    "title": "Simulation Analysis and Design",
+    "description": "This course introduces the use of discrete event simulation as an approach for understanding and analyzing complex management systems.  Topics include an introduction to simulation modeling, general purpose and special purpose simulation languages, designing valid and credible simulation models, input data analysis, output analysis and experimental design.  [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "STAT 340"
+    ],
+    "next": [
+        "MSCI 433"
+    ]
+}

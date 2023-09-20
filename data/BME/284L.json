@@ -1,0 +1,14 @@
+{
+    "id": "014436",
+    "subject": "BME",
+    "catalogNumber": "284L",
+    "title": "Physiology and Anatomy Laboratory",
+    "description": "Laboratory experiments for students taking BME 284. [Offered:  S]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}
