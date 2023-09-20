@@ -1,0 +1,17 @@
+{
+    "id": "004661",
+    "subject": "THPERF",
+    "catalogNumber": "100",
+    "title": "Introduction to Theatre",
+    "description": "This course introduces students to processes of theatre creation including textual analysis, conceptual development, design, rehearsal, production, performance, audience engagement, and self-evaluation. Students develop original productions of influential works while paying close attention to the works' relevance and issues such as race, gender, and sustainability. [Note: Prior experience in theatre-making is not required.]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "THPERF 221",
+        "THPERF 222"
+    ]
+}

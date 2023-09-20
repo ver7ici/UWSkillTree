@@ -1,0 +1,22 @@
+{
+    "id": "015857",
+    "subject": "HLTH",
+    "catalogNumber": "454",
+    "title": "Information Visualization",
+    "description": "This course provides an introduction to the field of information visualization: the use of computer graphics and interaction to help humans understand, interpret and solve problems using complex data. Topics will be covered using case studies, and include what is visualization?; use of colour, shape, and contrast in representing data; rules of thumb for creating visualizations; and case studies.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "HLTH 230",
+        "CS 105",
+        "CS 115",
+        "CS 135",
+        "CS 106",
+        "CS 116",
+        "CS 136"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

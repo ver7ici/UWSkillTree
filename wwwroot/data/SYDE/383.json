@@ -1,0 +1,17 @@
+{
+    "id": "008949",
+    "subject": "SYDE",
+    "catalogNumber": "383",
+    "title": "Fluid Mechanics",
+    "description": "Fundamental concepts in systems involving fluid flow. Basic treatment of statics, kinematics and dynamics of fluids. Conservation of mass, momentum and energy for a control volume. Dimensional analysis and similarity. Flow in pipes and channels. Brief introduction to boundary layers, lift and drag, ideal and compressible flow. [Offered: S]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "BME 384",
+        "ME 351"
+    ],
+    "next": []
+}

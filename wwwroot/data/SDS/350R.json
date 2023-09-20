@@ -1,0 +1,17 @@
+{
+    "id": "006510",
+    "subject": "SDS",
+    "catalogNumber": "350R",
+    "title": "Adult Life Crises and Events",
+    "description": "A study of normal events occurring during the adult years, why they happen, and how we cope with them. Relying on research, popular literature, and life experiences, students examine social change, the future, adult development and adjustment. [Note: Formerly ISS 350D]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "SDS 150R",
+        "ISS 150R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

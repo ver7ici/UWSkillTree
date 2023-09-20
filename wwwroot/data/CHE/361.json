@@ -1,0 +1,15 @@
+{
+    "id": "003956",
+    "subject": "CHE",
+    "catalogNumber": "361",
+    "title": "Bioprocess Engineering",
+    "description": "Review of elementary aspects of microbiology, biochemistry, molecular biology, and genetic engineering. Introduction of biological systems for the production of commercial goods and services, e.g., foods, pharmaceuticals, chemicals, fuels, diagnostics, waste treatment, and biomaterials. Introduction to design of bioprocess systems, including biosafety and sustainability. Development of reaction kinetics associated with biological systems. Quantification of metabolism. Development of material balances for key constituents in bioreactors operated in different modes, e.g., batch, fed-batch, continuous stirred-tank reactor (CSTR), perfusion, recycle. Introduction to mass and heat transfer considerations for bioreactors. Dynamic simulation of cultures defined by ordinary differential equations. Introduction of downstream processes associated with biological systems and recovery of biological products. [Offered: F, W]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

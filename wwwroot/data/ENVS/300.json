@@ -1,0 +1,19 @@
+{
+    "id": "015632",
+    "subject": "ENVS",
+    "catalogNumber": "300",
+    "title": "Vascular Plants of Southern Ontario",
+    "description": "This is an applied course where students will learn to identify vascular plants using botanical keys. Through lab work and field trips, students will understand vascular plant structure and associated terminology as the basis for plant identification. Students will also learn how to collect specimens to create a herbarium collection and how to conduct vegetation community assessments.[Note: Field trip fee normally $60+HST; will not exceed $80+HST]",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "ENVS 474",
+        "ENVS 001",
+        "ENVS 474",
+        "ENVS 001",
+        "ENVS 474",
+        "ENVS 001"
+    ],
+    "next": []
+}

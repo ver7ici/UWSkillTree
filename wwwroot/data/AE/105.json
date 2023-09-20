@@ -1,0 +1,20 @@
+{
+    "id": "015322",
+    "subject": "AE",
+    "catalogNumber": "105",
+    "title": "Mechanics 2",
+    "description": "Distributed forces, centroids, and moment of inertia. Introduction to foundations and fluid statics. Basic structural analysis. Plane trusses. Beam diagrams. Stress-strain-temperature relationships. Behaviour of members in tension, compression, and bending. Thin-walled pressure vessels. Friction. [Offered: S]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "AE 104"
+    ],
+    "coreq": [],
+    "antireq": [
+        "CIVE 105"
+    ],
+    "next": [
+        "AE 204"
+    ]
+}

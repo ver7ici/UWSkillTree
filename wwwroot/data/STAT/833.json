@@ -1,0 +1,16 @@
+{
+    "id": "003088",
+    "subject": "STAT",
+    "catalogNumber": "833",
+    "title": "Stochastic Processes",
+    "description": "Random walks, renewal theory and processes and their application, Markov chains, branching processes, statistical inference for Markov chains.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "STAT 433"
+    ],
+    "next": []
+}

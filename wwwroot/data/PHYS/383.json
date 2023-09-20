@@ -1,0 +1,26 @@
+{
+    "id": "013970",
+    "subject": "PHYS",
+    "catalogNumber": "383",
+    "title": "Medical Physics",
+    "description": "Applications of physics in medicine. The course will address basic concepts of medical imaging, nuclear medicine and radiation isotopes, radiation therapy and biomedical laser applications. Nuclear structure and binding energy. Nuclear decays, radioactivity and nuclear reactions. Interaction of radiation with matter. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "PHYS 112",
+        "PHYS 122",
+        "MATH 118",
+        "MATH 119",
+        "MATH 128",
+        "MATH 138",
+        "MATH 148",
+        "PHYS 280",
+        "BIOL 280"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PHYS 491"
+    ]
+}

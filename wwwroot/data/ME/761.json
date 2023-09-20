@@ -1,0 +1,12 @@
+{
+    "id": "001910",
+    "subject": "ME",
+    "catalogNumber": "761",
+    "title": "Fluid Dynamic Design of Turbomachines",
+    "description": "Basic equations in stationary and rotating coordinate systems, forms suitable for axial flow and centrifugal flow machinery. Analysis and experimental characteristics of two-dimensional cascades, analysis of circular cascades. Effects of turbulence. Axisymmetric and general three-dimensional flows in diffusers, inlets, volutes and blade passages.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,17 @@
+{
+    "id": "004426",
+    "subject": "CS",
+    "catalogNumber": "466",
+    "title": "Algorithm Design and Analysis",
+    "description": "Algorithmic approaches and methods of assessment that reflect a broad spectrum of criteria, including randomized algorithms, amortized analysis, lower bounds, approximation algorithms, and on-line algorithms. Particular examples will be chosen from different areas of active research and application. [Offered: F,S]",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [
+        "CS 341"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

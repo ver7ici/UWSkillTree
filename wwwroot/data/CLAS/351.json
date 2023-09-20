@@ -1,0 +1,15 @@
+{
+    "id": "012912",
+    "subject": "CLAS",
+    "catalogNumber": "351",
+    "title": "Advanced Studies in Greek History",
+    "description": "An advanced study of aspects of Greek history, through the examination of a specific time period, event(s), or theme(s). Topics studied may include the Archaic Age and the rise of the Polis, the Persian Wars, the Peloponnesian War, conflict in the fourth century BCE, the history of the Hellenistic period, and Greek social history. [Note: This is a repeatable course, subject to different content; it may be completed a total of four times.]",
+    "term": [],
+    "prereq": [
+        "CLAS 251",
+        "HIST 242"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,14 @@
+{
+    "id": "000118",
+    "subject": "AMATH",
+    "catalogNumber": "751",
+    "title": "Advanced Ordinary Differential Equations",
+    "description": "Qualitative theory of systems of ODEs. Topics include: existence/uniqueness of solutions, comparison principle, iterative techniques, stability and boundedness, Lyapunov method, periodic solutions, Floquet theory and Poincare maps, hyperbolicity, stable, unstable and center manifolds, structural stability and bifurcation. Applications from various areas will be used to motivate and illustrate the theory. A previous course in ordinary differential equations at the undergraduate level is strongly recommended.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

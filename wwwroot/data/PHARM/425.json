@@ -1,0 +1,18 @@
+{
+    "id": "014640",
+    "subject": "PHARM",
+    "catalogNumber": "425",
+    "title": "Symposium",
+    "description": "Symposium offers senior students the opportunity to deliver a seminar in a content area of their choice.  Students will demonstrate an ability to critically appraise literature from a variety of sources and synthesize information in both written and presentation formats. [Offered: W, S]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "PHARM 323",
+        "PHARM 324",
+        "PHARM 330"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,17 @@
+{
+    "id": "012213",
+    "subject": "HLTH",
+    "catalogNumber": "451",
+    "title": "Analysis and Management of Health Information in Aging Populations",
+    "description": "The course combines an overview of health policy issues and service delivery with methodological considerations in the analysis of health information from a variety of sources. The topics to be addressed may include the role of health information in evidence-based practice and policy development; basic concepts of demography and health information management; secondary data analysis; case-mix based funding systems; performance indicators, quality, and accountability in health care; clinical applications of health data; need analysis; cost analysis; international comparisons.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "HLTH 335",
+        "STAT 316"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,22 @@
+{
+    "id": "007561",
+    "subject": "GEOG",
+    "catalogNumber": "349",
+    "title": "Urban Form and Internal Spatial Structure",
+    "description": "An examination of the major factors giving rise to distinctive styles of urban spatial organization. Focus moves from city-wide scale to subareas/sectors - inner city, housing, retailing, etc., with emphasis on understanding and planning for the dynamics of complex environments. Applied issues or problems are dealt with throughout the course.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "GEOG 202",
+        "GEOG 203",
+        "ERS 203",
+        "GEOG 250",
+        "PLAN 100"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PLAN 450"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": "015520",
+    "subject": "CS",
+    "catalogNumber": "651",
+    "title": "Data-Intensive Distributed Computing",
+    "description": "Introduces students to infrastructure for data-intensive computing, with a focus on abstractions, frameworks, and algorithms that allow developers to distribute computations across many machines.  Topics include core concepts (partitioning, replication, locality, consistency), computational models (MapReduce, dataflows, stream processing, bulk-synchronous parallel), and applications.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

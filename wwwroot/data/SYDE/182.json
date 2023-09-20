@@ -1,0 +1,23 @@
+{
+    "id": "008935",
+    "subject": "SYDE",
+    "catalogNumber": "182",
+    "title": "Physics 2: Dynamics",
+    "description": "Kinematics of particles, rectilinear and curvilinear motion. Kinetics of particles, application to space mechanics. Energy and momentum methods. Systems of particles. Kinematics and kinetics of rigid bodies; planar motion. Vibrations. [Offered: F,W,S]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "BME 182"
+    ],
+    "next": [
+        "ME 321",
+        "ME 547",
+        "BME 550",
+        "BME 551",
+        "MTE 321"
+    ]
+}

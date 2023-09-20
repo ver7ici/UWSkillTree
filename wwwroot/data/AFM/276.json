@@ -1,0 +1,20 @@
+{
+    "id": "011704",
+    "subject": "AFM",
+    "catalogNumber": "276",
+    "title": "Financial Statement Analysis",
+    "description": "This course introduces fundamental tools of analysis and valuation to prepare students to research, interpret, and analyze financial statements. The course examines financial reporting from the perspective of the financial statement user with an emphasis on interpretation of financial disclosures for cash flow analysis, risk assessment, forecasting, and decision making. [Note: Formerly AFM 492]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "AFM 191",
+        "AFM 272",
+        "AFM 273"
+    ],
+    "coreq": [],
+    "antireq": [
+        "AFM 492"
+    ],
+    "next": []
+}

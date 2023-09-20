@@ -1,0 +1,16 @@
+{
+    "id": "004857",
+    "subject": "EARTH",
+    "catalogNumber": "437",
+    "title": "Rock Mechanics",
+    "description": "Stress, strain and strength in geomaterials. Origins of stress and stress measurement methods, including hydraulic fracture and strain relief. Rock Mechanics principles and design procedures in areas of mining, civil engineering and petroleum engineering. Monitoring methods, including introduction to microseismic surveillance. Course includes laboratory and project work. [Note: Prerequisites are not listed for this course which is highly suitable for interested Engineering and Science students. However, some background in engineering, materials science, mechanics or structural geology is recommended; Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "EARTH 638"
+    ]
+}

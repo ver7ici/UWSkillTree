@@ -1,0 +1,23 @@
+{
+    "id": "009873",
+    "subject": "LS",
+    "catalogNumber": "327",
+    "title": "Policing in a Democratic Society",
+    "description": "A critical examination of the police as social control agents in contemporary democratic societies. Topics include the historical evolution of policing; police recruitment, training, and education; police/community relations; the occupational subculture of the police; police authority and discretion; private policing; and police deviance and criminality.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "SOC 227",
+        "LS 227",
+        "SOC 228",
+        "LS 228",
+        "SOC 229",
+        "LS 229"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

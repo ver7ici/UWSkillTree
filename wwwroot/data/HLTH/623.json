@@ -1,0 +1,17 @@
+{
+    "id": "012534",
+    "subject": "HLTH",
+    "catalogNumber": "623",
+    "title": "Risk and Exposure Assessment in Public Health",
+    "description": "Methods used to assess human health risks associated with biological, chemical and physical exposures in the environment, focusing on hazard identification, dose-response assessment, exposure assessment, and risk characterization. The course examines the strengths and weaknesses of various types of risk assessment approaches, the inherent uncertainties in each stage of risk assessment, and the interactive role of risk assessment and risk management in public health decision-making. Course open to MPH students. Others may be admitted with consent of instructor.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "PHS 604",
+        "HLTH 604"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

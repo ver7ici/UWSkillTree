@@ -1,0 +1,21 @@
+{
+    "id": "005586",
+    "subject": "FR",
+    "catalogNumber": "255",
+    "title": "Business French 1",
+    "description": "A French language course designed to enable the student to carry on standard business practice in spoken and written French.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "FR 192A",
+        "FR 192B",
+        "FR 197",
+        "FR 296"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "FR 355"
+    ]
+}

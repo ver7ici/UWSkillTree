@@ -1,0 +1,16 @@
+{
+    "id": "005156",
+    "subject": "ENGL",
+    "catalogNumber": "336",
+    "title": "Creative Writing 2",
+    "description": "This course is designed to assist advanced creative writers in developing a body of work in one or more genres by means of supervised practice, discussions of craft, and peer critiques. [Note: Admission by portfolio review]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "ENGL 335"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

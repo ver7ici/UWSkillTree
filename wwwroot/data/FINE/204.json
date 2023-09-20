@@ -1,0 +1,17 @@
+{
+    "id": "013500",
+    "subject": "FINE",
+    "catalogNumber": "204",
+    "title": "Topics in Studio Practice",
+    "description": "This course consists of topics in studio practice. The topics can change from term to term. [Note: This is a repeatable course, subject to different content; it may be completed a total of four times.]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [
+        "FINE 100"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

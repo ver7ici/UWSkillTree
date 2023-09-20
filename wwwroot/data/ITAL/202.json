@@ -1,0 +1,19 @@
+{
+    "id": "006523",
+    "subject": "ITAL",
+    "catalogNumber": "202",
+    "title": "Intermediate Italian 2",
+    "description": "A continuation of ITAL 201.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "ITAL 201"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ITAL 251",
+        "ITAL 396"
+    ]
+}

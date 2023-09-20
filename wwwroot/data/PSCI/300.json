@@ -1,0 +1,21 @@
+{
+    "id": "014224",
+    "subject": "PSCI",
+    "catalogNumber": "300",
+    "title": "Theories of Political Economy",
+    "description": "What is the relationship between politics and economics, power and wealth, states and markets? Students will study influential historical and contemporary works that shape political economy debates in the contemporary world.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "PSCI 110",
+        "PSCI 150",
+        "ECON 101",
+        "ECON 102"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PSCI 404"
+    ]
+}

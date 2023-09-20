@@ -1,0 +1,24 @@
+{
+    "id": "016173",
+    "subject": "PSCI",
+    "catalogNumber": "497",
+    "title": "Study Abroad Experience",
+    "description": "While participating in a study abroad experience, students will complete reflections and a project that integrates what they learned while studying abroad with contemporary politics, policy, and governance. [Note: Students enrolled in this course must also be registered in a university-sanctioned exchange or study abroad program.]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "PSCI 494",
+        "PSCI 495",
+        "PSCI 497",
+        "PSCI 497A",
+        "PSCI 497B",
+        "PSCI 498A",
+        "PSCI 498B",
+        "PSCI 498C"
+    ],
+    "next": []
+}

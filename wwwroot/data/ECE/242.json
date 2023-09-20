@@ -1,0 +1,23 @@
+{
+    "id": "013174",
+    "subject": "ECE",
+    "catalogNumber": "242",
+    "title": "Electronic Circuits 2",
+    "description": "Electronic circuits and their limitations, including; differential pairs, biasing, the cascode configuration and active loads.  Differential and multistage amplifiers.  Feedback, stability and compensation.  CMOS logic circuits.  [Offered:  F, S]",
+    "term": [],
+    "prereq": [
+        "ECE 240",
+        "ECE 205",
+        "MATH 211"
+    ],
+    "coreq": [
+        "ECE 207"
+    ],
+    "antireq": [
+        "ECE 340"
+    ],
+    "next": [
+        "ECE 432",
+        "ECE 444"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": "016064",
+    "subject": "MATBUS",
+    "catalogNumber": "371",
+    "title": "Introduction to Corporate Finance",
+    "description": "Time value of money. Loans, debts, and mortgages. Basic stock valuation. Bonds. Cash flow analysis. Capital budgeting. CAPM. Options and corporate finance.",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [
+        "AFM 101",
+        "ECON 101",
+        "MATH 128",
+        "MATH 138",
+        "MATH 148",
+        "STAT 220",
+        "STAT 230",
+        "STAT 240"
+    ],
+    "coreq": [],
+    "antireq": [
+        "ACTSC 221",
+        "ACTSC 231",
+        "ACTSC 371",
+        "ECON 371",
+        "AFM 272",
+        "AFM 273",
+        "BUS 283W"
+    ],
+    "next": []
+}

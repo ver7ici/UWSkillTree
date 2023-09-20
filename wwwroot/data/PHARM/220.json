@@ -1,0 +1,27 @@
+{
+    "id": "012470",
+    "subject": "PHARM",
+    "catalogNumber": "220",
+    "title": "Integrated Patient Focused Care 1",
+    "description": "This is the first of nine sequential courses that are designed to enable students to understand, integrate, and apply concepts from pharmacology, medicinal chemistry, toxicology, clinical pharmacokinetics, clinical biochemistry and pathophysiology, and applied microbiology to patient scenarios. Students will not only learn core principles from each of these disciplines, but they will also develop skills in critical appraisal, patient assessment, and clinical problem-solving. Ultimately, students will be able to make confident decisions regarding a patient's care plan. The first course will cover core foundational knowledge. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "PHARM 110",
+        "PHARM 111",
+        "PHARM 141"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PHARM 222",
+        "PHARM 223",
+        "PHARM 362",
+        "PHARM 363",
+        "PHARM 366",
+        "PHARM 367",
+        "PHARM 375",
+        "PHARM 376"
+    ]
+}

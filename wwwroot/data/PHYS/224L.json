@@ -1,0 +1,18 @@
+{
+    "id": "013966",
+    "subject": "PHYS",
+    "catalogNumber": "224L",
+    "title": "Electricity and Magnetism Laboratory",
+    "description": "For students who have taken or are taking PHYS 224; only for Honours Life Physics students taking the Medical Physics Specialization. [Note: Lab alternates weeks. Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [
+        "PHYS 224"
+    ],
+    "antireq": [
+        "PHYS 242L"
+    ],
+    "next": []
+}

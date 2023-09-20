@@ -1,0 +1,18 @@
+{
+    "id": "009886",
+    "subject": "ANTH",
+    "catalogNumber": "355",
+    "title": "Human Osteology",
+    "description": "A laboratory course in the anatomy and function of the human skeleton with an emphasis on recovering and identifying skeletal remains from archaeological and forensic contexts.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "ANTH 204"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ANTH 455"
+    ]
+}

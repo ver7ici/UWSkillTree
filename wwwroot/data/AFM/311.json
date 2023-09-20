@@ -1,0 +1,19 @@
+{
+    "id": "013744",
+    "subject": "AFM",
+    "catalogNumber": "311",
+    "title": "Connections to Ethical Context",
+    "description": "This course focuses on developing the qualities and transferable skills necessary for integration, continuous learning, and professional development. The course is oriented around the ethical and moral issues faced by accounting and finance professionals.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "AFM 211"
+    ],
+    "coreq": [],
+    "antireq": [
+        "AFM 431",
+        "PHIL 215"
+    ],
+    "next": []
+}

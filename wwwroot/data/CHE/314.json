@@ -1,0 +1,15 @@
+{
+    "id": "003960",
+    "subject": "CHE",
+    "catalogNumber": "314",
+    "title": "Chemical Reaction Engineering",
+    "description": "Review of stoichiometry and chemical kinetics. Homogeneous reactors: isothermal operation; batch; semi-batch; continuous tank; plug flow reactor design. Continuous stirred-tank reactors (CSTRs) in series; plug flow reactor with recycle. Multiple reactions in reactor networks. Temperature effects in adiabatic and non-isothermal reactors. Yield, selectivity and optimal operation of reactors. Heterogeneous catalysis and effectiveness factors in two-phase reactors. [Offered: W, S]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

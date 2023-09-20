@@ -1,0 +1,26 @@
+{
+    "id": "005552",
+    "subject": "FR",
+    "catalogNumber": "192B",
+    "title": "French Language 1: Module 2",
+    "description": "An intensive French Language course. Vocabulary enrichment and development of reading, writing, and oral expression.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "FR 192A"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "FR 203",
+        "FR 251",
+        "FR 252",
+        "FR 255",
+        "FR 296",
+        "FR 297",
+        "FR 276"
+    ]
+}

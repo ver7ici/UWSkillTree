@@ -1,0 +1,15 @@
+{
+    "id": "009482",
+    "subject": "MSCI",
+    "catalogNumber": "720",
+    "title": "Topics in Information and Information Systems",
+    "description": "Priority may be given to Management Sciences students.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

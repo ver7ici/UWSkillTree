@@ -1,0 +1,18 @@
+{
+    "id": "015104",
+    "subject": "WKRPT",
+    "catalogNumber": "400M",
+    "title": "Work-term Report",
+    "description": "A work-term report presenting in detail a technical project, activity, or analysis engaged by the student normally during the preceding work term. The report is evaluated on the basis of written communication skills and technical proficiency in the subject matter as demonstrated by the report. Work-term reports are required courses for the degree but their grades are not included in the average.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "WKRPT 300M"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,26 @@
+{
+    "id": "004073",
+    "subject": "CHEM",
+    "catalogNumber": "267",
+    "title": "Basic Organic Chemistry 2",
+    "description": "A continuation of the concepts of CHEM 266, including material on amines, aromatics, enols and enolates, and nucleophilic addition and substitution at the carbonyl group. Introduction to nuclear magnetic resonance and infrared spectroscopy. [Offered: W]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [
+        "CHEM 262",
+        "CHEM 264",
+        "CHEM 266",
+        "NE 122",
+        "NE 222"
+    ],
+    "coreq": [],
+    "antireq": [
+        "CHEM 265"
+    ],
+    "next": [
+        "CHEM 333",
+        "CHEM 370"
+    ]
+}

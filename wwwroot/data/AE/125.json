@@ -1,0 +1,18 @@
+{
+    "id": "015325",
+    "subject": "AE",
+    "catalogNumber": "125",
+    "title": "Structural Design Studio",
+    "description": "Development of design and communication skills through application in projects involving various building or bridge types. The role of structure in the built environment is explored, including issues of materiality and technology. Exposure to three-dimensional (3D) modelling and model building. [Offered: S]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "AE 100"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "AE 200"
+    ]
+}

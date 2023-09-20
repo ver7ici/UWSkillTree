@@ -1,0 +1,14 @@
+{
+    "id": "007320",
+    "subject": "PHIL",
+    "catalogNumber": "257",
+    "title": "Philosophy of Mathematics",
+    "description": "An introduction to philosophical problems concerning mathematics. Topics may include: what makes mathematical statements true (e.g., do numbers exist?); whether mathematics is a human creation or something we discover; what counts as a proof; mathematical paradoxes; the relationship between mathematics and other sciences; and mathematical pluralism. [Note: Formerly PHIL 359.]",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "PHIL 359"
+    ],
+    "next": []
+}

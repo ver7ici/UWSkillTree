@@ -1,0 +1,23 @@
+{
+    "id": "008880",
+    "subject": "STAT",
+    "catalogNumber": "430",
+    "title": "Experimental Design",
+    "description": "Review of experimental designs in a regression setting; analysis of variance; replication, balance, blocking, randomization, and interaction; one-way layout, two-way layout, and Latin square as special cases; factorial structure of treatments; covariates; treatment contrasts; two-level fractional factorial designs; fixed versus random effects; split-plot and repeated-measures designs; other topics. [Offered: F,S]",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [
+        "STAT 331",
+        "STAT 371",
+        "STAT 332",
+        "STAT 372"
+    ],
+    "coreq": [],
+    "antireq": [
+        "BIOL 461",
+        "PSYCH 391"
+    ],
+    "next": []
+}

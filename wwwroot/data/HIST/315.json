@@ -1,0 +1,15 @@
+{
+    "id": "012714",
+    "subject": "HIST",
+    "catalogNumber": "315",
+    "title": "U.S. and the World",
+    "description": "This course examines the history of foreign relations of the United States from the \"Age of Imperialism\" through the \"War on Terror\". Topics will include the Great War, Wilsonianism, World War 2, the Cold War, human rights, and post-9/11 U.S. foreign policies.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "HIST 208",
+        "HIST 280"
+    ],
+    "next": []
+}

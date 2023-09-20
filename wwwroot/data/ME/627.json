@@ -1,0 +1,12 @@
+{
+    "id": "011268",
+    "subject": "ME",
+    "catalogNumber": "627",
+    "title": "Fatigue Analysis and Design",
+    "description": "Advanced fatigue analysis including strain-based and stress-based approaches. Applications will include machine and welded components. Specific topics to include cyclic stress-strain behaviour, notch analysis, damage accumulations, multi-axial and variable amplitude loading. Probabilistic approaches and interpretation of finite element results will be addressed.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

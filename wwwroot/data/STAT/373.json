@@ -1,0 +1,27 @@
+{
+    "id": "012225",
+    "subject": "STAT",
+    "catalogNumber": "373",
+    "title": "Regression and Forecasting Methods in Finance",
+    "description": "Application of regression and time series models in finance; multiple regression; algebraic and geometric representation of least squares; inference methods - confidence intervals and hypothesis tests, ANOVA, prediction; model building and assessment; time series modeling; autoregressive AR(1) models - fitting, assessment and prediction; moving average smoothing, seasonal adjustment; non-stationarity and differencing. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "MATH 136",
+        "STAT 231",
+        "STAT 241"
+    ],
+    "coreq": [],
+    "antireq": [
+        "STAT 321",
+        "STAT 331",
+        "STAT 371",
+        "STAT 443"
+    ],
+    "next": [
+        "ACTSC 463",
+        "ACTSC 432",
+        "AFM 423"
+    ]
+}

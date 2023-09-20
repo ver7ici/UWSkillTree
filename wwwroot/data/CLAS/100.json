@@ -1,0 +1,17 @@
+{
+    "id": "004262",
+    "subject": "CLAS",
+    "catalogNumber": "100",
+    "title": "An Introduction to Classical Studies",
+    "description": "An introduction to Greek and Roman civilization, focusing on six key aspects of the discipline of classical studies: history, literature, philosophy, myth and religion, art and architecture, and classical archaeology.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "RS 315",
+        "CLAS 327"
+    ]
+}

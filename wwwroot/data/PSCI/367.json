@@ -1,0 +1,14 @@
+{
+    "id": "012063",
+    "subject": "PSCI",
+    "catalogNumber": "367",
+    "title": "Topics in American Government and Politics",
+    "description": "How does the U.S. government function? Students will study the core institutions of American government, examining their implications for its politics.",
+    "term": [],
+    "prereq": [
+        "PSCI 264"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

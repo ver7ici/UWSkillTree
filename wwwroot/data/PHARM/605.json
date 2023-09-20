@@ -1,0 +1,14 @@
+{
+    "id": "013820",
+    "subject": "PHARM",
+    "catalogNumber": "605",
+    "title": "Physical Chemistry and Application of Surfactants",
+    "description": "Surface active compounds, more commonly known as surfactants are found in nearly every aspect of day to day life, including motor oils, pharmaceuticals, cosmetics, detergents, and paints and inks to name a few.  This course will introduce the student to the structures of classical and emerging classes of surfactants and their fundamental properties that make these systems so useful.  The self-assembly of these compounds into micelles will be discussed in detail using both thermodynamic and kinetic modules and modern methods of characterizing these systems will be examined.  The application of surfactants in a variety of industries will be introduced.  The capstone activity of this course will entail a critical analysis of a relevant recent journal article, and presentation to the class.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

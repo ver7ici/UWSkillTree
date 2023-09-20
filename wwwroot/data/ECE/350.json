@@ -1,0 +1,23 @@
+{
+    "id": "015297",
+    "subject": "ECE",
+    "catalogNumber": "350",
+    "title": "Real-Time Operating Systems",
+    "description": "Memory and virtual memory and caching; I/O devices, drivers, and permanent storage management; process scheduling; queue management in the kernel; real-time kernel development. Aspects of multi-core operating systems. [Offered: W, S]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "ECE 252"
+    ],
+    "coreq": [],
+    "antireq": [
+        "CS 350",
+        "ECE 254",
+        "SE 350"
+    ],
+    "next": [
+        "ECE 455"
+    ]
+}

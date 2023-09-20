@@ -2,8 +2,8 @@
 
 html, body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
 }
 
 h1:focus {

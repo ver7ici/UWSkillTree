@@ -1,0 +1,14 @@
+{
+    "id": "015789",
+    "subject": "ECE",
+    "catalogNumber": "783",
+    "title": "Motion Coordination & Planning",
+    "description": "This course will cover aspects of path planning, dynamic vehicle routing, and coordination for mobile robots. Topics include: 1) Path planning: graph search methods; traveling salesman problems 2) Multi-robot coordination: the consensus and rendezvous problems; sensor coverage; workspace partitioning/load balancing. 3) Dynamic vehicle routing: overview of Poisson processes and birth- death processes; path planning for tasks arriving in real-time; relation to automated material handling, mobility-on-demand.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "ECE 780"
+    ],
+    "next": []
+}

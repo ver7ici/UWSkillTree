@@ -1,0 +1,14 @@
+{
+    "id": "014541",
+    "subject": "GEOG",
+    "catalogNumber": "408",
+    "title": "Earth's Future Climates",
+    "description": "This course provides students with experience using numerical models to understand changes in Earth's climate. Building on their knowledge of the fundamental physical processes governing the climate system, students will construct, apply and evaluate a hierarchy of climate models (from simple energy balance models to full ocean-atmosphere General Circulation Models). The predictive ability of climate models, and their validation, will be considered. The different types of uncertainty inherent in climate projections will be explained and the implications assessed.",
+    "term": [],
+    "prereq": [
+        "GEOG 309"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

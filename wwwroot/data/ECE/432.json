@@ -1,0 +1,15 @@
+{
+    "id": "013436",
+    "subject": "ECE",
+    "catalogNumber": "432",
+    "title": "Radio Frequency Integrated Devices and Circuits",
+    "description": "An introduction to the theory and practice of Radio Frequency (RF) Integrated Circuit design. Physics and modelling of RF integrated components such as resistor, inductor, capacitor (RLC) passives, diodes, metal oxide semiconductor field-effect transistors (MOSFETs), high electron mobility transistors, hetero-junction bipolar transistors. RF integrated components properties and representation such as short channel effects, noise parameters, transit frequency (ft), maximum frequency of oscillation (fmax), and quality factor. [Offered: S]",
+    "term": [],
+    "prereq": [
+        "ECE 242",
+        "ECE 340"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

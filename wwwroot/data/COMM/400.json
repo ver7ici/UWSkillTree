@@ -1,0 +1,17 @@
+{
+    "id": "006943",
+    "subject": "COMM",
+    "catalogNumber": "400",
+    "title": "Entrepreneurship, Technology and the Emerging Information Economy",
+    "description": "A study of the spirit of entrepreneurship in the technology industry, opportunities emerging in the new information economy, and the implementation issues associated with starting an entrepreneurial venture in today's rapidly changing environment. Many of the concepts covered will also be applicable to careers in the technology industry or in information-based companies, where \"intrapreneurship\" is an emerging theme. Approximately one-half of the class time will involve guest lectures by entrepreneurs actively involved in the business community. [Note: COMM 400 would serve as an excellent sequel to ECON 220 which focuses on identifying markets for viable entrepreneurial ideas, but ECON 220 is not a prerequisite.]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "BUS 440W",
+        "MTHEL 400"
+    ],
+    "next": []
+}

@@ -1,0 +1,61 @@
+{
+    "id": "006872",
+    "subject": "MATH",
+    "catalogNumber": "128",
+    "title": "Calculus 2 for the Sciences",
+    "description": "Transforming and evaluating integrals; application to volumes and arc length; improper integrals. Separable and linear first order differential equations and applications. Introduction to sequences. Convergence of series; Taylor polynomials, Taylor's Remainder theorem, Taylor series and applications. Parametric/vector representation of curves; particle motion and arc length. Polar coordinates in the plane. [Offered: F,W,S; online: F,W,S]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "MATH 116",
+        "MATH 117",
+        "MATH 127",
+        "MATH 137",
+        "MATH 147"
+    ],
+    "coreq": [],
+    "antireq": [
+        "MATH 118",
+        "MATH 119",
+        "MATH 138",
+        "MATH 148"
+    ],
+    "next": [
+        "AMATH 250",
+        "PHYS 263",
+        "AMATH 343",
+        "CO 367",
+        "CHEM 254",
+        "CHEM 357",
+        "CS 370",
+        "MATH 218",
+        "MATH 227",
+        "MATH 228",
+        "MATH 237",
+        "PHYS 234",
+        "PHYS 256",
+        "STAT 220",
+        "STAT 221",
+        "STAT 230",
+        "STAT 231",
+        "PMATH 370",
+        "PHYS 396",
+        "ACTSC 291",
+        "BIOL 382",
+        "CHEM 240",
+        "MATH 207",
+        "PHYS 242",
+        "AMATH 271",
+        "PHYS 224",
+        "PHYS 233",
+        "PHYS 383",
+        "AMATH 251",
+        "AMATH 390",
+        "PMATH 333",
+        "ECE 404",
+        "MATBUS 371"
+    ]
+}

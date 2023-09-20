@@ -1,0 +1,15 @@
+{
+    "id": "004424",
+    "subject": "CS",
+    "catalogNumber": "462",
+    "title": "Formal Languages and Parsing",
+    "description": "Languages and their representations. Grammars --Chomsky hierarchy. Regular sets and sequential machines. Context-free grammars -- normal forms, basic properties. Pushdown automata and transducers. Operations on languages. Undecidable problems in language theory. Applications to the design of programming languages and compiler construction.",
+    "term": [],
+    "prereq": [
+        "CS 360",
+        "CS 365"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

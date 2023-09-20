@@ -1,0 +1,31 @@
+{
+    "id": "004044",
+    "subject": "CHEM",
+    "catalogNumber": "125",
+    "title": "Chemical Reactions, Equilibria and Kinetics",
+    "description": "A first-year chemistry course for students in chemistry-based programs. Properties of liquids and solutions. Introduction to chemical equilibria. Principles of acid-base equilibria, solubility, and electrochemical processes. Chemical kinetics. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "CHEM 121"
+    ],
+    "coreq": [],
+    "antireq": [
+        "CHEM 123"
+    ],
+    "next": [
+        "CHEM 212",
+        "CHEM 220",
+        "CHEM 254",
+        "CHEM 264",
+        "CHEM 266",
+        "CHEM 357",
+        "CHEM 404",
+        "EARTH 221",
+        "PHYS 380",
+        "PHYS 395",
+        "MNS 211",
+        "CHEM 200"
+    ]
+}

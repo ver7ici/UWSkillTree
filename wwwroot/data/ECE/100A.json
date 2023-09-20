@@ -1,0 +1,14 @@
+{
+    "id": "013156",
+    "subject": "ECE",
+    "catalogNumber": "100A",
+    "title": "Electrical and Computer Engineering Practice",
+    "description": "Areas of research and professional practice in electrical and computer engineering, including the engineer's role in protecting public safety. Exposure to concepts from other Engineering plans. Support material for the academic term, co-operative education, and professional or career development. [Offered: F]",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "ECE 190"
+    ],
+    "next": []
+}

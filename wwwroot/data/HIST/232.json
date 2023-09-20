@@ -1,0 +1,15 @@
+{
+    "id": "011120",
+    "subject": "HIST",
+    "catalogNumber": "232",
+    "title": "A History of Peace Movements",
+    "description": "A survey of individuals and groups that have created popular movements for peace globally and locally throughout history. The scope will be international, with a particular focus on the 19th and 20th century movements. The choice of peace movements will allow for a contrast in comparison of ideology, strategy, and impact.",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,14 @@
+{
+    "id": "006692",
+    "subject": "LAT",
+    "catalogNumber": "421",
+    "title": "Latin Epigraphy",
+    "description": "The course introduces and investigates Latin inscriptions as evidence for the Latin language and Roman political, religious, legal, social, and economic history.",
+    "term": [],
+    "prereq": [
+        "LAT 202"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

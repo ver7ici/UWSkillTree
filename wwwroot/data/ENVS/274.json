@@ -1,0 +1,16 @@
+{
+    "id": "015035",
+    "subject": "ENVS",
+    "catalogNumber": "274",
+    "title": "Special Topics in Environment",
+    "description": "This special topics course covers material relevant to all students in the Faculty of Environment. Course content is not specific to an individual program and is specified by the instructor at the level indicated by the course number.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "GEOG 305"
+    ]
+}

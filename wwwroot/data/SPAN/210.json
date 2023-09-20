@@ -1,0 +1,18 @@
+{
+    "id": "012753",
+    "subject": "SPAN",
+    "catalogNumber": "210",
+    "title": "Spanish Conversation",
+    "description": "Practice makes perfect! In this course, students will continue to develop and hone their Spanish speaking and listening skills through discussions of current topics in Spanish-speaking countries. [Note: This is a repeatable course, subject to different content; it may be taken a total of three times.]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "SPAN 201A"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "SPAN 301A"
+    ]
+}

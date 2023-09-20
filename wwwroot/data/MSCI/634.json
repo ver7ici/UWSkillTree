@@ -1,0 +1,21 @@
+{
+    "id": "015642",
+    "subject": "MSCI",
+    "catalogNumber": "634",
+    "title": "Deterministic Models in Operations Research",
+    "description": "The objective of this course is to provide students with an in-depth understanding of the theory and algorithms in deterministic optimization.  Specifically, it covers advanced topics in linear optimization including simplex method, duality, sensitivity analysis, and interior point methods. Then, topics in integer optimization including polyhedral theory, branch-and-bound, and cutting plane algorithm are discussed.  Other topics such as nonlinear optimization and dynamic programming may be covered.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "MSCI 603",
+        "MSCI 760"
+    ],
+    "next": [
+        "MSCI 703",
+        "MSCI 719",
+        "MSCI 734"
+    ]
+}

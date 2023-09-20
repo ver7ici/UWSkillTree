@@ -1,0 +1,19 @@
+{
+    "id": "015082",
+    "subject": "ME",
+    "catalogNumber": "682",
+    "title": "Advanced Design Engineering- Design Project 2",
+    "description": "In this course students apply design methods, principles and practices learned in the previous courses (ME 680 and ME 681) to a highly authentic design project challenge. Students apply methods, principles and practices related largely to embodiment design, design verification, design implementation and refinement and design project communication. Aspects of design safety, sustainability and professional ethics and emphasized during the realization of the design project. Three graded design project reviews provide formative and summative assessment opportunities, as well as weekly instructor mentorship and assignments, preferably in a studio setting.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "ME 680",
+        "ME 681"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

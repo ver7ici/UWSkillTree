@@ -1,0 +1,26 @@
+{
+    "id": "004067",
+    "subject": "CHEM",
+    "catalogNumber": "356",
+    "title": "Introductory Quantum Mechanics",
+    "description": "Historical background; the differential equation approach to quantum mechanics; treatments of solvable problems such as the particle-in-a-box, harmonic oscillator, rigid rotator and the hydrogen atom; introduction to approximation methods for more complicated systems. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "CHEM 240",
+        "MATH 228",
+        "AMATH 250",
+        "AMATH 251"
+    ],
+    "coreq": [],
+    "antireq": [
+        "PHYS 234"
+    ],
+    "next": [
+        "PHYS 334",
+        "PHYS 359",
+        "PHYS 396",
+        "PHYS 335"
+    ]
+}

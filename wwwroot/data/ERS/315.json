@@ -1,0 +1,19 @@
+{
+    "id": "005339",
+    "subject": "ERS",
+    "catalogNumber": "315",
+    "title": "Environmental and Sustainability Assessment 2",
+    "description": "Continuing from concepts developed in ERS 215, this course places more emphasis on case studies and projects by students. The course provides a synthesis of ecological, physical, economic, socio-cultural, and institutional concerns, as well as experience in the use of impact assessment methodologies and approaches, as a key element in achieving more informed and responsible decision making.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "ERS 215",
+        "ENVS 200"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ERS 415"
+    ]
+}

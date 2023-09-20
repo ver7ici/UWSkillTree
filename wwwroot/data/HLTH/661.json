@@ -1,0 +1,14 @@
+{
+    "id": "013386",
+    "subject": "HLTH",
+    "catalogNumber": "661",
+    "title": "Geographic Information  Systems and Public Health",
+    "description": "The course introduces the concepts, methods, and applications of Geographic Information System (GIS), with a focus on spatial analysis in public health. The strong emphasis on assignments that require application of concepts and methods provides students with hands-on experience of important GIS applications in public health, including disease surveillance and control, disease risk estimation, health service planning, mapping disease, disease cluster detection, and analyzing environmental hazards at the neighbourhood, municipal, regional, and international level. Students will learn the fundamentals of GIS, methodologies for analysing spatial data, study design, spatial data issues and interpretation of the results of analyses for GIS applications in public health. There is no prerequisite for this course. However, basic knowledge of statistics with an interest in information technology, public health, and mapping is highly desirable.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

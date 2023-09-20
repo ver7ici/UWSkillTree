@@ -1,0 +1,12 @@
+{
+    "id": "001950",
+    "subject": "MSCI",
+    "catalogNumber": "646",
+    "title": "Database Management Systems",
+    "description": "The course is concerned with the design, management and use of databases.  The course combines theoretical foundations of database organization and database design methodologies with the practical aspects of developing, implementing and managing databases.  Some topics include: relational database design, entity modelling, SQL, and comparison of different types of databases.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

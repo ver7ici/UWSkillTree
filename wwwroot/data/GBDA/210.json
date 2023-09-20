@@ -1,0 +1,16 @@
+{
+    "id": "014117",
+    "subject": "GBDA",
+    "catalogNumber": "210",
+    "title": "Introduction to User Experience Design",
+    "description": "In this course students will learn the basic principles and practices of user experience design and testing. Students will learn how to plan, implement, and interpret tests conducted on digital design applications, focusing both on functionality and on the quality of the user's interaction with these technologies. [Note: Offered at Stratford campus. Formerly GBDA 103.]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "GBDA 103"
+    ],
+    "next": []
+}

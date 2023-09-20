@@ -1,0 +1,21 @@
+{
+    "id": "006431",
+    "subject": "HLTH",
+    "catalogNumber": "340",
+    "title": "Environmental Toxicology and Public Health",
+    "description": "An introduction to the basic biological and toxicological processes that determine the effects of environmental pollutants on human health. Emphasis is placed on the mechanisms that give rise to chronic or delayed health effects, such as cancer, genetic mutations, and birth defects.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "BIOL 130",
+        "BIOL 273",
+        "CHEM 120",
+        "KIN 217",
+        "CHEM 233",
+        "CHEM 237"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

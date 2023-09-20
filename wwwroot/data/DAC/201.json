@@ -1,0 +1,18 @@
+{
+    "id": "011680",
+    "subject": "DAC",
+    "catalogNumber": "201",
+    "title": "Designing Digital Images and Interaction",
+    "description": "This course draws on multiple theoretical perspectives to introduce students to the fundamental principles of multi-modal communication design in its social context. Students will analyze, design, and produce images and interactivity for use in a variety of digital platforms, including e-learning and business applications.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "GBDA 101"
+    ],
+    "next": []
+}

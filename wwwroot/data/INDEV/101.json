@@ -1,0 +1,21 @@
+{
+    "id": "014370",
+    "subject": "INDEV",
+    "catalogNumber": "101",
+    "title": "Issues in International Development",
+    "description": "This course examines key issues in international development. International Development involves the search for sustainable and equitable solutions to poverty primarily but not only in the Global South. The causes and consequences of poverty are many and varied: environmental degradation; insufficient food production; inequitable access to land and related resources; poor governance; civil war and other types of conflict. The impacts of poverty manifest differently depending on culture, technology, geo-political factors and globalization.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "INDEV 100"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "INDEV 200",
+        "INDEV 202",
+        "INDEV 212",
+        "INDEV 302"
+    ]
+}

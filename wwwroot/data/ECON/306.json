@@ -1,0 +1,27 @@
+{
+    "id": "015188",
+    "subject": "ECON",
+    "catalogNumber": "306",
+    "title": "Macroeconomics",
+    "description": "This course introduces students to the analysis of inter-temporal trade-offs in macroeconomics and macroeconomic policy. Its main objective is to show how economists use economic theory to analyze the role of incentives and general equilibrium considerations in the macro-economy. Applications include national savings and investment, business cycles, and monetary and fiscal policy.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "ECON 391"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ECON 471",
+        "ECON 406",
+        "ECON 407",
+        "ECON 408",
+        "ECON 409",
+        "ECON 496",
+        "ECON 437",
+        "ECON 467"
+    ]
+}

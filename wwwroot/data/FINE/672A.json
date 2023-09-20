@@ -1,0 +1,16 @@
+{
+    "id": "011839",
+    "subject": "FINE",
+    "catalogNumber": "672A",
+    "title": "Graduate Studio 2 (Part-Time)",
+    "description": "This course consists of directed individual studio work in the student's chosen area of concentration, as indicated in their original statement of intention.  Regular critiques and discussions will be scheduled by the Graduate Committee.  Open to Fine Arts part-time graduate students only.",
+    "term": [],
+    "prereq": [
+        "FINE 671"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "FINE 672B"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "id": "000799",
+    "subject": "ECE",
+    "catalogNumber": "663",
+    "title": "Energy Processing",
+    "description": "This course is intended to embrace power electronic aspects together with the broader issues of the systems of energy processing for emerging technologies. Within this framework, topics include performance, selection and optimization of power semiconductor devices including thyristors, GTOs, triacs, BJTs, MOSFETs, IGBTs and MCTs; classification, circuits and performance of converting circuits including rectifiers, inverters, choppers and cycloconverters; control and protection of conversion circuits; requirements and constraints of energy processing systems such as variable speed drives, high energy battery installations, transportation, solar and wind generators and industrial processes.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

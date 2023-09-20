@@ -1,0 +1,14 @@
+{
+    "id": "015707",
+    "subject": "AFM",
+    "catalogNumber": "200",
+    "title": "Continuation of Experiential Learning",
+    "description": "The objective of this non-credit course is to continue to expose students to the expectations for experiential learning, and help them to continue to develop the skills and relationships needed to allocate their time and maintain balance across their academics, career, health and wellness, and community.",
+    "term": [],
+    "prereq": [
+        "AFM 100"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,12 @@
+{
+    "id": "012793",
+    "subject": "GEOG",
+    "catalogNumber": "608",
+    "title": "Urban Remote Sensing",
+    "description": "An overview of high-resolution remote sensing systems and advanced study of image segmentation, data fusion, feature extraction, and change detection algorithms.  Topics include 3D city modeling, land use/cover classification, urban heat island study, urban sprawl monitoring, and risk mapping. *eligible for MES.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

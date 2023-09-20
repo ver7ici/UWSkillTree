@@ -1,0 +1,18 @@
+{
+    "id": "015344",
+    "subject": "AE",
+    "catalogNumber": "400",
+    "title": "Project 2 Studio",
+    "description": "Completion of the project defined and initiated in AE 325. Complete oral presentation, written and graphics deliverables. [Offered: S]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "AE 325"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "AE 425"
+    ]
+}

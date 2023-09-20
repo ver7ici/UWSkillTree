@@ -1,0 +1,18 @@
+{
+    "id": "007253",
+    "subject": "GSJ",
+    "catalogNumber": "222",
+    "title": "Gender Issues",
+    "description": "Philosophical analysis of issues relating to sex/gender. Questions considered might include the following: What, if anything, is the difference between sex and gender? How much of a role do facts about biology play in our ideas about sex and gender? How many sexes are there? What ethical issues arise for us in virtue of our gender?",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "WS 222"
+    ],
+    "next": [
+        "GEOG 436"
+    ]
+}

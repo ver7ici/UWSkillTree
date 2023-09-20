@@ -1,0 +1,16 @@
+{
+    "id": "003502",
+    "subject": "ARCH",
+    "catalogNumber": "192",
+    "title": "Design Studio",
+    "description": "Development of the means to appreciate the art and science of building; introduction to the study of theories of architecture; development of skills in graphic communication; introduction to a study of building elements; promotion of the application of theory in the practice of design. [Note: Passing grade is 60%. Field trip (one week). Field trip cost $300-$450. Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ARCH 193"
+    ]
+}

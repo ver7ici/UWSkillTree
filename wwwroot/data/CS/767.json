@@ -1,0 +1,12 @@
+{
+    "id": "000712",
+    "subject": "CS",
+    "catalogNumber": "767",
+    "title": "Advanced Logic for Computer Science",
+    "description": "The course provides extended background in mathematical logic and its applications to various branches of computer science.  It covers some fundamental concepts such as soundness and completeness theorems, compactness, the expressive power of a logic and the computational complexity of its basic decision problems.  These concepts are being demonstrated on first order logic and modal logics.  Finally the course discusses examples of applications of these concepts and tools to formal reasoning about programs and about hardware, to data bases, and to knowledge representation.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

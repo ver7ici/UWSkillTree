@@ -1,0 +1,22 @@
+{
+    "id": "011425",
+    "subject": "MTE",
+    "catalogNumber": "111",
+    "title": "Structure and Properties of Materials",
+    "description": "The relevance of materials to engineering practice; the relationships between macroscopic physical properties (including mechanical, photonic, thermal, electrical, and magnetic properties) and microscopic causes based on fundamental principles (including electronic and atomic structures, atomic bonding, crystal structure, and microstructure); description of the differences in macroscopic physical properties of metals, polymers, ceramics, semiconductors, and composite materials in terms of microscopic causes. [Offered: W,S]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "CHE 102"
+    ],
+    "coreq": [],
+    "antireq": [
+        "ME 115"
+    ],
+    "next": [
+        "ME 436",
+        "MTE 219"
+    ]
+}

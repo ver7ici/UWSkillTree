@@ -1,0 +1,22 @@
+{
+    "id": "003731",
+    "subject": "BIOL",
+    "catalogNumber": "442",
+    "title": "Virology",
+    "description": "A survey of viral structures, life cycles, and the interactions of viruses with their hosts. The laboratory component will include procedures used for viral detection and titration, as well as individual library research projects. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "BIOL 140",
+        "BIOL 240",
+        "BIOL 140",
+        "BIOL 240L",
+        "BIOL 241",
+        "BIOL 308",
+        "BIOL 341"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

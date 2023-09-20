@@ -1,0 +1,31 @@
+{
+    "id": "013755",
+    "subject": "MATBUS",
+    "catalogNumber": "470",
+    "title": "Derivatives",
+    "description": "Overview of the derivatives markets. Pricing of derivatives, including futures, forwards, swaps, and options. Hedging vs. speculating. Option Greeks. Trading strategies. Case studies.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [
+        "AFM 275",
+        "AFM 372",
+        "ACTSC 391",
+        "ACTSC 371",
+        "BUS 393W",
+        "STAT 334",
+        "STAT 330",
+        "STAT 333"
+    ],
+    "coreq": [],
+    "antireq": [
+        "AFM 322",
+        "AFM 474",
+        "ACTSC 446",
+        "STAT 446",
+        "BUS 423W",
+        "ECON 372"
+    ],
+    "next": []
+}

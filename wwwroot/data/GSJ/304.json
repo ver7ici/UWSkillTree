@@ -1,0 +1,19 @@
+{
+    "id": "015704",
+    "subject": "GSJ",
+    "catalogNumber": "304",
+    "title": "Research as Resistance",
+    "description": "This course considers the potential for research as a form of feminist and social justice praxis. The first half of the course is comprised of a basic introduction to qualitative and quantitative research methods in the humanities and social sciences. In the second half of the course, students will be introduced to a range of feminist and other challenges to the research methods \"status quo,\" and will explore radical research methods that straddle the line with social justice activism.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "GSJ 101",
+        "GSJ 102",
+        "WS 101",
+        "WS 102"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

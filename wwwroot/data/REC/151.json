@@ -1,0 +1,19 @@
+{
+    "id": "014320",
+    "subject": "REC",
+    "catalogNumber": "151",
+    "title": "Foundations of Therapeutic Recreation Practice",
+    "description": "This course is designed to examine models, theories, tools, and techniques required in the design, facilitation, and evaluation of therapeutic recreation services for individuals and groups.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "REC 100"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "REC 253",
+        "REC 357"
+    ]
+}

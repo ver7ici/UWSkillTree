@@ -1,0 +1,15 @@
+{
+    "id": "006352",
+    "subject": "HIST",
+    "catalogNumber": "329",
+    "title": "Origins of the Common Law",
+    "description": "A study of the common law of England from its introduction in the 11th century to the 15th century. Original documents and court cases will be examined.",
+    "term": [],
+    "prereq": [
+        "HIST 236",
+        "LS 236"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

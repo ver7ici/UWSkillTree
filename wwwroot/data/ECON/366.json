@@ -1,0 +1,17 @@
+{
+    "id": "015192",
+    "subject": "ECON",
+    "catalogNumber": "366",
+    "title": "Gender and Economics",
+    "description": "This course explores historical trends and economic theories and models to investigate the development of gender norms and changes in those norms across time. It questions whether physiological differences, economic models (e.g., comparative advantage, specialization, or discrimination) or social constructs can explain gender differences in roles within the family, education, work, pay, and poverty and the changes in these differences across time. Social policies designed to diminish gender differences will be scrutinized. Some topics/questions that may be addressed include the rise in labour force participation of women post World War II; occupational and wage differences between men and women; changing educational attainment; and how men and women make decisions regarding marriage, fertility, child care, elder care, and divorce.",
+    "term": [],
+    "prereq": [
+        "ECON 101",
+        "ECON 100",
+        "COMM 103",
+        "ECON 102"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

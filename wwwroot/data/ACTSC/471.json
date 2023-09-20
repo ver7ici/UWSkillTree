@@ -1,0 +1,22 @@
+{
+    "id": "011760",
+    "subject": "ACTSC",
+    "catalogNumber": "471",
+    "title": "Corporate Financial Decision Making",
+    "description": "This is the second course of a two-course sequence that deals with corporate financial decision making. The course builds on the theory of financial management using cases to illustrate a variety of corporate financial decisions. Where suitable, topics are treated from a mathematical and quantitative perspective.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [
+        "AFM 275",
+        "AFM 372",
+        "ACTSC 391",
+        "ACTSC 372"
+    ],
+    "coreq": [],
+    "antireq": [
+        "AFM 373"
+    ],
+    "next": []
+}

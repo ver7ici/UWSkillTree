@@ -1,0 +1,16 @@
+{
+    "id": "001915",
+    "subject": "ME",
+    "catalogNumber": "780",
+    "title": "Special Topics in Mechatronics",
+    "description": "",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,23 @@
+{
+    "id": "011942",
+    "subject": "NE",
+    "catalogNumber": "343",
+    "title": "Microfabrication and Thin-film Technology",
+    "description": "Key processes for electronic device fabrication. Single crystal growth. Substrate preparation. Homoepitaxy, heteroepitaxy, and molecular-beam epitaxy. Ion implantation. Oxidation and diffusion. Physical and chemical vapor deposition.  Sputtering and evaporation. Etching. Micromachining. Spin coating and printing.  Photolithography. Effects of device scaling on chip performance. Process integration. Yield and reliability. [Offered: S]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "NE 121",
+        "NE 125",
+        "NE 242"
+    ],
+    "coreq": [],
+    "antireq": [
+        "ECE 433"
+    ],
+    "next": [
+        "NE 353",
+        "NE 340L"
+    ]
+}

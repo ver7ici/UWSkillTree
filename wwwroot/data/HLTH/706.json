@@ -1,0 +1,17 @@
+{
+    "id": "015455",
+    "subject": "HLTH",
+    "catalogNumber": "706",
+    "title": "Advanced Epidemiological Methods",
+    "description": "Building on HLTH 606, this course provides an in-depth survey of theory and methods in epidemiology, focusing on answering complex research questions using epidemiologic methods.  Course topics include modeling multinomial, count, rate, and survival data and disease transmission; infectious disease dynamics; assessing the reliability/validity of measurement instruments; an in-depth examination of various study designs (e.g., case control, nested case control, case-cohort, randomized controlled trials, panel studies, and hybrid study designs); critical appraisal of the medical literature; and systematic reviews and meta-analysis.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "HLTH 605",
+        "HLTH 606"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

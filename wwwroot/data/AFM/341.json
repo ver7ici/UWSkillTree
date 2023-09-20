@@ -1,0 +1,21 @@
+{
+    "id": "003273",
+    "subject": "AFM",
+    "catalogNumber": "341",
+    "title": "Accounting Information Systems",
+    "description": "Examines the planning, requirements analysis, acquisition, and evaluation of information systems, with an emphasis on accounting information systems.  Introduces information systems assurance concepts, and considers the role of information technology in the improvement of business performance.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "CS 432"
+    ],
+    "next": [
+        "AFM 451",
+        "CS 338",
+        "AFM 347"
+    ]
+}

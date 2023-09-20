@@ -1,0 +1,14 @@
+{
+    "id": "000620",
+    "subject": "CS",
+    "catalogNumber": "676",
+    "title": "Numeric Computation for Financial Modelling",
+    "description": "The interaction of financial modes, numerical methods, and computing environments.  Basic computational aspects of option pricing and hedging. Numerical methods for stochastic differential equations, strong and weak convergence.  Generating correlated random numbers.  Time-stepping methods.  Finite difference methods for Black-Scholes equation.  Discretization, stability, convergence.  Methods for portfolio optimization, effect of data errors on portfolio weights. (Heldwith CS 476).",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,14 @@
+{
+    "id": "012924",
+    "subject": "LAT",
+    "catalogNumber": "332",
+    "title": "Advanced Readings in Latin: Poetry",
+    "description": "A selection of material from one author or several authors within the field of Latin poetry. Topics and selections may include comedy, lyric poetry, elegy, epic, Plautus, Terence, Catullus, Ovid, and Vergil. [Note: This is a repeatable course, subject to different content; it may be completed a total of four times.]",
+    "term": [],
+    "prereq": [
+        "LAT 202"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

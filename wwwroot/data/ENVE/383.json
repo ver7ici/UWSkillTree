@@ -1,0 +1,17 @@
+{
+    "id": "014958",
+    "subject": "ENVE",
+    "catalogNumber": "383",
+    "title": "Advanced Hydrology and Hydraulics",
+    "description": "Physical and mathematical models of hydrological processes at the landscape scale, and hydraulic phenomena in channels. Advanced models of evapotranspiration and snow energy balances. Hydrologic modelling: parameterization, boundary conditions, calibration. Simulation of energy losses, backwater effects, and gradually varying flow profiles in open channels. Sediment transport, scour, and erosion. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "CIVE 382",
+        "ENVE 382"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

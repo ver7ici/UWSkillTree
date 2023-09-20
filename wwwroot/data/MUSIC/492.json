@@ -1,0 +1,18 @@
+{
+    "id": "007083",
+    "subject": "MUSIC",
+    "catalogNumber": "492",
+    "title": "Senior Honours Thesis",
+    "description": "An independent research project for Honours Music students.  The topic is determined through consultation between the student and a faculty advisor.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "MUSIC 491"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

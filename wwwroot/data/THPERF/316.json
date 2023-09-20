@@ -1,0 +1,20 @@
+{
+    "id": "014888",
+    "subject": "THPERF",
+    "catalogNumber": "316",
+    "title": "Production Participation 5",
+    "description": "Students work at an intermediate level with faculty, staff, and visiting artists to explore and increase proficiency through extensive contributions to specific areas of performance creation. Areas include research, conception, writing, direction, design, performance, production, stage management, production management, publicity, dramaturgy, critique, and documentation. [Note: This is a repeatable course, subject to different content; it may be completed a total of four times.]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "THPERF 406",
+        "THPERF 407",
+        "THPERF 400",
+        "THPERF 416",
+        "THPERF 417"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "id": "016301",
+    "subject": "SFM",
+    "catalogNumber": "102",
+    "title": "Sustainability Economics",
+    "description": "This course provides an introduction to the basic concepts and tools of microeconomics and macroeconomics from the perspective of economic approaches to the environment.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "ECON 100",
+        "COMM 103",
+        "ECON 101",
+        "ECON 102",
+        "ENVS 220",
+        "ENVS 274",
+        "ENVS 001"
+    ],
+    "next": []
+}

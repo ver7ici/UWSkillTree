@@ -1,0 +1,19 @@
+{
+    "id": "016161",
+    "subject": "ACTSC",
+    "catalogNumber": "431",
+    "title": "Casualty and Health Insurance Mathematics 2",
+    "description": "Advanced models for loss frequency: (a, b, 1) class, mixed and compound Poisson models; concept of infinite divisibility; advanced models for loss severity: combination of exponentials, mixed Erlang, extreme value distributions; measure of distribution tails; impact of policy adjustments on loss frequency and severity; estimation; advanced aggregate claims models: properties, analytic results, (double) recursion, and pricing; risk measures. Other topics which may be covered include aggregate claim models with dependence, time-dependent claims, and ruin theory. [Offered: F,S]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "ACTSC 363",
+        "STAT 330"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

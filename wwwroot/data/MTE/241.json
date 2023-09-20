@@ -1,0 +1,23 @@
+{
+    "id": "010084",
+    "subject": "MTE",
+    "catalogNumber": "241",
+    "title": "Introduction to Computer Structures & Real-Time Systems",
+    "description": "Introduction to computer organization, basic real-time concepts, process management, interprocess communication and synchronization, memory management, resource management, interrupt handling, concurrent programming, file systems. [Offered: F,S]",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [
+        "MTE 121",
+        "GENE 121",
+        "MTE 140"
+    ],
+    "coreq": [],
+    "antireq": [
+        "ECE 254"
+    ],
+    "next": [
+        "ECE 327"
+    ]
+}

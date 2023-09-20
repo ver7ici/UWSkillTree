@@ -1,0 +1,29 @@
+{
+    "id": "016286",
+    "subject": "ARBUS",
+    "catalogNumber": "303",
+    "title": "Marketing Strategy",
+    "description": "Building on the fundamentals introduced in Principles of Marketing, students are given an opportunity to apply these concepts to real world situations in an interactive learning environment. Using cases and simulated markets, students make strategic decisions, defend their decisions, and see the repercussions in real time.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "ECON 344",
+        "MGMT 244",
+        "ARBUS 302",
+        "ENBUS 211",
+        "ENBUS 311"
+    ],
+    "coreq": [],
+    "antireq": [
+        "BUS 352W",
+        "ECON 345",
+        "ARBUS 303",
+        "ENBUS 211",
+        "ENBUS 311",
+        "GBDA 304"
+    ],
+    "next": []
+}

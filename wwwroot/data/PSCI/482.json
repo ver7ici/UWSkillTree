@@ -1,0 +1,15 @@
+{
+    "id": "012950",
+    "subject": "PSCI",
+    "catalogNumber": "482",
+    "title": "Critical Security Studies",
+    "description": "This course reviews critical analytical models for the study of security and covers a range of issues which might be considered non-traditional including environmental security, public safety, cyber security, and counter-terrorism.",
+    "term": [],
+    "prereq": [
+        "PSCI 281",
+        "PSCI 282"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

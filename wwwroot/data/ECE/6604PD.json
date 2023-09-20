@@ -1,0 +1,12 @@
+{
+    "id": "012053",
+    "subject": "ECE",
+    "catalogNumber": "6604PD",
+    "title": "Distributed Generation",
+    "description": "The main objective of this course is to provide up-to-date knowledge about the technical and economical issues relating to the distribution generation.  In addition to an introduction to various generating technologies, a more detailed part will be included discussing various applications of power electronics.  The impacts of DG to the distribution system will be presented.  The focus will be on electrical issues such as grid connection, protection, control, and power quality.  In addition, the economical and regulatory issues will be addressed.  Recommended Background:  Basic understanding of modeling of power system elements and analysis techniques is required.  Familiarity with a programming language and/or a simulation package such as EMTDC/PSCAD and MATLAB is desirable.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

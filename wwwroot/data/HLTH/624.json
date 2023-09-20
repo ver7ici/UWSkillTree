@@ -1,0 +1,15 @@
+{
+    "id": "012535",
+    "subject": "HLTH",
+    "catalogNumber": "624",
+    "title": "Environmental Toxicology in Public Health",
+    "description": "Introduction to the underlying principles governing the interactions of foreign chemicals with biological systems, including a description of the human health effects that can occur as a result of chemico-biological interactions in the environment. Course open to MPH students. Others may be admitted with consent of instructor.",
+    "term": [],
+    "prereq": [
+        "PHS 604",
+        "HLTH 604"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

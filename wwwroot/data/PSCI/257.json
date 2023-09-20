@@ -1,0 +1,17 @@
+{
+    "id": "011978",
+    "subject": "PSCI",
+    "catalogNumber": "257",
+    "title": "Introduction to Middle East Politics",
+    "description": "An introduction to modern Middle East political dynamics and the important role this strategic region has played in world affairs. The course examines Middle Eastern states, their domestic political challenges, geopolitical complexities, and relations with the international political community.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "HIST 230",
+        "PSCI 257"
+    ],
+    "next": []
+}

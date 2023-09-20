@@ -1,0 +1,22 @@
+{
+    "id": "011452",
+    "subject": "MTE",
+    "catalogNumber": "120",
+    "title": "Circuits",
+    "description": "Basic electromagnetic theory; magnetic circuits; electric circuit elements; DC circuit analysis; first-order transient response; AC circuit analysis; Diodes; Transistors: regions of operation, single-transistor amplifiers [Offered: W,S]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "ECE 140",
+        "GENE 123"
+    ],
+    "next": [
+        "MTE 220",
+        "MTE 320",
+        "MTE 262"
+    ]
+}

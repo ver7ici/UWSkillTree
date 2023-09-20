@@ -1,0 +1,14 @@
+{
+    "id": "014813",
+    "subject": "PHARM",
+    "catalogNumber": "499",
+    "title": "Clinical Rotation 3: Elective",
+    "description": "Advanced practice rotation (8 weeks) in an approved clinical practice setting. Provision of direct patient care in an inter-professional setting distinct from previous experience assessed through the clinical experience portfolio and courses taken since completing the BSc Pharm.  [Offered W, S, F]",
+    "term": [],
+    "prereq": [],
+    "coreq": [
+        "PHARM 498"
+    ],
+    "antireq": [],
+    "next": []
+}

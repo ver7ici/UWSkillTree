@@ -1,0 +1,20 @@
+{
+    "id": "007106",
+    "subject": "OPTOM",
+    "catalogNumber": "255",
+    "title": "Diseases of the Eye 2",
+    "description": "Etiology, signs, symptoms, diagnosis, management, and epidemiology of diseases of the posterior segment of the eye; higher visual and oculomotor systems; multisystem diseases.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "OPTOM 245"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "OPTOM 261",
+        "OPTOM 342A",
+        "OPTOM 375"
+    ]
+}

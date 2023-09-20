@@ -1,0 +1,14 @@
+{
+    "id": "002219",
+    "subject": "PHYS",
+    "catalogNumber": "751",
+    "title": "Clinical Applications of Physics in Medicine",
+    "description": "This course provides an overview of the application of physics to medicine. The physical concepts underlying the diagnosis and treatment of disease will be explored. Topics will include general imaging principles such as resolution, intensity and contrast; x-ray imaging and computed tomography; radioisotopes and nuclear medicine, SPECT and PET; magnetic resonance imaging; ultrasound imaging and radiation therapy.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

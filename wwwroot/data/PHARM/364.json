@@ -1,0 +1,14 @@
+{
+    "id": "013367",
+    "subject": "PHARM",
+    "catalogNumber": "364",
+    "title": "The Pharmacist as Educator",
+    "description": "This course will introduce the basic learning theory and practice that pharmacists use as educators of specific audiences, such as patients, other healthcare providers, other pharmacists, etc. [Offered: W,S,F]",
+    "term": [],
+    "prereq": [
+        "PHARM 127"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

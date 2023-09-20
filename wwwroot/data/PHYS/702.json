@@ -1,0 +1,14 @@
+{
+    "id": "002193",
+    "subject": "PHYS",
+    "catalogNumber": "702",
+    "title": "Quantum Mechanics 2",
+    "description": "Concepts of relativistic quantum mechanics, elementary quantum field theory, and Feynman diagrams. Application to many particle systems. Students who have not taken PHYS 701 but have an equivalent background in Quantum Mechanics may seek the instructor's consent to register in this course.",
+    "term": [],
+    "prereq": [
+        "PHYS 701"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

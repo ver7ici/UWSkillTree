@@ -1,0 +1,19 @@
+{
+    "id": "013546",
+    "subject": "ENBUS",
+    "catalogNumber": "602",
+    "title": "Introduction to Sustainability for Business",
+    "description": "This course reviews the history of global environmentalism; societal expectations and business responses; and the emergence of corporate social and environmental responsibility.  It systematically presents environmental (climate change, air pollution, water quality and quantity, energy and resource consumption, etc.), and social (human rights, health, poverty, ethics, fair trade, etc.) issues, their science, status and priority; technological, regulatory and policy responses; and implications for business.  This course introduces concepts for business sustainability, including systems thinking, complexity and resilience, corporate responsibility, materials and energy flows and transformations, economic and market mechanisms, and relates these to business operations, marketing and strategic management.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ENBUS 620",
+        "ENBUS 630",
+        "ENBUS 640",
+        "ENBUS 650"
+    ]
+}

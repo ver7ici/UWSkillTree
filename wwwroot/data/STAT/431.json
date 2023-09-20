@@ -1,0 +1,27 @@
+{
+    "id": "008881",
+    "subject": "STAT",
+    "catalogNumber": "431",
+    "title": "Generalized Linear Models and their Applications",
+    "description": "Review of the normal linear model and maximum likelihood estimation; regression models for binomial, Poisson and multinomial data; generalized linear models; and other topics in regression modelling. [Offered: F,W,S]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "STAT 330",
+        "STAT 331",
+        "STAT 371"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "STAT 936",
+        "STAT 437",
+        "STAT 436",
+        "STAT 836",
+        "STAT 932",
+        "STAT 438"
+    ]
+}

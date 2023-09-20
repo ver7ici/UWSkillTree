@@ -1,0 +1,24 @@
+{
+    "id": "003399",
+    "subject": "ANTH",
+    "catalogNumber": "202",
+    "title": "Social and Cultural Anthropology",
+    "description": "This course introduces students to the history and key concepts of social and cultural anthropology through the examination of classic works as well as contemporary ethnographic texts and films. Topics include anthropological approaches to understanding cultural identity and difference, social structure, kinship, politics, and exchange.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ANTH 300",
+        "ANTH 330",
+        "ANTH 347",
+        "ANTH 303",
+        "ANTH 381",
+        "ANTH 382",
+        "ANTH 465",
+        "ANTH 331"
+    ]
+}

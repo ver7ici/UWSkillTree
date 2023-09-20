@@ -1,0 +1,16 @@
+{
+    "id": "007246",
+    "subject": "PHIL",
+    "catalogNumber": "145",
+    "title": "Critical Thinking",
+    "description": "An analysis of basic types of reasoning, structure of arguments, critical assessment of information, common fallacies, problems of clarity and meaning.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

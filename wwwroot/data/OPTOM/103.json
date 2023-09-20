@@ -1,0 +1,17 @@
+{
+    "id": "007086",
+    "subject": "OPTOM",
+    "catalogNumber": "103",
+    "title": "Pathophysiology",
+    "description": "Pathogenesis of human disease based on a molecular and cellular framework. Fundamental concepts such as homeostasis, cell injury, protective responses (inflammation, fever, immune response) and the healing process. Systemic pathophysiology: abnormal functions of the cardiovascular system, endocrine system, nervous system, urinary system, muscular system, respiratory system and digestive system.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "OPTOM 215",
+        "OPTOM 245"
+    ]
+}

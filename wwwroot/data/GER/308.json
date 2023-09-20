@@ -1,0 +1,17 @@
+{
+    "id": "013632",
+    "subject": "GER",
+    "catalogNumber": "308",
+    "title": "German Through Comics",
+    "description": "German-language comic strips and graphic novels enable students to explore modern language use. Colloquial German language skills are sharpened in this course, and the place of the comic strip and graphic novel in society is discussed.",
+    "term": [],
+    "prereq": [
+        "GER 202",
+        "GER 211"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "GER 331"
+    ]
+}

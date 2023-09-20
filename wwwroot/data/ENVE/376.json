@@ -1,0 +1,19 @@
+{
+    "id": "014966",
+    "subject": "ENVE",
+    "catalogNumber": "376",
+    "title": "Biological Processes",
+    "description": "Common microbial substrates and metabolisms in engineered and natural systems, kinetics of microbial growth, stoichiometry of nutrient uptake, continuous flow stirred tanks with/without recycle, aeration system design, applications to wastewater treatment, solid waste management, groundwater, and soil remediation. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "CIVE 375",
+        "ENVE 375"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "BIOL 462"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": "011428",
+    "subject": "MTE",
+    "catalogNumber": "219",
+    "title": "Mechanics of Deformable Solids",
+    "description": "Introduction to mechanical response of materials and stress-strain relationships. Behaviour of prismatic members in tension, compression, shear, bending and torsion.   Stress and strain transformations.  Virtual work and energy methods. [Offered F,W]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [
+        "MTE 111",
+        "MTE 119"
+    ],
+    "coreq": [],
+    "antireq": [
+        "CIVE 204",
+        "ME 219",
+        "SYDE 286"
+    ],
+    "next": [
+        "ME 559",
+        "MTE 321"
+    ]
+}

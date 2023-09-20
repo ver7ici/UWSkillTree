@@ -1,0 +1,19 @@
+{
+    "id": "006736",
+    "subject": "ME",
+    "catalogNumber": "435",
+    "title": "Industrial Metallurgy",
+    "description": "This course is intended for those students interested in acquiring a working knowledge of metallurgy. It covers: metals and alloy systems, iron-carbon alloys, heat treatment and the function of alloying elements in steel, corrosion and scale resistant alloys, copper and nickel base alloys, light metals and their alloys; casting, hot and cold working of metals; soldering, brazing and welding; corrosion and oxidation; metal failure analysis. [Offered: F, S]",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [
+        "ME 230"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ME 535"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "id": "011875",
+    "subject": "PMATH",
+    "catalogNumber": "810",
+    "title": "Banach Algebras and Operator Theory",
+    "description": "Banach algebras, functional calculus, Gelfan transform, Jacobson radical, Banach space and Hilbert space operators, Fredholm alternative, spectral therorem for compact normal operators, ideals in C^*-algebras, linear functionals and states, Gelfand-Naimark-Segar (GNS) construction, von Neumann algebras, strong/weak operator topologies, Double Commutant theorem, Kaplansky's density theorem, spectral theorem for normal operators.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "PMATH 753"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

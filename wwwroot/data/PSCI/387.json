@@ -1,0 +1,22 @@
+{
+    "id": "010348",
+    "subject": "PSCI",
+    "catalogNumber": "387",
+    "title": "Globalization",
+    "description": "How is globalization changing the nature of politics? Students will examine leading political debates surrounding the forces that promote and resist global integration in the contemporary age.",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [
+        "PSCI 150",
+        "INTST 101"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PSCI 485",
+        "PSCI 439",
+        "PSCI 404"
+    ]
+}

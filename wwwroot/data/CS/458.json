@@ -1,0 +1,21 @@
+{
+    "id": "012980",
+    "subject": "CS",
+    "catalogNumber": "458",
+    "title": "Computer Security and Privacy",
+    "description": "Security and privacy issues in various aspects of computing. Specific topics include comparing security and privacy, program security, writing secure programs, controls against program threats, operating system security, formal security models, network security, Internet application security and privacy, privacy-enhancing technologies, database security and privacy, inference, data mining, security policies, physical security, economics of security, and legal and ethical issues. [Note: Lab is not scheduled and students are expected to find time in open hours to complete their work. Offered: F,W,S]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "CS 350",
+        "SE 350"
+    ],
+    "coreq": [],
+    "antireq": [
+        "ECE 458"
+    ],
+    "next": []
+}

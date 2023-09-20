@@ -1,0 +1,20 @@
+{
+    "id": "013158",
+    "subject": "NE",
+    "catalogNumber": "216",
+    "title": "Advanced Calculus and Numerical Methods 1",
+    "description": "Ordinary differential equations with constant coefficients. Boundary value problems and applications to quantum mechanics. Laplace and Fourier transforms, Fourier series and applications. Numerical solution of ordinary differential equations. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "AMATH 350",
+        "MATH 218",
+        "MATH 228"
+    ],
+    "next": [
+        "NE 318"
+    ]
+}

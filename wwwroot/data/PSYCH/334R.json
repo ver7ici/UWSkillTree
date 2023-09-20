@@ -1,0 +1,17 @@
+{
+    "id": "007962",
+    "subject": "PSYCH",
+    "catalogNumber": "334R",
+    "title": "Theories of Individual Counselling Psychology",
+    "description": "An introduction to the methods, theories, and problems in individual counselling psychology.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "PSYCH 101",
+        "PSYCH 101R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "010733",
+    "subject": "PMATH",
+    "catalogNumber": "464",
+    "title": "Introduction to Algebraic Geometry",
+    "description": "An introduction to algebraic geometry through the theory of algebraic curves. General algebraic geometry: affine and projective algebraic sets, Hilbert's Nullstellensatz, co-ordinate rings, polynomial maps, rational functions and local rings. Algebraic curves: affine and projective plane curves, tangency and multiplicity, intersection numbers, Bezout's theorem and divisor class groups.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "PMATH 347"
+    ],
+    "coreq": [
+        "PMATH 348"
+    ],
+    "antireq": [],
+    "next": []
+}

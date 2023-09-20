@@ -1,0 +1,18 @@
+{
+    "id": "004849",
+    "subject": "EARTH",
+    "catalogNumber": "421",
+    "title": "Advanced Geochemistry",
+    "description": "The application of chemical thermodynamics to geochemical problems. Development of the three laws of thermodynamics; Gibbs free energy and equilibria constants. Introduction to various topics in aqueous geochemistry such as mineral equilibria, ion exchange, and redox equilibria. Laboratory session will involve various experiments related to mineral solubility, chemical kinetics, acid-base equilibria, and chemical modelling. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "EARTH 221"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "EARTH 621"
+    ]
+}

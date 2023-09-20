@@ -1,0 +1,28 @@
+{
+    "id": "007998",
+    "subject": "PSYCH",
+    "catalogNumber": "391",
+    "title": "Advanced Data Analysis",
+    "description": "Aimed at developing an understanding of the use and interpretation of statistics in complex research designs, this course emphasizes analysis of variance and multiple comparison techniques to interpret the results of multi-factor experiments. The importance of power in factorial designs is discussed. The course includes a computer component that ties the use of a statistical package to the topics discussed in lectures.  [Offered: F, W]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [
+        "PSYCH 291",
+        "PSYCH 292"
+    ],
+    "coreq": [],
+    "antireq": [
+        "STAT 322",
+        "STAT 332",
+        "STAT 430"
+    ],
+    "next": [
+        "PSYCH 464",
+        "PSYCH 499A",
+        "PSYCH 492",
+        "PSYCH 486",
+        "PSYCH 493"
+    ]
+}

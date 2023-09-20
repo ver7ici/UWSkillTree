@@ -1,0 +1,18 @@
+{
+    "id": "011173",
+    "subject": "PSYCH",
+    "catalogNumber": "485",
+    "title": "Directed Studies - Seminar",
+    "description": "The student conducts an extensive literature review under the supervision of a faculty member. Course requirements include writing a major essay/critique of the literature, and doing an oral presentation. The course application form must include a detailed course plan including the method of evaluation. [Note: Normally students will take no more than three of PSYCH 480-486. Offered: F,W,S]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [
+        "PSYCH 391"
+    ],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,16 @@
+{
+    "id": "008623",
+    "subject": "SOC",
+    "catalogNumber": "241",
+    "title": "Sociology of Work and Occupations",
+    "description": "This course is an introduction to the study of work and occupations including labour market trends, professions and the professionalization process, how work is experienced, balancing work and family, and the impact of work on lifestyles, leisure, and retirement.",
+    "term": [],
+    "prereq": [
+        "SOC 101",
+        "SOC 101R",
+        "SOC 120R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

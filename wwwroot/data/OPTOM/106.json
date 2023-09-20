@@ -1,0 +1,28 @@
+{
+    "id": "007089",
+    "subject": "OPTOM",
+    "catalogNumber": "106",
+    "title": "Geometrical, Physical and Visual Optics",
+    "description": "Nature of light, wave motion and superposition, rectilinear propagation, reflection and refraction, image formation and quality, optical properties of plane and curved surfaces, prisms and thin lenses. Apertures and pupils. Thick lens theory, lens systems, ray construction, Fraunhofer diffraction and resolution limit. Fresnel diffraction. Simple optical eye models. Refractive error and its correction. Interference and coherence of light:applications. Lasers.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "PHYS 111",
+        "PHYS 111L",
+        "PHYS 112",
+        "PHYS 112L",
+        "PHYS 121",
+        "PHYS 121L",
+        "PHYS 122",
+        "PHYS 122L",
+        "MATH 127"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "OPTOM 216",
+        "OPTOM 246",
+        "OPTOM 126"
+    ]
+}

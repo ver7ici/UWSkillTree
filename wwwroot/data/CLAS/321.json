@@ -1,0 +1,15 @@
+{
+    "id": "003446",
+    "subject": "CLAS",
+    "catalogNumber": "321",
+    "title": "Archaeology of Complex Cultures",
+    "description": "Cultural development from the agricultural revolution to the rise of literacy. Special attention to the development of agriculture as a means of subsistence and to the rise of early civilization. Areas and periods of emphasis will vary from year to year.",
+    "term": [],
+    "prereq": [
+        "ANTH 201",
+        "CLAS 221"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

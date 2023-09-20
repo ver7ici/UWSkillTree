@@ -1,0 +1,21 @@
+{
+    "id": "015296",
+    "subject": "ECE",
+    "catalogNumber": "340",
+    "title": "Electronic Circuits 2",
+    "description": "Electronic circuits and their limitations including, metal-oxide-semiconductor (MOS) and bipolar junction transistor (BJT) differential pairs, biasing, the cascode configuration and active loads. Differential and multistage amplifiers. Feedback, stability, and compensation. [Offered: W, S]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "ECE 242",
+        "NE 344"
+    ],
+    "next": [
+        "ECE 432",
+        "ECE 444"
+    ]
+}

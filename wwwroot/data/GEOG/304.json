@@ -1,0 +1,19 @@
+{
+    "id": "015634",
+    "subject": "GEOG",
+    "catalogNumber": "304",
+    "title": "Carbon in the Biosphere",
+    "description": "This course investigates stocks and fluxes of carbon in forests, wetlands, and lakes through directed readings and field investigations. This field-based course will focus on measurement methods, data collection and interpretation, and study design. Topics include forest biomass inventory, soil organic matter, soil carbon dioxide and methane exchange, and dissolved organic carbon.",
+    "term": [],
+    "prereq": [
+        "GEOG 201",
+        "GEOG 305",
+        "GEOG 209"
+    ],
+    "coreq": [],
+    "antireq": [
+        "GEOG 474",
+        "GEOG 002"
+    ],
+    "next": []
+}

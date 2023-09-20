@@ -1,0 +1,19 @@
+{
+    "id": "003970",
+    "subject": "CHE",
+    "catalogNumber": "499",
+    "title": "Elective Research Project",
+    "description": "A major undergraduate research project carried out as a technical elective (TE) under the supervision of a faculty member. An oral presentation of results and a written report are the minimum requirements. Other requirements may be set by the faculty supervisor or department. [Offered: F,W,S]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [
+        "CHE 398",
+        "CHE 399",
+        "CHE 498"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

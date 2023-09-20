@@ -1,0 +1,15 @@
+{
+    "id": "007050",
+    "subject": "MUSIC",
+    "catalogNumber": "362",
+    "title": "Piano Literature",
+    "description": "A study of music for solo piano from its 17th and 18th century antecedents to the present. Using historical and analytical approaches, individual works will be considered within a tradition of particular forms, genres, and styles.",
+    "term": [],
+    "prereq": [
+        "MUSIC 100",
+        "MUSIC 110"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

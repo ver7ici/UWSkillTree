@@ -1,0 +1,14 @@
+{
+    "id": "000492",
+    "subject": "CIVE",
+    "catalogNumber": "610",
+    "title": "Elasticity",
+    "description": "Analysis of strain and stress; stress-strain relations; equations of elasticity; plane strain, plane stress and generalized plane stress; torsion and flexure; three-dimensional problems; variational methods; dynamical problems.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

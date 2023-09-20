@@ -1,0 +1,16 @@
+{
+    "id": "013665",
+    "subject": "ECON",
+    "catalogNumber": "623",
+    "title": "Applied Macroeconometrics I",
+    "description": "This course focuses on the econometric techniques of empirical problems.  Topics may include some basic concepts in time series analysis (such as deterministic and stochastic processes, stationary, ACF, Ergodicity conditions), established estimation techniques (such as OLS/GLS, MLE, GMM, Monte-Carlo simulation), popular univariate and multivariate time series models (such as ARMA  process, autoregressive conditional heteroskedasticity model, stochastic volatility model, Vector Autoregression, Vector Moving Average), and non stationary models (such as random walk, unit roots, Dickey-Fuller Tests, Co-integration System and error corrections).  Some related (empirical/theoretical) published papers for each topic may be discussed in class.  An empirical project is required in the course, requiring the use of software (such as Matlab, SAS).",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "ECON 621"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

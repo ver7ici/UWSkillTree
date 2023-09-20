@@ -1,0 +1,22 @@
+{
+    "id": "006057",
+    "subject": "GER",
+    "catalogNumber": "102",
+    "title": "Elementary German 2",
+    "description": "A continuation of GER 101. [Note: GER 102 is not open to students with native, near-native, or similar advanced ability.]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "GER 101"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "GER 201",
+        "GER 250",
+        "GER 211"
+    ]
+}

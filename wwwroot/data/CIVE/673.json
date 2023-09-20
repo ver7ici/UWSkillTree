@@ -1,0 +1,12 @@
+{
+    "id": "000515",
+    "subject": "CIVE",
+    "catalogNumber": "673",
+    "title": "Mathematical Methods in Environmental Engineering",
+    "description": "This course covers a variety of mathematical concepts and methods needed to develop deterministic models of water and environmental systems governed by ordinary and partial differential equations, including analytical and numerical solution of ODEs/PDEx using Laplace and Fourier transforms, Green's functions, superposition, finite difference methods, finite element methods, complex variable theory, eigenmethods, vector calculus, separation of variables, Sturm-Liouville theorem and others.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

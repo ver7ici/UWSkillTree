@@ -1,0 +1,15 @@
+{
+    "id": "005422",
+    "subject": "FINE",
+    "catalogNumber": "112",
+    "title": "Modern Art: 1874-1945",
+    "description": "A study of the culture of Europe and North America from 1874 (Impressionism) to 1945 (Nazi propaganda) with particular focus on the visual arts. Topics such as primitivism, Cubism, abstraction, artists' reactions to calamitous world events such as World War 1, and various methodologies, including semiotic and Marxist analyses, will be explored through reading and writing assignments. [Note: Art History course]",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "FINE 319",
+        "FINE 209"
+    ]
+}

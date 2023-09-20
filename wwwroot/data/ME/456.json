@@ -1,0 +1,18 @@
+{
+    "id": "006740",
+    "subject": "ME",
+    "catalogNumber": "456",
+    "title": "Heat Transfer 2",
+    "description": "Selected topics in heat transfer fundamentals and applications. Topics to be covered include the fundamentals of convection with analytical solutions to simple laminar flow problems and approximate solutions to turbulent flow problems based on analogies between momentum and heat transfer. Also covered is radiant exchange in grey enclosures and in black enclosures containing emitting-absorbing gases. The remaining topics will be chosen from design of heat exchangers; condensation heat transfer; boiling heat transfer; and the treatment of problems in heat conduction. [Offered: F, S]",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [
+        "ME 353",
+        "ME 362"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

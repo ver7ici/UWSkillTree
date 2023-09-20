@@ -1,0 +1,16 @@
+{
+    "id": "006616",
+    "subject": "KIN",
+    "catalogNumber": "433",
+    "title": "Senior Essay",
+    "description": "An extensive critical review of the literature on an approved topic, supervised by a faculty member. The topics will be broader in scope than those associated with specific research proposals.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

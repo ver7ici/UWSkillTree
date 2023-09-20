@@ -1,0 +1,49 @@
+{
+    "id": "004377",
+    "subject": "CS",
+    "catalogNumber": "240",
+    "title": "Data Structures and Data Management",
+    "description": "Introduction to widely used and effective methods of data organization, focusing on data structures, their algorithms, and the performance of these algorithms. Specific topics include priority queues, sorting, dictionaries, data structures for text processing. [Note: Enrolment is restricted; see Note 1 above. Lab is not scheduled and students are expected to find time in open hours to complete their work. Offered: F,W,S]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "CS 245",
+        "SE 212",
+        "CS 241",
+        "CS 246",
+        "CS 247",
+        "STAT 206",
+        "STAT 230",
+        "STAT 240"
+    ],
+    "coreq": [],
+    "antireq": [
+        "BME 122",
+        "CS 234",
+        "ECE 250",
+        "MTE 140",
+        "SYDE 223"
+    ],
+    "next": [
+        "CS 341",
+        "CS 360",
+        "CS 442",
+        "CS 487",
+        "CS 492",
+        "SYDE 322",
+        "SYDE 522",
+        "CS 365",
+        "CS 398",
+        "CS 399",
+        "CS 350",
+        "MSCI 446",
+        "SE 390",
+        "SE 350",
+        "MSCI 541",
+        "CS 449",
+        "CS 383"
+    ]
+}

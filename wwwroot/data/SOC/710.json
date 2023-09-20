@@ -1,0 +1,14 @@
+{
+    "id": "003044",
+    "subject": "SOC",
+    "catalogNumber": "710",
+    "title": "Intermediate Social Statistics",
+    "description": "Applied multiple regression/correlation, with emphasis on data processing/computing, model construction and interpretation and underlying statistical assumptions.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

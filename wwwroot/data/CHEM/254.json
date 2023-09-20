@@ -1,0 +1,30 @@
+{
+    "id": "004064",
+    "subject": "CHEM",
+    "catalogNumber": "254",
+    "title": "Introductory Chemical Thermodynamics",
+    "description": "An introduction to the first, second, and third laws of thermodynamics and the application of these laws to ideal systems, mixtures, and chemical reactions. Thermodynamic principles are used to study changes in state, including phase changes, and to establish the link between the equilibrium constant and the properties of the substances involved in a chemical reaction. [Offered: W,S]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "CHEM 123",
+        "CHEM 125",
+        "MATH 128",
+        "MATH 138",
+        "MATH 148"
+    ],
+    "coreq": [],
+    "antireq": [
+        "PHYS 358",
+        "ECE 403"
+    ],
+    "next": [
+        "CHEM 350",
+        "CHEM 370",
+        "PHYS 359",
+        "MNS 322"
+    ]
+}

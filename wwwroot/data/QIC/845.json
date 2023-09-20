@@ -1,0 +1,14 @@
+{
+    "id": "012567",
+    "subject": "QIC",
+    "catalogNumber": "845",
+    "title": "Open Quantum Systems",
+    "description": "Review of the axioms of quantum theory and derivation of generalized axioms by considering states, transformations, and measurements in an extended Hilbert space.  Master equations and the Markov approximation.  Standard models of system-environment interactions and the phenomenology of decoherence.  Introduction to quantum control with applications in NMR, quantum optics, and quantum computing.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

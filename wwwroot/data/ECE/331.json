@@ -1,0 +1,16 @@
+{
+    "id": "013177",
+    "subject": "ECE",
+    "catalogNumber": "331",
+    "title": "Electronic Devices",
+    "description": "Review of band theory and doped semiconductors in thermal equilibrium, charge neutrality, mass action law, recombination and transport mechanisms, Boltzmann relations. Device theory and modelling of p-n junction diode and derivation of dc and ac characteristics, charge storage effects. Principles, device theory, and modelling of metal-oxide semiconductor field-effect transistors (MOSFETs), and the derivation of threshold voltage, dc current characteristics, small signal ac models. Principles of bipolar transistor and derivation of dc and ac terminal characteristics, equivalent circuits. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "ECE 109"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

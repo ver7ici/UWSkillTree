@@ -1,0 +1,16 @@
+{
+    "id": "014545",
+    "subject": "GEOG",
+    "catalogNumber": "320",
+    "title": "The Cryosphere",
+    "description": "This course provides a comprehensive overview of the cryosphere and cryosphere-atmosphere interactions. Topics covered include the material and thermodynamic properties of snow and ice, the role of the cryosphere in weather and climate, and the response of the cryosphere to climate change (past, present and future). Students will be introduced to, and experiment with, snow and ice process models. [formerly: GEOG 419]",
+    "term": [],
+    "prereq": [
+        "GEOG 209"
+    ],
+    "coreq": [],
+    "antireq": [
+        "GEOG 419"
+    ],
+    "next": []
+}

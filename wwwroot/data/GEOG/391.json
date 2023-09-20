@@ -1,0 +1,21 @@
+{
+    "id": "005978",
+    "subject": "GEOG",
+    "catalogNumber": "391",
+    "title": "Field Research",
+    "description": "Field research course in which a specific area will be analyzed from a geographic point of view. Individual or group analysis of specific field problems. [Note: Field trip fee normally $50+HST; will not exceed $150+HST. WHMIS may be required pending project lab analysis.]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [
+        "GEOG 293",
+        "GEOG 294",
+        "ENVS 278"
+    ],
+    "coreq": [],
+    "antireq": [
+        "GEOG 392"
+    ],
+    "next": []
+}

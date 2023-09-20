@@ -1,0 +1,14 @@
+{
+    "id": "011491",
+    "subject": "GEOG",
+    "catalogNumber": "609",
+    "title": "GIS and Spatial Decision Support for Planning  and Resource Management",
+    "description": "This course introduces students to key theories, concepts and techniques that have been developed recently to improve the design support capabilities of spatial information systems.  Topics covered include participatory GIS, group-based spatial decision support systems, and the integration of multi-criteria analysis (MCA) methods with GIS to facilitate decision-making in planning.  *eligible for MES",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

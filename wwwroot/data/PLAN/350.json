@@ -1,0 +1,20 @@
+{
+    "id": "007562",
+    "subject": "PLAN",
+    "catalogNumber": "350",
+    "title": "Research Methods for Planners",
+    "description": "This course develops the capacity of students to apply research methods to planning-related issues. Examination of a variety of alternative approaches to designing and conducting research. Students learn how to become informed consumers and producers of planning-related research.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "PLAN 281",
+        "GEOG 281",
+        "ENVS 278"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PLAN 452"
+    ]
+}

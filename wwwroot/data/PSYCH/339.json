@@ -1,0 +1,27 @@
+{
+    "id": "007968",
+    "subject": "PSYCH",
+    "catalogNumber": "339",
+    "title": "Personnel Psychology",
+    "description": "The application of psychology to human resource issues in Canadian organizations. Topics will include defining and measuring job performance, job analysis, performance appraisal, recruitment, personnel selection, and training. Procedures which meet technical, professional, and legal standards will be examined.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [
+        "PSYCH 101",
+        "PSYCH 101R",
+        "PSYCH 238",
+        "PSYCH 291"
+    ],
+    "coreq": [],
+    "antireq": [
+        "BUS 354W",
+        "BUS 454W",
+        "BUS 408W"
+    ],
+    "next": [
+        "PSYCH 399",
+        "PSYCH 467"
+    ]
+}

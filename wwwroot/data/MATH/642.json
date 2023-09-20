@@ -1,0 +1,17 @@
+{
+    "id": "014805",
+    "subject": "MATH",
+    "catalogNumber": "642",
+    "title": "Introduction to Computer Science: A Mathematical Perspective",
+    "description": "The connections between mathematics and computer science are varied and deep.  This course will introduce students to foundational ideas in computer science and their relationship to foundational ideas in mathematics through the use of a functional programming language designed for education.  No prior experience with programming is required, though students with exposure to popular programming languages will also benefit from this alternate approach.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [
+        "MATH 600",
+        "MATH 692"
+    ],
+    "antireq": [],
+    "next": []
+}

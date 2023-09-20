@@ -1,0 +1,19 @@
+{
+    "id": "015469",
+    "subject": "GBDA",
+    "catalogNumber": "228",
+    "title": "Digital Imaging for Online Applications",
+    "description": "In this course students are introduced to the digital tools used for website and app development through a series of hands-on learning exercises and assignments that cultivate both creative expression and technical skill. Topics include theory and terminology, design, typography, information architecture, and prototyping. [Note: Offered at Stratford campus.]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "GBDA 101"
+    ],
+    "coreq": [],
+    "antireq": [
+        "GBDA 228",
+        "FINE 228"
+    ],
+    "next": []
+}

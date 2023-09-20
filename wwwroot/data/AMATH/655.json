@@ -1,0 +1,16 @@
+{
+    "id": "011278",
+    "subject": "AMATH",
+    "catalogNumber": "655",
+    "title": "Control Theory",
+    "description": "Feedback control with applications. System theory in both time and frequency domain, state-space computations, stability, system uncertainty, loopshaping, linear quadratic regulators and estimation. (Heldwith AMATH 455)",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "AMATH 455"
+    ],
+    "next": []
+}

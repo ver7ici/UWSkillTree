@@ -1,0 +1,21 @@
+{
+    "id": "015197",
+    "subject": "ECON",
+    "catalogNumber": "407",
+    "title": "Economic Growth and Development 2",
+    "description": "The goal of this course is to understand the enormous differences in living standards across countries and over time. It uses economic analysis to understand the sources of investment and innovation, and the role of economic, social, and political institutions in economic growth and development.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "ECON 306",
+        "ECON 393",
+        "ECON 322",
+        "STAT 221",
+        "STAT 231",
+        "STAT 241"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

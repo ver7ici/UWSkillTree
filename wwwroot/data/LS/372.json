@@ -1,0 +1,15 @@
+{
+    "id": "010042",
+    "subject": "LS",
+    "catalogNumber": "372",
+    "title": "Criminal Profiling",
+    "description": "Foundational assumptions for, and basic approaches to, criminal profiling will be considered, along with a survey of relevant techniques in the context of numerous case studies. Limitations and alternatives to profiling will also be addressed.",
+    "term": [],
+    "prereq": [
+        "PSYCH 230",
+        "LS 272"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

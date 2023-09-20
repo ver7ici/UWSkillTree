@@ -1,0 +1,17 @@
+{
+    "id": "012721",
+    "subject": "JS",
+    "catalogNumber": "228",
+    "title": "Big Ideas of the Bible",
+    "description": "The Bible is the most translated and most read document in human history. This course explores central biblical ideas, from creation to the end of time, violence to redemption, and political intrigue to family ties, and examines their impact on Judaism, Christianity, and Western Culture. [Note: This course fulfils an Area 2 requirement for Religious Studies majors.]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "JS 131",
+        "RS 130"
+    ],
+    "next": []
+}

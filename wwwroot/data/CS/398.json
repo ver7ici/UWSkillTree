@@ -1,0 +1,16 @@
+{
+    "id": "011409",
+    "subject": "CS",
+    "catalogNumber": "398",
+    "title": "Topics in Computer Science",
+    "description": "See the Course Offerings List for topics available.",
+    "term": [],
+    "prereq": [
+        "CS 240",
+        "CS 246",
+        "CS 247"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

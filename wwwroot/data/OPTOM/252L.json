@@ -1,0 +1,16 @@
+{
+    "id": "012249",
+    "subject": "OPTOM",
+    "catalogNumber": "252L",
+    "title": "Clinical Techniques 2 Laboratory",
+    "description": "Selected clinical techniques for students taking OPTOM 252.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [
+        "OPTOM 252"
+    ],
+    "antireq": [],
+    "next": []
+}

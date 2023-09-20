@@ -1,0 +1,18 @@
+{
+    "id": "003503",
+    "subject": "ARCH",
+    "catalogNumber": "193",
+    "title": "Design Studio",
+    "description": "Further development of basic skills, and the application of theory and design in small scale architectural design projects. Introduction to issues of inhabitation, program, and context. [Note: Passing grade is 60%. Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "ARCH 192"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ARCH 292"
+    ]
+}

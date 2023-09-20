@@ -1,0 +1,14 @@
+{
+    "id": "016304",
+    "subject": "SFM",
+    "catalogNumber": "309",
+    "title": "Sustainability and Business Ethics",
+    "description": "This course focuses jointly on business ethics and the ethics of sustainability. Ethical issues commonly encountered by finance and accounting professionals are explored. Ethical issues regarding the compatibility of commercial activity and sustainability are also examined with a particular lens on the role of corporate governance, culture, and social responsibility.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "AFM 311"
+    ],
+    "next": []
+}

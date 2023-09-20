@@ -1,0 +1,14 @@
+{
+    "id": "014701",
+    "subject": "MATH",
+    "catalogNumber": "631",
+    "title": "Statistics for Teachers",
+    "description": "This course discusses some of the mathematical and scientific aspects of empirical, or data-based, problem solving.  Topics will include methods for the design of experiments and surveys, and the analysis of data using statistical models.  Examples will illustrate the application of these methods to data-based problems in science, health, business and industry.",
+    "term": [],
+    "prereq": [
+        "MATH 630"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

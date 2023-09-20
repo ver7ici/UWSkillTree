@@ -1,0 +1,16 @@
+{
+    "id": "006426",
+    "subject": "KIN",
+    "catalogNumber": "310",
+    "title": "Development, Aging, and Health",
+    "description": "The physiology of human growth, development, and aging is examined, with special reference to the influence of diet, environment, exercise, and disease on the normal processes.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "BIOL 273"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

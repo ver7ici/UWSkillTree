@@ -1,0 +1,14 @@
+{
+    "id": "000250",
+    "subject": "CO",
+    "catalogNumber": "663",
+    "title": "Convex Optimization and  Analysis",
+    "description": "An introduction to the modern theory of convex programming, its extensions and applications. Structure of convex sets, separation and support, subgradient calculus for convex functions, Fenchel conjugacy and duality, Lagrange multipliers. Ellipsoid method for convex optimization.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

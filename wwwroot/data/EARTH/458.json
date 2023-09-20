@@ -1,0 +1,32 @@
+{
+    "id": "004863",
+    "subject": "EARTH",
+    "catalogNumber": "458",
+    "title": "Physical Hydrogeology",
+    "description": "An introduction to physical hydrogeology, including Darcy's law, the groundwater flow equations for steady-state and transient conditions, applications to flow nets, aquifer testing, groundwater resources, and groundwater protection. The role of groundwater in the hydrologic cycle is explored with emphasis on natural groundwater flow systems and their influence on stream flow. Physical processes controlling groundwater contamination are introduced. [Note:  EARTH 123 is recommended as a prerequisite. Offered: F,S]",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [
+        "EARTH 121",
+        "EARTH 121L",
+        "EARTH 122",
+        "EARTH 122L",
+        "CIVE 153",
+        "ENVE 153",
+        "GEOE 153"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "EARTH 650",
+        "EARTH 654",
+        "EARTH 658",
+        "EARTH 659",
+        "EARTH 661",
+        "EARTH 671",
+        "EARTH 439",
+        "EARTH 459"
+    ]
+}

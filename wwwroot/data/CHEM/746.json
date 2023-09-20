@@ -1,0 +1,12 @@
+{
+    "id": "000454",
+    "subject": "CHEM",
+    "catalogNumber": "746",
+    "title": "Quantum Chemistry",
+    "description": "Approximate solutions of the Schrodinger equation and calculations of atomic and molecular properties.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

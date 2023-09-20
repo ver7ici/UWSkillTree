@@ -1,0 +1,18 @@
+{
+    "id": "014290",
+    "subject": "BIOL",
+    "catalogNumber": "487",
+    "title": "Computational Neuroscience",
+    "description": "Introduction to modelling and analysis of neurophysiological systems. Models of synaptic plasticity and learning, with focus on the similarities and differences between neuroscience and deep learning. [Note for systems design engineering students: It is recommended that one of BIOL 273, 376, 377 or BME 284 or SYDE 384/584 be taken before or concurrently with SYDE 552. Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "CS 115",
+        "CS 135",
+        "CS 200"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,14 @@
+{
+    "id": "015736",
+    "subject": "SPCOM",
+    "catalogNumber": "192",
+    "title": "Communication in the Engineering Profession (COMPE, ELE, MGTE)",
+    "description": "In this course students in Computer, Electrical, and Management Engineering will enhance oral and written communication competencies in contexts relevant to the engineering profession.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "GENE 191"
+    ],
+    "next": []
+}

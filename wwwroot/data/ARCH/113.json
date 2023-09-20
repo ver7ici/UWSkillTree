@@ -1,0 +1,21 @@
+{
+    "id": "003494",
+    "subject": "ARCH",
+    "catalogNumber": "113",
+    "title": "Visual and Digital Media 2",
+    "description": "Introduction to computing techniques in architecture. Students will be instructed in the conceptual foundations for computer use in architecture, graphic applications for the computer and skills for two-dimensional drawing, three-dimensional modelling and graphic techniques for visualization and portfolio development. Students will gain fluency in a range of software applications for the purposes of developing technical and visual proficiencies to be integrated into the design process. [Offered:  W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "ARCH 110"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ARCH 314",
+        "ARCH 677",
+        "ARCH 678",
+        "ARCH 212"
+    ]
+}

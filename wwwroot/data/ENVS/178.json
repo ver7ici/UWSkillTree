@@ -1,0 +1,21 @@
+{
+    "id": "005261",
+    "subject": "ENVS",
+    "catalogNumber": "178",
+    "title": "Environmental Applications of Data Management and Statistics",
+    "description": "This course introduces techniques for collecting, evaluating, and using data-based evidence in environmental research, including descriptive statistics (measures of centre, variation and shape, and measures of association between two variables), statistical research designs, sampling theory, and fundamental probability theory for inferential statistics. The course also develops skills in using statistical software for data display and analysis.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ENVS 278",
+        "PLAN 203",
+        "ERS 346",
+        "ERS 446",
+        "ERS 443"
+    ]
+}

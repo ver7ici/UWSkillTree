@@ -1,0 +1,15 @@
+{
+    "id": "003445",
+    "subject": "ANTH",
+    "catalogNumber": "320",
+    "title": "Hunter-Gatherer Archaeology",
+    "description": "Detailed consideration of prehistoric cultural developments from earliest toolmaking to the transition to agriculture. An examination of the human mode of adaptation and the increasing complexity of cultural systems among prehistoric hunters and gatherers. Areas and periods of emphasis will vary from year to year.",
+    "term": [],
+    "prereq": [
+        "ANTH 201",
+        "CLAS 221"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,16 @@
+{
+    "id": "001615",
+    "subject": "HIST",
+    "catalogNumber": "691A",
+    "title": "Directed Studies",
+    "description": "",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

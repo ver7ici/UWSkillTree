@@ -1,0 +1,14 @@
+{
+    "id": "010310",
+    "subject": "ME",
+    "catalogNumber": "610",
+    "title": "Analytical Methods in Vibrations",
+    "description": "This course presents the principles relevant to understanding and modelling of vibrating systems. The systems may either be continuous, or discrete with multiple degrees of freedom. The following topics of a general nature are first covered: principles of dynamics, strain energy, virtual work, the variational principle, and Lagrange's equation. Discrete-system topics covered are eigenvalue problems, modal analysis, natural modes of vibration, solution of the characteristic determinant, and approximate methods of solution, (e.g., using finite element methods). Continuous-system topics covered are formulation of the boundary value problem, vibration of rods and membranes, Rayleigh's integral method, the Rayleigh-Ritz method, and Galerkin's method. The course work includes computer algebra, computer simulation, and experiments in the laboratory.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

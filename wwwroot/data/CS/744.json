@@ -1,0 +1,12 @@
+{
+    "id": "000655",
+    "subject": "CS",
+    "catalogNumber": "744",
+    "title": "Advanced Compiler Design",
+    "description": "Project-oriented course that covers optimizing compilers and the implementation of advanced programming language features. Topics include intermediate representations; data-flow, dependence, and alias analysis; optimizing transforms, register allocation, instruction scheduling; memory management, garbage collection, threads, concurrency; single and multiple inheritance, generics, templates, type inference.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,14 @@
+{
+    "id": "001560",
+    "subject": "HIST",
+    "catalogNumber": "601",
+    "title": "Canadian History I",
+    "description": "",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

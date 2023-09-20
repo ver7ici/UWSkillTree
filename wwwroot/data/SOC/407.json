@@ -1,0 +1,14 @@
+{
+    "id": "008706",
+    "subject": "SOC",
+    "catalogNumber": "407",
+    "title": "Canadian Social Thought",
+    "description": "We examine the development of sociological theory in Canada by focusing on major historical and contemporary figures and theories representative of English-language sociology. We examine, in addition, sociologically important scholars and schools of thought in history and political economy as well as selected developments in French-language Canadian sociology.",
+    "term": [],
+    "prereq": [
+        "SOC 302"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

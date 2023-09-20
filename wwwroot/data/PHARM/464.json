@@ -1,0 +1,16 @@
+{
+    "id": "013801",
+    "subject": "PHARM",
+    "catalogNumber": "464",
+    "title": "Advanced Therapeutic Concepts in Oncology",
+    "description": "This course examines advanced oncology therapeutic concepts required as foundation for patient management in the inpatient, ambulatory, and community settings. Topics include a comprehensive review of cancer epidemiology and pathophysiology, therapeutic agents used in the oncology setting, management of cancer therapy toxicities, and treatment and palliation of cancer symptoms. [Offered: W,S,F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [
+        "PHARM 323"
+    ],
+    "antireq": [],
+    "next": []
+}

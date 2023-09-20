@@ -1,0 +1,20 @@
+{
+    "id": "006421",
+    "subject": "HLTH",
+    "catalogNumber": "101",
+    "title": "Introduction to Health 1",
+    "description": "This course will be of interest to students pursuing careers in health and those with a general interest in health and health care. Various perspectives of the concepts of health and illness will be introduced. Emphasis is on understanding the origins, factors and conditions that determine health throughout the lifespan, how these factors influence one another and the role/impact of health care. Additional topics include how health is measured, the leading causes of death, illness and disability, as well as how health status has changed throughout history. Students will also learn how to research and critically analyze the health literature and discuss important health issues with their peers.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "HLTH 102",
+        "GERON 320",
+        "HLTH 202",
+        "GSJ 401",
+        "HLTH 284"
+    ]
+}

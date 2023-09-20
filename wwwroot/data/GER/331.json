@@ -1,0 +1,21 @@
+{
+    "id": "011599",
+    "subject": "GER",
+    "catalogNumber": "331",
+    "title": "Exploring German Language and Literature",
+    "description": "An introduction to German studies through close engagement with one specific topic. This course prepares students for advanced undergraduate courses in German studies by developing historical, theoretical, and methodological knowledge as well as the language skills necessary for reading literature and analyzing language. [Note: This is a repeatable course, subject to different content; it may be completed a total of three times.]",
+    "term": [],
+    "prereq": [
+        "GER 211",
+        "GER 299",
+        "GER 303",
+        "GER 304",
+        "GER 307",
+        "GER 308",
+        "GER 350",
+        "GER 399"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

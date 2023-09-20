@@ -1,0 +1,24 @@
+{
+    "id": "013001",
+    "subject": "PSYCH",
+    "catalogNumber": "392",
+    "title": "Research in Human Cognitive Neuroscience",
+    "description": "Students learn how to measure psychophysiological responses to the stimuli in our world (e.g., familiar faces, emotional scenes, video games, etc.). Students get hands-on training in acquiring and analyzing different types of psychophysiological data such as skin conductance responses and heart rate changes over short and long periods. [Offered: W and/or S]",
+    "term": [],
+    "prereq": [
+        "PSYCH 261"
+    ],
+    "coreq": [
+        "PSYCH 391"
+    ],
+    "antireq": [
+        "PSYCH 390",
+        "PSYCH 394",
+        "PSYCH 396",
+        "PSYCH 398"
+    ],
+    "next": [
+        "PSYCH 464",
+        "PSYCH 499A"
+    ]
+}

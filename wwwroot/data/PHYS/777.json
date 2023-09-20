@@ -1,0 +1,15 @@
+{
+    "id": "013589",
+    "subject": "PHYS",
+    "catalogNumber": "777",
+    "title": "Special Topics in Physics",
+    "description": "Offered on demand.  Course content depends on topic and instructor.",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

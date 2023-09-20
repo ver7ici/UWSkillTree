@@ -1,0 +1,16 @@
+{
+    "id": "000900",
+    "subject": "EARTH",
+    "catalogNumber": "651",
+    "title": "Advanced Groundwater Modelling",
+    "description": "This course covers advanced numerical modelling topics in groundwater flow and contaminant transport in the subsurface. Topics to be explored include two- and three-dimensional transport in groundwater systems, density/ heat-dependent flow/transport, flow in the vadose zone, immiscible flow of non-aqueous phase liquids, multiphase dissolution and mass transfer processes, transport of biodegrading or chemically interacting contaminants, transport in fractured systems, transport in the vapour phase. The focus is on the use of models to obtain insight into the complex coupled processes that control groundwater contamination and remediation problems. Students will work with their own as well as existing models.",
+    "term": [],
+    "prereq": [
+        "EARTH 456",
+        "EARTH 650",
+        "EARTH 656"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

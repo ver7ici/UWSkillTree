@@ -1,0 +1,14 @@
+{
+    "id": "015404",
+    "subject": "WKRPT",
+    "catalogNumber": "500H",
+    "title": "Health Work-term Report 5",
+    "description": "A work-term report, presenting in detail, a technical or reflective review of a project, activity, or analysis, is normally undertaken by the student during the preceding work term. The report is evaluated on the basis of written communication skills and technical proficiency in the subject matter as demonstrated by the report. Work-term reports are required courses for a co-op designation but their grades are not included in the student's average. Failed work-term report evaluations may delay a student's progress.",
+    "term": [],
+    "prereq": [
+        "WKRPT 400H"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

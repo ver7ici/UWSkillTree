@@ -1,0 +1,21 @@
+{
+    "id": "014231",
+    "subject": "GSJ",
+    "catalogNumber": "347",
+    "title": "Witches, Wives, and Whores",
+    "description": "This course explores the ways in which Early Modern European women experienced, participated in, shaped, and responded to the world they inhabited. It investigates the ways in which women negotiated the Early Modern world as it unfolded in the Renaissance, the Reformation, European encounters around the world, and the challenges of everyday life.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "GSJ 101",
+        "GSJ 102",
+        "WS 101",
+        "WS 102"
+    ],
+    "coreq": [],
+    "antireq": [
+        "WS 347"
+    ],
+    "next": []
+}

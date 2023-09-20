@@ -1,0 +1,24 @@
+{
+    "id": "008926",
+    "subject": "SYDE",
+    "catalogNumber": "112",
+    "title": "Calculus 2",
+    "description": "Integration: improper integrals and applications. Multi-variable calculus: partial, total, and directional derivative, gradient divergence, double and triple integrals, Jacobian, solution techniques, applications. [Offered: W, S]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "MATH 118",
+        "MATH 119",
+        "MATH 128",
+        "MATH 138",
+        "MATH 148"
+    ],
+    "next": [
+        "MATH 218",
+        "PHYS 396"
+    ]
+}

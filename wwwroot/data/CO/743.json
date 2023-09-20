@@ -1,0 +1,12 @@
+{
+    "id": "000297",
+    "subject": "CO",
+    "catalogNumber": "743",
+    "title": "Directed Graphs and Applications",
+    "description": "An introduction to the concepts of directed graphs, problems about directed circuits and directed cuts, and minimax equalities relating these and other graphical objects.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

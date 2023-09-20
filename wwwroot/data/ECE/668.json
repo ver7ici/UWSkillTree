@@ -1,0 +1,14 @@
+{
+    "id": "000803",
+    "subject": "ECE",
+    "catalogNumber": "668",
+    "title": "Distribution System Engineering",
+    "description": "This course covers the following topics in distribution engineering:  Load Characteristics and distribution system load forecasting; Distribution system planning; Distribution system automation; Design and application of distribution transformers; Design and optimal operation of sub-transmission lines and distribution systems; Distribution system voltage regulation; Reactive power control for distribution systems; Application of capacitors to distribution systems; Calculation of voltage drops in lateral distribution systems; Calculation of power losses in distribution systems; Introduction to distribution system protection. Background Required - basic knowledge of power system operation and analysis.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

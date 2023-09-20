@@ -1,0 +1,12 @@
+{
+    "id": "000082",
+    "subject": "ACTSC",
+    "catalogNumber": "961",
+    "title": "Mathematical Methods of Loss Reserving",
+    "description": "Macro methods of runoff analysis: chain-ladder, least squares, separation, payment per claim incurred. Stochastic methods: Reid's method, see-saw, payment per unit of risk, autoregressive models, Kalman filter.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

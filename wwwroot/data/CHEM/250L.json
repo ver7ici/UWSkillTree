@@ -1,0 +1,18 @@
+{
+    "id": "004063",
+    "subject": "CHEM",
+    "catalogNumber": "250L",
+    "title": "Physical Chemistry Laboratory 1",
+    "description": "This laboratory provides an introduction to physical chemistry experimentation. The experiments are designed to illustrate the principles and theories of thermodynamics and employ a variety of important techniques, including spectroscopy, conductivity, and calorimetry. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "CHEM 140"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "CHEM 350L"
+    ]
+}

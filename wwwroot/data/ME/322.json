@@ -1,0 +1,23 @@
+{
+    "id": "006722",
+    "subject": "ME",
+    "catalogNumber": "322",
+    "title": "Mechanical Design 1",
+    "description": "Adequacy assessment and synthesis of machine elements with a focus on the design process.  Static failure of ductile and brittle materials, fatigue analysis of structures.  Topics include the design of welds, bolted connections, springs and shafts. [Offered: F, W]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [
+        "ME 220",
+        "ME 321"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ME 423",
+        "ME 555",
+        "ME 526",
+        "ME 538"
+    ]
+}

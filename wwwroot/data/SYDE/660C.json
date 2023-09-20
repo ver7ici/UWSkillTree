@@ -1,0 +1,22 @@
+{
+    "id": "015960",
+    "subject": "SYDE",
+    "catalogNumber": "660C",
+    "title": "Systems Design Graduate Workshop 1 - Human Factors",
+    "description": "Engineering Design Project course where students work individually or in small groups applying the principles of engineering problem solving, research methods, systems analysis including modelling, simulation, optimization and design. There is a strong focus on a major Human Factors design project with regular mentorship, project update reports & presentations, project reviews, and design embodiment demonstrations.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "SYDE 600"
+    ],
+    "coreq": [],
+    "antireq": [
+        "SYDE 660",
+        "SYDE 660A",
+        "SYDE 660B",
+        "SYDE 660D",
+        "SYDE 660E"
+    ],
+    "next": []
+}

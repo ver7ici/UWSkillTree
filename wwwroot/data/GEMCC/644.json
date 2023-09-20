@@ -1,0 +1,18 @@
+{
+    "id": "015860",
+    "subject": "GEMCC",
+    "catalogNumber": "644",
+    "title": "Climate Resilient Canadians and Health Systems",
+    "description": "Climate change is a growing threat to the health of Canadians, their communities and health systems. Over two decades of increasing research, partnerships, awareness building and adaptation development among health authorities has demonstrated that significant opportunities exist to make strides in efforts to protect Canadians from current and future impacts. This course examines climate-change related health risks to Canadians, including to populations of highest concern - seniors, young children, people with chronic illnesses, the socially and economically disadvantaged, and Indigenous Populations - and the potential for impacts on communities and health systems. New tools such as climate change and health vulnerability and adaptation assessments and health system stress testing are discussed along with their application to policy and program development by Canadian and international partners. Guest lectures and case studies are used to illustrate and learn from the actions of leading health adaptors in efforts being taken to prepare people for the future climate.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "GEOG 675",
+        "GEOG 223",
+        "GEOG 694"
+    ],
+    "next": []
+}

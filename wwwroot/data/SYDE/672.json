@@ -1,0 +1,16 @@
+{
+    "id": "014491",
+    "subject": "SYDE",
+    "catalogNumber": "672",
+    "title": "Statistical Image Processing",
+    "description": "Images are all around us!  The proliferation of low-cost, high-quality imaging devices has led to an explosion in acquired images.  Where these images are acquired from a microscope, telescope, satellite, or medical imaging device there is a statistical image processing task:  the interference of something - an artery, a road, a DNA marker, an oil spill - from imagery, possibly noisy, blurry, or incomplete.  The goal of this course is to address methods for solving multidimensional statistical problems, emphasizing theory, mathematical modeling, and algorithms.  Specific topics of interest include inverse problems, multidimensional modeling, random fields, and hierarchical methods.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "SYDE 770"
+    ],
+    "next": []
+}

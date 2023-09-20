@@ -1,0 +1,20 @@
+{
+    "id": "013354",
+    "subject": "SI",
+    "catalogNumber": "390R",
+    "title": "Understanding Islam",
+    "description": "This course brings together the diverse strands that constitute the student's learning and experience in required as well as elective courses of Studies in Islam. Exploring Islam in a variety of contexts, the approach is interdisciplinary and integrative. [Note: In addition to the three prerequisite courses, a student must have completed at least four Studies in Islam elective courses. Students who do not meet the prerequisites may take the course with department consent.]",
+    "term": [],
+    "prereq": [
+        "SI 121R",
+        "SI 221R",
+        "RS 221",
+        "SI 250R",
+        "MEDVL 250R",
+        "SI 251R",
+        "MEDVL 251R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,24 @@
+{
+    "id": "008000",
+    "subject": "PSYCH",
+    "catalogNumber": "393",
+    "title": "Research in Developmental Psychology",
+    "description": "Current research methods and procedures employed in developmental research are covered. Activities may include research proposals, group and/or individual projects (e.g., \"hands on\" lab experience and data collection), research reports, critiques of published and proposed research, individual and/or group presentations. [Offered F]",
+    "term": [],
+    "prereq": [
+        "PSYCH 211"
+    ],
+    "coreq": [
+        "PSYCH 391"
+    ],
+    "antireq": [
+        "PSYCH 389",
+        "PSYCH 395",
+        "PSYCH 397",
+        "PSYCH 399"
+    ],
+    "next": [
+        "PSYCH 464",
+        "PSYCH 499A"
+    ]
+}

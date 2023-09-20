@@ -1,0 +1,14 @@
+{
+    "id": "015531",
+    "subject": "KIN",
+    "catalogNumber": "608",
+    "title": "Introduction to Genetics for the Biosciences",
+    "description": "Genetic variation helps determine \"innate\" individual characteristics of health and disease, ranging from eye colour to preferences for food flavours, to ability to metabolize specific amino acids.  Genetic variation also modulates how we respond to our environments.  Minor variants in genetic code can affect physiological outcomes such as changes in body mass with caloric restriction, changes in endurance capacity with exercise training, and changes in circulating cholesterol levels with high protein intakes.  Understanding how genetic variability affects health outcomes will be key to providing early diagnosis and prevention measures to optimize performance, prevent disease, and maximize longevity for individuals.  It will also be key to prescribing optimal personalized lifestyle interventions, ranging from diet to exercise to stress reduction and sleep modulation to promote maximal well-being.  In addition, recent advances in gene editing technology will be covered, including discussion of ethical issues surrounding application to human embryos and potential for misuse bioterrorism.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

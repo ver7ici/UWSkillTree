@@ -1,0 +1,17 @@
+{
+    "id": "015562",
+    "subject": "SOC",
+    "catalogNumber": "230",
+    "title": "Special Topics in Sociology",
+    "description": "An in-depth analysis of research in selected topics in Sociology. [Note: This is a repeatable course, subject to different content; it may be completed a total of two times.]",
+    "term": [],
+    "prereq": [
+        "SOC 101",
+        "SOC 101R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ECON 290"
+    ]
+}

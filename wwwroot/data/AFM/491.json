@@ -1,0 +1,20 @@
+{
+    "id": "003285",
+    "subject": "AFM",
+    "catalogNumber": "491",
+    "title": "Advanced Financial Accounting",
+    "description": "An advanced accounting course considering specific problems of accounting for the corporate entity, such as business combinations, intercorporate investments, consolidated financial statements, accounting for foreign operations and foreign currency transactions, and segment reporting.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "AFM 391"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "AFM 401"
+    ]
+}

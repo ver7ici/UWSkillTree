@@ -1,0 +1,20 @@
+{
+    "id": "013998",
+    "subject": "EASIA",
+    "catalogNumber": "204R",
+    "title": "Korean Culture and Society",
+    "description": "The course explores the interface of tradition and modernity in Korean life. Topics include traditional and modern Korean culture, language, education, art, technology, and business. [Note: Formerly KOREA 272R.]",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "EASIA 204R",
+        "KOREA 272R"
+    ],
+    "next": [
+        "EASIA 304R"
+    ]
+}

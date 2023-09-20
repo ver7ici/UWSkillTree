@@ -1,0 +1,16 @@
+{
+    "id": "005648",
+    "subject": "FR",
+    "catalogNumber": "424",
+    "title": "16th-Century French Literature",
+    "description": "A focused study of a particular theme of Renaissance (1500-1600) writing.",
+    "term": [],
+    "prereq": [
+        "FR 197",
+        "FR 296",
+        "FR 297"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

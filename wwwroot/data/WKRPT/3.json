@@ -1,0 +1,14 @@
+{
+    "id": "014274",
+    "subject": "WKRPT",
+    "catalogNumber": "3",
+    "title": "Work-term Report",
+    "description": "A work-term report presenting in detail a technical project, activity, or analysis engaged by the student during the work term.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

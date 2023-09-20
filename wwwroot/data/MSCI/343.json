@@ -1,0 +1,24 @@
+{
+    "id": "012379",
+    "subject": "MSCI",
+    "catalogNumber": "343",
+    "title": "Human-Computer Interaction",
+    "description": "This course is designed to provide in-depth exposure to the concepts of human-computer interaction and methods of interactive information system design. The course will focus on techniques for building information systems that meet human needs and capabilities by following a system development lifecycle: user requirements analysis, information and interaction design, prototyping and evaluation. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "MSCI 342"
+    ],
+    "coreq": [],
+    "antireq": [
+        "CS 449",
+        "SYDE 348",
+        "SYDE 548"
+    ],
+    "next": [
+        "SYDE 542",
+        "MSCI 436",
+        "MSCI 543"
+    ]
+}

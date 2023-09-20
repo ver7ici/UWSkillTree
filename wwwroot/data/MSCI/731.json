@@ -1,0 +1,14 @@
+{
+    "id": "014929",
+    "subject": "MSCI",
+    "catalogNumber": "731",
+    "title": "Matrix-Analytic Methods in Stochastic Models",
+    "description": "This course introduces matrix-analytic methods and shows their applications in queuing theory, inventory theory, supply chain management, telecommunications networks, reliability, finance mathematics, and risk and insurance analysis.  In the first half of the course, the basic theory on phase-type distributions, Markovian arrival processes, and matrix-geometric solutions is introduced.  In the second half of the course, applications of matrix-analytic methods in stochastic modeling (queuing, reliability, inventory, supply chain, etc.) are examined.  Previous study of stochastic models is required, such as MSCI 631.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "MSCI 700"
+    ],
+    "next": []
+}

@@ -1,0 +1,17 @@
+{
+    "id": "003911",
+    "subject": "CO",
+    "catalogNumber": "452",
+    "title": "Integer Programming",
+    "description": "Formulation of problems as integer linear programs. Solution by branch-and-bound and cutting plane algorithms. Introduction to the theory of valid inequalities and polyhedral combinatorics.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "CO 255",
+        "CO 351"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,14 @@
+{
+    "id": "011301",
+    "subject": "CS",
+    "catalogNumber": "898",
+    "title": "Advanced Special Topics in Computer Science",
+    "description": "",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,23 @@
+{
+    "id": "003300",
+    "subject": "ACTSC",
+    "catalogNumber": "363",
+    "title": "Casualty and Health Insurance Mathematics 1",
+    "description": "Models for loss frequency: Poisson, negative binomial, binomial, (a, b, 0) class; models for loss severity including exponential, gamma, lognormal, Pareto, and Weibull; impact of policy adjustments on loss frequency and severity; estimation; compound Poisson models; aggregate claims models: properties, recursion, simulation, and pricing; deterministic reserving methods: chain ladder and Bornhuetter Ferguson; introduction to reinsurance. [Offered: F,W]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [
+        "STAT 330"
+    ],
+    "antireq": [
+        "ACTSC 431"
+    ],
+    "next": [
+        "ACTSC 463",
+        "ACTSC 432",
+        "ACTSC 431"
+    ]
+}

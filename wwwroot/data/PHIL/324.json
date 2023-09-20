@@ -1,0 +1,15 @@
+{
+    "id": "010346",
+    "subject": "PHIL",
+    "catalogNumber": "324",
+    "title": "Social and Political Philosophy",
+    "description": "An examination of central issues in social and political philosophy. This course draws on both contemporary and historical readings to discuss issues such as: Does the state have legitimate authority to govern? What is the just way to distribute resources? What is the value of equality? Of liberty? What rights, if any, do we have, and why?",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

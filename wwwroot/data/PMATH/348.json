@@ -1,0 +1,19 @@
+{
+    "id": "014183",
+    "subject": "PMATH",
+    "catalogNumber": "348",
+    "title": "Fields and Galois Theory",
+    "description": "Fields, algebraic and transcendental extensions, minimal polynomials, Eisenstein's criterion, splitting fields, and the structure of finite fields.  Sylow theorems and solvable groups. Galois theory.  The insolvability of the quintic.",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "PMATH 347"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PMATH 441"
+    ]
+}

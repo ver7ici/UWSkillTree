@@ -1,0 +1,12 @@
+{
+    "id": "000847",
+    "subject": "ECE",
+    "catalogNumber": "652",
+    "title": "Methods and Principles of Safety-critical Embedded Software",
+    "description": "The application of formal test methods based on the structural and behavioural properties of software systems at the unit integration, and system testing levels; for conventional and object-oriented implementations. Related Background: Prior knowledge of a programming language and a certain maturity in compilers, operating systems, abstract data structures, object-oriented and programming skills.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

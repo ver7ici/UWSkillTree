@@ -1,0 +1,22 @@
+{
+    "id": "014705",
+    "subject": "ANTH",
+    "catalogNumber": "204",
+    "title": "Biological Anthropology",
+    "description": "This course surveys the lines of inquiry in biological anthropology including evolutionary theory, anthropological genetics, primatology, hominin fossil record, osteology and skeletal biology, and modern human biocultural adaptations. A laboratory component provides students an experiential approach to the material.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "ANTH 260"
+    ],
+    "next": [
+        "ANTH 365",
+        "ANTH 355",
+        "ANTH 305",
+        "ANTH 377"
+    ]
+}

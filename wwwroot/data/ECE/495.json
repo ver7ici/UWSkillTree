@@ -1,0 +1,14 @@
+{
+    "id": "015999",
+    "subject": "ECE",
+    "catalogNumber": "495",
+    "title": "Autonomous Vehicles",
+    "description": "Autonomous driving system overview; computer vision basics, deep learning for perception, motion modelling and state estimation, localization and mapping, object tracking, behavioral planning and reinforcement learning, path planning and vehicle control, safety and verification and validation, adoption and impact. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

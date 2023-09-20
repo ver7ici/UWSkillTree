@@ -1,0 +1,26 @@
+{
+    "id": "015291",
+    "subject": "ECE",
+    "catalogNumber": "108",
+    "title": "Discrete Mathematics and Logic 1",
+    "description": "Introduction to discrete mathematics, including propositional/Boolean logic, syntax and semantics, proof theory, and model theory; set theory, relations and functions, combinatorics (counting techniques, permutations, and combinations), graph theory. Applications in electrical, computing, and software engineering. [Offered: W, S]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "ECE 150",
+        "MATH 117"
+    ],
+    "coreq": [],
+    "antireq": [
+        "ECE 103",
+        "ECE 155",
+        "MATH 229",
+        "MATH 239",
+        "MATH 249"
+    ],
+    "next": [
+        "ECE 208"
+    ]
+}

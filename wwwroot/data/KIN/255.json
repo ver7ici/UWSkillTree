@@ -1,0 +1,27 @@
+{
+    "id": "006560",
+    "subject": "KIN",
+    "catalogNumber": "255",
+    "title": "Fundamentals of Neuroscience",
+    "description": "An introduction to the principles of the nervous system control of movement, cognition, and learning. The course will introduce the basic structure and function of the nervous system as it relates to understanding the control of movement and behaviour. The course will provide a foundation for understanding the neural mechanisms of learning, recovery from injury to the nervous system, and the factors that determine skilled performance.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "BIOL 273",
+        "PSYCH 101",
+        "KIN 104",
+        "KIN 104L"
+    ],
+    "coreq": [
+        "KIN 255L"
+    ],
+    "antireq": [],
+    "next": [
+        "KIN 356",
+        "KIN 357",
+        "KIN 359",
+        "KIN 360",
+        "KIN 455"
+    ]
+}

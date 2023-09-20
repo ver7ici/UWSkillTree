@@ -1,0 +1,12 @@
+{
+    "id": "000790",
+    "subject": "ECE",
+    "catalogNumber": "644",
+    "title": "Computer Aided Circuit Analysis and Design",
+    "description": "Formulation of equations for arbitrary circuits, active network analysis; sensitivity calculations in the frequency domain; simple integration methods for time domain solution; numerical laplace inversion for transient solution of linear lumped and distributed networks; solution of nonlinear circuits; detailed time domain solution of nonlinear networks; simulation of switched networks in time domain; introduction to switched capacitor networks; iterative simulation methods.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

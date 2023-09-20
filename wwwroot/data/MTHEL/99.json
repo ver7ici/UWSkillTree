@@ -1,0 +1,14 @@
+{
+    "id": "016214",
+    "subject": "MTHEL",
+    "catalogNumber": "99",
+    "title": "First-Year Mathematics Readiness",
+    "description": "A skills-based course designed to help the incoming university student refresh their knowledge of secondary school mathematics. It includes extra practice with the following topics: inequalities and  absolute values, radicals and rational expressions, trigonometry, exponential and logarithmic functions, polynomials, and introductory calculus. [Note: This course will be graded on a Credit/No-Credit basis.]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

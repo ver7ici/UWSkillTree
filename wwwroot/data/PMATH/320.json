@@ -1,0 +1,28 @@
+{
+    "id": "015485",
+    "subject": "PMATH",
+    "catalogNumber": "320",
+    "title": "Euclidean Geometry",
+    "description": "Euclid's axioms, triangle centres, conic sections, compass-and-straightedge constructions, isometries of the Euclidean plane and of Euclidean space, regular and star-shaped polygons, tessellations of the Euclidean plane, regular and quasi-regular polyhedra, symmetries of polygons and polyhedra, four-dimensional polytopes, sphere packings, and the kissing problem. Applications. [Note: This course will be of interest to all math students.]",
+    "term": [],
+    "prereq": [
+        "MATH 106",
+        "MATH 114",
+        "MATH 115",
+        "MATH 136",
+        "MATH 146",
+        "MATH 215",
+        "NE 112",
+        "MATH 104",
+        "MATH 109",
+        "MATH 116",
+        "MATH 117",
+        "MATH 124",
+        "MATH 127",
+        "MATH 137",
+        "MATH 147"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

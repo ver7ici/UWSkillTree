@@ -1,0 +1,15 @@
+{
+    "id": "003680",
+    "subject": "BIOL",
+    "catalogNumber": "323",
+    "title": "Plant Physiology",
+    "description": "A study of plant physiological processes with an emphasis on the role of key metabolic pathways in plant growth and development. Topics such as photosynthesis, nitrogen assimilation, growth regulators, mineral nutrition, water relations, and stress physiology will be covered.  [Offered in Fall of odd years]",
+    "term": [],
+    "prereq": [
+        "BIOL 120",
+        "BIOL 130"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

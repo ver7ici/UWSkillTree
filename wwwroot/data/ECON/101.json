@@ -1,0 +1,40 @@
+{
+    "id": "004874",
+    "subject": "ECON",
+    "catalogNumber": "101",
+    "title": "Introduction to Microeconomics",
+    "description": "This course provides an introduction to microeconomic analysis relevant for understanding the Canadian economy. The behaviour of individual consumers and producers, the determination of market prices for commodities and resources, and the role of government policy in the functioning of the market system are the main topics covered.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "ECON 100",
+        "COMM 103"
+    ],
+    "next": [
+        "ECON 201",
+        "ECON 211",
+        "ECON 221",
+        "ECON 231",
+        "ECON 351",
+        "ECON 371",
+        "ECON 254",
+        "PSCI 300",
+        "ARBUS 200",
+        "ECON 206",
+        "ECON 207",
+        "ECON 212",
+        "ECON 255",
+        "ECON 256",
+        "ECON 262",
+        "ECON 322",
+        "ECON 366",
+        "ECON 241",
+        "MATBUS 371",
+        "ARBUS 302"
+    ]
+}

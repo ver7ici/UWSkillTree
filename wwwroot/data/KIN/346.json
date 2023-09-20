@@ -1,0 +1,19 @@
+{
+    "id": "006434",
+    "subject": "KIN",
+    "catalogNumber": "346",
+    "title": "Human Nutrition and Metabolism",
+    "description": "This course will examine advanced nutrient metabolism and the interplay between diet, biochemistry, and health and disease outcomes. Challenges in assessing dietary intake and the impact of aging and other behaviours such as exercise on nutritional status will be examined. Approaches used in nutritional research will also be introduced.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "KIN 146",
+        "KIN 217",
+        "CHEM 233",
+        "CHEM 237"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

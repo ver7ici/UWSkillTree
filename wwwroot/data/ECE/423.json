@@ -1,0 +1,22 @@
+{
+    "id": "013435",
+    "subject": "ECE",
+    "catalogNumber": "423",
+    "title": "Embedded Computer Systems",
+    "description": "Specification and design of embedded systems, specification languages, hardware/software co-design, performance estimation, co-simulation, verification, validation, embedded architectures, processor architectures and software synthesis, system-on-a-chip paradigm, retargetable code generation and optimization, verification and validation, environmental issues and considerations. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "ECE 254",
+        "SE 350",
+        "ECE 224",
+        "MTE 325",
+        "ECE 327"
+    ],
+    "coreq": [],
+    "antireq": [
+        "SYDE 524"
+    ],
+    "next": []
+}

@@ -1,0 +1,15 @@
+{
+    "id": "009310",
+    "subject": "ME",
+    "catalogNumber": "400A",
+    "title": "Seminar",
+    "description": "Research frontiers in mechanical engineering, specific discussion of research done at Waterloo, seminars by members of research groups. [Offered: S, F]",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

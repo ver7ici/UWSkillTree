@@ -1,0 +1,26 @@
+{
+    "id": "009498",
+    "subject": "PLAN",
+    "catalogNumber": "487",
+    "title": "Management Issues in Geographic Information Systems",
+    "description": "Built around a set of key issues in the management of Geographic Information Systems (GIS). Focuses on middle management concerns and covers topics including GIS needs assessment, benchmarking, the law and spatial data, spatial data warehousing, multi-user GIS modelling and GIS application development.  Uses of GIS in both public and private sector organizations are covered. [Note: Formerly GEOG/PLAN 555]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "GEOG 355",
+        "PLAN 355",
+        "GEOG 381",
+        "PLAN 381",
+        "GEOG 387",
+        "PLAN 387",
+        "GEOG 455",
+        "PLAN 455"
+    ],
+    "coreq": [],
+    "antireq": [
+        "GEOG 555",
+        "PLAN 555"
+    ],
+    "next": []
+}

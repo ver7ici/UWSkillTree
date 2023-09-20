@@ -1,0 +1,23 @@
+{
+    "id": "015062",
+    "subject": "PSYCH",
+    "catalogNumber": "459",
+    "title": "Honours Seminar - Close Relationships",
+    "description": "This course covers social psychological theories of close relationships with emphasis on reading and discussion of original empirical articles. Topics may include attraction, partner selection, trust and power, attachment, communications, conflict, intimacy, and relationship maintenance and dissolution. Student roles include presenting articles, leading discussions, and submitting a written research proposal.",
+    "term": [],
+    "prereq": [
+        "PSYCH 354",
+        "PSYCH 354R",
+        "PSYCH 253",
+        "PSYCH 253R",
+        "SMF 306"
+    ],
+    "coreq": [
+        "PSYCH 391"
+    ],
+    "antireq": [
+        "PSYCH 448R",
+        "PSYCH 455"
+    ],
+    "next": []
+}

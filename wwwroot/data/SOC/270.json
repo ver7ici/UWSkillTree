@@ -1,0 +1,16 @@
+{
+    "id": "014847",
+    "subject": "SOC",
+    "catalogNumber": "270",
+    "title": "International Migration",
+    "description": "This course examines different international migration flows, including irregular immigration, refugees and asylum seekers, and low- and high-skilled labourers. Drawing on migration theories, it critically examines why people move, how states respond to different flows, and how migration controls intersect with gender, race, class, and nationality.",
+    "term": [],
+    "prereq": [
+        "SOC 101",
+        "SOC 101R",
+        "SOC 120R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

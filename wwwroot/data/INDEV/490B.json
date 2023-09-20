@@ -1,0 +1,16 @@
+{
+    "id": "014688",
+    "subject": "INDEV",
+    "catalogNumber": "490B",
+    "title": "Honours Thesis: Project Completion",
+    "description": "The Honours Thesis/Project provides students with an opportunity to pursue a specific research topic or applied project of their choosing relating to the study of International Development. The paper will be prepared over two semesters. 490B involves the formal completion of the thesis/project.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "INDEV 490A"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

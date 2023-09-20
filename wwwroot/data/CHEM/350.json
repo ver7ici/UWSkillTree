@@ -1,0 +1,19 @@
+{
+    "id": "004093",
+    "subject": "CHEM",
+    "catalogNumber": "350",
+    "title": "Chemical Kinetics",
+    "description": "Basic chemical kinetics; treatment of kinetic data; complex reaction mechanisms; fast reactions; the canonical ensemble and the canonical partition function; statistical mechanics applied to chemistry; statistical theory of reaction rates. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "CHEM 254",
+        "CHEM 240",
+        "MATH 227",
+        "MATH 228"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

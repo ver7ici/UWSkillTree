@@ -1,0 +1,16 @@
+{
+    "id": "014706",
+    "subject": "ANTH",
+    "catalogNumber": "381",
+    "title": "Anthropology of South Asia",
+    "description": "An introduction to culture and society in South Asia, focusing on caste, kinship, gender, religion, material culture, regional and national identity, ethnic conflict, globalization, and life in the diaspora.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "ANTH 202"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

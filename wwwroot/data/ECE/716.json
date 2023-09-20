@@ -1,0 +1,17 @@
+{
+    "id": "015965",
+    "subject": "ECE",
+    "catalogNumber": "716",
+    "title": "Communication Security",
+    "description": "This course introduces some timely topics in communications security. It covers the advanced topics on cryptography, encryption and authentication, homomorphic encryption, cryptanalysis, provable security, network security mechanisms and protocols, network access authentication, radio air link protection, privacy in radio frequency identification systems, game theory and security in wireless spectrum sharing, attacks, and hardware protections.",
+    "term": [],
+    "prereq": [
+        "ECE 409",
+        "ECE 498"
+    ],
+    "coreq": [],
+    "antireq": [
+        "ECE 710"
+    ],
+    "next": []
+}

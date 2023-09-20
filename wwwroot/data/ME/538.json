@@ -1,0 +1,17 @@
+{
+    "id": "011726",
+    "subject": "ME",
+    "catalogNumber": "538",
+    "title": "Welding Design, Fabrication and Quality Control",
+    "description": "Manufacturing principles of welded mechanical components, machinery, pressure vessels, and structures subject to static or dynamic loading. Design of weld joints for structures made from ferrous alloys such as plain carbon and low alloy steels and non-ferrous alloys such as aluminum alloys. Residual stresses in weldments and distortion of weldments. Quality and quality control in welding fabrication; welding standards; welding procedure qualification; nondestructive examination methods for welds and brazed joints such as radiography, dye penetrant, magnetic particle, ultrasonic, and eddy current techniques. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "ME 322",
+        "ME 436"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

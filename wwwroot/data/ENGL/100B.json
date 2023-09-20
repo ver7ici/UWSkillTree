@@ -1,0 +1,14 @@
+{
+    "id": "013478",
+    "subject": "ENGL",
+    "catalogNumber": "100B",
+    "title": "Poetry",
+    "description": "An introduction to poetry through a detailed examination of a range of poetic texts.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

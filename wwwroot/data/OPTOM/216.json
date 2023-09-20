@@ -1,0 +1,19 @@
+{
+    "id": "007097",
+    "subject": "OPTOM",
+    "catalogNumber": "216",
+    "title": "Ophthalmic Optics 1",
+    "description": "Single vision spectacle lenses.  Lens and frame materials.  Optical and ophthalmic instrumentation.  Image quality.  Polarization.  Tinted lenses.  Decentration and prismatic effect.  Obliquely crossed cylinders.  Spectacle magnification.  Ophthalmic laboratory procedures: measurement of spectacle lens power.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "OPTOM 106"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "OPTOM 246",
+        "OPTOM 346"
+    ]
+}

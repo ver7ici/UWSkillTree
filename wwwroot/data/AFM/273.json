@@ -1,0 +1,35 @@
+{
+    "id": "003257",
+    "subject": "AFM",
+    "catalogNumber": "273",
+    "title": "Financial Instruments and Capital Markets",
+    "description": "This course is the second in a two-course sequence which offers an overview of global capital markets. The course focuses on valuation of financial instruments and the theories of financial risk and diversification.",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [
+        "AFM 121",
+        "AFM 113",
+        "STAT 211"
+    ],
+    "coreq": [],
+    "antireq": [
+        "AFM 272",
+        "ACTSC 291",
+        "ECON 371"
+    ],
+    "next": [
+        "AFM 274",
+        "AFM 424",
+        "AFM 322",
+        "AFM 425",
+        "AFM 276",
+        "AFM 323",
+        "AFM 422",
+        "AFM 324",
+        "AFM 427",
+        "SFM 310",
+        "SFM 412"
+    ]
+}

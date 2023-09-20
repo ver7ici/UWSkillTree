@@ -1,0 +1,21 @@
+{
+    "id": "006632",
+    "subject": "KIN",
+    "catalogNumber": "359",
+    "title": "Cognition, Cognitive Dysfunction, and Movement",
+    "description": "This course provides a comprehensive introduction to neuropsychology, with emphasis on the implication for movement and discussion of how neurological disorders reflect disturbances at different stages in the sequence of information processing.",
+    "term": [],
+    "prereq": [
+        "KIN 255",
+        "PSYCH 306"
+    ],
+    "coreq": [],
+    "antireq": [
+        "PSYCH 307",
+        "KIN 456"
+    ],
+    "next": [
+        "KIN 459",
+        "KIN 493"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "id": "007509",
+    "subject": "GEOG",
+    "catalogNumber": "281",
+    "title": "Introduction to Geographic Information Systems (GIS)",
+    "description": "Introduction to the fundamental concepts and use of Geographic Information Systems (GIS). Students learn about the nature of geographic information and how to store, manipulate and analyze spatial data in a range of application areas. Students will learn underlying theory in lectures and gain a working knowledge of GIS software in lab sessions.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [
+        "GEOG 165",
+        "GEOG 181",
+        "GEOG 187"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PLAN 387",
+        "PLAN 381",
+        "PLAN 350",
+        "PLAN 416",
+        "GEOG 428",
+        "PLAN 606"
+    ]
+}

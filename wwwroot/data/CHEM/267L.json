@@ -1,0 +1,18 @@
+{
+    "id": "004074",
+    "subject": "CHEM",
+    "catalogNumber": "267L",
+    "title": "Organic Chemistry Laboratory",
+    "description": "Selected experiments for students taking CHEM 267. [Note:  Lab alternate weeks. Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "CHEM 266L"
+    ],
+    "coreq": [
+        "CHEM 267"
+    ],
+    "antireq": [],
+    "next": []
+}

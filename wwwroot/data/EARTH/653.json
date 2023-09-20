@@ -1,0 +1,14 @@
+{
+    "id": "000901",
+    "subject": "EARTH",
+    "catalogNumber": "653",
+    "title": "Contaminant Hydrogeology",
+    "description": "Physical and chemical processes influencing contaminant behaviour in groundwater with emphasis on field approaches. Interpretation of process effects in the context of various causes of groundwater contamination such as those related to landfills, chemical spills, mining and agriculture. Field experiments and case studies. (EARTH 621 and EARTH 657 or equivalent are recommended).",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "014523",
+    "subject": "AVIA",
+    "catalogNumber": "307",
+    "title": "Professional Pilot Program Course 7",
+    "description": "This course continues from AVIA 306 and focuses on exercises that apply knowledge of various considerations and procedures for flight in instrument meteorological conditions. Pairs of students will function as two-person flight crews during simulated IFR flights. Scenarios will enable students to recognize, avoid or manage situations that lead to incidents. Also included is a tour of the Toronto Area Control Centre. The flight portion focuses on acquiring cross-country Pilot-in-Command time to meet the requirements for the Instrument Rating. This course also includes ground school in preparation for students to write the Transport Canada IATRA examination and training in wilderness survival and First Aid skills.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "AVIA 306"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "AVIA 408"
+    ]
+}

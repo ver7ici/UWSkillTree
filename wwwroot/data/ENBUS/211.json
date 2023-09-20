@@ -1,0 +1,21 @@
+{
+    "id": "012901",
+    "subject": "ENBUS",
+    "catalogNumber": "211",
+    "title": "Principles of Marketing for Sustainability Professionals",
+    "description": "This course explores the principles of marketing with a focus on sustainability issues. Topics that will be explored include green consumerism; greenwashing, the incorporation of environmental considerations into successful products and services; the role of social marketing, government regulations, and other incentives related to green marketing. [Note: Formerly ENBUS 311]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "ENBUS 311",
+        "ECON 344",
+        "MGMT 344",
+        "ARBUS 302"
+    ],
+    "next": [
+        "ARBUS 303"
+    ]
+}

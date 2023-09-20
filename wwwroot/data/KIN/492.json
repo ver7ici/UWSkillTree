@@ -1,0 +1,21 @@
+{
+    "id": "016448",
+    "subject": "KIN",
+    "catalogNumber": "492",
+    "title": "Exercise Management for Chronic Conditions",
+    "description": "This practicum provides students with the opportunity to gain hands-on experience in the field of clinical exercise physiology and to link concepts and theory to real-world experiences. Practical skills are gained within a laboratory setting and through placement with the Center for Community Clinical and Applied Research Excellence (CCCARE) chronic disease programs. Skills are developed to a competency level required for certification as a Clinical Exercise Physiologist, with major emphasis placed on the cardiorespiratory and neuromuscular implications of exercise assessment, prescription, and management of chronic health conditions.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "KIN 204",
+        "KIN 204L",
+        "KIN 407"
+    ],
+    "coreq": [],
+    "antireq": [
+        "KIN 492A",
+        "KIN 492B"
+    ],
+    "next": []
+}

@@ -1,0 +1,14 @@
+{
+    "id": "015392",
+    "subject": "MTE",
+    "catalogNumber": "544",
+    "title": "Autonomous Mobile Robots",
+    "description": "Fundamentals of autonomous mobile robotics, including both perception and planning for autonomous operation, sensor modelling, vehicle state estimation using Bayes Filters, Kalman Filters, and Particle Filters as well as onboard localization and mapping. Topics in planning include vehicle motion modelling and control, as well as graph based and probabilistic motion planning of (Micro Electro Mechanical Systems) MEMS devices. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

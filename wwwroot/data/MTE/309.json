@@ -1,0 +1,22 @@
+{
+    "id": "004767",
+    "subject": "MTE",
+    "catalogNumber": "309",
+    "title": "Introduction to Thermodynamics and Heat Transfer",
+    "description": "Macroscopic approach to energy analysis. Energy transfer as work and heat, and the First Law of thermodynamics. Properties and states of simple substances. Control-mass and control-volume analysis. The essence of entropy, and the Second Law of thermodynamics. The Carnot cycle and its implications for practical cyclic devices. Introduction to heat transfer by conduction, convection, and radiation. Basic formulation and solution of steady and transient problems. Issues relevant to the cooling of electrical devices. [Offered: W,S]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "MTE 202",
+        "MTE 203"
+    ],
+    "coreq": [],
+    "antireq": [
+        "SYDE 381"
+    ],
+    "next": [
+        "ME 459"
+    ]
+}

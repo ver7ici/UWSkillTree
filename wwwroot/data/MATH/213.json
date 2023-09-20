@@ -1,0 +1,29 @@
+{
+    "id": "011849",
+    "subject": "MATH",
+    "catalogNumber": "213",
+    "title": "Signals, Systems, and Differential Equations",
+    "description": "Fourier series. Differential equations. Laplace transforms. Applications to circuit analysis. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "MATH 119"
+    ],
+    "coreq": [],
+    "antireq": [
+        "AMATH 250",
+        "AMATH 251",
+        "MATH 211",
+        "ECE 205",
+        "ECE 218",
+        "ECE 228",
+        "NE 217"
+    ],
+    "next": [
+        "ECE 380",
+        "ECE 313",
+        "ECE 207",
+        "SE 380"
+    ]
+}

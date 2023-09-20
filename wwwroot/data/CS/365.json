@@ -1,0 +1,23 @@
+{
+    "id": "011347",
+    "subject": "CS",
+    "catalogNumber": "365",
+    "title": "Models of Computation",
+    "description": "Finite automata and regular expressions. Pushdown automata and context-free grammars. Turing machines and undecidability. Time and space complexity. Diagonalization and hierarchies. CS 365 covers the material in CS 360 at an accelerated pace plus additional topics in computational complexity.  [Note: CS 365 may be substituted for CS 360 in any degree plan or for prerequisite purposes; enrolment is restricted; see Note 1 above. Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "CS 240",
+        "CS 241",
+        "MATH 239",
+        "MATH 249"
+    ],
+    "coreq": [],
+    "antireq": [
+        "CS 360"
+    ],
+    "next": [
+        "CS 462"
+    ]
+}

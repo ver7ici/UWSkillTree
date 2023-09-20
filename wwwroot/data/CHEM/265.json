@@ -1,0 +1,28 @@
+{
+    "id": "004069",
+    "subject": "CHEM",
+    "catalogNumber": "265",
+    "title": "Organic Chemistry 2",
+    "description": "Nucleophilic addition and substitution at CO carbon. Aromaticity and simple MO theory of conjugated systems. Electrophilic and nucleophilic aromatic substitution reactions. Applications of spectroscopic techniques in organic chemistry. [Offered: W,S]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "CHEM 264"
+    ],
+    "coreq": [],
+    "antireq": [
+        "CHEM 267"
+    ],
+    "next": [
+        "CHEM 333",
+        "CHEM 360",
+        "CHEM 360L",
+        "CHEM 363",
+        "CHEM 464",
+        "CHEM 370",
+        "CHEM 331",
+        "CHEM 381"
+    ]
+}

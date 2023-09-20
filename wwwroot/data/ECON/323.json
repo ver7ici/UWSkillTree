@@ -1,0 +1,29 @@
+{
+    "id": "015190",
+    "subject": "ECON",
+    "catalogNumber": "323",
+    "title": "Econometric Analysis 2",
+    "description": "This course covers the most important methods used in applied economics research beyond the least-squares estimator. It starts by exploring solutions to the endogeneity problem in detail, emphasizing proper ways of conducting causal inference. It extends the methods covered in ECON 322 to the case in which the data are observed over time. Students will learn how to estimate and interpret dynamic models and how these models affect our ability to do inference. The course also covers methods for data in which the response variable is either qualitative, with or without multiple levels, or count data. For that purpose, it introduces students to maximum likelihood estimation, and the estimation of models by probit, logit, and Poisson regressions. Assignments have the same data-based focus as in ECON 322.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "ECON 322"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ECON 421",
+        "ECON 422",
+        "ECON 456",
+        "ECON 452",
+        "ECON 423",
+        "ECON 441",
+        "ECON 443",
+        "ECON 424",
+        "ECON 425",
+        "ECON 426"
+    ]
+}

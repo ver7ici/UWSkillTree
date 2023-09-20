@@ -1,0 +1,20 @@
+{
+    "id": "012606",
+    "subject": "GEOG",
+    "catalogNumber": "310",
+    "title": "Geodesy and Surveying",
+    "description": "Concepts of geodesy and surveying, Earth's gravity field and the geoid, and measurement techniques applied to geomatics are examined. Field studies include the use of the level, the total station, and GPS for doing distance and angle measurements, leveling, traversing, and topographic surveying.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "GEOG 165",
+        "GEOG 181",
+        "GEOG 187"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "GEOG 410"
+    ]
+}

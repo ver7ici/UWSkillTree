@@ -1,0 +1,19 @@
+{
+    "id": "016152",
+    "subject": "AFM",
+    "catalogNumber": "346",
+    "title": "Applications of Predictive Analytics in Accounting and Finance",
+    "description": "This course introduces applications of classification/prediction methods and machine learning used in accounting and finance settings. Samples include bankruptcy prediction, fraud detection, and loan default.",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [
+        "AFM 244"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "AFM 448"
+    ]
+}

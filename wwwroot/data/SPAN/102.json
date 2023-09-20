@@ -1,0 +1,19 @@
+{
+    "id": "008786",
+    "subject": "SPAN",
+    "catalogNumber": "102",
+    "title": "Introduction to Spanish 2",
+    "description": "This course is a continuation of SPAN 101, with emphasis being placed on more advanced elements of Spanish grammar and the spoken language. Students will be provided with a range of opportunities to gain practical insights into the customs and cultural contexts of the contemporary Spanish-speaking world. [Note: SPAN 102 is not open to students with native, near-native, or similar advanced ability.]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [
+        "SPAN 101"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "SPAN 201A"
+    ]
+}

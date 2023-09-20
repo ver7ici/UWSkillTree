@@ -1,0 +1,14 @@
+{
+    "id": "000467",
+    "subject": "CHEM",
+    "catalogNumber": "766",
+    "title": "Organic Spectroscopy",
+    "description": "Ultraviolet, infrared, resonance spectroscopy and mass spectrometry, with emphasis on applications to studies of organic molecules.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

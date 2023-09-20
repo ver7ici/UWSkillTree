@@ -1,0 +1,15 @@
+{
+    "id": "016295",
+    "subject": "PS",
+    "catalogNumber": "627",
+    "title": "Coding for Policy Analysis",
+    "description": "Big data analysis is becoming increasingly relevant for policy analysis and there is a significant demand for coding skills. This course covers fundamental skills in programming that are essential for the analysis of large data sets that may be structured or unstructured. Students will be exposed to the basics of programming using languages such as R and SQL as well as to key data visualization techniques. Learners will also be taught how to use Shiny in order to create and publish dashboards to share with their colleagues. Applications will be presented through case studies based on publicly available data.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

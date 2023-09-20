@@ -1,0 +1,16 @@
+{
+    "id": "016402",
+    "subject": "BLKST",
+    "catalogNumber": "421",
+    "title": "The Black Atlantic",
+    "description": "Using a number of Black studies' approaches, including Black Feminist Theory and Critical Race Theory, students will explore the diverging and converging histories of Black people(s) in the \"Atlantic\" and examine the diachronic realities of the Black Self in the 21st century.",
+    "term": [],
+    "prereq": [
+        "BLKST 101",
+        "BLKST 102",
+        "BLKST 103"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

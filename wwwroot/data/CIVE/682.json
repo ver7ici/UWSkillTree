@@ -1,0 +1,12 @@
+{
+    "id": "000520",
+    "subject": "CIVE",
+    "catalogNumber": "682",
+    "title": "Free Surface Hydraulics",
+    "description": "Review of continuity, energy and momentum equations, resistance to flow in open channels. Gradually varied unsteady flow equations and kinematic wave approximation. Sediment transport equations and channel stability. Similitude of scale models, including distortion effects, laboratory techniques, and case studies.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

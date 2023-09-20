@@ -1,0 +1,15 @@
+{
+    "id": "008653",
+    "subject": "SOC",
+    "catalogNumber": "307",
+    "title": "Problems in Contemporary Education",
+    "description": "A study of problems arising from the interplay between institutionalized education and the forces of rapid social change in the contemporary society. It emphasizes the changing roles of the learners and instructors and social dimensions of newer learning theories and programs.",
+    "term": [],
+    "prereq": [
+        "SOC 207",
+        "SOC 207R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

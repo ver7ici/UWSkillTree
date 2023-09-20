@@ -1,0 +1,16 @@
+{
+    "id": "006582",
+    "subject": "KIN",
+    "catalogNumber": "420",
+    "title": "Occupational Biomechanics",
+    "description": "A course designed to provide the student with knowledge to reduce the risk of injury and increase worker productivity. Issues include identification of injury risk factors, understanding injury mechanism, quantitative assessment of injury risk and intervention strategies to reduce the risk of injury. Specific examples include the use of computerized models and EMG methods to analyze low back loading, optimizing tool design and workspace layout and the examination of related issues such as office seating and vibration.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "KIN 320"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

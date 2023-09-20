@@ -1,0 +1,17 @@
+{
+    "id": "012388",
+    "subject": "MSCI",
+    "catalogNumber": "434",
+    "title": "Supply Chain Management",
+    "description": "This course focuses on the efficient use of material, information, physical and human capital resources in supply-demand networks consisting of suppliers, manufacturers, distributors, retailers and customers. It emphasizes analytic tools used to design, implement and sustain competitive supply chain systems. The material will highlight application of supply chain practices in industry and supply chain implementation challenges. Issues associated with international or global supply chains will be discussed.\r\n[Offered: S]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "MSCI 334",
+        "MSCI 432"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

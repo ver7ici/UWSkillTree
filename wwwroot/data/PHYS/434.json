@@ -1,0 +1,20 @@
+{
+    "id": "007463",
+    "subject": "PHYS",
+    "catalogNumber": "434",
+    "title": "Quantum Physics 3",
+    "description": "Symmetries and conservation laws. Review of time-independent perturbation theory (degenerate and non-degenerate, Rayleigh-Schrodinger, Brillouin-Wigner and canonical perturbation theory; effective Hamiltonian derivation). Time-dependent perturbation theory (1st and 2nd order, adiabatic perturbation, Aharonov-Bohm effect). Fermi's golden rule. Two-level systems. Emission and absorption of radiation (applications). Second quantization of electromagnetic field in free space; photons. Spontaneous emission and natural lifetime; Lamb shift.  Elements of scattering theory. Introduction to the Dirac equation. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "PHYS 334",
+        "AMATH 373",
+        "PHYS 364",
+        "AMATH 351",
+        "AMATH 353"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,12 @@
+{
+    "id": "000844",
+    "subject": "ECE",
+    "catalogNumber": "752",
+    "title": "Software Architecture & Design",
+    "description": "Advanced study of software design and architecture; representation of architecture/design; software design methods; patterns in software design; analysis, assessment, verification and quality control for software design; case studies, current research issues and challenges. Related Background: Basic exposure to programming using C or C++, previous graduate or undergraduate course in software specifications, or software engineering should be sufficient.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

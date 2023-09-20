@@ -1,0 +1,16 @@
+{
+    "id": "004344",
+    "subject": "CROAT",
+    "catalogNumber": "101",
+    "title": "Elementary Croatian 1",
+    "description": "For students with little or no knowledge of Croatian. The basic elements of Croatian grammar with emphasis on oral practice and pronunciation.\n[Note: CROAT 101 is not open to students with native, near-native, or similar advanced ability.]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "CROAT 102"
+    ]
+}

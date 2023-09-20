@@ -1,0 +1,14 @@
+{
+    "id": "001389",
+    "subject": "PLAN",
+    "catalogNumber": "661B",
+    "title": "Applied Studies in Hydrology and the Environment 2",
+    "description": "This course is a continuation of GEOG 661A/PLAN661A. *eligible for MES.",
+    "term": [],
+    "prereq": [
+        "PLAN 661A"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

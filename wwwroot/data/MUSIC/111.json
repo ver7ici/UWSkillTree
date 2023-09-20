@@ -1,0 +1,15 @@
+{
+    "id": "006948",
+    "subject": "MUSIC",
+    "catalogNumber": "111",
+    "title": "Fundamentals of Music Theory",
+    "description": "An introduction to the primary skills of music practice emphasizing the reading and writing of musical notation. Students will learn elementary keyboard, listening, and sight-singing skills. [Note: For students with minimal musical background. Does not fulfil Music major or minor requirements.]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

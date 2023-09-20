@@ -1,0 +1,14 @@
+{
+    "id": "000537",
+    "subject": "CIVE",
+    "catalogNumber": "710",
+    "title": "Advanced Project Management",
+    "description": "This course presents advanced construction engineering and project management techniques that can be applied to improve cost, schedule, safety, and quality of projects.  The course covers a variety of topics including: Critical Path Method; bidding strategy models; uncertainty and risk assessment; multiple-criteria decision analysis; planning of linear, repetitive, and distributed projects; project control and delay analysis; Enterprise Resource Planning; heavy construction equipment and methods; modelling and simulation; construction methods design; positioning and locating technologies; equipment automation and robotics; opportunity analysis and process of innovation; modularization and prefabrication; and construction human resource management.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

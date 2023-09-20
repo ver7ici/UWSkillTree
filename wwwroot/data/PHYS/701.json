@@ -1,0 +1,18 @@
+{
+    "id": "002192",
+    "subject": "PHYS",
+    "catalogNumber": "701",
+    "title": "Quantum Mechanics 1",
+    "description": "Review of formalism of nonrelativistic quantum mechanics including symmetries and invariance. Approximation methods and scattering theory. Elementary quantum theory of radiation. Introduction to one-particle relativistic wave equations.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PHYS 703",
+        "PHYS 702",
+        "PHYS 739"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": "000472",
+    "subject": "CHEM",
+    "catalogNumber": "773",
+    "title": "Selected Topics in Polymer Chemistry",
+    "description": "Discussion of specialized topics of polymer chemistry related to the research interests of the faculty or prominent scientific visitors. Special topics could include, for example, polymer stabilization and degradation; mechanical properties; polymer principles in surface coatings; organic chemistry of synthetic high polymers; estimation of polymer properties; reactions of polymers; polymerization kinetics.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

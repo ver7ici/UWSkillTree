@@ -1,0 +1,26 @@
+{
+    "id": "014382",
+    "subject": "PSCI",
+    "catalogNumber": "150",
+    "title": "Introduction to Global Politics",
+    "description": "What are the politics underlying the contemporary distribution and governance of global wealth and power? This course provides students with an introduction to core issues in the study of global politics.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PSCI 252",
+        "PSCI 226",
+        "PSCI 281",
+        "PSCI 282",
+        "PSCI 387",
+        "PSCI 250",
+        "PSCI 259",
+        "PSCI 300",
+        "PSCI 244",
+        "SDS 260R",
+        "PSCI 437"
+    ]
+}

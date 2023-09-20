@@ -1,0 +1,39 @@
+{
+    "id": "015189",
+    "subject": "ECON",
+    "catalogNumber": "322",
+    "title": "Econometric Analysis 1",
+    "description": "This course covers the core topics needed to estimate linear models using ordinary least squares and to interpret estimates for cross-sectional data. Students will learn to interpret the coefficients of linear models for continuous and discrete regressors, to conduct reliable inference for different specifications of the error term, and to determine which model is the most suitable among the class of linear models. Students will be introduced to a statistical software package and will be required to complete regular computer-based assignments throughout the course using economic data.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "ECON 221",
+        "ECON 101",
+        "ECON 102",
+        "ECON 100",
+        "COMM 103",
+        "STAT 220",
+        "STAT 230",
+        "STAT 240",
+        "ECON 101",
+        "ECON 102",
+        "STAT 211"
+    ],
+    "coreq": [],
+    "antireq": [
+        "ECON 321"
+    ],
+    "next": [
+        "ECON 457",
+        "ECON 445",
+        "ECON 323",
+        "ECON 406",
+        "ECON 407",
+        "ECON 408",
+        "ECON 409",
+        "ECON 496"
+    ]
+}

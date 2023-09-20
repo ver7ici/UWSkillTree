@@ -1,0 +1,18 @@
+{
+    "id": "010394",
+    "subject": "OPTOM",
+    "catalogNumber": "387",
+    "title": "Low Vision and Geriatrics",
+    "description": "Aging and its effects on the visual system in both health and disease, care, and management of the aging patient. Assessment and management of visual impairment and disability, including both optical and non-optical therapies. Epidemiology and psychology of vision impairment, and associated rehabilitative services.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "OPTOM 152",
+        "OPTOM 252",
+        "OPTOM 346"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

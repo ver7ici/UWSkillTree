@@ -1,0 +1,14 @@
+{
+    "id": "000232",
+    "subject": "CO",
+    "catalogNumber": "630",
+    "title": "Algebraic Enumeration",
+    "description": "The algebra of formal Laurent series.  Multivariate ordinary generating functions and exponential generating functions. The Lagrange Implicit Function Theorem, the MacMahon Master Theorem.  Enumeration of planar triangulations. The Transfer Matrix method.  Sieve methods, Inclusion/Exclusion, M\u00f6bius inversion.  P\u00f3lya Enumeration, Enumeration of Trees.  Basic hypergeometric series, q-analogues, Rogers-Ramanujan identities.  Asymptotic methods.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

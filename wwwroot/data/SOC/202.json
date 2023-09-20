@@ -1,0 +1,21 @@
+{
+    "id": "009512",
+    "subject": "SOC",
+    "catalogNumber": "202",
+    "title": "Classical Sociological Theory",
+    "description": "An examination of the nature and function of sociological theory and the types of theory that founded the discipline in the 19th and early 20th centuries.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [
+        "SOC 101",
+        "SOC 101R",
+        "SOC 120R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "SOC 302"
+    ]
+}

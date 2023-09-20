@@ -1,0 +1,32 @@
+{
+    "id": "009492",
+    "subject": "ACTSC",
+    "catalogNumber": "445",
+    "title": "Quantitative Enterprise Risk Management",
+    "description": "This course introduces enterprise risk management, with a focus on quantitative analysis and economic capital. Risk classification is first discussed with an emphasis on the types of risk most suited to quantitative methods. Risk measures, such as Value-at-Risk (VaR) and Conditional Tail Expectation (CTE or TVaR), are then introduced and their use by firms and regulators to determine risk capital requirements is further highlighted. Different approaches are considered for developing loss distributions, including frequency/severity analysis and extreme value theory. Copulas and economic scenario generators are used to aggregate dependent risks. Different strategies for mitigating or transferring risk are reviewed. Additional topics that may be covered include credit risk, capital allocation, and regulation of financial institutions. [Offered: F,S]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "AFM 275",
+        "AFM 372",
+        "ACTSC 391",
+        "ACTSC 231",
+        "ACTSC 371",
+        "ACTSC 372",
+        "BUS 393W",
+        "STAT 330",
+        "STAT 333",
+        "STAT 334"
+    ],
+    "coreq": [],
+    "antireq": [
+        "AFM 422",
+        "MATBUS 472",
+        "BUS 433W",
+        "BUS 439W"
+    ],
+    "next": []
+}

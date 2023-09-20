@@ -1,0 +1,19 @@
+{
+    "id": "015779",
+    "subject": "AFM",
+    "catalogNumber": "212",
+    "title": "Financial Analysis and Planning",
+    "description": "This course develops an in-depth understanding of financial statements as a system for analysis and planning as a foundation for upper-year accounting and finance courses.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "AFM 101",
+        "AFM 191"
+    ],
+    "coreq": [],
+    "antireq": [
+        "AFM 211"
+    ],
+    "next": []
+}

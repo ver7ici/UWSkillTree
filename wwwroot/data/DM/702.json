@@ -1,0 +1,12 @@
+{
+    "id": "011071",
+    "subject": "DM",
+    "catalogNumber": "702",
+    "title": "Surface Machining",
+    "description": "Surface Machining represents a major activity in many industries, like in the manufacture of tools and dies. This course addresses the issues of surface representation, and generation of the tool path on CNC milling machines for roughing and finishing of flat and sculptured surfaces.\r\n* Introduction to NC Machining: components of CNC machining centre, part programming, programming using a commercial package\r\n* Surface definition and properties: Bezier, B-Splines and NURBS, computation of normal, curvature and curvature directions etc., data exchange protocols\r\n* Rough Machining and Surfaces: tool wear and breakage, dynamics in surface machining, tool path planning for rough machining of surfaces\r\n* Finish Machining of Surfaces: Tool positioning strategies in 3 and 5 axis machining, tool path planning for finish milling, gouge detection and avoidance, verification of tool path.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

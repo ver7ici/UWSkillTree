@@ -1,0 +1,16 @@
+{
+    "id": "012461",
+    "subject": "PHARM",
+    "catalogNumber": "127",
+    "title": "Professional Communication Skills in Pharmacy Practice",
+    "description": "This course is designed to help students develop the core communication skills required for success in a career in Pharmacy. This is a foundational course. Key concepts introduced in this course are applied throughout the curriculum. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PHARM 364"
+    ]
+}

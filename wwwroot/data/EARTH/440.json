@@ -1,0 +1,19 @@
+{
+    "id": "004860",
+    "subject": "EARTH",
+    "catalogNumber": "440",
+    "title": "Quaternary Geology",
+    "description": "Glacial-interglacial cycles and sub-Milankovitch oscillations from ocean sediments and ice cores.  Quaternary geochronology. Glacial sediment-land systems. Mineral exploration techniques pertaining to glaciated terrains and hydrostratigraphic analyses of Quaternary basins.  Local field trips.  Laboratory studies on glacial sediments. [Note: Additional field trip fees will apply. Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "EARTH 333",
+        "EARTH 342"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "EARTH 640"
+    ]
+}

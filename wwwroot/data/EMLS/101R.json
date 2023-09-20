@@ -1,0 +1,21 @@
+{
+    "id": "011984",
+    "subject": "EMLS",
+    "catalogNumber": "101R",
+    "title": "Oral Communications for Academic Purposes",
+    "description": "Designed specifically for students for whom English is not the first language, this course introduces group discussion strategies and presentation skills. Students will improve their informal and formal speaking skills to meet current social, academic, and business practices. A focus on pronunciation and vocabulary assists learners to better engage in conversations and listen to and deliver English presentations. Materials organization, rhetorical devices, nonverbal communication, group management, and intonation patterns are examined. [Note: Not open to fluent speakers of English.]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "SPCOM 225",
+        "SPCOM 227",
+        "SPCOM 228",
+        "MTHEL 300"
+    ]
+}

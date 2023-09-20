@@ -1,0 +1,17 @@
+{
+    "id": "012593",
+    "subject": "LS",
+    "catalogNumber": "366",
+    "title": "Global Governance",
+    "description": "Global governance is governing beyond the state.  An examination of diverse problems - global warming, international human rights, terrorism, property rights disputes, and health crises - which transcend borders and demand cooperative global solutions.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PSCI 439",
+        "PSCI 404"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "013646",
+    "subject": "PHYS",
+    "catalogNumber": "394",
+    "title": "Light-Matter Interactions",
+    "description": "Lasers: semi-classical interaction, properties, cavity, Gaussian beams.  Radiation and Detectors. Introduction to nonlinear optics. [Offered: W odd years]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "PHYS 256",
+        "ECE 404",
+        "PHYS 364",
+        "AMATH 353"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

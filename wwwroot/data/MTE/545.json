@@ -1,0 +1,14 @@
+{
+    "id": "013776",
+    "subject": "MTE",
+    "catalogNumber": "545",
+    "title": "Introduction to MEMS Fabrication",
+    "description": "Introduction to MEMS. Fabrication processes for MEMS devices. Basic MEMS governing equations in different energy domains (mechanical, electrical, and thermal). Methods for layout, design, and modeling of MEMS devices. Simulation techniques. Techniques for testing and characterization of MEMS devices. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

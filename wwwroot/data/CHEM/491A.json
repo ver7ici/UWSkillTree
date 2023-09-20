@@ -1,0 +1,18 @@
+{
+    "id": "014757",
+    "subject": "CHEM",
+    "catalogNumber": "491A",
+    "title": "Biobased Chemistry Research Project 1",
+    "description": "Student teams work on the projects defined in CHEM 302 (Innovation and Project Management). [Offered: F]",
+    "term": [],
+    "prereq": [
+        "CHEM 302"
+    ],
+    "coreq": [],
+    "antireq": [
+        "CHEM 494A"
+    ],
+    "next": [
+        "CHEM 491B"
+    ]
+}

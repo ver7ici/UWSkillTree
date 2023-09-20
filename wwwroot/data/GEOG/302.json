@@ -1,0 +1,17 @@
+{
+    "id": "016007",
+    "subject": "GEOG",
+    "catalogNumber": "302",
+    "title": "Geographies of Work and Employment",
+    "description": "This course examines the spatial dimensions of work and employment, focusing not just on traditional spaces of work (e.g., the factory, the office), but also spaces of unpaid work in the home, forced work and slavery, migrant labour, and so on. Classes will include lecture content but emphasize student participation and discussion. Students will practice practical qualitative research skills by conducting semi-structured interviews.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "GEOG 374",
+        "GEOG 001"
+    ],
+    "next": []
+}

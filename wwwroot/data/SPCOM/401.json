@@ -1,0 +1,17 @@
+{
+    "id": "012412",
+    "subject": "SPCOM",
+    "catalogNumber": "401",
+    "title": "Advanced Gender and Sexuality in Communication",
+    "description": "This course further develops theories and methods for studying how communication practices reflect, maintain, and disrupt social conceptions of gender and sexuality. The course emphasizes how gender, sexuality, and communication are implicated in power relations, and how gender and sexuality intersect with multiple dimensions of identity and culture.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "SPCOM 101",
+        "SPCOM 201"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

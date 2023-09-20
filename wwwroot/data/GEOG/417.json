@@ -1,0 +1,16 @@
+{
+    "id": "016347",
+    "subject": "GEOG",
+    "catalogNumber": "417",
+    "title": "Climate Change Communication",
+    "description": "Climate change is a complex phenomenon at the intersection of social and ecological systems. An understanding of the fundamental science of climate change is only part of the challenge; evidence-based decision-making depends on communicating science effectively, and engaging diverse perspectives. Effective communication also helps to uncover the deeper differences in worldviews that may give rise to disagreements about how to respond. This course introduces the fundamentals of climate change communication, moving from linear to dynamic, context-dependent models of communication that draw directly from our knowledge of climate change. We explore the various audiences with whom climate change communicators might engage, strategies for addressing misinformation, and specific communication tools that help to connect science to action.",
+    "term": [],
+    "prereq": [
+        "GEOG 207"
+    ],
+    "coreq": [],
+    "antireq": [
+        "SPCOM 479"
+    ],
+    "next": []
+}

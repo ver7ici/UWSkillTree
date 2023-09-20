@@ -1,0 +1,18 @@
+{
+    "id": "012404",
+    "subject": "BIOL",
+    "catalogNumber": "479",
+    "title": "Population Genetics and Evolution",
+    "description": "This course provides an overview of the interplay among mutation, random and non-random mating, genetic drift, gene flow, and selection within and among natural populations. Special emphasis is placed on the dynamic role these factors play in the process of population divergence, and ultimately speciation. Case studies will illustrate the application of population genetic methodology in fields such as ecology, conservation biology, and forensic sciences. [Offered: W]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "BIOL 139",
+        "BIOL 239",
+        "BIOL 359"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

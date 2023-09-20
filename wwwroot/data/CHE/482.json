@@ -1,0 +1,16 @@
+{
+    "id": "010016",
+    "subject": "CHE",
+    "catalogNumber": "482",
+    "title": "Group Design Project",
+    "description": "The first of two required courses for the Chemical Engineering capstone design project. Student design teams of three to five members work on design projects of industrial scope and importance under the mentorship of a faculty member. Students develop and communicate a feasible design project proposal and plan; generate feasible solutions that address the formulated problem; evaluate alternatives and identify preferred solution; address safety, regulatory, sustainability and professional ethics requirements, as appropriate; effectively manage design project technical and non-technical risks using project management tools and techniques; deliver a report and/or a presentation that summarizes the work completed; work effectively as a team member and/or team leader. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "CHE 483"
+    ]
+}

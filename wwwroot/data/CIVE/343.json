@@ -1,0 +1,17 @@
+{
+    "id": "004251",
+    "subject": "CIVE",
+    "catalogNumber": "343",
+    "title": "Traffic Simulation Modelling and Applications",
+    "description": "Fundamental knowledge on the principles and applications of traffic simulations. System theory, traffic flow dynamics, stochastic simulation methods. Calibration and validation of simulation models, and interpretation and analysis of simulation output. Applications of state-of-the-art computer simulation software packages for solving real traffic engineering problems, involving scenario analysis, prediction, and optimization. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "CIVE 224",
+        "CIVE 341"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

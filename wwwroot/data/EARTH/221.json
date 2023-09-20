@@ -1,0 +1,28 @@
+{
+    "id": "004826",
+    "subject": "EARTH",
+    "catalogNumber": "221",
+    "title": "Introductory Geochemistry",
+    "description": "Origin, abundance, and geochemistry of elements. Introduction to environmental isotope geochemistry and radiometric dating. Basic aqueous geochemistry: pH, carbonate equilibrium, and common ions in natural waters. [Offered: W,S]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "CHEM 123",
+        "CHEM 125"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "EARTH 659",
+        "EARTH 355",
+        "EARTH 358",
+        "EARTH 421",
+        "EARTH 459",
+        "EARTH 471",
+        "BIOL 462",
+        "EARTH 321",
+        "EARTH 322"
+    ]
+}

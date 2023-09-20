@@ -1,0 +1,25 @@
+{
+    "id": "016174",
+    "subject": "PSCI",
+    "catalogNumber": "496",
+    "title": "Civic Engagement in Political Science",
+    "description": "Students participate in a civic engagement experience and reflect on how concepts in political science help to illuminate it. Students may also participate in a seminar in which they complete guided reflections, share their experiences with other students, and complete a final project related to their civic engagement experience.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "PSCI 494",
+        "PSCI 495",
+        "PSCI 497",
+        "PSCI 497A",
+        "PSCI 497B",
+        "PSCI 498A",
+        "PSCI 498B",
+        "PSCI 498C"
+    ],
+    "next": []
+}

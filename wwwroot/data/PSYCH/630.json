@@ -1,0 +1,14 @@
+{
+    "id": "011138",
+    "subject": "PSYCH",
+    "catalogNumber": "630",
+    "title": "Advanced Analysis of Variance",
+    "description": "The purpose of this course is to review contemporary perspectives on assumptions, procedures, and implications of analysis of variance. The course follows a model testing approach in which parameters for full and restricted models are predicted, and the adequacy of the models compared. Concepts such as power, effect size, error rates, contrasts, trend analyses, nonorthogonality, and so forth are discussed for higher-order, between and within -subjects designs. Special attention is given to analyses with multiple dependent variables (MANOVA). Finally, the application of randomization tests is presented as an alternative to theoretical distributions of test statistics, and the relationships of ANOVA and multiple regression techniques are also examined for simple and complex designs.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

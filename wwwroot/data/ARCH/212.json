@@ -1,0 +1,16 @@
+{
+    "id": "015006",
+    "subject": "ARCH",
+    "catalogNumber": "212",
+    "title": "Digital Fabrication",
+    "description": "This course will introduce students to the tools, work-flows, and culture surrounding computer-aided design/computer-aided manufacturing (CAD/CAM) and its creative applications within architecture. Students will learn how to work with CAD/CAM technologies such as laser cutters, three-dimensional (3D) printers and computer numerical control (CNC) routers while expanding their knowledge of two- and three-dimensional CAD geometries that inform the digital fabrication process. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "ARCH 113"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

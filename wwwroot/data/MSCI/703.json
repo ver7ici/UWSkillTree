@@ -1,0 +1,15 @@
+{
+    "id": "001958",
+    "subject": "MSCI",
+    "catalogNumber": "703",
+    "title": "Applied Optimization",
+    "description": "The course focuses on the modeling and solution of practical optimization problems. It covers formulations based on integer and nonlinear optimization, solution approaches based on large-scale optimization, and algorithmic design and implementation. Topics include set covering formulations, Lagrangean relaxation, Benders decomposition, column generation, branch-and-price, nonlinear programming, and metaheuristics. Possible applications areas include bin packing, routing, scheduling, and logistics planning. Priority may be given to Management Sciences students.",
+    "term": [],
+    "prereq": [
+        "MSCI 603",
+        "MSCI 634"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

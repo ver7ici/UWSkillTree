@@ -1,0 +1,18 @@
+{
+    "id": "015956",
+    "subject": "BIOL",
+    "catalogNumber": "451",
+    "title": "Advanced Ecology and Evolution",
+    "description": "Students will use scientific literature to explore and analyze a range of advanced topics in ecology and evolution at the individual, population, community, and ecosystem scales. Recent advances in understanding of fundamental concepts as well as current frontiers in the field will be examined through written reports, essays, and oral presentations. [Note: BIOL 165 is recommended; Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "BIOL 150",
+        "BIOL 359",
+        "BIOL 361"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

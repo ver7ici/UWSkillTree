@@ -1,0 +1,12 @@
+{
+    "id": "010458",
+    "subject": "ME",
+    "catalogNumber": "741",
+    "title": "Design of Intelligent Systems: Mechatronics",
+    "description": "Review of modelling and approximation of dynamic systems. Review of classical control theory. Electronic realisation of control elements and compensations: ideal and real PID. Elements of digital control theory: sampling theorem, z-transform and digital filters. Review of computer interfacing, power amplifiers, sequential logic, encoders, and motor control. The course involves practical projects and significant laboratory usage.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

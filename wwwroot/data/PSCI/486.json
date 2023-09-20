@@ -1,0 +1,18 @@
+{
+    "id": "010240",
+    "subject": "PSCI",
+    "catalogNumber": "486",
+    "title": "Special Topics in International Diplomacy",
+    "description": "What are the key issues within, and perspectives on, diplomacy? Students will study public diplomacy, the use of technological innovation such as cyber-diplomacy, the widening definitions of diplomacy, multilateral diplomacy, and \"niche\" diplomacy. [Note: This is a repeatable course, subject to different content; it may be completed a total of 10 times.]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "PSCI 281",
+        "PSCI 282",
+        "PSCI 283"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

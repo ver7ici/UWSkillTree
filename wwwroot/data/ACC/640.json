@@ -1,0 +1,14 @@
+{
+    "id": "016490",
+    "subject": "ACC",
+    "catalogNumber": "640",
+    "title": "Working with Unstructured Data and Natural Language Processing",
+    "description": "This course is offered within the basket of courses for the Graduate Diploma (GDip) in Computational Data Analytics for the Social Sciences and Humanities program. It uses an applied approach to provide students with foundational skills in programming and natural language processing (NLP). NLP can help turn unstructured, textual data into meaningful vectors useful for further quantitative analyses and visualization. The course will be paced to provide students an opportunity to learn programming basics and advanced techniques (in Python).",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,16 @@
+{
+    "id": "014448",
+    "subject": "BME",
+    "catalogNumber": "101L",
+    "title": "Communications in Biomedical Engineering-Visualization",
+    "description": "This laboratory course introduces students to visual communication methods relevant to engineering analysis and design. Through in-class and independent activities leading to formative and summative assessments, students will consider and reflect on communication intention, audience, content, medium, format, and level of detail to demonstrate and improve upon their skills in graphing, freehand sketching, technical drawing, and computer-aided design (CAD). [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "SYDE 101L"
+    ],
+    "next": []
+}

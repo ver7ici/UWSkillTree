@@ -1,0 +1,21 @@
+{
+    "id": "006762",
+    "subject": "ME",
+    "catalogNumber": "547",
+    "title": "Robot Manipulators: Kinematics, Dynamics, Control",
+    "description": "Homogeneous transformations, D-H convention, forward and inverse kinematics. Differential transformations and Jacobians. Robot dynamics. Programming, trajectory generation and joint control. End-of-arm sensing and outer loop control. Industrial applications. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "ME 212",
+        "SYDE 182",
+        "ME 360",
+        "MTE 360"
+    ],
+    "coreq": [],
+    "antireq": [
+        "ECE 486"
+    ],
+    "next": []
+}

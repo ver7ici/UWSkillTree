@@ -1,0 +1,20 @@
+{
+    "id": "008216",
+    "subject": "REC",
+    "catalogNumber": "450",
+    "title": "Internship for Therapeutic Recreation",
+    "description": "This internship course provides an opportunity for students to use the therapeutic recreation process and demonstrate core competencies of professional and ethical conduct in an approved therapeutic recreation setting. The student must engage in minimum 560-hour (typically completed over a minimum of 14 consecutive weeks) internship at or with an approved organization under the shared supervision of a qualified Therapeutic Recreation professional and an academic supervisor. The student has one opportunity to attempt the internship and must achieve a minimum grade of 70% to obtain the course credit.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "REC 253",
+        "REC 351",
+        "REC 357"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

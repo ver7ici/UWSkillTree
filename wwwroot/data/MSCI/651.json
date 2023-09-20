@@ -1,0 +1,16 @@
+{
+    "id": "014234",
+    "subject": "MSCI",
+    "catalogNumber": "651",
+    "title": "International Project Management",
+    "description": "This course will provide students with an understanding of Project Management Fundamentals while allowing them to gain practical experience of International Project Management and Development in a live practical project.  Topics covered include: Project Management Methodologies, Project Manager's Role, Managing Project Stakeholders, Scope, Quality and teams; Project Risk Management, Procurement, Leadership, and Ethics.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "BE 605"
+    ],
+    "next": []
+}

@@ -1,0 +1,14 @@
+{
+    "id": "000192",
+    "subject": "BIOL",
+    "catalogNumber": "636",
+    "title": "Advanced Immunology",
+    "description": "Discussion of current advances in selected topics in immunology. The areas to be covered will include cell-mediated immunity, humoral immunity, comparative immunology, and other topics of current interest.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

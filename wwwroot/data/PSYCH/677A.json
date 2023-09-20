@@ -1,0 +1,14 @@
+{
+    "id": "002626",
+    "subject": "PSYCH",
+    "catalogNumber": "677A",
+    "title": "Fundamentals of Cognitive Neuroscience",
+    "description": "This survey course will be team-taught by members of the Cognitive Neuroscience Area and faculty from other departments within Neuroscience research programs, and will serve to introduce students to major subareas of ongoing cognitive neuroscience research at Waterloo.  Topics can include (but are not restricted to) the neuroscience of vision, attention, memory, spatial navigation, face perception, somatosensory processing, locomotion, and multisensory integration.  Students will also be exposed to the broad range of neuroscience methods ranging from cellular and psychological studies to behavioural and functional neuroimaging methods.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

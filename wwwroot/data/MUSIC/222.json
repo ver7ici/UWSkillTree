@@ -1,0 +1,18 @@
+{
+    "id": "006986",
+    "subject": "MUSIC",
+    "catalogNumber": "222",
+    "title": "Conducting 1",
+    "description": "A study of conducting techniques appropriate for song leading, choral rehearsal, and public performance. The course will include score analysis and rehearsal procedures for music from a wide variety of historical styles.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "MUSIC 270"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "MUSIC 322"
+    ]
+}

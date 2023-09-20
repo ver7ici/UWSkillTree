@@ -1,0 +1,14 @@
+{
+    "id": "013748",
+    "subject": "AFM",
+    "catalogNumber": "434",
+    "title": "Corporate Governance and Risk Management",
+    "description": "Corporate governance examines corporate organization, communication with stakeholders, and decision-making. Effective corporate governance promotes sustainable and socially equitable business practices and provides assurance to shareholders of investment integrity. This course examines the interface of corporate governance and risk management.",
+    "term": [],
+    "prereq": [
+        "AFM 433"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

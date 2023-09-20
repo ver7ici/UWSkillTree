@@ -1,0 +1,14 @@
+{
+    "id": "016317",
+    "subject": "NANO",
+    "catalogNumber": "600",
+    "title": "Introduction to Nanotechnology",
+    "description": "This introductory course provides the fundamentals of general nanoscience, nano-characterization and nanofabrication. Discussion of (nano)scale dependent structures and properties, as well as basic quantum mechanics, statistical mechanics and molecular dynamics, as required for the understanding of nanomaterials; common microscopy techniques, including scanning tunneling, atomic force and electron microscopy; and common nanofabrication techniques, including lithography, thin film technologies, molecular beam epitaxy, focused ion beam milling and solution synthesis.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

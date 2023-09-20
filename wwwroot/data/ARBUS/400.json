@@ -1,0 +1,17 @@
+{
+    "id": "013721",
+    "subject": "ARBUS",
+    "catalogNumber": "400",
+    "title": "Strategy and Program Integration",
+    "description": "A capstone course designed to integrate the arts and business components of the program that incorporate the principles of strategy for the purpose of enabling students to effectively position themselves for opportunities after graduation. [Note: Additional fee required.]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [
+        "ARBUS 300"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

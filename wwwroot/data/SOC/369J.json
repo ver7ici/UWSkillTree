@@ -1,0 +1,18 @@
+{
+    "id": "009876",
+    "subject": "SOC",
+    "catalogNumber": "369J",
+    "title": "The Sociology of Community",
+    "description": "This course examines how our contemporary concern with community is connected with the rise of modern society and the development of the urban-rural debate.  Our anxieties about community will be shown to be connected to our anxieties about family.  Special attention will be given to the interpretive approach to these issues.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "SOC 101",
+        "SOC 101R",
+        "SOC 120R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

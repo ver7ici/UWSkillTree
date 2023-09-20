@@ -1,0 +1,23 @@
+{
+    "id": "006715",
+    "subject": "ME",
+    "catalogNumber": "262",
+    "title": "Introduction to Microprocessors and Digital Logic",
+    "description": "Number systems, logic gates, Boolean algebra. Karnaugh maps and combinational logic design. Sequential logic and state machines. Programmable Logic Controllers (PLCs) and PLC programming using ladder logic and statement list.  Microcomputer structure and operation, I/O and interfacing. Assembly language programming. Laboratory work includes microcomputer and PLC programming. [Offered: F,S]",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [
+        "GENE 123"
+    ],
+    "coreq": [],
+    "antireq": [
+        "MTE 262"
+    ],
+    "next": [
+        "ME 548",
+        "MTE 325",
+        "MTE 460"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "id": "014730",
+    "subject": "ECON",
+    "catalogNumber": "741",
+    "title": "Advanced Public Economics Expenditure",
+    "description": "This course familiarizes PhD students with recent developments in research on government expenditures. By the end of the course, students are expected to know what are the main current academic and policy debates in relation to public expenditures as well as what research papers from the most recent important contributions to these debates.  This course is an essential part of preparation for students aiming to write a thesis in public economics.  Topics include, but are not limited to, the efficient provision of public goods, externalities, public choice and voting, fiscal federalism and equalization, and public policy reform.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "ECON 641"
+    ],
+    "next": []
+}

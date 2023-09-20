@@ -1,0 +1,17 @@
+{
+    "id": "016013",
+    "subject": "NE",
+    "catalogNumber": "476",
+    "title": "Organic Electronics",
+    "description": "Electronic structure of conjugated molecules. Photophysics of organic molecules, singlet and triplet states, the transition moment, radiative and non-radiative transitions. Excited state kinetics. Excitonic processes in organic solids, Forster and Dexter transfer, quenching processes. Electronic conduction in organic solids, band and hopping transport, morphological disorder and traps. Introduction to the main types of organic electronic devices, such as light-emitting devices, solar cells, field-effect transistors, photodetectors and imaging devices. Aspects of device design and fabrication technology. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "NE 479",
+        "NE 499"
+    ],
+    "next": []
+}

@@ -1,0 +1,16 @@
+{
+    "id": "013202",
+    "subject": "HLTH",
+    "catalogNumber": "344",
+    "title": "Qualitative Methods for Health Research",
+    "description": "This course introduces students to the basic qualitative methods, tools, and research designs that are widely used in health research and program evaluation. Students will analyze qualitative data using software.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "HLTH 435"
+    ]
+}

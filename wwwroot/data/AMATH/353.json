@@ -1,0 +1,34 @@
+{
+    "id": "003330",
+    "subject": "AMATH",
+    "catalogNumber": "353",
+    "title": "Partial Differential Equations 1",
+    "description": "Second order linear partial differential equations - the diffusion equation, wave equation, and Laplace's equation. Methods of solution - separation of variables and eigenfunction expansions, the Fourier transform. Physical interpretation of solutions in terms of  diffusion, waves and steady states. First order non-linear partial differential equations and the method of characteristics. Applications are emphasized throughout. [Offered: W,S]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "AMATH 231",
+        "AMATH 250",
+        "AMATH 251",
+        "MATH 211",
+        "ECE 205",
+        "MATH 218",
+        "MATH 228"
+    ],
+    "coreq": [],
+    "antireq": [
+        "AMATH 350",
+        "PHYS 364"
+    ],
+    "next": [
+        "AMATH 453",
+        "AMATH 463",
+        "PHYS 434",
+        "PHYS 444",
+        "PHYS 393",
+        "PHYS 394",
+        "PHYS 442"
+    ]
+}

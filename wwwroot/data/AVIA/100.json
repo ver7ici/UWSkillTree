@@ -1,0 +1,17 @@
+{
+    "id": "015359",
+    "subject": "AVIA",
+    "catalogNumber": "100",
+    "title": "Introduction to Aviation",
+    "description": "This course incorporates a survey of topic areas that impact the aviation industry in Canada. Key areas include aviation history, civil and military aviation, human factors, airspace and air traffic control systems, airport management, and aviation safety. The nature and impact of each of these topics is explored through a combination of lecture, class discussion and activities, and student presentations. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "AVIA 310",
+        "AVIA 416"
+    ]
+}

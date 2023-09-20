@@ -1,0 +1,17 @@
+{
+    "id": "001237",
+    "subject": "FINE",
+    "catalogNumber": "680",
+    "title": "Issues in Contemporary Art 1",
+    "description": "A seminar course in which the various issues, motives and concerns of contemporary art will be presented and discussed. In addition to lectures on contemporary art, visiting artists and critics will speak on various aspects of the field, and participate in group discussions. Students will carry out research on individual topics and will make an extended presentation of their findings towards the end of the term. Open to Fine Arts graduate students only.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "FINE 681",
+        "FINE 682"
+    ]
+}

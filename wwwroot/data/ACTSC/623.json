@@ -1,0 +1,14 @@
+{
+    "id": "013396",
+    "subject": "ACTSC",
+    "catalogNumber": "623",
+    "title": "Applied Statistics",
+    "description": "Generalized linear models: multiple linear regression and normal linear model; exponential family; link functions; linear predicators; estimation; testing. Time series: Univariate ARIMA; multivariate AR; ARCH and other non-linear models.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

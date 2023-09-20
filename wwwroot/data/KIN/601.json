@@ -1,0 +1,14 @@
+{
+    "id": "001745",
+    "subject": "KIN",
+    "catalogNumber": "601",
+    "title": "Skeletal Muscle Physiology: Structure & Function",
+    "description": "An analysis of the morphological, biophysical, molecular, and physiological properties of skeletal muscle. Topics range from the molecular regulation of skeletal muscle contraction, excitation-contraction processes, and cell signaling.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

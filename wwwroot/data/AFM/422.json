@@ -1,0 +1,22 @@
+{
+    "id": "013732",
+    "subject": "AFM",
+    "catalogNumber": "422",
+    "title": "Management of Financial Institutions",
+    "description": "This course focuses on the economics of financial institutions, particularly commercial banks. Issues related to commercial and investment banking and other financial intermediaries as well as financial markets and regulatory entities are examined.",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "AFM 272",
+        "ACTSC 291",
+        "AFM 273"
+    ],
+    "coreq": [],
+    "antireq": [
+        "ACTSC 445",
+        "MATBUS 472"
+    ],
+    "next": []
+}

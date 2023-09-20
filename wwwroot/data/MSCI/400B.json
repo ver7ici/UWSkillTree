@@ -1,0 +1,14 @@
+{
+    "id": "012382",
+    "subject": "MSCI",
+    "catalogNumber": "400B",
+    "title": "Seminar",
+    "description": "General Seminar. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

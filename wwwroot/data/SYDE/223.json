@@ -1,0 +1,25 @@
+{
+    "id": "008957",
+    "subject": "SYDE",
+    "catalogNumber": "223",
+    "title": "Data Structures and Algorithms",
+    "description": "Algorithms and Data Structures emphasizes the following topics: structured software design, data structures, abstract data types, recursive algorithms, algorithm analysis and design, sorting and searching, hashing, problem-solving strategies and NP-completeness. [Offered: W,S]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "BME 122",
+        "CS 240",
+        "ECE 250",
+        "MTE 140"
+    ],
+    "next": [
+        "SYDE 322",
+        "SYDE 522",
+        "ECE 406",
+        "MSCI 446",
+        "MSCI 541"
+    ]
+}

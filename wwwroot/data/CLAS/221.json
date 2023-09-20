@@ -1,0 +1,23 @@
+{
+    "id": "003396",
+    "subject": "CLAS",
+    "catalogNumber": "221",
+    "title": "Introduction to Archaeology",
+    "description": "An introduction to the working assumptions, analytic approaches, and integrative and descriptive methods of archaeological anthropology.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ANTH 309",
+        "ANTH 320",
+        "CLAS 321",
+        "ANTH 322",
+        "ANTH 335",
+        "ANTH 440",
+        "ANTH 415"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "004890",
+    "subject": "ECON",
+    "catalogNumber": "211",
+    "title": "Introduction to Mathematical Economics",
+    "description": "An introduction to mathematical techniques of particular use in economics. Topics include matrix algebra, differentation, partial derivatives, optimization techniques including constrained optimization - all developed within the context of economic problems.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "ECON 101",
+        "ECON 100",
+        "MATH 104"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ECON 311",
+        "ECON 451"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "id": "013740",
+    "subject": "AFM",
+    "catalogNumber": "203",
+    "title": "Introduction to Decision Support",
+    "description": "This course focuses on the knowledge and skills that enhance experiential learning during a first co-op work term while performing a decision support role within a public or private sector organization. Topic areas include professional ethics, performance analysis, corporate finance, and leveraging technology for performance analysis and corporate finance competencies.",
+    "term": [],
+    "prereq": [
+        "AFM 101"
+    ],
+    "coreq": [],
+    "antireq": [
+        "AFM 201",
+        "AFM 204"
+    ],
+    "next": []
+}

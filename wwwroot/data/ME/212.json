@@ -1,0 +1,24 @@
+{
+    "id": "006709",
+    "subject": "ME",
+    "catalogNumber": "212",
+    "title": "Dynamics",
+    "description": "An introduction to the kinematics of particle and rigid body motion. Impulse-momentum equations. Work-energy methods and Euler's equations. Simple gyroscopes. Vibrations. [Offered: F, S]",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [
+        "PHYS 115",
+        "MATH 118"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ME 321",
+        "ME 524",
+        "ME 547",
+        "BME 550",
+        "BME 551"
+    ]
+}

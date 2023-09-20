@@ -1,0 +1,14 @@
+{
+    "id": "015282",
+    "subject": "QIC",
+    "catalogNumber": "885",
+    "title": "Quantum Electronics and Photonics",
+    "description": "The course is introductory and emphasizes the fundamental concepts and engineering applications without a previous exposure to quantum mechanics. Examples and problems are designed to address the applications of the course contents to real problems in electronic, optoelectronic, photonic and superconductive devices.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

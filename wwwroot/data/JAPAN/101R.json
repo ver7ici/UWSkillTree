@@ -1,0 +1,21 @@
+{
+    "id": "006535",
+    "subject": "JAPAN",
+    "catalogNumber": "101R",
+    "title": "First-Year Japanese 1",
+    "description": "An introductory course for students who have little or no knowledge of Japanese to develop basic listening, speaking, reading, and writing skills. Practical oral and written exercises incorporating the Hiragana Writing System provide a firm grammatical foundation for further study. [Note: JAPAN 101R is not open to students with native, near-native, or similar advanced ability.]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "JAPAN 111R"
+    ],
+    "next": [
+        "JAPAN 102R",
+        "JAPAN 112R"
+    ]
+}

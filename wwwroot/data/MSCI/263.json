@@ -1,0 +1,17 @@
+{
+    "id": "012372",
+    "subject": "MSCI",
+    "catalogNumber": "263",
+    "title": "Managerial Economics",
+    "description": "This course introduces students to key concepts in microeconomics, with an emphasis on applications to managerial decision-making. Topics include basic analysis of supply and demand, demand functions and the theory of consumer behaviour, production and costs, market equilibrium, competition between industry participants, and pricing strategies of firms under different market structures.  [Offered:  S]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "ECON 101",
+        "ECON 201"
+    ],
+    "next": []
+}

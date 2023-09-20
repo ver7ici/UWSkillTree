@@ -1,0 +1,16 @@
+{
+    "id": "012186",
+    "subject": "LAT",
+    "catalogNumber": "451",
+    "title": "Senior Latin Composition, Grammar, and Reading",
+    "description": "Advanced composition, translation, and grammar with intensive analysis of selected passages.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "LAT 351"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

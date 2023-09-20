@@ -1,0 +1,15 @@
+{
+    "id": "013335",
+    "subject": "SOCWK",
+    "catalogNumber": "421R",
+    "title": "Advanced Family Practices",
+    "description": "This course examines the integrated use of advanced knowledge, assessment and interventions addressing selected social problems in families, individuals, and communities.",
+    "term": [],
+    "prereq": [
+        "SOCWK 220R",
+        "SOCWK 321R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

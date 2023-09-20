@@ -1,0 +1,14 @@
+{
+    "id": "003971",
+    "subject": "CHE",
+    "catalogNumber": "100",
+    "title": "Chemical Engineering Concepts 1",
+    "description": "Introduction to basic methods and principles in chemical engineering. The fundamentals of engineering calculations (units and dimensions), behaviour of fluids, mass balances, processes, and process variables. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

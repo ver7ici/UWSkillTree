@@ -1,0 +1,16 @@
+{
+    "id": "002190",
+    "subject": "PHIL",
+    "catalogNumber": "699",
+    "title": "Applied Research Placement Tutorial",
+    "description": "Students in the Applied Philosophy program enroll in this tutorial in conjunction with a placement at a host organization. The Applied Research Placement will prepare the student to make a research contribution on a specific philosophical topic and  to make an applied contribution outside of philosophy.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

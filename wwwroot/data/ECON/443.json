@@ -1,0 +1,15 @@
+{
+    "id": "015379",
+    "subject": "ECON",
+    "catalogNumber": "443",
+    "title": "Advanced Public Economics",
+    "description": "This course covers advanced topics in public economics and introduces students to the current research frontier in public economics. Examined areas may include topics such as public choice and voting, dynamic tax policy modelling, tax competition, regulatory capture, policy reform, fiscal federalism, and equalization. Both theoretical and empirical recent research will be covered. For each research topic covered, the course provides an introduction to the relevant background literature. A key course aim is to gain an appreciation of how research can inform public policy.",
+    "term": [],
+    "prereq": [
+        "ECON 323",
+        "ECON 393"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

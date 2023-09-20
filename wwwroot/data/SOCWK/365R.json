@@ -1,0 +1,16 @@
+{
+    "id": "008770",
+    "subject": "SOCWK",
+    "catalogNumber": "365R",
+    "title": "Social Work in Health Care",
+    "description": "Analysis of social work in the medical setting, concentrating on identification and treatment of emotional, family, and community aspects of illness. Emphasis is on the concrete application of professional social work to health care, while comparing medical and social work values and concepts of illness.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "SOCWK 120R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

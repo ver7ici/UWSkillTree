@@ -1,0 +1,29 @@
+{
+    "id": "008875",
+    "subject": "STAT",
+    "catalogNumber": "333",
+    "title": "Stochastic Processes 1",
+    "description": "This course provides an introduction to stochastic processes, with an emphasis on regenerative phenomena. Topics cover generating functions, conditional probability distributions and conditional expectation, discrete-time Markov chains with a countable state space, limit distributions for ergodic and absorbing chains, applications including the random walk, the gambler's ruin problem, and the Galton-Watson branching process, an introduction to counting processes, connections between the exponential distribution and Poisson process, and non-homogeneous and compound Poisson processes. [Offered: F,W,S]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "STAT 230",
+        "STAT 240",
+        "MATH 237",
+        "MATH 247"
+    ],
+    "coreq": [],
+    "antireq": [
+        "STAT 334"
+    ],
+    "next": [
+        "ACTSC 446",
+        "STAT 433",
+        "STAT 464",
+        "ACTSC 445",
+        "MATBUS 470"
+    ]
+}

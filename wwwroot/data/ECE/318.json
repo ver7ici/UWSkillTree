@@ -1,0 +1,22 @@
+{
+    "id": "004769",
+    "subject": "ECE",
+    "catalogNumber": "318",
+    "title": "Communication Systems",
+    "description": "Introduction to random processes, power spectral density. Thermal noise and the white noise model. Amplitude and angle modulation, generation and detection schemes. Sampling and reconstruction, quantization. Digital baseband transmission. Overview of digital passband communications. [Offered: W, S]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "ECE 203",
+        "ECE 207",
+        "ECE 205",
+        "MATH 211"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ECE 414"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "id": "010537",
+    "subject": "HLTH",
+    "catalogNumber": "620",
+    "title": "Selected Topics",
+    "description": "Fall/Winter/Spring Specific topics may include health behaviour change, decision making in health delivery systems, stress coping strategies, risk assessment and management, psychopharmacology and addiction, nutrition and chronic disease, psychosocial factors in disease, accident and injury control, health assessment, health and the aging person, etc.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

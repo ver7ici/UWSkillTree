@@ -1,0 +1,20 @@
+{
+    "id": "005613",
+    "subject": "FR",
+    "catalogNumber": "351",
+    "title": "French Language 3",
+    "description": "Intensive development of writing skills through a study of stylistics and advanced composition.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "FR 251",
+        "FR 252"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "FR 400",
+        "FR 452"
+    ]
+}

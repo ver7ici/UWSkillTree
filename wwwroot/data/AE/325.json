@@ -1,0 +1,18 @@
+{
+    "id": "015341",
+    "subject": "AE",
+    "catalogNumber": "325",
+    "title": "Project 1 Studio",
+    "description": "Students undertake a group architectural engineering design project over two terms of their program. The purpose of the project is to demonstrate students' abilities to practise in their chosen area of expertise, using knowledge gained from their academic and employment experiences. Projects integrate all relevant aspects (e.g., structure, constructability, mechanical and enclosure) within appropriate defined social, economic, environmental, political, and technical constraints. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "AE 300"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "AE 400"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "id": "011686",
+    "subject": "ACTSC",
+    "catalogNumber": "966",
+    "title": "Aggregate Claims Models",
+    "description": "Mixed Poisson and nonhomogeneous birth processes for claim counts; analytic, recursive, asymptotic and approximate evaluation of compound distributions for aggregate claims; reliability concepts and analysis of stop-loss moments; applications for inflation, incurred but not reported claims, and infinite server queues.  Prerequisites are familiarity with aggregate loss models at the level of ActSc 431/831 or equivalent.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

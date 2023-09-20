@@ -1,0 +1,22 @@
+{
+    "id": "004259",
+    "subject": "CIVE",
+    "catalogNumber": "491",
+    "title": "Engineering Law and Ethics",
+    "description": "Background (Charter of Rights and Freedoms), contracts, torts (negligent malpractice), forms of carrying on business, professional practice (professional engineers act, joint practice rules, professional misconduct and sexual harassment), alternate dispute resolution, construction liens, intellectual property (patents, trade marks, copyrights and industrial designs), labour relations and employment law, environmental law. [Offered: S]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "AFM 231",
+        "LS 283",
+        "BUS 231W",
+        "COMM 231",
+        "ENVS 201",
+        "GENE 411",
+        "ME 401"
+    ],
+    "next": []
+}

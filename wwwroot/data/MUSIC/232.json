@@ -1,0 +1,16 @@
+{
+    "id": "015136",
+    "subject": "MUSIC",
+    "catalogNumber": "232",
+    "title": "Music as a Global Phenomenon",
+    "description": "A survey of music studied in a cross-cultural perspective with regard to its sound, performance practices, meanings, and functions from selected world traditions found in the diverse cultures of Africa, Asia, Latin America, North America, Europe, and the Middle East.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "MUSIC 245"
+    ],
+    "next": []
+}

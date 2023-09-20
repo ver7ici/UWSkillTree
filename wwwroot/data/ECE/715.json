@@ -1,0 +1,20 @@
+{
+    "id": "000822",
+    "subject": "ECE",
+    "catalogNumber": "715",
+    "title": "Wireless Communication Networks",
+    "description": "This course is intended to introduce fundamental concepts and give an overview of recent developments in solid-state photonic devices, as well as their applications in quantum optics and information. These solid-state based photonic devices can be shaped at the nanoscale in order to control the light collection efficiency, integrated in control structures to manipulate their electronic properties, as well as photonic circuits to influence light at the single photon level. Applications include transferring quantum information over long distances for secure communication; generation and detection of non-classical states of light for use in metrology, imaging, and the quantum internet; and the manipulation and storage of quantum information \u00bf the fundamental element in a quantum processor.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "ECE 316",
+        "ECE 610",
+        "ECE 604"
+    ],
+    "coreq": [],
+    "antireq": [
+        "ECE 710"
+    ],
+    "next": []
+}

@@ -1,0 +1,17 @@
+{
+    "id": "013184",
+    "subject": "ECE",
+    "catalogNumber": "498B",
+    "title": "Engineering Design Project",
+    "description": "Completion of the design cycle started in ECE 498A and communication of the engineering design work.  Submission of a written final report.  Lecture-style technical presentation by group members.  Poster-style technical presentation with group members available to discuss the project.  [Offered:  F, W, S]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [
+        "ECE 498A"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

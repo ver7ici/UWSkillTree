@@ -1,0 +1,26 @@
+{
+    "id": "007388",
+    "subject": "PHYS",
+    "catalogNumber": "111",
+    "title": "Physics 1",
+    "description": "An introduction to physics for students intending to concentrate their further studies in biology, dentistry, medicine and paramedicine; includes particle kinematics and dynamics, energy and momentum conservation, and rotational mechanics. [Offered: F, W; also offered online: W]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "PHYS 115",
+        "PHYS 121"
+    ],
+    "next": [
+        "KIN 121",
+        "OPTOM 106",
+        "PHYS 112",
+        "PHYS 124",
+        "PHYS 122",
+        "PHYS 175",
+        "KIN 121L"
+    ]
+}

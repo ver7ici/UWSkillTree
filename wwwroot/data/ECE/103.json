@@ -1,0 +1,22 @@
+{
+    "id": "009889",
+    "subject": "ECE",
+    "catalogNumber": "103",
+    "title": "Discrete Mathematics",
+    "description": "Propositional logic, predicate logic, set theory, finite automata, temporal logic.  [Offered:  W, S]",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "CO 220",
+        "ECE 108",
+        "MATH 229",
+        "MATH 239",
+        "MATH 249"
+    ],
+    "next": [
+        "ECE 254",
+        "ECE 306",
+        "ECE 203"
+    ]
+}

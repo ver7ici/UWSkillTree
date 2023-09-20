@@ -1,0 +1,17 @@
+{
+    "id": "005635",
+    "subject": "FR",
+    "catalogNumber": "400",
+    "title": "Advanced Translation",
+    "description": "Intensive development of advanced comparative stylistics, translation, and composition skills.",
+    "term": [],
+    "prereq": [
+        "FR 353",
+        "FR 351",
+        "FR 392A",
+        "FR 392B"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,28 @@
+{
+    "id": "015059",
+    "subject": "PSYCH",
+    "catalogNumber": "444R",
+    "title": "Psychological Interventions",
+    "description": "This course reviews research showing how brief, non-invasive, low-cost, social psychological treatments can have small but significant benefits months and years later. Topics include school-based interventions, health interventions, psychological well-being interventions, prejudice-reduction interventions, when and why interventions can fail, and the theories behind how interventions work.",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "PSYCH 253",
+        "PSYCH 253R",
+        "PSYCH 220R",
+        "SDS 250R",
+        "ISS 250R",
+        "PSYCH 292",
+        "SDS 251R",
+        "ISS 251R",
+        "PSYCH 291"
+    ],
+    "coreq": [],
+    "antireq": [
+        "PSYCH 449R",
+        "PSYCH 450R"
+    ],
+    "next": []
+}

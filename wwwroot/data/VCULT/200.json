@@ -1,0 +1,16 @@
+{
+    "id": "013623",
+    "subject": "VCULT",
+    "catalogNumber": "200",
+    "title": "Visual Studies Across the Discipline",
+    "description": "Weekly lectures by visiting faculty introduce students to how visual studies are conducted across and between the disciplines. Recognizing the vastness of the global study of visual culture, this course reinforces how, despite the diversity of media analyzed, various disciplines share related approaches and theories.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "VCULT 300"
+    ]
+}

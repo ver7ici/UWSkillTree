@@ -1,0 +1,18 @@
+{
+    "id": "008584",
+    "subject": "LS",
+    "catalogNumber": "224",
+    "title": "Victims and Society",
+    "description": "This course will examine the substance of victimization: the scientific study of victims, the process, etiology, and consequences of victimization. Topics will include victims and politics, the victims' movement, victim-precipitation, the victimization of women, and family violence.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "SOC 101",
+        "SOC 101R",
+        "SOC 120R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

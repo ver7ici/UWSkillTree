@@ -1,0 +1,14 @@
+{
+    "id": "003120",
+    "subject": "STAT",
+    "catalogNumber": "935",
+    "title": "Analysis of Survival Data",
+    "description": "This course deals with methods of analyzing data on the time to failure with particular emphasis on the use of regression models for such data. Both parameteric and semi-parametric regression models will be considered.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

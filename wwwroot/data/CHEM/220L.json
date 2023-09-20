@@ -1,0 +1,22 @@
+{
+    "id": "004053",
+    "subject": "CHEM",
+    "catalogNumber": "220L",
+    "title": "Quantitative Chemical Analysis Laboratory",
+    "description": "Selected experiments for students taking CHEM 220. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "CHEM 123L",
+        "CHEM 125L"
+    ],
+    "coreq": [
+        "CHEM 220"
+    ],
+    "antireq": [],
+    "next": [
+        "CHEM 221",
+        "CHEM 224L"
+    ]
+}

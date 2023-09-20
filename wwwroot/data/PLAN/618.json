@@ -1,0 +1,14 @@
+{
+    "id": "001362",
+    "subject": "PLAN",
+    "catalogNumber": "618",
+    "title": "Spatial Analysis",
+    "description": "Presentation of analytical and simulation models useful in analyzing geographic phenomena such as spatial interaction, spatial dependence, spatial equilibria and locational optimization; consideration is given to both theoretical and empirical components. *eligible for MES",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

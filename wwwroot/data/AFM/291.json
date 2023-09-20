@@ -1,0 +1,23 @@
+{
+    "id": "003253",
+    "subject": "AFM",
+    "catalogNumber": "291",
+    "title": "Intermediate Financial Accounting 1",
+    "description": "A first course in intermediate accounting dealing with the theory and practice of financial statement preparation and reporting. The emphasis will be on asset valuation and the related impact on income measurement.",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [
+        "AFM 101",
+        "AFM 191"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "AFM 391",
+        "AFM 433",
+        "AFM 451",
+        "AFM 485"
+    ]
+}

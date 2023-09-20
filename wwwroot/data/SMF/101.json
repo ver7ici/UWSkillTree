@@ -1,0 +1,26 @@
+{
+    "id": "008556",
+    "subject": "SMF",
+    "catalogNumber": "101",
+    "title": "Introduction to Relationships and Families",
+    "description": "This course provides an overview of couple, marital, and family relationships from a broad, interdisciplinary perspective.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "SMF 207",
+        "SMF 306",
+        "SMF 307",
+        "SMF 310",
+        "SMF 366",
+        "SMF 208",
+        "SMF 220",
+        "SMF 230",
+        "SMF 301"
+    ]
+}

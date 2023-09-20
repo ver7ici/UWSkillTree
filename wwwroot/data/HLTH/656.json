@@ -1,0 +1,14 @@
+{
+    "id": "015358",
+    "subject": "HLTH",
+    "catalogNumber": "656",
+    "title": "Quantitative Methods and Analysis for Program",
+    "description": "This course will provide an introduction to quantitative methods for use in program evaluation practice. Students will learn the importance of quantitative  methods and analysis, appropriate analytic techniques to address certain evaluation questions, and how to interpret and report the results from those analyses. Study designs as well as descriptive and inferential statistics will be reviewed. Specific topics will include measures of central tendency and dispersion, probability, analysis of variance, categorical data analysis, correlation and regression, and data visualization. Emphasis will be on the theoretical and conceptual understanding and application of quantitative analysis relevant to program evaluation.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

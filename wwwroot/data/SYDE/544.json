@@ -1,0 +1,19 @@
+{
+    "id": "008988",
+    "subject": "SYDE",
+    "catalogNumber": "544",
+    "title": "Biomedical Measurement and Signal Processing",
+    "description": "This course develops an understanding of biomedical measurements through the examination of electromyographic (EMG), electroencephalographic (EEG), and electrocardiographic (ECG) signals. Measurement of human-body position, force, and pressure, and related instrumentation will also be presented. Signal processing techniques will be discussed in the context of extraction and application of useful biomedical signals. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "BIOL 273",
+        "BME 284",
+        "SYDE 384",
+        "SYDE 584"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

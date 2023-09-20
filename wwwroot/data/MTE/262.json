@@ -1,0 +1,27 @@
+{
+    "id": "013777",
+    "subject": "MTE",
+    "catalogNumber": "262",
+    "title": "Introduction to Microprocessors and Digital Logic",
+    "description": "Number systems, logic gates, Boolean algebra. Karnaugh maps, and combinational logic design. Implementation of combinational logic circuits on Field Programmable Gate Arrays (FPGA) boards. Sequential logic and state machines. Programmable Logic Controllers (PLCs) and PLC programming using ladder logic and statement list. Microcomputer structure and operation, I/O, and interfacing and interrupts. Assembly language programming. Laboratory work includes microcomputer and PLC programming. [Offered: F,W]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [
+        "GENE 123",
+        "MTE 120"
+    ],
+    "coreq": [],
+    "antireq": [
+        "ECE 222",
+        "ME 262"
+    ],
+    "next": [
+        "ECE 327",
+        "ME 548",
+        "MTE 325",
+        "MTE 322",
+        "MTE 460"
+    ]
+}

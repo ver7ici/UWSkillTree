@@ -1,0 +1,22 @@
+{
+    "id": "015302",
+    "subject": "ECE",
+    "catalogNumber": "260",
+    "title": "Electromechanical Energy Conversion",
+    "description": "Power systems and their fundamental components and models. Introduction to the principles of electromechanical energy conversion, including transformers and rotating machines, in particular (direct current) dc, induction and synchronous machines. [Offered: F, S]",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [
+        "ECE 106"
+    ],
+    "coreq": [],
+    "antireq": [
+        "ECE 261",
+        "ECE 361",
+        "ME 269",
+        "MTE 320"
+    ],
+    "next": []
+}

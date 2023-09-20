@@ -1,0 +1,16 @@
+{
+    "id": "016468",
+    "subject": "SOC",
+    "catalogNumber": "722",
+    "title": "Social Policy",
+    "description": "This interdisciplinary course covers social policy related topics including social justice, social equity and equality, evidence-based policy making, and policy critique and analysis.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "SOC 719"
+    ],
+    "next": []
+}

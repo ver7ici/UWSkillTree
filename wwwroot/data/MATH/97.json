@@ -1,0 +1,16 @@
+{
+    "id": "010113",
+    "subject": "MATH",
+    "catalogNumber": "97",
+    "title": "Study Abroad",
+    "description": "For studies at other universities under approved exchange agreements.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,17 @@
+{
+    "id": "015635",
+    "subject": "GEOG",
+    "catalogNumber": "456",
+    "title": "Transforming Canadian Resource Management",
+    "description": "This course builds on thematic areas of climate change, resource management, and sustainability. The evolution of Canadian resource management is traced from subsistence, utilitarian, and intrinsic value perspectives. The current state of resource management is critically evaluated, and alternative ways of thinking about conservation programming will be considered. [Note: This course involves a combination of lecture, class discussion and activities, student presentations, and a required multi-day field trip to Ottawa; field trip fee normally $300+HST; will not exceed $600+HST. Field trip dates will be determined no later than the end of the first week of lectures.]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "GEOG 474",
+        "GEOG 004"
+    ],
+    "next": []
+}

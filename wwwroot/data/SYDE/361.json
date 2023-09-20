@@ -1,0 +1,16 @@
+{
+    "id": "008968",
+    "subject": "SYDE",
+    "catalogNumber": "361",
+    "title": "Systems Design Methods 1: Needs Analysis and Prototyping",
+    "description": "The methodology of design, situation of concern; needs analysis and problem definition, engineering analysis and generation of alternative solutions, design prototyping, and design documentation. The lecture material is supplemented by a term-long design project done in small groups that develops hands-on experience with electromechanical prototyping. [Offered: S]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "BME 361"
+    ],
+    "next": []
+}

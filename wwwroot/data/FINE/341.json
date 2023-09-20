@@ -1,0 +1,15 @@
+{
+    "id": "012914",
+    "subject": "FINE",
+    "catalogNumber": "341",
+    "title": "Advanced Studies in Greek Art and Architecture",
+    "description": "An advanced survey of the art and architecture from a selected time period of Greek history. Material studied may include the art and architecture of the Aegean Bronze Age, and the Archaic, Classical, and Hellenistic periods. Archaeological, historical, and cultural issues specific to each time period will be discussed through the important media of the day. [Note: This is a repeatable course, subject to different content; it may be completed a total of four times.]",
+    "term": [],
+    "prereq": [
+        "CLAS 241",
+        "FINE 241"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,16 @@
+{
+    "id": "015163",
+    "subject": "SMF",
+    "catalogNumber": "499B",
+    "title": "Thesis - Part 2",
+    "description": "Continuation of SMF 499A. [Note: SMF 499A and SMF 499B can be taken independently of the SMF Intensive Research Specialization. A grade for SMF 499A will be submitted only after completion of SMF 499B. SMF 499A and 499B cannot be taken in the same term. The two courses must be taken in consecutive terms.]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "SMF 499A"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

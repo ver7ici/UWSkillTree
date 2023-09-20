@@ -1,0 +1,17 @@
+{
+    "id": "015097",
+    "subject": "ANTH",
+    "catalogNumber": "415",
+    "title": "Archaeologies of Landscape",
+    "description": "This course examines the ways in which past peoples experienced, transformed, remembered, represented, and controlled landscapes. Readings and discussions emphasize both contemporary theoretical approaches and case studies from various settings in an effort to illuminate the social, political, economic, and ideological dimensions of landscape.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "ANTH 201",
+        "CLAS 221"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,23 @@
+{
+    "id": "013564",
+    "subject": "HRM",
+    "catalogNumber": "307",
+    "title": "Labour Relations",
+    "description": "This course draws upon the disciplines of law and history to assess various aspects of the current industrial relations climate. Topics may include employment standards and labour relations legislation, collective bargaining, dispute resolution procedures, contract administration, industrial democracy, and the structure and growth of the Canadian labour movement.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "HRM 200"
+    ],
+    "coreq": [],
+    "antireq": [
+        "BUS 464W"
+    ],
+    "next": [
+        "PSYCH 467",
+        "HRM 400"
+    ]
+}

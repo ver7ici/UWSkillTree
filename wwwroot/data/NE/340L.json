@@ -1,0 +1,16 @@
+{
+    "id": "012875",
+    "subject": "NE",
+    "catalogNumber": "340L",
+    "title": "Microfabrication and Thin-film Technology Laboratory",
+    "description": "Labs associated with the NE 343 (Microfabrication and Thin-film Technology) course.  Lab topics may include: thin film deposition by PECVD and PVD (sputtering); photolithography; dry and wet etching; and C-V and I-V analysis of MIS structures. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "NE 343"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

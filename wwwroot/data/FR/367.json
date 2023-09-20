@@ -1,0 +1,16 @@
+{
+    "id": "013107",
+    "subject": "FR",
+    "catalogNumber": "367",
+    "title": "21st-Century French Literature",
+    "description": "A detailed study of selected aspects of 21st-century French literature.",
+    "term": [],
+    "prereq": [
+        "FR 197",
+        "FR 296",
+        "FR 297"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

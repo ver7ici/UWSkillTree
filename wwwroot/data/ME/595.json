@@ -1,0 +1,14 @@
+{
+    "id": "006777",
+    "subject": "ME",
+    "catalogNumber": "595",
+    "title": "Special Topics in Mechanical Engineering",
+    "description": "Various courses dealing with selected topics at the undergraduate level in automation and control, solid mechanics and machine design, materials engineering and processing, fluid mechanics, and thermal engineering. Courses offered when resources permit.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,20 @@
+{
+    "id": "005533",
+    "subject": "FINE",
+    "catalogNumber": "472",
+    "title": "Fine Arts Honours Thesis 1",
+    "description": "This thesis course involves an intensive exploration and development of individual studio research through practice and experimentation, resulting in the production of a significant body of work. Students will be guided by the work of relevant artists and theorists. In addition to embedded professional practice, an important part of the culminating year is critiques by other faculty members, graduate students, visiting artists, and fellow students.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "FINE 327",
+        "FINE 300"
+    ],
+    "coreq": [],
+    "antireq": [
+        "FINE 474",
+        "FINE 476"
+    ],
+    "next": []
+}

@@ -1,0 +1,19 @@
+{
+    "id": "015804",
+    "subject": "EARTH",
+    "catalogNumber": "322",
+    "title": "Ecohydrology",
+    "description": "This course examines the global fluxes and transformations of nutrient elements (C, N, P and Si) and metals along the aquatic continuum. Students explore both natural and anthropogenically-driven changes to the chemical composition of water that occur in the atmosphere, rivers, reservoirs, lakes, groundwater, estuaries and oceans. The content will be interdisciplinary and quantitative, with a strong focus on biogeochemical processes that influence the chemical composition and quality of water at different stages of the global water cycle; the content will also include aspects of microbiology, ecology, hydrology and geology. Students will be introduced to geochemical modelling tools used to interpret changes to water quality through the application of equilibrium thermodynamics. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "EARTH 121",
+        "EARTH 221"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "BIOL 462"
+    ]
+}

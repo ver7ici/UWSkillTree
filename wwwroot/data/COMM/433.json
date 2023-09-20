@@ -1,0 +1,20 @@
+{
+    "id": "015389",
+    "subject": "COMM",
+    "catalogNumber": "433",
+    "title": "Income Tax for Finance Students",
+    "description": "The course is designed to provide the student with broad overview of the Canadian income tax system as it relates to corporations and individuals. [Offered: F,S]",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [
+        "COMM 321"
+    ],
+    "coreq": [],
+    "antireq": [
+        "AFM 361",
+        "BUS 357W"
+    ],
+    "next": []
+}

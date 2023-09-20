@@ -1,0 +1,22 @@
+{
+    "id": "008961",
+    "subject": "SYDE",
+    "catalogNumber": "334",
+    "title": "Applied Statistics",
+    "description": "Review of basic Normal theory, t, chi-squared, and F distributions. Simple linear regression. Lack of fit. Analysis of variance. Multiple linear regression, variable selection techniques, indicator variables, diagnostics. Brief introduction to non-linear regression, factorial experimentation. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "BME 213",
+        "SYDE 212"
+    ],
+    "coreq": [],
+    "antireq": [
+        "STAT 331",
+        "STAT 371"
+    ],
+    "next": [
+        "STAT 443"
+    ]
+}

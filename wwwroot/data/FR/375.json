@@ -1,0 +1,17 @@
+{
+    "id": "005625",
+    "subject": "FR",
+    "catalogNumber": "375",
+    "title": "Quebec Literature",
+    "description": "A study of selected texts by modern French-Canadian authors.",
+    "term": [],
+    "prereq": [
+        "FR 276",
+        "FR 197",
+        "FR 296",
+        "FR 297"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

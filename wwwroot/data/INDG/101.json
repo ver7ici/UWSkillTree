@@ -1,0 +1,24 @@
+{
+    "id": "015861",
+    "subject": "INDG",
+    "catalogNumber": "101",
+    "title": "Mohawk Language 1",
+    "description": "An introductory course for students with little or no knowledge of Mohawk. The course is designed to develop basic reading, writing, listening, and speaking skills, however, emphasis will be placed on oral proficiency and comprehension. [Note: Conducted in Mohawk. No prior knowledge of Mohawk is expected. Not open to students with advanced ability in Mohawk.]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "ARTS 190",
+        "LEC 002",
+        "ARTS 190",
+        "LEC 003",
+        "ARTS 190",
+        "LEC 001"
+    ],
+    "next": [
+        "INDG 102"
+    ]
+}

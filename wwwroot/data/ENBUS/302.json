@@ -1,0 +1,16 @@
+{
+    "id": "010090",
+    "subject": "ENBUS",
+    "catalogNumber": "302",
+    "title": "Strategies for Environment and Business",
+    "description": "A review of the successes and failures of businesses which have attempted to adopt sustainability principles into their strategies and practices. Case studies will be reviewed to identify barriers to adopting environmental priorities and the processes which proved successful in overcoming these obstacles.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ENBUS 402A"
+    ]
+}

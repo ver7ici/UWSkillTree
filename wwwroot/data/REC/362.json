@@ -1,0 +1,21 @@
+{
+    "id": "006438",
+    "subject": "REC",
+    "catalogNumber": "362",
+    "title": "Sociology of Aging",
+    "description": "An introduction to individual and population aging. Topics discussed include: aging from a historical and comparative perspective; aging in subcultures; aging and the social structure; aging and social processes; aging and the environment; work and retirement; and aging and leisure patterns.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "SOC 101",
+        "SOC 101R",
+        "AHS 107",
+        "HEALTH 107",
+        "GSJ 101",
+        "GSJ 102"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

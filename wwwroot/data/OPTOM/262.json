@@ -1,0 +1,17 @@
+{
+    "id": "009993",
+    "subject": "OPTOM",
+    "catalogNumber": "262",
+    "title": "Clinical Techniques 3",
+    "description": "Differential diagnosis and problem specific testing using a systems examination approach. Minimum database expectations. Record keeping, case presentations, counselling, referrals and report writing. Preparation for entry into Optometry Clinic including policy review and standards of practice. Observation and preliminary testing in the Optometry Clinic.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "OPTOM 242",
+        "OPTOM 252"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

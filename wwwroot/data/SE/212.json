@@ -1,0 +1,21 @@
+{
+    "id": "010031",
+    "subject": "SE",
+    "catalogNumber": "212",
+    "title": "Logic and Computation",
+    "description": "Formal logic. Proof systems and styles. Rudimentary model theory. Formal models of computation. Logic-based specification. Correctness proofs. Applications in software engineering. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "MATH 135"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "CS 240",
+        "CS 450",
+        "ECE 351",
+        "ECE 356"
+    ]
+}

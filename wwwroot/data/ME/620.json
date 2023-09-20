@@ -1,0 +1,16 @@
+{
+    "id": "001852",
+    "subject": "ME",
+    "catalogNumber": "620",
+    "title": "Mechanics of Continua",
+    "description": "Mathematical preliminaries; co-ordinate transformations, introduction to tensors, tensor fields and transformations, integral theorems, analysis of deformation; deformation tensors and rates of deformation tensors and their mechanical significance, convecting and rotating axes. Analysis of stress; definition of stresses and their physical significance, rates of stresses, objective stress rates. Constitutive equations for elasticity and plasticity (Prandtl-Reuss). Hardening laws and material rate sensitivity. Anisotrophy.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ME 621"
+    ]
+}

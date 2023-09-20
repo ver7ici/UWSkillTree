@@ -1,0 +1,42 @@
+﻿@if (Map is null || Map.Length < 1) 
+{
+    <p>Loading...</p>
+} 
+else 
+{
+    <table>
+        <tbody>
+            @for (int i = 0; i < Map.GetLength(0); i++) 
+            {
+                <tr>
+                    @for (int j = 0; j < Map.GetLength(1); j++) 
+                    {
+                        <td>@Map[i, j]</td>
+                    }
+                </tr>
+            }
+        </tbody>
+    </table>}
+
+@code {
+    [Parameter] public string[,]? Map { get; set; }
+    [Parameter] public int N { get; set; } = 10;
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+
+        if (Map is not null) {
+            return;
+        }
+
+        Map = new string[N, N];
+        for (int i = 0; i < N; i++)
+        {
+            for (int j = 0; j < N; j++) 
+            {
+                Map[i, j] = "";
+            }
+        }
+    }
+}

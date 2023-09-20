@@ -1,0 +1,16 @@
+{
+    "id": "005895",
+    "subject": "GEOG",
+    "catalogNumber": "300",
+    "title": "Geomorphology and the Southern Ontario Environment",
+    "description": "Study of the origin and evolution of landforms with emphasis on southern Ontario. Analysis of geomorphic processes. Study of human impact on geomorphological landscapes. The lectures will be supplemented by field trips and field work required for term projects. [Note: Field trip fee normally $55+HST; will not exceed $75+HST.]",
+    "term": [],
+    "prereq": [
+        "GEOG 201",
+        "GEOG 305",
+        "GEOG 209"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

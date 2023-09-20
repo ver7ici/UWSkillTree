@@ -1,0 +1,26 @@
+{
+    "id": "008870",
+    "subject": "STAT",
+    "catalogNumber": "321",
+    "title": "Regression and Forecasting (Non-Specialist Level)",
+    "description": "Modeling the relationship between a response variable and several explanatory variables via regression models. Model diagnostics and improvement. Using regression models for forecasting, Exponential smoothing. Simple time series modeling. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "MATH 225",
+        "MATH 235",
+        "MATH 245",
+        "STAT 221",
+        "STAT 231",
+        "STAT 241"
+    ],
+    "coreq": [],
+    "antireq": [
+        "STAT 331",
+        "STAT 371",
+        "STAT 373",
+        "STAT 443"
+    ],
+    "next": []
+}

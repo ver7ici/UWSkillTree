@@ -1,0 +1,14 @@
+{
+    "id": "016279",
+    "subject": "CHE",
+    "catalogNumber": "663",
+    "title": "Bioseparations",
+    "description": "Design of separation processes for biological molecules. Topics include determining bioactivity, purity, toxicity; processes used for harvesting, cell disruption, precipitation, clarification, extraction, adsorption, chromatography, filtration, crystallization, and drying. Exploration of new emerging methods of separation of biomolecules and bioprocess simulations.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

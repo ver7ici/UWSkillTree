@@ -1,0 +1,46 @@
+{
+    "id": "013657",
+    "subject": "CS",
+    "catalogNumber": "146",
+    "title": "Elementary Algorithm Design and Data Abstraction (Advanced Level)",
+    "description": "CS 146 is an advanced-level version of CS 136. [Note: See Note 2 above. This course may be substituted for CS 136 in any degree plan or for prerequisite purposes. Students who receive a good grade in CS 135 may contact the instructor of CS 146 to seek admission without the formal prerequisites. Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "CS 145"
+    ],
+    "coreq": [
+        "CS 136L"
+    ],
+    "antireq": [
+        "CS 116",
+        "CS 136",
+        "CS 137",
+        "CS 138"
+    ],
+    "next": [
+        "CS 230",
+        "CS 234",
+        "CS 241",
+        "CS 246",
+        "CS 251",
+        "CS 330",
+        "CS 338",
+        "PHYS 363",
+        "PHYS 364",
+        "PHYS 375",
+        "CO 487",
+        "CS 371",
+        "CS 245",
+        "CS 335",
+        "CS 231",
+        "CS 240E",
+        "CS 241E",
+        "CS 245E",
+        "CS 246E",
+        "CS 251E",
+        "PHYS 267",
+        "PHYS 249"
+    ]
+}

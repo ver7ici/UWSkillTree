@@ -1,0 +1,15 @@
+{
+    "id": "014996",
+    "subject": "OPTOM",
+    "catalogNumber": "683",
+    "title": "Visual Sensory Neuroscience",
+    "description": "Visual sensory processing of light, form and space; Ocular somatosensory processing.",
+    "term": [],
+    "prereq": [
+        "OPTOM 671",
+        "OPTOM 690B"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

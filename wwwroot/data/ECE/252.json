@@ -1,0 +1,27 @@
+{
+    "id": "015301",
+    "subject": "ECE",
+    "catalogNumber": "252",
+    "title": "Systems Programming and Concurrency",
+    "description": "Processes and threads (pthreads); system calls; concurrency (semaphore, mutex, monitors, and barrier synchronization); user-level memory management. Performance and correctness of concurrent systems. Deadlock detection and recovery; file systems. [Offered: F, S]",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [
+        "ECE 250"
+    ],
+    "coreq": [],
+    "antireq": [
+        "CS 343",
+        "CS 350",
+        "ECE 254",
+        "SE 350"
+    ],
+    "next": [
+        "ECE 454",
+        "ECE 458",
+        "ECE 459",
+        "ECE 350"
+    ]
+}

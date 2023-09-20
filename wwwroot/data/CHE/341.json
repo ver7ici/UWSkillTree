@@ -1,0 +1,15 @@
+{
+    "id": "015397",
+    "subject": "CHE",
+    "catalogNumber": "341",
+    "title": "Introduction to Process Control",
+    "description": "Laplace transform techniques. Proportional-integral-derivative control. Frequency response methods. Stability analysis. Controller tuning. Process control simulation and computer control systems. Process identification. [Offered: F, W]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

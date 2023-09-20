@@ -1,0 +1,21 @@
+{
+    "id": "015913",
+    "subject": "AFM",
+    "catalogNumber": "324",
+    "title": "Wealth Management",
+    "description": "In this course students will learn core wealth management concepts that will give them a greater understanding of the wealth management industry. The content will focus on key areas of wealth management including portfolio management, asset allocation, risk management, performance evaluation, manager selection, tax efficient strategies as well as the use of new technologies in the wealth management industry.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "AFM 272",
+        "ACTSC 291",
+        "AFM 273"
+    ],
+    "coreq": [],
+    "antireq": [
+        "AFM 416",
+        "LEC 002"
+    ],
+    "next": []
+}

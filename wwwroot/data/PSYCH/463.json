@@ -1,0 +1,14 @@
+{
+    "id": "010160",
+    "subject": "PSYCH",
+    "catalogNumber": "463",
+    "title": "Honours Seminar in Special Topics",
+    "description": "Honours seminars may include weekly readings, individual and/or group projects, class discussions, research proposals, one or two essays/literature reviews, weekly assignments, one or two midterms, and final exams. Consult departmental listings for topics and topic-specific prerequisites for the current year. [Note: This is a repeatable course, subject to different content; it may be completed a total of four times.]",
+    "term": [],
+    "prereq": [],
+    "coreq": [
+        "PSYCH 391"
+    ],
+    "antireq": [],
+    "next": []
+}

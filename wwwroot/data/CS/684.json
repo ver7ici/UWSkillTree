@@ -1,0 +1,15 @@
+{
+    "id": "000623",
+    "subject": "CS",
+    "catalogNumber": "684",
+    "title": "Computational Vision",
+    "description": "Introduction to image and vision understanding by computer.  Camera-system geometry, image formation and lighting, and image acquisition.  Basic visual processes for recognition of edges, regions, lines, and surfaces.  Processing of stereo images, and motion in image sequences.  Object recognition.  Applications of computer vision systems.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

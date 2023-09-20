@@ -1,0 +1,12 @@
+{
+    "id": "015518",
+    "subject": "CIVE",
+    "catalogNumber": "781",
+    "title": "Principles of Hydrologic Modelling",
+    "description": "This course addresses the development of computational models of watershed hydrology in support of water resources management and scientific investigation.  The full model development and application cycle is considered:  Pre-processing, understanding, and generating input forcing data; system discretization and algorithms for simulating hydrologic processes;  parameter estimation; and interpreting model output in the context of often significant system uncertainty.  The course will include practical applications of models to alpine, boreal forest, prairie, and agricultural settings in Canada.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

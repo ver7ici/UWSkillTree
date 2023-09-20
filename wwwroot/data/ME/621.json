@@ -1,0 +1,17 @@
+{
+    "id": "014596",
+    "subject": "ME",
+    "catalogNumber": "621",
+    "title": "Advanced Finite Element Methods",
+    "description": "The course covers principles of finite element method as applied to linear and non-linear problems. The course will start by reviewing fundamentals of finite element method including discretization, element formulation, assembling process, boundary conditions, solving system of equations, and post processing. The focus will then shift to non-linear FEM. A brief summary of variational calculus and the classical theory of plasticity will be followed by the theory of non-linear FEM including various numerical integration schemes. The course will also include use of software/programming with available codes/in-house codes in solving nonlinear problems.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "ME 620",
+        "ME 559"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

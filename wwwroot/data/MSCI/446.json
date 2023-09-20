@@ -1,0 +1,38 @@
+{
+    "id": "012391",
+    "subject": "MSCI",
+    "catalogNumber": "446",
+    "title": "Introduction to Machine Learning",
+    "description": "This course provides an introduction to machine learning, including supervised and unsupervised learning. Emphasis is placed on proper procedures for the training and testing of models. Topics covered may include data cleaning and transformation, overfitting and generalization, n-fold cross validation, regression, decision trees, neural networks, rule finding, and clustering. Students learn to apply machine learning methods to management engineering problems using common tools such as R and Python. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "BME 122",
+        "CS 240",
+        "ECE 250",
+        "MSCI 240",
+        "MTE 140",
+        "SYDE 223",
+        "BME 213",
+        "CHE 220",
+        "CIVE 224",
+        "ECE 306",
+        "ECE 307",
+        "ENVE 224",
+        "MSCI 252",
+        "MSCI 253",
+        "ME 202",
+        "MTE 201",
+        "NE 215",
+        "STAT 206",
+        "STAT 231",
+        "STAT 241",
+        "SYDE 212"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "MSCI 546"
+    ]
+}

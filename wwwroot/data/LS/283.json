@@ -1,0 +1,24 @@
+{
+    "id": "003247",
+    "subject": "LS",
+    "catalogNumber": "283",
+    "title": "Business Law",
+    "description": "Particular attention is given to the law relating to contracts and business organizations. Other areas of study include sources of law, the judicial process, real and personal property, torts, agency, credit, and negotiable instruments.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "AFM 335",
+        "MTHEL 100",
+        "COMM 231",
+        "BUS 231W",
+        "CIVE 491",
+        "GENE 411",
+        "ME 401"
+    ],
+    "next": []
+}

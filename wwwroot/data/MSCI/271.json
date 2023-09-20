@@ -1,0 +1,16 @@
+{
+    "id": "012373",
+    "subject": "MSCI",
+    "catalogNumber": "271",
+    "title": "Advanced Calculus and Numerical Methods",
+    "description": "This course introduces students to first and second order ordinary differential equations, vector calculus, and numerical methods for solution of systems of equations, and ordinary differential equations. Applications in management engineering are emphasized. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "MATH 118"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

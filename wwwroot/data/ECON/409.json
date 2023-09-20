@@ -1,0 +1,21 @@
+{
+    "id": "015199",
+    "subject": "ECON",
+    "catalogNumber": "409",
+    "title": "Workers, Jobs, and Wages",
+    "description": "This course examines the role of labour markets in the macro-economy. It focuses on the analysis of aggregate employment, unemployment, labour force participation, and earnings inequality. The main goal of the course is to understand current labour-market outcomes both in Canada and around the world.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "ECON 306",
+        "ECON 393",
+        "ECON 322",
+        "STAT 221",
+        "STAT 231",
+        "STAT 241"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

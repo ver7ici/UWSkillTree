@@ -1,0 +1,14 @@
+{
+    "id": "013390",
+    "subject": "ACTSC",
+    "catalogNumber": "612",
+    "title": "Life Insurance Mathematics I",
+    "description": "Models for future lifetime; insurance and annuity functions; life tables and their use; future loss random variable for a contract; calculations of premiums and reserves; standard international actuarial notation.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

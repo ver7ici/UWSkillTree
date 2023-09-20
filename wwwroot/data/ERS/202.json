@@ -1,0 +1,17 @@
+{
+    "id": "015425",
+    "subject": "ERS",
+    "catalogNumber": "202",
+    "title": "Natural Resources Ecology",
+    "description": "This course explores the ecology and context of Canada's main natural resources including mining, forestry, energy and agriculture. In addition, this course presents alternatives to status-quo approaches including organic agriculture, sustainable forestry and a movement away from traditional energy.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "ERS 275",
+        "ERS 001"
+    ],
+    "next": []
+}

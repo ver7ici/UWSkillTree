@@ -1,0 +1,14 @@
+{
+    "id": "011589",
+    "subject": "AMATH",
+    "catalogNumber": "871",
+    "title": "Quantum Information Processing",
+    "description": "Review of basics of quantum information and computational complexity; Simple quantum algorithms; Quantum Fourier transform and Shor factoring algorithm: Amplitude amplification, Grover search algorithm and its optimality; Completely positive trace-preserving maps and Kraus representation; Non-locality and communication complexity; Physical realizations of quantum computation: requirements and examples; Quantum error-correction, including CSS codes, and elements of fault-tolerant computation; Quantum cryptography; Security proofs of quantum key distribution protocols; Quantum proof systems.  Familiarity with theoretical computer science or quantum mechanics will also be an asset, though most students will not be familiar with both.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

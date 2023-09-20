@@ -1,0 +1,16 @@
+{
+    "id": "011994",
+    "subject": "CHE",
+    "catalogNumber": "425",
+    "title": "Strategies for Process Improvement and Product Development",
+    "description": "A course in practical statistics at a level one step beyond an elementary course. Material includes regression analysis for linear and nonlinear models, analysis of variance, statistical inference, single and multiple comparisons, and an introduction to the design of experiments including single factor designs, multifactor designs, response surface methods, d-optimality (with empirical and mechanistic models), and the analysis of undesigned data. Applications to process improvement, product development, and research problems will be explored. Use of statistical analysis software to apply these techniques. [Offered: F, W, S, last offered as CHE 425 winter 2024]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,12 @@
+{
+    "id": "011467",
+    "subject": "CS",
+    "catalogNumber": "781",
+    "title": "Colour in Computer Graphics",
+    "description": "In computer graphics, 3D models are rendered through an ideal camera to a 2D image. The virtual camera is a powerful tool, controlling not only perspective and the optical path, but colour mapping as well. This course examines the notion of \"colour\" at different stages of the computer graphics pipeline, and describes techniques for modelling and managing colour through the virtual camera analogy. Topics include illumination, the virtual camera, colour spaces, gamut mapping and colour management. Implementation of the colour reproduction and gamut-mapping algorithms demands a number of numerical and statistical methods, including multidimensional interpolation and approximation, computational geometry, splines, principal components anlysis and optimization.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,22 @@
+{
+    "id": "003893",
+    "subject": "CO",
+    "catalogNumber": "342",
+    "title": "Introduction to Graph Theory",
+    "description": "An introduction to some of the key topics in graph theory: connectivity, planarity, and matchings. Connectivity: Menger's theorem, 3-connected graphs. Planarity: Kuratowski's theorem, uniqueness of planar embeddings. Matchings: Review of Konig's theorem, Tutte's theorem. [Offered: F,S]",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [
+        "MATH 239",
+        "MATH 249"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "CO 440",
+        "CO 442",
+        "CO 446"
+    ]
+}

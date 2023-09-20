@@ -1,0 +1,16 @@
+{
+    "id": "011179",
+    "subject": "AFM",
+    "catalogNumber": "443",
+    "title": "E-business: Introduction to Electronic Commerce",
+    "description": "This course examines key topics in electronic commerce such as the structure of the Internet, basic e-commerce processes and technologies (website, catalogs, customer attraction, ordering processes, payment processes, and fulfilment processes), control issues (availability, security, integrity, and maintainability), business-to-consumer models, business-to-business models, business-to-employee models, e-business strategies, integration of e-commerce activities into other business operations, performance measurement, legal and regulatory issues, and assurance services.",
+    "term": [],
+    "prereq": [
+        "AFM 241",
+        "CS 330",
+        "CS 490"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

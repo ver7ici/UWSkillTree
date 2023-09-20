@@ -1,0 +1,14 @@
+{
+    "id": "001748",
+    "subject": "KIN",
+    "catalogNumber": "611",
+    "title": "Biomechanics of Human Motion",
+    "description": "An assessment of research in the biomechanics of human motion including electromyography, muscle modelling, link segment modelling and analysis, energy and power analysis. The above concepts will be utilized in the assessment of athletes and both the normal and atypical population in sport and rehabilitation contexts.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

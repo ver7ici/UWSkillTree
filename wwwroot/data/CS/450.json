@@ -1,0 +1,22 @@
+{
+    "id": "004418",
+    "subject": "CS",
+    "catalogNumber": "450",
+    "title": "Computer Architecture",
+    "description": "The course is intended to provide the student with an appreciation of modern computer design and its relation to system architecture, compiler technology, and operating system functionality. The course places an emphasis on design based on the measurement of performance and its dependency on parallelism, efficiency, latency, and resource utilization. [Note: Lab is not scheduled and students are expected to find time in open hours to complete their work. Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "CS 245",
+        "SE 212",
+        "CS 350",
+        "SE 350"
+    ],
+    "coreq": [],
+    "antireq": [
+        "ECE 320",
+        "ECE 429"
+    ],
+    "next": []
+}

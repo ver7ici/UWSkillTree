@@ -1,0 +1,15 @@
+{
+    "id": "013147",
+    "subject": "MSCI",
+    "catalogNumber": "609",
+    "title": "Quantitative Data Analysis for Management Sciences",
+    "description": "Descriptive statistics and probability concepts; discrete and continuous probability distributions; sampling methods and the central limit theorem; estimation and confidence intervals; inference and hypothesis testing; linear regression and correlation; multiple regression and model building.",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

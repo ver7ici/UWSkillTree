@@ -1,0 +1,16 @@
+{
+    "id": "014445",
+    "subject": "BME",
+    "catalogNumber": "461",
+    "title": "Biomedical Engineering Design Workshop 2",
+    "description": "The first half of a two-term engineering design project continuing the biomedical design workshop sequence. A prototype and interim progress report are presented at the end of the first term. Lecture topics include safety and risk analysis of biomedical technologies. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "SYDE 461"
+    ],
+    "next": []
+}

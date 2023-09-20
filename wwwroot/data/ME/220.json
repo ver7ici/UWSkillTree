@@ -1,0 +1,20 @@
+{
+    "id": "006712",
+    "subject": "ME",
+    "catalogNumber": "220",
+    "title": "Mechanics of Deformable Solids 2",
+    "description": "A general treatment of the behaviour of structural components from the study of stress and strain in solids. Topics include superposition, energy theorems, theories of failure, elastic and inelastic analysis of symmetrical bending, torsion of circular members, columns and stability, and virtual work. [Offered: F, S]",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [
+        "ME 219"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ME 322",
+        "ME 559"
+    ]
+}

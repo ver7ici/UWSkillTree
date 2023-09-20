@@ -1,0 +1,23 @@
+{
+    "id": "006045",
+    "subject": "GEOG",
+    "catalogNumber": "490A",
+    "title": "Honours Thesis Preparation",
+    "description": "Preparatory work and first draft of thesis. [Note: Students must have a thesis advisor for department consent to be granted. WHMIS may be required pending project lab analysis.]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "GEOG 293",
+        "GEOG 393",
+        "GEOG 294",
+        "GEOG 394"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "GEOG 490B"
+    ]
+}

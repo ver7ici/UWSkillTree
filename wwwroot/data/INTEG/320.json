@@ -1,0 +1,18 @@
+{
+    "id": "012697",
+    "subject": "INTEG",
+    "catalogNumber": "320",
+    "title": "The Museum Course: Research and Design",
+    "description": "An introduction to the museum, broadly interpreted as the public face of scholarship. Students work in small groups to research an inter-disciplinary topic of personal interest, in-depth, and design a museum exhibit suitable for a particular audience.  [Note: WHMIS required.]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "INTEG 230"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "INTEG 321"
+    ]
+}

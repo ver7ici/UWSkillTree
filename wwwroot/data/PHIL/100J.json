@@ -1,0 +1,16 @@
+{
+    "id": "007231",
+    "subject": "PHIL",
+    "catalogNumber": "100J",
+    "title": "Introduction to Philosophy",
+    "description": "This course seeks to introduce students to the nature of philosophy. This is done through the examination of core texts and figures in the history of philosophy as well as in the discussion of perennial philosophical questions.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

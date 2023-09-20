@@ -1,0 +1,20 @@
+{
+    "id": "013255",
+    "subject": "GBDA",
+    "catalogNumber": "101",
+    "title": "Introduction to Digital Media Design",
+    "description": "This course introduces students to the theory, principles, and practice of digital media design as they apply to a wide variety of communication contexts. Using design thinking, students will develop creative projects that integrate the needs of a variety of audiences. [Note: Offered at Stratford campus.]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "DAC 201",
+        "ENGL 203"
+    ],
+    "next": [
+        "GBDA 201",
+        "GBDA 228"
+    ]
+}

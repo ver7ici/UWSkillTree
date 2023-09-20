@@ -1,0 +1,14 @@
+{
+    "id": "014525",
+    "subject": "CHE",
+    "catalogNumber": "516",
+    "title": "Energy Systems Engineering",
+    "description": "Energy systems in society. Review of fossil fuel reserves, production and consumption trends, including unconventional sources such as shale gas, and oil sands. Transportation fuels and alternative fuels; the design of hybrid power trains, fuel cells and batteries. Design considerations of carbon-free energy generation and carbon-neutral technologies, including nuclear, wind, solar and bio-energy. Design of energy storage on a 'utility scale' and portable power sources. Applications of thermodynamics in the design of energy systems, including the Rankin and Brayton cycles. Other energy system topics as appropriate. [Offered: F]",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "ME 459"
+    ],
+    "next": []
+}

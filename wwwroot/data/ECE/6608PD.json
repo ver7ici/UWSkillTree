@@ -1,0 +1,12 @@
+{
+    "id": "012057",
+    "subject": "ECE",
+    "catalogNumber": "6608PD",
+    "title": "Dielectrics and Electrical Insulation",
+    "description": "Theory of gases.  Photoelectric, thermal and field emission.  Ionization by collision, photoionization, thermal ionization and ionization by x-rays and cosmic rays.  Deionization becuase of recombination, negative ion formation, and diffusion.  Behaviour of charged particles in electric fields of low E/P and high E/P (E=electric field and P=pressure).  Breakdown Processes: Townsend mechanism, secondary effect, streamer formation from self sustained discharges to breakdown, breakdown in non-uniform fields, temporal development of breakdown, partial breakdown or corona discharges.  Solid and Liquid Dielectrics:  Types of solid and liquid insulating materials, their electrical thermal, chemical and mechanical properties; charge transport; surface discharges; breakdown mechanisms; effects of impurities on breakdown strength.  Electrohydrodynamics and its influence on breakdown mechanisms in liquids; electromechanical and intrinsic breakdown strength of solids.  Recommended Background:  Basic knowledge of physics of materials for Electrical Engineers (ECE 209 or equivalent).  Familiarity with electrical power system components is useful.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,14 @@
+{
+    "id": "000116",
+    "subject": "AMATH",
+    "catalogNumber": "731",
+    "title": "Applied Functional Analysis",
+    "description": "Basic concepts of functional analysis. Topics include: theory of linear operators, nonlinear operators and the Frechet derivative, fixed point theorems, approximate solution of operator equations, Hilbert space, spectral theory. Applications from various areas will be used to motivate and illustrate the theory. A previous undergraduate course in real analysis is strongly recommended.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

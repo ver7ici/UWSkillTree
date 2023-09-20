@@ -1,0 +1,17 @@
+{
+    "id": "015378",
+    "subject": "ECON",
+    "catalogNumber": "441",
+    "title": "Public Economics",
+    "description": "This course examines to what extent government spending, taxation, and regulation policies in developed nations are driven by economic rationales for government involvement in economic activity. Both efficiency and distributional rationales are considered. Examined areas of government spending include education, pensions, infrastructure, health care, science, innovation, and social welfare programs. Examined areas of the tax structure include personal income taxes, corporate taxes, consumption taxes, and environmental taxes. Examined areas of regulation may include topics such as alcohol, organ transplants, and gasoline standards. A key aim of the course is to generate an appreciation of how theories of market failure guide public policy.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "ECON 323",
+        "ECON 393"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

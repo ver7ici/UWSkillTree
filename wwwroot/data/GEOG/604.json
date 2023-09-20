@@ -1,0 +1,14 @@
+{
+    "id": "001347",
+    "subject": "GEOG",
+    "catalogNumber": "604",
+    "title": "Spatial Statistics",
+    "description": "An overview of spatial statistics and their use in geographic studies. *eligible for MES.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "GEOG 318"
+    ],
+    "next": []
+}

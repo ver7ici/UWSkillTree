@@ -1,0 +1,35 @@
+{
+    "id": "007450",
+    "subject": "PHYS",
+    "catalogNumber": "364",
+    "title": "Mathematical Physics 1",
+    "description": "Sturm-Liouville theory. Legendre, Bessel, and other special functions. Fourier series and introduction to Fourier transforms. Separation of variables. [Offered: F, S]",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [
+        "MATH 227",
+        "PHYS 236",
+        "CS 114",
+        "CS 116",
+        "CS 136",
+        "CS 146",
+        "MATH 228",
+        "AMATH 250",
+        "AMATH 251"
+    ],
+    "coreq": [],
+    "antireq": [
+        "AMATH 353"
+    ],
+    "next": [
+        "AMATH 463",
+        "PHYS 434",
+        "PHYS 444",
+        "AMATH 391",
+        "PHYS 393",
+        "PHYS 394",
+        "PHYS 442"
+    ]
+}

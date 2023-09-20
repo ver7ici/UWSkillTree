@@ -1,0 +1,32 @@
+{
+    "id": "015166",
+    "subject": "PSYCH",
+    "catalogNumber": "389",
+    "title": "Social Science Advanced Research Methods Topics",
+    "description": "Topics explore social science research methods in Psychology. Consult departmental listings for upcoming topics, which may include naturalistic observation, factorial experiment design, behavioural coding, survey/questionnaire construction, interviewing, and/or linguistic analysis. Activities may include research proposals, group and/or individual projects (e.g., lab experience, data collection), research reports, critiques of published/proposed research, and student presentations. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "PSYCH 211",
+        "PSYCH 257",
+        "PSYCH 257R",
+        "PSYCH 238",
+        "PSYCH 338",
+        "PSYCH 253",
+        "PSYCH 253R"
+    ],
+    "coreq": [
+        "PSYCH 391"
+    ],
+    "antireq": [
+        "PSYCH 393",
+        "PSYCH 395",
+        "PSYCH 397",
+        "PSYCH 399"
+    ],
+    "next": [
+        "PSYCH 464",
+        "PSYCH 499A"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "012319",
+    "subject": "GSJ",
+    "catalogNumber": "302",
+    "title": "Thinking Through Gender: Feminist Perspectives",
+    "description": "This course presents students with an opportunity to engage with a range of feminist theories and approaches to better understand gender in relation to the body, identity, law, sexuality, space, the State, and/or subjectivity. Queer and transgender theories and issues will also be addressed.",
+    "term": [],
+    "prereq": [
+        "GSJ 101",
+        "GSJ 102",
+        "WS 101",
+        "WS 102"
+    ],
+    "coreq": [],
+    "antireq": [
+        "WS 302"
+    ],
+    "next": []
+}

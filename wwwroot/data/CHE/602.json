@@ -1,0 +1,14 @@
+{
+    "id": "000338",
+    "subject": "CHE",
+    "catalogNumber": "602",
+    "title": "Chemical Reactor Analysis",
+    "description": "Mixing effects (segregation and micromixing) on reactor performance analysis of reactor stability, 1- and 2- D models for packed bed reactors, heterogeneous non-catalytic reactions, heat and mass transfer effects in porous catalyst particles, reduction of data for catalytic reactions and scale-up concepts.  Examples will be drawn from packed, fluidized bed and transport reactors, polymer reactors and 3-phase reactors.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

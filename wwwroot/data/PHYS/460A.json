@@ -1,0 +1,20 @@
+{
+    "id": "010364",
+    "subject": "PHYS",
+    "catalogNumber": "460A",
+    "title": "Advanced Laboratory 1",
+    "description": "Selected advanced experiments in mechanics, optics, electronics, atomic, molecular, nuclear, and solid state physics. [Offered: F,W,S]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "PHYS 360A"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PHYS 460B"
+    ]
+}

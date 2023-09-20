@@ -1,0 +1,16 @@
+{
+    "id": "015696",
+    "subject": "TS",
+    "catalogNumber": "799",
+    "title": "Thesis Preparation",
+    "description": "Students are enrolled in thesis research writing.  Students continue to enroll in this course during thesis preparation until completion of their thesis.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,17 @@
+{
+    "id": "012951",
+    "subject": "PSCI",
+    "catalogNumber": "487",
+    "title": "International Relations Theory",
+    "description": "Students will examine the major schools of international relations theory with attention paid to positivist and critical approaches.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "PSCI 281",
+        "PSCI 282"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

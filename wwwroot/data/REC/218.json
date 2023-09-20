@@ -1,0 +1,18 @@
+{
+    "id": "015112",
+    "subject": "REC",
+    "catalogNumber": "218",
+    "title": "Social Entrepreneurship for Change",
+    "description": "This course examines social entrepreneurship as a means for improving individual and community well-being. Focus will be placed on learning and implementing tools which businesses, citizens, and consumers can use to address social issues. Students will complete the course with an understanding of their personal responsibility and role as community/ global citizen which will aid them in their career development. Particular emphasis may be placed on the role of social entrepreneurship in addressing issues related to social justice, inclusion, and sustainable management practices.",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "REC 100",
+        "REC 101"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

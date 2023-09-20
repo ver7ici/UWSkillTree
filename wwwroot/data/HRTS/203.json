@@ -1,0 +1,17 @@
+{
+    "id": "015747",
+    "subject": "HRTS",
+    "catalogNumber": "203",
+    "title": "The Canadian Charter of Rights and Freedoms",
+    "description": "This course will introduce students to the Canadian Charter of Rights and Freedoms as the central mechanism for the determination and application of human rights with respect to government action. By studying leading decisions of the Supreme Court of Canada, students will gain a greater appreciation of the Charter as a defining feature of the social, political, and legal landscape of Canada, and a better understanding of the role judiciary in interpreting and enforcing rights.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "HRTS 101",
+        "LS 101"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

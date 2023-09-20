@@ -1,0 +1,16 @@
+{
+    "id": "016241",
+    "subject": "INDENT",
+    "catalogNumber": "325",
+    "title": "Practicum in Indigenous Entrepreneurship 2",
+    "description": "The instructor works with each student to identify a real world experience in the field of Indigenous entrepreneurship and to plan how they will use that experience to achieve an agreed-upon set of learning outcomes. The instructor provides mentorship and coaching as each student works through the course they have created for themselves.",
+    "term": [],
+    "prereq": [
+        "INDENT 225"
+    ],
+    "coreq": [],
+    "antireq": [
+        "SVENT 325P"
+    ],
+    "next": []
+}

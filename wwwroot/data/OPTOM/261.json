@@ -1,0 +1,18 @@
+{
+    "id": "007107",
+    "subject": "OPTOM",
+    "catalogNumber": "261",
+    "title": "Clinical Ocular Pharmacology",
+    "description": "Pharmacokinetic and pharmacodynamic principles of ophthalmic drug design and delivery. Selection and use of ophthalmic diagnostic pharmaceutical agents, palliative agents and therapeutic pharmaceutical agents. Mechanism of action, contraindications and adverse drug reactions. Recommended guidelines for use and follow-up procedures.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "OPTOM 245",
+        "OPTOM 231",
+        "OPTOM 255"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

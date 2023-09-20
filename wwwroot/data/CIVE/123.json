@@ -1,0 +1,18 @@
+{
+    "id": "015969",
+    "subject": "CIVE",
+    "catalogNumber": "123",
+    "title": "Electrical Circuits and Instrumentation",
+    "description": "Charge, current, and voltage. Voltage and current sources, resistors, capacitors, and inductors. Ohm's Law, Kirchhoff's Laws, nodal analysis, instrumentation amplifier circuits, impedance. Function and characteristics of basic electrical transducers. Resolution, precision, and accuracy. Basics of data acquisition. [Note: Normally labs are held alternate weeks. Offered: AE 123 (S), CIVE 123 (W), ENVE 123 (S), GEOE 123 (S)]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "GENE 123",
+        "ME 123"
+    ],
+    "next": []
+}

@@ -1,0 +1,16 @@
+{
+    "id": "013170",
+    "subject": "ECE",
+    "catalogNumber": "155",
+    "title": "Engineering Design with Embedded Systems",
+    "description": "Introduction to embedded systems, review of engineering design and analysis principles, software development life cycle, integrated development environments, use of software requirements and specifications, unified modelling language and documentation, event handling, simulation, project management, project scheduling, testing, verification, and maintenance considerations. [Offered: W,S]",
+    "term": [],
+    "prereq": [
+        "ECE 150"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ECE 254"
+    ]
+}

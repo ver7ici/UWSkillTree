@@ -1,0 +1,12 @@
+{
+    "id": "016230",
+    "subject": "AMATH",
+    "catalogNumber": "841",
+    "title": "Finite Element Methods",
+    "description": "Mathematical theory of finite element methods, with error analysis and stability. Continuous and\ndiscontinuous Galerkin methods and mixed finite element methods, applied to elliptic, parabolic, and\nhyperbolic partial differential equations including compressible and/or incompressible Euler and Navier-Stokes\nequations. Implementation in two and three dimensions. Students should have completed an introductory\ncourse on numerical methods for partial differential equations.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,16 @@
+{
+    "id": "004346",
+    "subject": "CROAT",
+    "catalogNumber": "102",
+    "title": "Elementary Croatian 2",
+    "description": "A continuation of CROAT 101. [Note: CROAT 102 is not open to students with native, near-native, or similar advanced ability.]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "CROAT 101"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

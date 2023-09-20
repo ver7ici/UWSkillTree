@@ -1,0 +1,18 @@
+{
+    "id": "005223",
+    "subject": "ENGL",
+    "catalogNumber": "495A",
+    "title": "Supervision of Honours Essay",
+    "description": "Senior honours essay will be completed under supervision. [Note: A grade for ENGL 495A will be submitted only after the completion of ENGL 495B.]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ENGL 495B"
+    ]
+}

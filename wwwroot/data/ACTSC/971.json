@@ -1,0 +1,14 @@
+{
+    "id": "000045",
+    "subject": "ACTSC",
+    "catalogNumber": "971",
+    "title": "Finance 2",
+    "description": "The course discusses methods and tools for modeling of financial derivatives in the continuous-time setting. Both theory and practical applications are discussed. The first part covers methods of pricing and hedging of derivatives under different assumptions about the dynamics of the underlying economic factors. Topics normally include currency derivatives, American and exotic options, futures contracts, stochastic volatility models and mean-variance hedging. The second part deals with modeling and pricing of interest-rate products. Topics may include short interest rate models, the Heath-Jarrow-Morton Framework, and Libor and swap market models.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

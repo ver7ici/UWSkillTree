@@ -1,0 +1,16 @@
+{
+    "id": "012247",
+    "subject": "OPTOM",
+    "catalogNumber": "152L",
+    "title": "Clinical Techniques 1 Laboratory",
+    "description": "Selected clinical techniques for students taking 152.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [
+        "OPTOM 152"
+    ],
+    "antireq": [],
+    "next": []
+}

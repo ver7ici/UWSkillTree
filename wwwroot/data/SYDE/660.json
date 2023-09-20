@@ -1,0 +1,22 @@
+{
+    "id": "015742",
+    "subject": "SYDE",
+    "catalogNumber": "660",
+    "title": "Systems Design Graduate Workshop 1",
+    "description": "Engineering design project course where students work in small groups or individually applying the principles of engineering problem solving, research methods, systems analysis including modelling, simulation, optimization and design. There is a strong focus on a major design project with regular mentorship, project update reports and presentations, project reviews, and design embodiment demonstrations.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "SYDE 600"
+    ],
+    "coreq": [],
+    "antireq": [
+        "SYDE 660A",
+        "SYDE 660B",
+        "SYDE 660C",
+        "SYDE 660D",
+        "SYDE 660E"
+    ],
+    "next": []
+}

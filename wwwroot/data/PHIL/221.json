@@ -1,0 +1,17 @@
+{
+    "id": "007272",
+    "subject": "PHIL",
+    "catalogNumber": "221",
+    "title": "Ethics",
+    "description": "An introduction to moral theories, including ones based on virtue, consequences, and rights and duties, with discussion of historical developments leading to those theories.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PHIL 320"
+    ]
+}

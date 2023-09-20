@@ -1,0 +1,16 @@
+{
+    "id": "005239",
+    "subject": "ENVE",
+    "catalogNumber": "275",
+    "title": "Environmental Chemistry",
+    "description": "Overview of risk, biosphere compartments and contaminant fate. Composition of water. Electroneutrality and activity. Reactions and speciation including reaction kinetics, mass transfer, vapor pressure, equilibrium, and chemical thermodynamics. Equilibrium chemistry including Log-concentration diagrams, titration and buffering intensity, dissolution/precipitation, carbonate system, hardness, and complex formation. Classification, nomenclature, physical/chemical parameters and partitioning of organic compounds. Basic redox chemistry including: half cell reactions, Faraday and Nernst equations, and pE-pH diagrams. Four labs. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "CHE 102"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

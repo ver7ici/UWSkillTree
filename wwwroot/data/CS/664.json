@@ -1,0 +1,12 @@
+{
+    "id": "000613",
+    "subject": "CS",
+    "catalogNumber": "664",
+    "title": "Computational Complexity Theory",
+    "description": "The classification of problems according to the computational resources required for their solution, with emphasis on properties of feasible computations rather than on specific algorithms. Topics include: time and space complexity, tractable and intractable problems, computation using randomness, parallel computation.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

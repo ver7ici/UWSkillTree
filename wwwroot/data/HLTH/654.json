@@ -1,0 +1,15 @@
+{
+    "id": "015075",
+    "subject": "HLTH",
+    "catalogNumber": "654",
+    "title": "Systems Thinking and Analysis in Health Program Planning and Evaluation",
+    "description": "This course provides the theory and tools needed to apply systems thinking and a systems approach to health program evaluation. Course includes application of ethical theory to health reform, systems approaches to health programming planning and evaluation, international comparison of health systems, and an in-depth investigation of health sector subsystems or building blocks.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "PHS 611",
+        "HLTH 611"
+    ],
+    "next": []
+}

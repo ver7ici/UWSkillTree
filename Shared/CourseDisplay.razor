@@ -1,0 +1,21 @@
+﻿@if (C is null) 
+{
+    <p>2222222...</p>
+} 
+else 
+{
+    <h4>@C.Subject @C.CatalogNumber</h4>
+    <h3>@C.Title</h3>
+    <p>@C.Description</p>
+    <p>
+        @foreach (var r in C.Prereq) 
+        {
+            <span>@r &nbsp;</span>
+        }
+    </p>
+    
+}
+@code
+{
+    [Parameter] public Course? C { get; set; }
+}

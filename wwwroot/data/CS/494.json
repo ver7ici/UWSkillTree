@@ -1,0 +1,16 @@
+{
+    "id": "015546",
+    "subject": "CS",
+    "catalogNumber": "494",
+    "title": "Team Project 2",
+    "description": "Continuing from CS 493, student teams continue development of their project, update project plans, explore design alternatives, perform testing, and analyze experimental results.  Teams prepare and deliver technical presentations and demonstrations of their projects, and analyze ethical and legal aspects of their work. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "CS 493"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,15 @@
+{
+    "id": "005070",
+    "subject": "ENGL",
+    "catalogNumber": "200B",
+    "title": "English Literatures 2",
+    "description": "An introduction to the diverse forms and voices of literature written in English from the late 18th century to the present, focussing on key writers and works from Britain and North America, and including works by women and people of colour. Students will explore literary techniques, historical and cultural contexts, and the question of the canon.",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,35 @@
+{
+    "id": "006824",
+    "subject": "MSCI",
+    "catalogNumber": "432",
+    "title": "Production and Service Operations Management",
+    "description": "Introduction to management, planning, and control decisions in manufacturing and service settings using quantitative approaches. Topic areas include production, inventory, distribution, quality control, facilities layout, and process design. Students are exposed to a number of examples and case studies, and work on a project that involves analysis and discussion of improved designs. [Offered: F,W]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [
+        "AE 224",
+        "BME 213",
+        "CHE 220",
+        "CIVE 224",
+        "ECE 203",
+        "ECE 306",
+        "ENVE 224",
+        "ME 202",
+        "MTE 201",
+        "NE 215",
+        "STAT 206",
+        "STAT 211",
+        "STAT 231",
+        "STAT 241",
+        "SYDE 212"
+    ],
+    "coreq": [],
+    "antireq": [
+        "MSCI 334"
+    ],
+    "next": [
+        "MSCI 434"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "009036",
+    "subject": "GSJ",
+    "catalogNumber": "371",
+    "title": "Special Topics in Gender and Social Justice",
+    "description": "Special topics, as announced by the department. [Note: This is a repeatable course, subject to different content; it may be completed a total of four times. Formerly WS 365.]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "GSJ 101",
+        "GSJ 102",
+        "WS 101",
+        "WS 102"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,14 @@
+{
+    "id": "009237",
+    "subject": "ECE",
+    "catalogNumber": "302",
+    "title": "Information Session",
+    "description": "Scheduled, non-credit session to provide information to electrical and computer engineering students. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

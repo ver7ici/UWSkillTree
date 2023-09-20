@@ -1,0 +1,29 @@
+{
+    "id": "011618",
+    "subject": "BIOL",
+    "catalogNumber": "240",
+    "title": "Fundamentals of Microbiology",
+    "description": "Introduction to the biology of bacterial and archaeal organisms. Topics include cell structure and function, methods of cultivation, genetics, phylogeny and taxonomy, and metabolic and genetic diversity. [Note: BIOL 240L must be completed before taking BIOL 241. BIOL 240L may be required for entrance to certain professional/graduate programs. Formerly BIOL 140. Offered: F; online W, S]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "BIOL 241",
+        "BIOL 342",
+        "BIOL 431",
+        "BIOL 442",
+        "BIOL 443",
+        "BIOL 444",
+        "BIOL 345",
+        "BIOL 346",
+        "BIOL 447",
+        "BIOL 448",
+        "BIOL 348L",
+        "BIOL 341"
+    ]
+}

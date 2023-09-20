@@ -1,0 +1,22 @@
+{
+    "id": "015330",
+    "subject": "AE",
+    "catalogNumber": "223",
+    "title": "Differential Equations and Balance Laws",
+    "description": "An introduction to ordinary differential equations with applications to mass and energy balance problems in engineering. Standard methods of solution of first and second order linear equations with constant coefficients. Numerical methods for solving ordinary differential equations. Partial differential equations. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "AE 221"
+    ],
+    "coreq": [],
+    "antireq": [
+        "CIVE 222",
+        "MATH 218"
+    ],
+    "next": [
+        "CIVE 505",
+        "CIVE 422"
+    ]
+}

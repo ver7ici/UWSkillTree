@@ -1,0 +1,24 @@
+{
+    "id": "006429",
+    "subject": "HLTH",
+    "catalogNumber": "320",
+    "title": "Psychosocial Perspectives on Lifespan Development and Health",
+    "description": "This course will focus on the normative psychosocial aspects of development of the individual and their influence on the individual's physical and mental health and well-being. Through the use of a developmental systems, lifespan approach, the course will emphasize the life-long process of development. [Note: Formerly HLTH 220/GERON 220]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "HLTH 101",
+        "HLTH 102"
+    ],
+    "coreq": [
+        "PSYCH 101",
+        "PSYCH 101R"
+    ],
+    "antireq": [
+        "HLTH 220",
+        "GERON 220",
+        "GERON 320"
+    ],
+    "next": []
+}

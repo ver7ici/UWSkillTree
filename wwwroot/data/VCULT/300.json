@@ -1,0 +1,18 @@
+{
+    "id": "013624",
+    "subject": "VCULT",
+    "catalogNumber": "300",
+    "title": "Visual Culture in Theory",
+    "description": "An advanced introduction to theorizing in art and media, highlighting the distinctive role of visual representation in cultural experience and the varied modes of thinking about images that visual representation has engendered. Readings will be drawn from several disciplines including art history, film and literary studies, media studies, and philosophy.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "VCULT 200"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "VCULT 400"
+    ]
+}

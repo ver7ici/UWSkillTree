@@ -1,0 +1,14 @@
+{
+    "id": "009010",
+    "subject": "SYDE",
+    "catalogNumber": "553",
+    "title": "Advanced Dynamics",
+    "description": "Newtonian and Eulerian formulation of particle and rigid body kinematics and dynamics.  Energy (Lagrangian and Hamiltonian) formulations of particle and rigid body dynamics; generalized co-ordinates, generalized forces, holonomic constraints, Lagrange multipliers. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

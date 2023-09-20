@@ -1,0 +1,20 @@
+{
+    "id": "012214",
+    "subject": "HLTH",
+    "catalogNumber": "461",
+    "title": "Experimental Methods in Behavioural Neuroscience",
+    "description": "As a senior laboratory course, the primary objective will be to provide students with a broad conceptual and practical understanding of how to design, conduct, and interpret animal-based experiments that seek to answer neuroscience-themed questions with relevance for public health. To this end, students will receive instruction upon, and gain direct experience in, a variety of areas; for example, animal ethics and husbandry, experimental design, behavioural techniques to assess learning and memory, molecular techniques to assess protein-level changes, statistical analysis, and the preparation of a scientific manuscript.",
+    "term": [],
+    "prereq": [
+        "BIOL 273",
+        "PSYCH 261",
+        "HLTH 205",
+        "HLTH 333",
+        "BIOL 361",
+        "KIN 232",
+        "PSYCH 291"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

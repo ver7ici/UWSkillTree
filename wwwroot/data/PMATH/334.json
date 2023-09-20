@@ -1,0 +1,19 @@
+{
+    "id": "007662",
+    "subject": "PMATH",
+    "catalogNumber": "334",
+    "title": "Introduction to Rings and Fields with Applications",
+    "description": "Rings, ideals, factor rings, homomorphisms, finite and infinite fields, polynomials and roots, field extensions, algebraic numbers, and applications, for example, to Latin squares, finite geometries, geometrical constructions, error-correcting codes.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "MATH 235",
+        "MATH 245"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "CO 485"
+    ]
+}

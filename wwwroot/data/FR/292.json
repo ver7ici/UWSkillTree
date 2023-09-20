@@ -1,0 +1,14 @@
+{
+    "id": "005594",
+    "subject": "FR",
+    "catalogNumber": "292",
+    "title": "French Civilization 2",
+    "description": "This course completes the study of the cultural development of France from the French Revolution to the present. [Note: Taught in English.]",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "FR 297"
+    ],
+    "next": []
+}

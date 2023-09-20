@@ -1,0 +1,19 @@
+{
+    "id": "008587",
+    "subject": "SOC",
+    "catalogNumber": "204R",
+    "title": "Sociology of Adolescence",
+    "description": "The social definitions of adolescence in cross-cultural and historical perspective. Social roles of adolescents in the institutional structures of urban-industrial societies with special emphasis on the family, education, and the economy. The relationship of adolescents' social roles to processes of social change and stability.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [
+        "SOC 101",
+        "SOC 101R",
+        "SOC 120R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

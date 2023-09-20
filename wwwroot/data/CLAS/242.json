@@ -1,0 +1,16 @@
+{
+    "id": "005480",
+    "subject": "CLAS",
+    "catalogNumber": "242",
+    "title": "Survey of Roman Art and Architecture",
+    "description": "A survey of Roman art and architecture from the earliest times to the age of Constantine the Great. Material studied may include the art of the Etruscans, the evolution of Roman portraiture, innovations in architectural materials and forms, the use of art and architecture by the Emperors, and the change to Late Antique art.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "CLAS 486"
+    ]
+}

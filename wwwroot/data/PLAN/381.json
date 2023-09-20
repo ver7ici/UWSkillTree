@@ -1,0 +1,23 @@
+{
+    "id": "006014",
+    "subject": "PLAN",
+    "catalogNumber": "381",
+    "title": "Advanced Geographic Information Systems",
+    "description": "Students learn theoretical and operational approaches to advanced spatial analysis using geographical information systems. Emphasis is placed on the use of automation procedures using models and programming to address a variety of topics that may include but are not limited to digital terrain modeling, suitability analysis, network analysis, and cell-based models. The domain of spatial problems explored may vary by instructor.",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "GEOG 255",
+        "PLAN 255",
+        "GEOG 281",
+        "PLAN 281"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PLAN 487",
+        "PLAN 481"
+    ]
+}

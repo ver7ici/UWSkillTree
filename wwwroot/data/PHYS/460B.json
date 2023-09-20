@@ -1,0 +1,18 @@
+{
+    "id": "010365",
+    "subject": "PHYS",
+    "catalogNumber": "460B",
+    "title": "Advanced Laboratory 2",
+    "description": "A continuation of PHYS 460A. [Offered: F,W,S]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "PHYS 460A"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,14 @@
+{
+    "id": "001863",
+    "subject": "ME",
+    "catalogNumber": "649",
+    "title": "Control of Machines and Processes",
+    "description": "The concepts of computer-aided manufacturing, microcomputer systems and interfacing techniques for industrial applications. Conversion techniques, timing considerations, thermal and optical sensing, interpolation methods for control of drive systems and programmable controllers are representative of the topics presented. Hardware and software design of real time microcomputer systems which are then implemented in the laboratory constitute a major portion of the course requirements.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

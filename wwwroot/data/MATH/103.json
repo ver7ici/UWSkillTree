@@ -1,0 +1,25 @@
+{
+    "id": "006847",
+    "subject": "MATH",
+    "catalogNumber": "103",
+    "title": "Introductory Algebra for Arts and Social Science",
+    "description": "An introduction to applications of algebra to business, the behavioural sciences, and the social sciences. Topics will be chosen from linear equations, systems of linear equations, linear inequalities, functions, set theory, permutations and combinations, binomial theorem, probability theory. [Offered: F,W]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "MATH 106",
+        "MATH 114",
+        "MATH 115",
+        "MATH 136",
+        "MATH 146",
+        "NE 112"
+    ],
+    "next": [
+        "MATH 106",
+        "PSYCH 292"
+    ]
+}

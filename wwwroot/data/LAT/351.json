@@ -1,0 +1,18 @@
+{
+    "id": "006678",
+    "subject": "LAT",
+    "catalogNumber": "351",
+    "title": "Latin Composition, Grammar, and Reading",
+    "description": "Composition, translation, and grammar with intensive analysis of selected passages.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "LAT 202"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "LAT 451"
+    ]
+}

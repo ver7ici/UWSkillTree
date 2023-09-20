@@ -1,0 +1,14 @@
+{
+    "id": "000724",
+    "subject": "CM",
+    "catalogNumber": "750",
+    "title": "Numerical Solution of Partial Differential Equations",
+    "description": "Discretization methods for partial differential equations, including finite difference, finite volume and finite element methods. Application to elliptic, hyperbolic and parabolic equations. Convergence and stability issues, properties of discrete equations, and treatment of non-linearities. Stiffness matrix assembly and use of sparse matric software. Students should have completed a course in numerical computation at the undergraduate level.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

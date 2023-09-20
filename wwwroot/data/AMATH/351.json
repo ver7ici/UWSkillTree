@@ -1,0 +1,29 @@
+{
+    "id": "003329",
+    "subject": "AMATH",
+    "catalogNumber": "351",
+    "title": "Ordinary Differential Equations 2",
+    "description": "Second order linear differential equations with non-constant coefficients, Sturm comparison, oscillation and separation theorems, series solutions and special functions. Linear vector differential equations in Rn, an introduction to dynamical systems. Laplace transforms applied to linear vector differential equations, transfer functions, the convolution theorem. Perturbation methods for differential equations. Numerical methods for differential equations. Applications are discussed throughout. [Offered: F,S]",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [
+        "AMATH 250",
+        "AMATH 251",
+        "MATH 237",
+        "MATH 247"
+    ],
+    "coreq": [],
+    "antireq": [
+        "AMATH 350"
+    ],
+    "next": [
+        "AMATH 451",
+        "AMATH 453",
+        "AMATH 455",
+        "PHYS 434",
+        "PHYS 444",
+        "PHYS 442"
+    ]
+}

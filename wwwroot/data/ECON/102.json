@@ -1,0 +1,27 @@
+{
+    "id": "004877",
+    "subject": "ECON",
+    "catalogNumber": "102",
+    "title": "Introduction to Macroeconomics",
+    "description": "This course introduces students to the measurement and behaviour of key macroeconomic variables both in Canada and around the world. Topics include national accounts, inflation, interest rates, wages, international balance of payments, business cycles, growth, employment, unemployment, poverty, and inequality.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ECON 231",
+        "ECON 351",
+        "ECON 457",
+        "ECON 363",
+        "PSCI 300",
+        "ECON 206",
+        "ECON 207",
+        "ECON 322",
+        "ECON 366",
+        "ECON 241"
+    ]
+}

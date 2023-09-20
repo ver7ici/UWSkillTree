@@ -1,0 +1,16 @@
+{
+    "id": "002350",
+    "subject": "PMATH",
+    "catalogNumber": "667",
+    "title": "Algebraic Topology",
+    "description": "Topological spaces and topological manifolds; quotient spaces; cut and paste constructions; classification of two-dimensional manifolds; fundamental group; homology groups. Additional topics may include: covering spaces; homotopy theory; selected applications to knots and combinatorial group theory.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "PMATH 467"
+    ],
+    "next": []
+}

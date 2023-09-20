@@ -1,0 +1,12 @@
+{
+    "id": "000333",
+    "subject": "CHE",
+    "catalogNumber": "610",
+    "title": "Theory and Application of Transport Phenomena",
+    "description": "Mathematical analysis of momentum, heat and mass transport in systems of chemical engineering interest:  development of the differential equations of change (continuity, motion and energy) for forced convection in isothermal, non-isothermal and multi-component systems; description of velocity, temperature and concentration profiles and computation of momentum, energy and mass fluxes at surfaces under conditions of laminar flow; description of transport in turbulent flow by time-smoothing of the equations of change; turbulent velocity, temperature and concentration profiles.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

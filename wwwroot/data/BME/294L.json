@@ -1,0 +1,17 @@
+{
+    "id": "015454",
+    "subject": "BME",
+    "catalogNumber": "294L",
+    "title": "Circuits, Instrumentation, and Measurements Laboratory",
+    "description": "Laboratory experiments for students taking BME 294. [Offered: S]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "BME 392L",
+        "SYDE 292L"
+    ],
+    "next": []
+}

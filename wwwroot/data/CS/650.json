@@ -1,0 +1,14 @@
+{
+    "id": "000606",
+    "subject": "CS",
+    "catalogNumber": "650",
+    "title": "Computer Architecture",
+    "description": "The course is intended to provide the student with an appreciation of modern computer design and its relation to system architecture, compiler technology and operating system functionality. The course places an emphasis on design based on the measurement of performance and its dependency on parallelism, efficiency, latency and resource utilization.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

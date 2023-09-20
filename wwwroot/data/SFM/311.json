@@ -1,0 +1,15 @@
+{
+    "id": "016306",
+    "subject": "SFM",
+    "catalogNumber": "311",
+    "title": "Social Regulation and Policy",
+    "description": "Social policy regulation and policy identifies acceptable and unacceptable activities by governments, business, and society. This course examines the formal and informal policies, laws, regulations, and norms that act to restrict practices that threaten to undermine social welfare and the equitable distribution of benefits. Topics include governmental laws and regulations, tax policy, corporate social responsibility and accountability, social license, and the role of mass media.",
+    "term": [],
+    "prereq": [
+        "SMF 310",
+        "ENBUS 310"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

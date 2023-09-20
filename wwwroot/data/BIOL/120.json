@@ -1,0 +1,27 @@
+{
+    "id": "003657",
+    "subject": "BIOL",
+    "catalogNumber": "120",
+    "title": "Introduction to Plant Structure and Function",
+    "description": "A brief introduction to plant diversity, and the anatomy and physiology of vascular plants. The course will include a description of major cell and tissue types, and their organization in roots, stems, and leaves. Topics such as the processes of water and ion uptake, photosynthesis, long distance transport, and growth regulation will also be covered. [Offered: W,S]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "BIOL 323",
+        "BIOL 426",
+        "BIOL 433",
+        "BIOL 351",
+        "BIOL 490A",
+        "BIOL 490B",
+        "BIOL 490C",
+        "BIOL 490D",
+        "BIOL 498A",
+        "BIOL 498B",
+        "BIOL 321"
+    ]
+}

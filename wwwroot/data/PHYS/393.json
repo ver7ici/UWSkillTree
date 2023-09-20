@@ -1,0 +1,17 @@
+{
+    "id": "013645",
+    "subject": "PHYS",
+    "catalogNumber": "393",
+    "title": "Physical Optics",
+    "description": "Fourier Optics: diffraction, dispersion, coherence, imaging. Polarization: birefringence, Jones vectors, Mueller Matrices. Fresnel Equations: optics at an interface, thin films. [Offered: W even years]",
+    "term": [],
+    "prereq": [
+        "PHYS 256",
+        "ECE 404",
+        "PHYS 364",
+        "AMATH 353"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

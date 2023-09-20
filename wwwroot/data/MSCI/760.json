@@ -1,0 +1,15 @@
+{
+    "id": "001999",
+    "subject": "MSCI",
+    "catalogNumber": "760",
+    "title": "Topics in Other Areas of Management Sciences",
+    "description": "Priority may be given to Management Sciences students.",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

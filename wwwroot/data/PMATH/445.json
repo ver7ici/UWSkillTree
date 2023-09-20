@@ -1,0 +1,16 @@
+{
+    "id": "014184",
+    "subject": "PMATH",
+    "catalogNumber": "445",
+    "title": "Representations of Finite Groups",
+    "description": "Basic definitions and examples: subrepresentations and irreducible representations, tensor products of representations. Character theory. Representations as modules over the group ring, Artin-Wedderburn structure theorem for semisimple rings. Induced representations, Frobenius reciprocity, Mackey's irreducibility criterion.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "PMATH 347"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,17 @@
+{
+    "id": "011598",
+    "subject": "GER",
+    "catalogNumber": "304",
+    "title": "Reading and Translating",
+    "description": "Students learn strategies for understanding a variety of texts such as newspaper reports, manuals, and fiction. Translation exercises are used to improve language skills.",
+    "term": [],
+    "prereq": [
+        "GER 202",
+        "GER 211"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "GER 331"
+    ]
+}

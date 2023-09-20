@@ -1,0 +1,20 @@
+{
+    "id": "010137",
+    "subject": "CO",
+    "catalogNumber": "485",
+    "title": "The Mathematics of Public-Key Cryptography",
+    "description": "An in-depth study of public-key cryptography. Number-theoretic problems: prime generation, integer factorization, discrete logarithms. Public-key encryption, digital signatures, key establishment, elliptic curve cryptography, post-quantum cryptography. Proofs of security. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "PMATH 334",
+        "PMATH 336",
+        "PMATH 345",
+        "PMATH 346",
+        "PMATH 347"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

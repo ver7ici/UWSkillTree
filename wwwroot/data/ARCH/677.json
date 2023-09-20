@@ -1,0 +1,14 @@
+{
+    "id": "011628",
+    "subject": "ARCH",
+    "catalogNumber": "677",
+    "title": "Survey of Digital Design Technologies for Architecture",
+    "description": "This course provides an overview of the software and hardware technologies to support the design of an architecture that is more holistically conceived on cultural, social, health, technical and formal grounds that would otherwise be possible.  What is taught facilitates an integrated design process where all disciplines collaborate through all phases of a project to achieve a sustainable design. There will be an exploration of software applications including the generation of landscapes and vegetation, energy analysis, acoustics, lighting, structure, people movement, air flow analysis, microclimate analysis and various types of three-dimensional modelling software, particularly, packages that facilitate interfacing with rapid prototyping and allow complex form generation. Rapid prototyping techniques will include laser cutting, three-dimensional printing and CNC 3-axis machining. The course format is a seminar in which each student will explore some of these technologies in depth by means of a small design example and presentations to the class while obtaining an overview from the course lectures and presentations by other students on other applications.",
+    "term": [],
+    "prereq": [
+        "ARCH 113"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

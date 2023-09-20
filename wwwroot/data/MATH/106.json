@@ -1,0 +1,40 @@
+{
+    "id": "006869",
+    "subject": "MATH",
+    "catalogNumber": "106",
+    "title": "Applied Linear Algebra 1",
+    "description": "Systems of linear equations.  Matrix algebra.  Determinants.  Introduction to vector spaces.  Applications. [Offered: F,W,S]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "MATH 103"
+    ],
+    "coreq": [],
+    "antireq": [
+        "MATH 114",
+        "MATH 115",
+        "MATH 136",
+        "MATH 146",
+        "NE 112"
+    ],
+    "next": [
+        "AMATH 250",
+        "CO 227",
+        "CO 250",
+        "CO 380",
+        "CO 480",
+        "CS 370",
+        "MATH 225",
+        "MATH 235",
+        "MATH 237",
+        "MATH 239",
+        "MATH 229",
+        "AMATH 251",
+        "AMATH 383",
+        "PMATH 320",
+        "PMATH 321"
+    ]
+}

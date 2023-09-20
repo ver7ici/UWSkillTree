@@ -1,0 +1,14 @@
+{
+    "id": "007945",
+    "subject": "PSYCH",
+    "catalogNumber": "315",
+    "title": "Psychology of Adolescence and Emerging Adulthood",
+    "description": "A study of the psychological processes in the second and third decades of human development. Consideration is given to such areas as identity formation and intellectual, emotional, and social growth. Current concepts, issues, and research are stressed.",
+    "term": [],
+    "prereq": [
+        "PSYCH 211"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

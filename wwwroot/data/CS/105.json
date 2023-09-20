@@ -1,0 +1,34 @@
+{
+    "id": "015054",
+    "subject": "CS",
+    "catalogNumber": "105",
+    "title": "Introduction to Computer Programming 1",
+    "description": "An introduction to the fundamentals of computer programming through media computation. Students will learn to write interactive graphical programs. Fundamental language concepts such as variables, conditionals, loops, functions, and arrays. Programming concepts such as coding style, modular design, testing, and debugging.  Media concepts such as 2D graphics drawing, input, animation, and image processing. [Offered: F]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "BME 121",
+        "CS 115",
+        "CS 135",
+        "CS 137",
+        "CS 145",
+        "CHE 121",
+        "CIVE 121",
+        "ECE 150",
+        "MTE 121",
+        "GENE 121",
+        "NE 111",
+        "MSCI 121",
+        "PHYS 236",
+        "SYDE 121"
+    ],
+    "next": [
+        "CS 106",
+        "HLTH 453",
+        "HLTH 454"
+    ]
+}

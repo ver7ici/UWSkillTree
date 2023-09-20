@@ -1,0 +1,16 @@
+{
+    "id": "015904",
+    "subject": "DAC",
+    "catalogNumber": "303",
+    "title": "Advanced Sound for Digital Media",
+    "description": "This course advances the skills developed in DAC 203. Students will learn to analyse and produce sound for screen-based media, including film and video games.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "DAC 203"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,17 @@
+{
+    "id": "013988",
+    "subject": "MNS",
+    "catalogNumber": "321",
+    "title": "Electrical and Optical Properties of Materials",
+    "description": "Optical properties of and electrical transport in materials; topics may include insulators, semiconductors, metals, superconductors and their applications in photovoltaics, thermoelectrics, and nanocomposites.[Offered: S, F]",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [
+        "MNS 221"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

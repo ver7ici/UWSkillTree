@@ -1,0 +1,17 @@
+{
+    "id": "014310",
+    "subject": "HLTH",
+    "catalogNumber": "202",
+    "title": "Principles of Public and Population Health",
+    "description": "This course will introduce the student to the basic theories, principles and practice of public and population health.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "HLTH 101",
+        "HLTH 102"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

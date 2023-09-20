@@ -1,0 +1,16 @@
+{
+    "id": "005658",
+    "subject": "FR",
+    "catalogNumber": "485",
+    "title": "French Women Writers",
+    "description": "A study of selected works by women writers in France from the Middle Ages to the 21st-century. The course will focus on the literary features of these works and on their value as reflections of the position of women in French society throughout the period.",
+    "term": [],
+    "prereq": [
+        "FR 197",
+        "FR 296",
+        "FR 297"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

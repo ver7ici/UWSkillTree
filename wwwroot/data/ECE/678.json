@@ -1,0 +1,12 @@
+{
+    "id": "000810",
+    "subject": "ECE",
+    "catalogNumber": "678",
+    "title": "Fourier Optics and Optical Signal Processing",
+    "description": "Analysis of two-dimensional linear systems, Scalar diffraction theory, Fourier transforming properties of lenses, Frequency analysis of optical imaging systems, Spatial filtering and optical information processing, Synthetic Aperture Radar (SAR) - data processing, Wavefront-reconstruction.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,17 @@
+{
+    "id": "016017",
+    "subject": "NE",
+    "catalogNumber": "496",
+    "title": "Nanomaterials for Electrochemical Energy Systems",
+    "description": "Nanomaterials in electrochemical energy systems, electrochemical reactions, and cell potentials. Nernst equation. Electrode kinetics and mass transport. Electrochemical reactor design. Fuel cells, electrocatalytic reactions, and hydrogen economy. Rechargeable batteries. Design aspects of energy systems. Applications in hybrid and electric vehicles. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "CHE 331",
+        "NE 499"
+    ],
+    "next": []
+}

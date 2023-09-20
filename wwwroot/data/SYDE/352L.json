@@ -1,0 +1,16 @@
+{
+    "id": "012860",
+    "subject": "SYDE",
+    "catalogNumber": "352L",
+    "title": "Control Systems Laboratory",
+    "description": "Laboratory experiments for students taking SYDE 352.  [Offered:  W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "BME 353L"
+    ],
+    "next": []
+}

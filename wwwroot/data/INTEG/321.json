@@ -1,0 +1,16 @@
+{
+    "id": "012698",
+    "subject": "INTEG",
+    "catalogNumber": "321",
+    "title": "The Museum Course: Practicum and Presentation",
+    "description": "An introduction to the museum, broadly interpreted as the public face of scholarship. Students construct and exhibit their designs from INTEG 320, and present public talks on the scholarship and curatorial decisions behind their work. [Note: Estimated additional cost to student: $100.]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "INTEG 320"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

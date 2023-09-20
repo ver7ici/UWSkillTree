@@ -1,0 +1,17 @@
+{
+    "id": "012532",
+    "subject": "HLTH",
+    "catalogNumber": "614",
+    "title": "Foundations of Program Evaluation",
+    "description": "This course covers methods and applications of intervention evaluation in public health, as a means to ensure the effectiveness, accountability and continuous improvement of public health interventions. Basic evaluation models and concepts of evaluation design are provided as an introduction, including the relationship between intervention planning (organization and program planning) and evaluation. Both qualitative and quantitative methodological approaches are presented. Case examples are used to illustrate methodological, political and ethical challenges of program evaluation in the public health context.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "HLTH 651"
+    ]
+}

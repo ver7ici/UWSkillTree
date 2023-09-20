@@ -1,0 +1,16 @@
+{
+    "id": "006752",
+    "subject": "ME",
+    "catalogNumber": "533",
+    "title": "Non-metallic and Composite Materials",
+    "description": "This course is intended to provide an advanced treatment of the structure, properties, and processing of non-metallic and composite materials based on polymers, metals, and ceramics. The structure and properties of polymers and ceramics in bulk form and as matrices and reinforcements in composites will be covered. Processing methods for non-metallics and composites (example extrusion, injection molding, etc.) will be considered. The geometrical arrangement of fibres within laminae and their influences on elastic and strength properties of composites will be described based on suitable micromechanical models. The role of the matrix and fibre/matrix interface in determining composite properties will be described. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "ME 230"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

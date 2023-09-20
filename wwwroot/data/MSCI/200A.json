@@ -1,0 +1,14 @@
+{
+    "id": "012368",
+    "subject": "MSCI",
+    "catalogNumber": "200A",
+    "title": "Seminar",
+    "description": "General seminar.  [Offered:  F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

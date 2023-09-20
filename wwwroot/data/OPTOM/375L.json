@@ -1,0 +1,16 @@
+{
+    "id": "012252",
+    "subject": "OPTOM",
+    "catalogNumber": "375L",
+    "title": "Diseases of the Eye 3 Laboratory",
+    "description": "Selected clinical techniques for students taking OPTOM 375.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [
+        "OPTOM 375"
+    ],
+    "antireq": [],
+    "next": []
+}

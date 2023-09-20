@@ -1,0 +1,15 @@
+{
+    "id": "008972",
+    "subject": "SYDE",
+    "catalogNumber": "572",
+    "title": "Introduction to Pattern Recognition",
+    "description": "Pattern recognition as a process of data analysis. Pattern features as components in a random vector representation. Classification techniques; distance measures in feature space, probabilistic (Bayesian) decision theory, linear discriminants. Clustering and feature extraction. Applications; optical character recognition, speech recognition, industrial robot vision, medical diagnosis, remote sensing and satellite image analysis, fault detection and diagnosis in complex systems such as nuclear reactors. [Offered: W]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

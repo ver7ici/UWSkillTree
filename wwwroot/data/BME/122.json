@@ -1,0 +1,22 @@
+{
+    "id": "014452",
+    "subject": "BME",
+    "catalogNumber": "122",
+    "title": "Data Structures and Algorithms",
+    "description": "Topics of structured software design, data structures, abstract data types, recursive algorithms, algorithm and data structure analysis and design from both computational and memory perspectives, lists, stacks, queues, trees, graphs, sorting and searching, hashing, and problem-solving strategies. Embedded programming in health monitoring systems and healthcare management systems. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "SYDE 223"
+    ],
+    "next": [
+        "SYDE 322",
+        "SYDE 522",
+        "ECE 406",
+        "MSCI 446",
+        "MSCI 541"
+    ]
+}

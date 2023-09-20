@@ -1,0 +1,14 @@
+{
+    "id": "009269",
+    "subject": "GEOE",
+    "catalogNumber": "499",
+    "title": "Seminar",
+    "description": "General seminar. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

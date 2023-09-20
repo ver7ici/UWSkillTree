@@ -1,0 +1,12 @@
+{
+    "id": "012996",
+    "subject": "CS",
+    "catalogNumber": "791",
+    "title": "Non-Photorealistic Rendering",
+    "description": "Fundamentals of non-photorealistic computer depiction.  Problems of style, abstraction and spatial and temporal coherence.  Stroke-based rendering and simulation of traditional artistic media.  Stylized processing of images and video.  Real-time non-photorealistic rendering of 3D models;  toon shaders and contour rendering.  Geometric art and ornamental design.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

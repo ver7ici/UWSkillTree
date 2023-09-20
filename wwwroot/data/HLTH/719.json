@@ -1,0 +1,16 @@
+{
+    "id": "015456",
+    "subject": "HLTH",
+    "catalogNumber": "719",
+    "title": "Advanced Research Methods in Health Informatics",
+    "description": "This course covers advanced research methods in health informatics that are often applied in cutting-edge health informatics research.  Fundamental research methods will be extended to greater depth.  Latest information technology will be discussed and applied in the context of health informatics.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "HLTH 619"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

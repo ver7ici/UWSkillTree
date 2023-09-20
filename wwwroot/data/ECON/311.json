@@ -1,0 +1,19 @@
+{
+    "id": "004921",
+    "subject": "ECON",
+    "catalogNumber": "311",
+    "title": "Mathematical Economics",
+    "description": "This course builds on and expands the material in ECON 211. Multi-variate calculus and optimization are covered in detail, with a focus on economic applications of the envelope theorem. The implicit function theorem and its uses in comparative statics are explored. Difference and differential equations and their application to dynamic models are introduced, culminating in an introduction to optimal control.",
+    "term": [],
+    "prereq": [
+        "ECON 201",
+        "ECON 202",
+        "ECON 211",
+        "ECON 391"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ECON 474"
+    ]
+}

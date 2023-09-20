@@ -1,0 +1,15 @@
+{
+    "id": "014804",
+    "subject": "MATH",
+    "catalogNumber": "636",
+    "title": "Linear Algebra for Teachers",
+    "description": "This course explores the foundations of linear algebra and some of its applications.  An emphasis will be placed on the development of mathematical thinking and the importance of proof in mathematical teaching.  Topics include:  matrices, linear mappings, vector spaces, determinants, diagonalization, inner products, the Fundamental Theorem of Linear Algebra, and the method of least squares.",
+    "term": [],
+    "prereq": [],
+    "coreq": [
+        "MATH 600",
+        "MATH 692"
+    ],
+    "antireq": [],
+    "next": []
+}

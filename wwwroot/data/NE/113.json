@@ -1,0 +1,22 @@
+{
+    "id": "011925",
+    "subject": "NE",
+    "catalogNumber": "113",
+    "title": "Introduction to Computational Methods",
+    "description": "Spreadsheets for problem solving, plotting, fitting data. Problem solution plotting, and creating complex programs in an engineering prototypical programming environment. Elementary numerical methods: Taylor-series summations, roots of equations, roots of polynomials, direct and indirect solution methods for systems of linear, and nonlinear algebraic equations, integration. Applications in nanotechnology engineering. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "CIVE 121",
+        "CS 115",
+        "CS 135",
+        "CS 145",
+        "ECE 150",
+        "MTE 121",
+        "SYDE 121"
+    ],
+    "next": []
+}

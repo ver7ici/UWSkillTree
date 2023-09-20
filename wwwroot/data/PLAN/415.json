@@ -1,0 +1,19 @@
+{
+    "id": "016008",
+    "subject": "PLAN",
+    "catalogNumber": "415",
+    "title": "Urban Planning and Development in Transitional China",
+    "description": "This course offers a critical understanding of China's urban planning and development in the context of the country's economic reform and globalization. It engages with the ongoing social, economic, environmental, and spatial challenges facing transitional urban China. The course exposes students to diverse and essential issues such as urban form, urban system, rural-urban migration, urban land and housing development, economic transformation, spatial restructuring, urban governance, citizenship and rights, urban sprawl and expansion, and environmental sustainability.",
+    "term": [],
+    "prereq": [
+        "PLAN 261"
+    ],
+    "coreq": [],
+    "antireq": [
+        "PLAN 474",
+        "PLAN 001",
+        "PLAN 474",
+        "PLAN 001"
+    ],
+    "next": []
+}

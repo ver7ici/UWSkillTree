@@ -1,0 +1,54 @@
+{
+    "id": "005271",
+    "subject": "ENVS",
+    "catalogNumber": "278",
+    "title": "Applied Statistics for Environmental Research",
+    "description": "This course examines further techniques for collecting, evaluating, and using data-based evidence in environmental research. It builds upon ENVS 178, with a focus on inferential statistics, including sampling distributions, confidence intervals, parametric and nonparametric hypothesis tests, and linear regression models. It further develops skills in using statistical software for data analysis and modeling of environmental data.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [
+        "ENVS 178"
+    ],
+    "coreq": [],
+    "antireq": [
+        "ARTS 280",
+        "ECON 221",
+        "SDS 250R",
+        "PSCI 314",
+        "PSYCH 292",
+        "REC 371",
+        "SOC 280",
+        "STAT 202",
+        "STAT 206",
+        "STAT 211",
+        "STAT 221",
+        "STAT 231",
+        "STAT 241"
+    ],
+    "next": [
+        "BIOL 456",
+        "BIOL 457",
+        "BIOL 490A",
+        "BIOL 490B",
+        "BIOL 490C",
+        "BIOL 490D",
+        "BIOL 498A",
+        "BIOL 498B",
+        "PLAN 478",
+        "STAT 316",
+        "PLAN 351",
+        "PLAN 353",
+        "PLAN 320",
+        "GEOG 391",
+        "PLAN 350",
+        "BIOL 361",
+        "PLAN 481",
+        "BIOL 458",
+        "PLAN 416",
+        "GEOG 428",
+        "GEOG 392",
+        "PLAN 606"
+    ]
+}

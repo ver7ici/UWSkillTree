@@ -1,0 +1,20 @@
+{
+    "id": "006731",
+    "subject": "ME",
+    "catalogNumber": "380",
+    "title": "Mechanical Engineering Design Workshop",
+    "description": "In this course, students study the design process, including needs analysis, problem definition; design criteria and critical parameter identification, generation of alternative solutions; conceptual design, detailed design, optimization; and implementation. Most of the term is devoted to a significant design project in which student groups work independently and competitively, applying the design process to a project goal set by the faculty co-ordinator. The design project typically includes construction of a prototype, and part of the course grade may depend on the performance of the prototype in a competitive test. In exceptional circumstances, the requirement for a prototype may be replaced by a computer simulation, or may be waived. Other mechanical engineering faculty members, particularly those teaching 3B courses, are available to provide advice and supervision to ME 380 students. [Offered: F,W]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "MTE 380"
+    ],
+    "next": [
+        "ME 481",
+        "ME 482"
+    ]
+}

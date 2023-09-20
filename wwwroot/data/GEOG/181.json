@@ -1,0 +1,22 @@
+{
+    "id": "014542",
+    "subject": "GEOG",
+    "catalogNumber": "181",
+    "title": "Designing Effective Maps",
+    "description": "Focus is on the issues and foundations of modern digital cartography. Topics covered include geographic coordinate systems, map projections, mapping quantitative data, developing online maps, and the impact of maps on society. Students will learn computer techniques to produce effective maps based on established principles of cartographic design. [Also offered online]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "GEOG 165"
+    ],
+    "next": [
+        "GEOG 281",
+        "GEOG 271",
+        "GEOG 310"
+    ]
+}

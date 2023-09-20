@@ -1,0 +1,18 @@
+{
+    "id": "004871",
+    "subject": "EASIA",
+    "catalogNumber": "100R",
+    "title": "Introduction to East Asia",
+    "description": "An introductory survey of East Asia. This course examines common grounds and differences in the historical, cultural, economic, and political foundations of East Asian societies and states. [Note: Formerly EASIA 201R]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "EASIA 201R"
+    ],
+    "next": []
+}

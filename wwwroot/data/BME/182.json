@@ -1,0 +1,20 @@
+{
+    "id": "014458",
+    "subject": "BME",
+    "catalogNumber": "182",
+    "title": "Physics 2: Dynamics",
+    "description": "The science of motion is taught with initial focus on particles, and then progressing to planar rigid body systems. Concepts such as inertia, momentum, work, energy, Newton's laws, and contact dynamics are covered, with particular application to human motions (e.g., walking, running, jumping, lifting, and throwing). [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "ME 212",
+        "SYDE 182"
+    ],
+    "next": [
+        "BME 550",
+        "BME 551"
+    ]
+}

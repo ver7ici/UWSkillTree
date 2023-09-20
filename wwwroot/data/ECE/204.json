@@ -1,0 +1,22 @@
+{
+    "id": "004752",
+    "subject": "ECE",
+    "catalogNumber": "204",
+    "title": "Numerical Methods",
+    "description": "Application of computational methods to engineering problems. Number systems, errors and error propagation. Roots of nonlinear equations. Introduction to numerical linear algebra. Interpolation and numerical integration. Introduction to numerical solutions of ordinary differential equations, optimization. Emphasis will be placed on algorithm development. [Offered: F, W]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "AMATH 342",
+        "CS 370",
+        "CS 371",
+        "ECE 204A",
+        "ECE 204B",
+        "MTE 204"
+    ],
+    "next": []
+}

@@ -1,0 +1,24 @@
+{
+    "id": "003295",
+    "subject": "ACTSC",
+    "catalogNumber": "331",
+    "title": "Life Contingencies 2",
+    "description": "Policy Values: Annual, 1/mthly, and continuous cases. Thiele's equation. Modified premium policy values. Multiple state models: applications in life contingencies; assumptions; Kolmogorov equations; premiums, policy values, multiple decrement models. Joint life models: valuation of insurance benefits on joint lives, dependent and independent cases. [Note: Some of the material covered in STAT 333 reinforces some of the concepts covered in this course. Therefore students might find it beneficial to take STAT 333 and ACTSC 331 at the same time. Offered: F,W,S]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "ACTSC 232"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ACTSC 232",
+        "ACTSC 454",
+        "ACTSC 453",
+        "ACTSC 455",
+        "MTHEL 300"
+    ]
+}

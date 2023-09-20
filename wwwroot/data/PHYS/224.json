@@ -1,0 +1,27 @@
+{
+    "id": "013965",
+    "subject": "PHYS",
+    "catalogNumber": "224",
+    "title": "Electricity and Magnetism for Life and Medical Physics",
+    "description": "Coulomb's law, electric field, Gauss' law, potential, current, resistance, electromotive force, D.C. circuits, magnetic fields, induced electromotive forces; applications include cell membrane potentials, action potentials, role of charge in structure and function of DNA, basis for the magneto-encephalogram and biomedical instrumentations. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "PHYS 112",
+        "PHYS 122",
+        "MATH 118",
+        "MATH 119",
+        "MATH 128",
+        "MATH 138",
+        "MATH 148"
+    ],
+    "coreq": [],
+    "antireq": [
+        "PHYS 242"
+    ],
+    "next": [
+        "PHYS 391",
+        "PHYS 396"
+    ]
+}

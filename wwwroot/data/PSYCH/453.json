@@ -1,0 +1,19 @@
+{
+    "id": "008019",
+    "subject": "PSYCH",
+    "catalogNumber": "453",
+    "title": "Honours Seminar in Developmental Psychology",
+    "description": "Topics reflect current issues in developmental psychology. Consult the departmental listings for the upcoming topics. Activities may include oral presentations, class discussions, individual and/or group projects, and written assignments. [Note: This is a repeatable course, subject to different content; it may be completed a total of four times.]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [
+        "PSYCH 211"
+    ],
+    "coreq": [
+        "PSYCH 391"
+    ],
+    "antireq": [],
+    "next": []
+}

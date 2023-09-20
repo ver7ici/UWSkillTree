@@ -1,0 +1,19 @@
+{
+    "id": "007938",
+    "subject": "PSYCH",
+    "catalogNumber": "306",
+    "title": "Perception",
+    "description": "What we perceive through our senses makes up much of our conscious experience. This course examines how visual and auditory perception arises and includes topics such as how we become aware of colour, form, space, brightness, loudness, and pitch, and how this information guides behaviour. Other senses may be covered.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "PSYCH 207",
+        "PSYCH 261"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "KIN 359"
+    ]
+}

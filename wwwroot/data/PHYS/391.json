@@ -1,0 +1,20 @@
+{
+    "id": "007438",
+    "subject": "PHYS",
+    "catalogNumber": "391",
+    "title": "Electronics",
+    "description": "Norton and Th\u00e9venin equivalent circuits, bipolar junction and field-effect transistors, operational amplifiers, negative feedback, noise, common circuits used for measurement and control of laboratory experiments, introduction to digital circuits. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "PHYS 122",
+        "PHYS 224",
+        "PHYS 242"
+    ],
+    "coreq": [
+        "PHYS 391L"
+    ],
+    "antireq": [],
+    "next": []
+}

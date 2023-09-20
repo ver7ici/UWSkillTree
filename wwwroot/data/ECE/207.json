@@ -1,0 +1,25 @@
+{
+    "id": "013171",
+    "subject": "ECE",
+    "catalogNumber": "207",
+    "title": "Signals and Systems",
+    "description": "Discrete, continuous and periodic signals, time- and frequency-domain analysis of continuous- and discrete-time linear systems, periodic signals and Fourier series, non-periodic signals, and Fourier transforms. [Offered: F,S]",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [
+        "ECE 140",
+        "ECE 240",
+        "ECE 140",
+        "MATH 213"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ECE 318",
+        "ECE 380",
+        "ECE 481",
+        "ECE 607"
+    ]
+}

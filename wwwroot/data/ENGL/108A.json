@@ -1,0 +1,16 @@
+{
+    "id": "013480",
+    "subject": "ENGL",
+    "catalogNumber": "108A",
+    "title": "The Superhero",
+    "description": "An examination of hero figures, ranging broadly from ancient characters such as Gilgamesh to the modern comic book superhero. Literary as well as non-literary materials (e.g., film, comics, games) will be considered.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

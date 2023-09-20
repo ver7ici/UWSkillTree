@@ -1,0 +1,18 @@
+{
+    "id": "016004",
+    "subject": "ENBUS",
+    "catalogNumber": "310",
+    "title": "Introduction to Sustainable Finance",
+    "description": "In this course, the basics of sustainable finance will be explored. The course will cover topics such as green corporate finance, sustainability accounting, sustainable banking, climate finance, and social banking.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "ENBUS 409",
+        "ENBUS 081",
+        "SFM 310"
+    ],
+    "next": [
+        "SFM 311"
+    ]
+}

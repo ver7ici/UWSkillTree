@@ -1,0 +1,16 @@
+{
+    "id": "000771",
+    "subject": "ECE",
+    "catalogNumber": "613",
+    "title": "Image Processing and Visual Communication",
+    "description": "This course covers the fundamental concepts and methods, as well as state-of-the-art theories and technologies in the field of image processing and visual communications. Topics include fundamental digital image and video processing methods; image analysis and understanding; statistical image modeling and perception; and robustness, scalability and security issues in visual communications.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "ECE 710"
+    ],
+    "next": []
+}

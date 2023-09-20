@@ -1,0 +1,17 @@
+{
+    "id": "011787",
+    "subject": "CLAS",
+    "catalogNumber": "327",
+    "title": "Astrology and Magic",
+    "description": "An examination of the theory and practice of astrology and magic in the classical and medieval worlds. Topics include the relationship of astrology and magic to traditional Greco-Roman religion and Christianity, occult practices, and the people who performed them.",
+    "term": [],
+    "prereq": [
+        "CLAS 100",
+        "CLAS 104",
+        "CLAS 201",
+        "CLAS 202"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

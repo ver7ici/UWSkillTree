@@ -1,0 +1,20 @@
+{
+    "id": "012080",
+    "subject": "CHEM",
+    "catalogNumber": "209",
+    "title": "Introductory Spectroscopy and Structure",
+    "description": "The nature of electromagnetic radiation and an elementary outline of quantum mechanics in one dimension. For each of microwave, infrared, Raman, electronic, photoelectron, and nuclear magnetic resonance spectroscopy, the nature of the molecular energy levels involved and the type of molecular information that can be obtained using it are examined. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "CHEM 120",
+        "CHEM 121",
+        "NE 121"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PHYS 396"
+    ]
+}

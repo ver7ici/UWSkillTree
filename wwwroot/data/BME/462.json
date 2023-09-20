@@ -1,0 +1,16 @@
+{
+    "id": "014446",
+    "subject": "BME",
+    "catalogNumber": "462",
+    "title": "Biomedical Engineering Design Workshop 3",
+    "description": "The concluding half of the fourth-year Biomedical Engineering Design Workshop. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "SYDE 462"
+    ],
+    "next": []
+}

@@ -1,0 +1,16 @@
+{
+    "id": "016540",
+    "subject": "BE",
+    "catalogNumber": "680",
+    "title": "Consulting",
+    "description": "Many graduate engineers end up working as consultants. While consulting requires expert discipline-specific technical skills, there are general skills that all professionals require. This includes understanding business needs from a holistic perspective, co-developing innovative ideas, influencing skills, problem identification and analysis, and change management. Course topics include the consulting process, managing difficult clients, consulting frameworks, analytical approaches to solving complex problems, engagement management, building a facilitation toolset, negotiation, and advanced presentation techniques. The course also covers aspects of the business of consulting.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "BE 610"
+    ],
+    "next": []
+}

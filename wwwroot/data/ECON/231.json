@@ -1,0 +1,24 @@
+{
+    "id": "004899",
+    "subject": "ECON",
+    "catalogNumber": "231",
+    "title": "Introduction to International Economics",
+    "description": "This course explores international trade in goods and services, as well as the international exchange of financial assets. Economic theories will be examined, which help explain how international transactions affect the world's economies. Topics include the theory of comparative advantage and the gains from trade, tariff theory, concepts and measurement of balance of payments, exchange rate systems, and the international monetary system.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "ECON 101",
+        "ECON 100",
+        "COMM 103",
+        "ECON 102"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ECON 437",
+        "ECON 467"
+    ]
+}

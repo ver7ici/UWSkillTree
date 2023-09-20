@@ -1,0 +1,18 @@
+{
+    "id": "006544",
+    "subject": "KIN",
+    "catalogNumber": "100L",
+    "title": "Regional Human Anatomy Laboratory",
+    "description": "Regional gross anatomy of the limbs and trunk, including a brief introduction to the central nervous and cardiovascular systems. The anatomy is explored using pre-dissected human cadavers. For the limbs and trunk, the emphasis is placed on structures (muscles, nerves, and bones) involved in gross movement.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "KIN 301",
+        "KIN 340",
+        "KIN 429"
+    ]
+}

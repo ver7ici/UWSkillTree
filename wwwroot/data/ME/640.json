@@ -1,0 +1,16 @@
+{
+    "id": "001859",
+    "subject": "ME",
+    "catalogNumber": "640",
+    "title": "Autonomous Mobile Robotics",
+    "description": "This course presents the fundamentals of Autonomous Mobile Robotics, including both perception and planning for autonomous operation. Topics in Perception include sensor modeling, vehicle state estimation using Bayes Filters, Kalman Filters, and Particle Filters, and simultaneous localization and mapping. Topics in Planning include vehicle motion modeling and control, reactive, graph based and optimal motion planning. An emphasis on examples from recent research in the area pervades the course content. The course requires background knowledge in state space modeling, linear algebra, probability theory and optimization theory.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "ME 597"
+    ],
+    "next": []
+}

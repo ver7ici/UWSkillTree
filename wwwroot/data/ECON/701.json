@@ -1,0 +1,16 @@
+{
+    "id": "011829",
+    "subject": "ECON",
+    "catalogNumber": "701",
+    "title": "Micro II",
+    "description": "This course builds on the models and the techniques developed in Microeconomic Theory I.  Topics may include general-equilibrium analysis, game theory, the economics of information, mechanism design and applications of bargaining theory to the theory of markets.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "ECON 601"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

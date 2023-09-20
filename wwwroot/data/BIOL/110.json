@@ -1,0 +1,26 @@
+{
+    "id": "003654",
+    "subject": "BIOL",
+    "catalogNumber": "110",
+    "title": "Introductory Zoology",
+    "description": "A study of the functional morphology of selected animals with special emphasis on the various grades of organization and development in the different phyla. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "BIOL 310",
+        "BIOL 370",
+        "BIOL 371",
+        "BIOL 351",
+        "BIOL 490A",
+        "BIOL 490B",
+        "BIOL 490C",
+        "BIOL 490D",
+        "BIOL 498A",
+        "BIOL 498B",
+        "BIOL 414"
+    ]
+}

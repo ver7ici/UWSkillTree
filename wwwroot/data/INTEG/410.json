@@ -1,0 +1,17 @@
+{
+    "id": "016262",
+    "subject": "INTEG",
+    "catalogNumber": "410",
+    "title": "Interdisciplinary Collaboration",
+    "description": "\"Interdisciplinary collaboration\" is a popular term these days, but what does it mean, exactly, and what makes it successful? In this course, we will examine the nature of interdisciplinarity (such as differences between multi-, inter-, and transdisciplinarity), barriers to collaborating across disciplinary boundaries, and strategies for facilitating more effective collaborations. The course will be taught using collaborative learning techniques that allow students to shape the direction of the course and to work with the instructor to co-create assignments.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "INTEG 475",
+        "INTEG 001",
+        "INTEG 475",
+        "INTEG 041"
+    ],
+    "next": []
+}

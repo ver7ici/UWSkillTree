@@ -1,0 +1,17 @@
+{
+    "id": "012402",
+    "subject": "GEOG",
+    "catalogNumber": "306",
+    "title": "Human Dimensions of Natural Hazards",
+    "description": "This course will investigate the human dimensions of the global experience with natural hazards and associated disasters. The physical nature of a wide range of geophysical and biophysical hazards will be explored, paying particular attention to the ways in which hazards become dangerous to humans, and the pathways by which humans can either increase or decrease their vulnerability in the face of natural hazards. [Note: Formerly GEOG 206]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "GEOG 206"
+    ],
+    "next": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "008106",
+    "subject": "PSYCH",
+    "catalogNumber": "499B",
+    "title": "Honours Thesis - Part 2",
+    "description": "Continuation of PSYCH 499A.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [
+        "PSYCH 499A"
+    ],
+    "antireq": [],
+    "next": []
+}

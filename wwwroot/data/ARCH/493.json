@@ -1,0 +1,16 @@
+{
+    "id": "003581",
+    "subject": "ARCH",
+    "catalogNumber": "493",
+    "title": "Design Studio/Comprehensive Building Design",
+    "description": "This studio represents a culmination of the pre-professional degree, through the integration and application of skills and knowledge to a complex building project. Students will develop designs to a high level of detail. A concern for technical material, environmental, and legal aspects of architecture will support open speculation and innovative design. [Note: Passing grade is 60%. Offered: S]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "ARCH 492"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

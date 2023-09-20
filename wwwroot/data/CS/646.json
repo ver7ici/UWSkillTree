@@ -1,0 +1,15 @@
+{
+    "id": "000603",
+    "subject": "CS",
+    "catalogNumber": "646",
+    "title": "Software Design and  Architectures",
+    "description": "Introduces students to the design, implementation, and evolution phases of software development.  Software design processes, methods, and notation.  Implementation of designs. Evolution of designs and implementations.  Management of design activities.",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

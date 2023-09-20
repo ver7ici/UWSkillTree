@@ -1,0 +1,21 @@
+{
+    "id": "008108",
+    "subject": "REC",
+    "catalogNumber": "100",
+    "title": "Introduction to the Study of Recreation and Leisure",
+    "description": "An overview of the broad field of recreation and leisure emphasizing the understanding of various leisure phenomena. As such, it provides the student with an introductory understanding of the nature and scope of leisure, leisure behaviour, and affiliated recreation activity.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "REC 251",
+        "REC 252",
+        "REC 151",
+        "REC 201",
+        "REC 218"
+    ]
+}

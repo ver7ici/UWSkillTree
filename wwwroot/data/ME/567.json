@@ -1,0 +1,19 @@
+{
+    "id": "012564",
+    "subject": "ME",
+    "catalogNumber": "567",
+    "title": "Fire Safety Engineering",
+    "description": "The art and science of fire safety engineering.  Fundamentals of fire behaviour, fuels and flammability, heat transfer and fluid dynamics of fires and fire modeling.  Practical issues and applications of fire safety, fire control and hazard assessment in the design of buildings, industrial environments and transportation systems.  [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "ME 351",
+        "ME 353"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ME 672"
+    ]
+}

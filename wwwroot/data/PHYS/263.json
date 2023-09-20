@@ -1,0 +1,36 @@
+{
+    "id": "003320",
+    "subject": "PHYS",
+    "catalogNumber": "263",
+    "title": "Classical Mechanics and Special Relativity",
+    "description": "Newtonian dynamics of particles and systems of particles. Oscillations. Gravity and the central force problem. Lorentz transformations and relativistic dynamics. [Offered: W,S]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "PHYS 112",
+        "PHYS 122",
+        "MATH 108",
+        "MATH 128",
+        "MATH 138",
+        "MATH 148",
+        "MATH 228",
+        "AMATH 250",
+        "AMATH 251"
+    ],
+    "coreq": [],
+    "antireq": [
+        "AMATH 261",
+        "AMATH 271"
+    ],
+    "next": [
+        "AMATH 361",
+        "AMATH 373",
+        "PHYS 476",
+        "PHYS 363",
+        "PHYS 475",
+        "PHYS 474",
+        "PHYS 349"
+    ]
+}

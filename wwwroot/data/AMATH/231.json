@@ -1,0 +1,32 @@
+{
+    "id": "003316",
+    "subject": "AMATH",
+    "catalogNumber": "231",
+    "title": "Calculus 4",
+    "description": "Vector integral calculus-line integrals, surface integrals and vector fields, Green's theorem, the Divergence theorem, and Stokes' theorem. Applications include conservation laws, fluid flow and electromagnetic fields.  An introduction to Fourier analysis.  Fourier series and the Fourier transform. Parseval's formula. Frequency analysis of signals.  Discrete and continuous spectra.  [Offered: F,W,S]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "MATH 237",
+        "MATH 247"
+    ],
+    "coreq": [],
+    "antireq": [
+        "MATH 207",
+        "MATH 212",
+        "ECE 206",
+        "MATH 217",
+        "MATH 227"
+    ],
+    "next": [
+        "AMATH 353",
+        "AMATH 361",
+        "AMATH 373",
+        "PHYS 476",
+        "PHYS 396",
+        "AMATH 391"
+    ]
+}

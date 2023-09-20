@@ -1,0 +1,28 @@
+{
+    "id": "011431",
+    "subject": "STAT",
+    "catalogNumber": "341",
+    "title": "Computational Statistics and Data Analysis",
+    "description": "A computationally focused approach to statistical reasoning in the context of real data. Functional programming in R and algorithms will be used to define interesting attributes of finite populations and their sampling characteristics. Computational approaches to inductive inference and the assessment of predictive accuracy. [Offered: F,W]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "MATH 237",
+        "MATH 247",
+        "STAT 230",
+        "STAT 240",
+        "STAT 231",
+        "STAT 241"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "STAT 440",
+        "STAT 441",
+        "STAT 442",
+        "STAT 444"
+    ]
+}

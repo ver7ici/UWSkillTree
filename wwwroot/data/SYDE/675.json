@@ -1,0 +1,14 @@
+{
+    "id": "003154",
+    "subject": "SYDE",
+    "catalogNumber": "675",
+    "title": "Pattern Recognition",
+    "description": "Pattern recognition addresses the problem of detecting and classifying patterns in data, a process of machine perception in which objects are assigned to classes to which they are most similar. This course introduces the three modern approaches to pattern recognition: statistical, structural and neural. Specific topics include distance and probability based approaches in multidimensional feature spaces, feature extraction, clustering and performance measures; pattern grammars, syntax analysis and grammatical inference; connectionist models, pattern associators, back propagation and self-organizing networks.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

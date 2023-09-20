@@ -1,0 +1,24 @@
+{
+    "id": "007458",
+    "subject": "PHYS",
+    "catalogNumber": "380",
+    "title": "Molecular and Cellular Biophysics",
+    "description": "Cell structure and molecular composition; intermolecular interactions and hydration; protein structure and function; cytoskeletal filaments; DNA structure, packing and chromosomes; rate equations and biological dynamics (e.g., cytoskeletal polymerization); self-assembly; cell membranes; action potentials and biological electricity; molecular motors; cell motility. [Note: Recommended PHYS 280/BIOL 280. Offered: F,S]",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [
+        "PHYS 112",
+        "PHYS 122",
+        "CHEM 123",
+        "CHEM 125"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PHYS 396",
+        "PHYS 395",
+        "PHYS 491"
+    ]
+}

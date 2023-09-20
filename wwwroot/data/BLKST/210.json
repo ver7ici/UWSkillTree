@@ -1,0 +1,17 @@
+{
+    "id": "016392",
+    "subject": "BLKST",
+    "catalogNumber": "210",
+    "title": "Language, Life, and Literature in the Caribbean",
+    "description": "This course introduces students to the ways in which language shapes and sustains various forms of cultural expressions in the Caribbean region. Students will use the creative output of storytellers, poets, DJs, and playwrights as a lens to investigate and trace the evolution of a distinctly Caribbean identity from the post-colonial period (1960s) up to the present. Students are also introduced to the social dynamics of Creole language use in the Caribbean and an exploration of the ways in which these languages are implicated in diverse cultural art forms.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "BLKST 101",
+        "BLKST 102"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

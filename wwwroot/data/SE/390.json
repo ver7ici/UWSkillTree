@@ -1,0 +1,20 @@
+{
+    "id": "012940",
+    "subject": "SE",
+    "catalogNumber": "390",
+    "title": "Design Project Planning",
+    "description": "Students undertake a substantial customer-driven group project as part of the SE 390/490/491 design-project sequence covering all major phases of the software-engineering lifecycle. Lectures describe expectations and project-planning fundamentals. Students form groups, decide on a project concept, complete a project-approval process, develop high-level requirements for the project, perform a risk assessment, develop a test plan, and complete a first-iteration prototype. Social, legal, and economic factors are considered. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "CS 240",
+        "CS 246",
+        "CS 247"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "SE 490"
+    ]
+}

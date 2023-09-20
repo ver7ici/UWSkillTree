@@ -1,0 +1,23 @@
+{
+    "id": "013953",
+    "subject": "BIOL",
+    "catalogNumber": "458",
+    "title": "Quantitative Ecology",
+    "description": "The course addresses the integration of mathematical and statistical tools to solve problems in ecology, using examples from individual, population, community, and ecosystem scales. Coursework will explore the relationships between models, hypotheses, experiments and data.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "BIOL 150",
+        "BIOL 250",
+        "ENVS 200",
+        "STAT 202",
+        "ECON 221",
+        "ENVS 278"
+    ],
+    "coreq": [],
+    "antireq": [
+        "BIOL 358"
+    ],
+    "next": []
+}

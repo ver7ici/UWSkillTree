@@ -1,0 +1,14 @@
+{
+    "id": "012849",
+    "subject": "ECON",
+    "catalogNumber": "727",
+    "title": "Financial Econometrics",
+    "description": "This course focuses on the theory and application of estimation and statistical evaluation of continuous-time stochastic processes frequently used in finance.  In particular, it provides an in-depth discussion of estimation methods and statistical tests in the context of dynamic models of the term structure of interest and option pricing.",
+    "term": [],
+    "prereq": [
+        "STAT 850"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

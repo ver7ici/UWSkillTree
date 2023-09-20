@@ -1,0 +1,25 @@
+{
+    "id": "011453",
+    "subject": "MTE",
+    "catalogNumber": "220",
+    "title": "Sensors and Instrumentation",
+    "description": "Review of circuit theory; input-output relationships, transfer functions and frequency response of linear systems; operational amplifiers, operational amplifier circuits using negative or positive feedback; diodes, operational amplifier circuits using diodes; analog signal detection, conditioning and conversion systems; transducers and sensors, difference and instrumentation amplifiers, active filters. [Offered: F,S]",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [
+        "MTE 120",
+        "MTE 201"
+    ],
+    "coreq": [
+        "SYDE 252"
+    ],
+    "antireq": [
+        "SYDE 292"
+    ],
+    "next": [
+        "MTE 322",
+        "MTE 421"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "id": "000884",
+    "subject": "EARTH",
+    "catalogNumber": "621",
+    "title": "Aqueous Geochemistry",
+    "description": "a) Basic thermodynamics and activity-fugacity relationships. Chemical equilibria, ion association and complexing, oxidation-reduction reactions. Models for aqueous equilibria in high concentration solutions. b) Interaction of groundwater with porous media; mineral dissolution/precipitation reaction kinetics, ion exchange, surface ionization of oxides. c) Use of computer codes such as PHREEQE and GEOCHEM to simulate mass transfer in geochemical systems. Examining and modelling chemical evolution in groundwater flow systems.",
+    "term": [],
+    "prereq": [
+        "EARTH 421"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

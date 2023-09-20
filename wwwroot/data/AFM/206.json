@@ -1,0 +1,22 @@
+{
+    "id": "015776",
+    "subject": "AFM",
+    "catalogNumber": "206",
+    "title": "Introduction to Tax",
+    "description": "This course is one of a set of courses that focuses on the knowledge and skills that enhance experiential learning during a first co-op work term. Topic areas for this course include tax law, professional ethics, and leveraging technology for taxation competencies.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "AFM 191"
+    ],
+    "coreq": [
+        "AFM 205",
+        "AFM 207",
+        "AFM 208"
+    ],
+    "antireq": [
+        "AFM 202"
+    ],
+    "next": []
+}

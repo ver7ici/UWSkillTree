@@ -1,0 +1,16 @@
+{
+    "id": "015867",
+    "subject": "PHARM",
+    "catalogNumber": "380",
+    "title": "Landmark Clinical Trials",
+    "description": "This course is designed to further student's understanding of selected pharmacotherapeutic topics by reading and appraising landmark clinical trials. Therapeutic topics may vary per course offering. In addition, this course will review the fundamentals of clinical trials including planning and design, conduct, reporting, issues in data analysis, and regulatory issues. [Offered: F]",
+    "term": [],
+    "prereq": [
+        "PHARM 155",
+        "PHARM 222",
+        "PHARM 223"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

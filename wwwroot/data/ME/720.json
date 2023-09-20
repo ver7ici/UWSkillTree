@@ -1,0 +1,15 @@
+{
+    "id": "012233",
+    "subject": "ME",
+    "catalogNumber": "720",
+    "title": "Special Topics in Solid Mechanics",
+    "description": "",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,16 @@
+{
+    "id": "015504",
+    "subject": "GEOG",
+    "catalogNumber": "683",
+    "title": "Civic Technology and Digital Infrastructures",
+    "description": "A critical approach to the development, implementation, and evaluation of civic technology and smart cities, with a focus on practical implementation considerations. Topics covered include open data, urban data collection and analysis platforms, digital inequalities, locational privacy, and digital\ninfrastructures. Assignments are used to experiment with course concepts.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "GEOG 483"
+    ],
+    "next": []
+}

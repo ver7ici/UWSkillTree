@@ -1,0 +1,22 @@
+{
+    "id": "013118",
+    "subject": "PHYS",
+    "catalogNumber": "260L",
+    "title": "Intermediate Physics Laboratory",
+    "description": "Experiments in selected physics topics. [Note: Lab alternates weeks. Approximately a week before a particular lab is held, a one-hour lecture will be given on the material to be covered in the lab. Students in programs joint with Physics should see department for enrolment access. Offered: W,S]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "PHYS 232L",
+        "PHYS 256L"
+    ],
+    "coreq": [
+        "PHYS 242"
+    ],
+    "antireq": [],
+    "next": [
+        "PHYS 360A"
+    ]
+}

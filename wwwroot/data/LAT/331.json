@@ -1,0 +1,14 @@
+{
+    "id": "012923",
+    "subject": "LAT",
+    "catalogNumber": "331",
+    "title": "Advanced Readings in Latin: Prose",
+    "description": "A selection of material from one author or several authors within the field of Latin prose. Topics and selections may include oratory and rhetoric, history, philosophy, Cicero, Quintilian, Caesar, Livy, and Apuleius. [Note: This is a repeatable course, subject to different content; it may be completed a total of four times.]",
+    "term": [],
+    "prereq": [
+        "LAT 202"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

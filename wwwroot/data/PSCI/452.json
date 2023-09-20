@@ -1,0 +1,19 @@
+{
+    "id": "012947",
+    "subject": "PSCI",
+    "catalogNumber": "452",
+    "title": "Comparative Political Parties",
+    "description": "With a primary focus on advanced industrialized countries, this course examines the origin and function of parties, party organization, their social and economic basis, the party system and its evolution, radical left and right parties, and the decline or adaptation of parties.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "PSCI 250",
+        "PSCI 252",
+        "PSCI 255",
+        "PSCI 373"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

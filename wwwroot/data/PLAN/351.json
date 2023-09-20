@@ -1,0 +1,16 @@
+{
+    "id": "005905",
+    "subject": "PLAN",
+    "catalogNumber": "351",
+    "title": "Multivariate Statistics",
+    "description": "The theory and application of multivariate statistics, with particular emphasis upon the use of the computer.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "ENVS 278"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

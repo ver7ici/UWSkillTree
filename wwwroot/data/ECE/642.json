@@ -1,0 +1,12 @@
+{
+    "id": "015283",
+    "subject": "ECE",
+    "catalogNumber": "642",
+    "title": "Radio Frequency Integrated Circuit Design",
+    "description": "Transistor-level design of circuits for wideband RF front-ends. An overview of 2G (GSM) and 3G (W-CDMA) standards and relevant radio architectures is presented, with key system specifications mapped onto circuit specifications. On-chip passive component design and simulation aimed at maximizing RF performance is discussed in detail. Circuit examples include: wideband preamplifiers and gain blocks, I-Q up/downconverters, voltage- and digitally-controlled oscillators (VCO/DCO), and power amplifier drivers. Design of circuit blocks for mm-wave frequency applications and RF testing, packaging and characterization are also discussed. Understanding of analog circuit design and semiconductor devices, and analog circuit simulation experience (e.g., SPICE) is required.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

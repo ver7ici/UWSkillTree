@@ -1,0 +1,18 @@
+{
+    "id": "006764",
+    "subject": "ME",
+    "catalogNumber": "555",
+    "title": "Computer-Aided Design",
+    "description": "Need for geometric modelling, historic developments; wire frame models; hidden line removed models; polyhedral models; surface models and solid models. Constructive solid geometry; boundary representation and decomposition modelling. Hybrid models. Data structures and their role in modelling. Curves and surfaces in modelling (Bezier, B-splines and NURBS). Geometric models and the role of engineers. Parametric and feature-based design. The course has a heavy lab component which provides exposure to solid modelling on SDRC IDEAS and PC-based CAD packages. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "ME 321",
+        "ME 322",
+        "MTE 322"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

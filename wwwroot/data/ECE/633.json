@@ -1,0 +1,16 @@
+{
+    "id": "000785",
+    "subject": "ECE",
+    "catalogNumber": "633",
+    "title": "Nanoelectronics",
+    "description": "This course will cover the following topics; Basics of quantum mechanics; Quantum confinement; Boundary conditions; Schrodinger equation; Basic function; Density matrix; Energy bands; Subbands; Reciprocal lattice; Brillouin zone; Graphene and graphene nanoribbon; Transport in nanoelectronic devices.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "ECE 730"
+    ],
+    "next": []
+}

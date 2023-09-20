@@ -1,0 +1,17 @@
+{
+    "id": "014501",
+    "subject": "PSYCH",
+    "catalogNumber": "342",
+    "title": "The Psychology of Groups and Teams",
+    "description": "The psychology of groups and teams will address psychological processes particular to any social group situation, for example creative design teams, decision making groups, sports teams, group counselling, university clubs, and community groups. Topics include social identification and cohesion, group dynamics (e.g., social loafing, social influence, temporal dynamics, conflict management, etc.), communication in groups, creativity and brainstorming in groups, team leadership, team learning, and measuring team performance. In addition to lectures there will be discussion groups for team experiential exercises.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "PSYCH 101",
+        "PSYCH 101R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,16 @@
+{
+    "id": "015069",
+    "subject": "SOC",
+    "catalogNumber": "263",
+    "title": "Organized Crime",
+    "description": "An examination of select criminal organizations in North America. Particular attention will be given to the social history of \"the mafia\" and the development of legal tools for policing criminal organizations. Additional themes for discussion include enterprise and economic crimes, corruption, and the role of women in organized crime.",
+    "term": [],
+    "prereq": [
+        "SOC 101",
+        "SOC 101R",
+        "SOC 120R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

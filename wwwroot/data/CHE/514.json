@@ -1,0 +1,14 @@
+{
+    "id": "003997",
+    "subject": "CHE",
+    "catalogNumber": "514",
+    "title": "Fundamentals of Petroleum Production",
+    "description": "Fundamentals of surface chemistry, capillary pressure, and wettability. Petrophysics, measurement, and interpretation of electrical, capillary, and flow properties of reservoir rock. Hydrostatic pressure regimes and estimation of oil and gas reserves. Darcy's law and modelling of steady-state and transient incompressible and compressible single-phase flow through porous media. Thermodynamics of petroleum fluids. Material balance for oil and gas reservoirs: subsurface withdrawal and primary production mechanisms. Oil well testing. Two-phase flow in oil reservoirs, relative permeability, Buckley-Leverett theory of linear water flooding and sweep efficiency. Introduction to enhanced oil recovery. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

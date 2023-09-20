@@ -1,0 +1,21 @@
+{
+    "id": "011985",
+    "subject": "EMLS",
+    "catalogNumber": "102R",
+    "title": "Clear Communication in English Writing",
+    "description": "Designed specifically for students for whom English is not the first language, this course offers sentence-level instruction in grammar and idiom to teach students to produce, evaluate, and edit writing under time constraints. It emphasizes readability and error reduction in sentences and paragraphs.  [Note: Not open to fluent writers of English.]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "SPCOM 225",
+        "SPCOM 227",
+        "SPCOM 228",
+        "MTHEL 300"
+    ]
+}

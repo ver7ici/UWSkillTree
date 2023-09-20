@@ -1,0 +1,16 @@
+{
+    "id": "014646",
+    "subject": "PHARM",
+    "catalogNumber": "353",
+    "title": "Entrepreneurship in Pharmacy",
+    "description": "This business course leverages concepts presented in PHARM 226 and applies them to the specific opportunities and challenges facing entrepreneurs and/or individuals creating innovative solutions within more traditional pharmacy environments. Topics that will be addressed include business planning and relationship management for entrepreneurs. [Offered: W, S, F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "PHARM 226"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,20 @@
+{
+    "id": "015578",
+    "subject": "HIST",
+    "catalogNumber": "256",
+    "title": "Murder in Canadian History",
+    "description": "This course examines several major murder cases in Canadian history in order to provide insight into Canada's history and explore how the nation has developed legally, politically, economically, and socially.",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "HIST 291",
+        "RDG 001",
+        "HIST 291",
+        "RDG 001"
+    ],
+    "next": []
+}

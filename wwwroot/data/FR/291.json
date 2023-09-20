@@ -1,0 +1,15 @@
+{
+    "id": "005593",
+    "subject": "FR",
+    "catalogNumber": "291",
+    "title": "French Civilization 1",
+    "description": "This course traces the cultural development of France from its origin to the French Revolution. Emphasis is given to the study of music, art, architecture, literature, ideas, and daily life in their historical context. [Note: Taught in English.]",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "FR 197",
+        "FR 296"
+    ],
+    "next": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "015675",
+    "subject": "PACS",
+    "catalogNumber": "315",
+    "title": "Engineering and Peace",
+    "description": "This course is built on the conviction that the kinds of problems engineers seek to address, and the ways they seek to address them, should matter for anyone interested in advancing peace in the world. Topics include historical connections between the discipline of engineering and warfare, understanding the engineering method and mindset, and technological frontiers for peacebuilding.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "PACS 301",
+        "PACS 301",
+        "LEC 001"
+    ],
+    "next": []
+}

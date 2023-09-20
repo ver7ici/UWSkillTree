@@ -1,0 +1,20 @@
+{
+    "id": "004959",
+    "subject": "ECON",
+    "catalogNumber": "421",
+    "title": "Econometric Theory",
+    "description": "This course offers an advanced treatment of topics covered in ECON 322/323 through the extensive use of matrix algebra, statistical theory and numerical methods. After a review of the required mathematics, these tools will be used to derive the least-squares estimator for the standard linear model and to conduct inference about features of the model, checking the results of theory using regression software and economic data. Then this framework will be used for theoretical generalizations of the model and their estimation using regression software. By the end of the course, students will be able to estimate a linear model and conduct accurate inference in cases where economic data violate the assumptions of the standard linear regression model. This includes methods for dealing with heteroskedastic data, observations that may be dependent over time, response distributions with heavy tails or limited range (such as binary outcomes and count variables), and observations that may suffer from selection bias.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "ECON 321",
+        "ECON 323",
+        "STAT 221",
+        "STAT 231",
+        "STAT 241"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

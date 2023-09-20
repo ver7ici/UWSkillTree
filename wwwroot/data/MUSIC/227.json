@@ -1,0 +1,27 @@
+{
+    "id": "006989",
+    "subject": "MUSIC",
+    "catalogNumber": "227",
+    "title": "Music Studio",
+    "description": "Individual instruction in voice, piano, organ, classical guitar, and orchestral instruments. [Note: Studio Fee]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "MUSIC 226"
+    ],
+    "coreq": [
+        "MUSIC 116",
+        "MUSIC 117",
+        "MUSIC 216",
+        "MUSIC 217",
+        "MUSIC 316",
+        "MUSIC 317",
+        "MUSIC 416",
+        "MUSIC 417"
+    ],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,21 @@
+{
+    "id": "004247",
+    "subject": "CIVE",
+    "catalogNumber": "422",
+    "title": "Finite Element Analysis",
+    "description": "This course focuses on the development of the basic fundamentals of finite element method with applications in fluid flow, mass transport, solid mechanics and structures. Topics include discrete problems, matrix methods, variational principle, method of weighted residuals, element shapes, and interpolation functions. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "AE 223",
+        "CIVE 222",
+        "ENVE 223",
+        "GEOE 223"
+    ],
+    "coreq": [],
+    "antireq": [
+        "ME 559"
+    ],
+    "next": []
+}

@@ -1,0 +1,16 @@
+{
+    "id": "014442",
+    "subject": "BME",
+    "catalogNumber": "361",
+    "title": "Biomedical Engineering Design",
+    "description": "Design methods: problem definition, requirements analysis, criteria and generation of alternative solutions, feasibility analysis, and optimization. Product development. Design survey of biomedical equipment and assistive technologies. A term-long design project in small groups. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "SYDE 361"
+    ],
+    "next": []
+}

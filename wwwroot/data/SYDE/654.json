@@ -1,0 +1,12 @@
+{
+    "id": "003153",
+    "subject": "SYDE",
+    "catalogNumber": "654",
+    "title": "Graphic Theoretic Models for Complex Systems",
+    "description": "This course extends material in SY DE 551 to include complex systems, systems with uncertainty and systems design issues. Material covered includes: non-linear systems models, their formulations and solutions; higher-order sensitivity models and solutions; second moment analysis and robust design methods for systems with probabilistic components. Examples are taken from electro-mechanical disciplines.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

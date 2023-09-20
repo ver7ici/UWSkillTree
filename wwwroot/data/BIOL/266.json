@@ -1,0 +1,22 @@
+{
+    "id": "011508",
+    "subject": "BIOL",
+    "catalogNumber": "266",
+    "title": "Introduction to Computational Biology",
+    "description": "This course provides an introduction to computational methods in biology, including exploration of bioinformatics databases and tools, analysis of protein and DNA sequences, and computer-aided modelling of biological systems. Labs will include practical experience applying computational tools to biological problems. [Note: Formerly BIOL 366. Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "BIOL 130"
+    ],
+    "coreq": [],
+    "antireq": [
+        "BIOL 366"
+    ],
+    "next": [
+        "BIOL 365",
+        "BIOL 465",
+        "BIOL 469"
+    ]
+}

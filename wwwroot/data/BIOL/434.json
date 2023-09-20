@@ -1,0 +1,18 @@
+{
+    "id": "003722",
+    "subject": "BIOL",
+    "catalogNumber": "434",
+    "title": "Human Molecular Genetics",
+    "description": "Recent advances in human molecular genetics will be examined with emphasis on how human disease-causing genes are mapped, identified, isolated and characterized. Examples will draw from research on Duchenne muscular dystrophy, Huntington disease, cystic fibrosis, Alzheimer disease, cancer, vision defects and other disorders. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "BIOL 208",
+        "BIOL 309",
+        "BIOL 308"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

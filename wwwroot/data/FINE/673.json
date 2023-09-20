@@ -1,0 +1,16 @@
+{
+    "id": "011837",
+    "subject": "FINE",
+    "catalogNumber": "673",
+    "title": "Graduate Summer Studio 2 (Part-Time)",
+    "description": "Students will carry out independent studio work under the supervision of Fine Arts faculty members.  Work done during this course will be exhibited early in the Fall term.  Open to part-time Fine Arts graduate students only.",
+    "term": [],
+    "prereq": [
+        "FINE 672B"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "FINE 674"
+    ]
+}

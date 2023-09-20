@@ -1,0 +1,21 @@
+{
+    "id": "006552",
+    "subject": "KIN",
+    "catalogNumber": "301",
+    "title": "Human Anatomy of the Central Nervous System",
+    "description": "Functionally-oriented anatomy of the brain, spinal cord, cranial nerves, and the tissues they innervate using pre-dissected cadavers. Major functional systems, including somatosensory and motor pathways, special sense pathways, and integrative systems of the brain, will be examined through an understanding of anatomical connectivity.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "KIN 100",
+        "KIN 100L",
+        "BIOL 201",
+        "BIOL 301"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PSYCH 335"
+    ]
+}

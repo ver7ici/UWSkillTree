@@ -1,0 +1,21 @@
+{
+    "id": "014002",
+    "subject": "ARABIC",
+    "catalogNumber": "202R",
+    "title": "Intermediate Arabic 2",
+    "description": "This is an intermediate course where students construct complex sentences and write essays. They read, analyze, and translate authentic texts. Students participate in conversations on topics of interest and learn complex grammar patterns, lexical derivations, and dictionary use. [Note: Formerly SI 202R.]",
+    "term": [],
+    "prereq": [
+        "ARABIC 120R",
+        "ARABIC 201R",
+        "SI 120R",
+        "SI 201R"
+    ],
+    "coreq": [],
+    "antireq": [
+        "SI 202R"
+    ],
+    "next": [
+        "ARABIC 301R"
+    ]
+}

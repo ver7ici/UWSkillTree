@@ -1,0 +1,17 @@
+{
+    "id": "012991",
+    "subject": "FR",
+    "catalogNumber": "353",
+    "title": "Introduction to Translation",
+    "description": "Introduction to the theories and practices of French-English/English-French translation.",
+    "term": [],
+    "prereq": [
+        "FR 251",
+        "FR 252"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "FR 400"
+    ]
+}

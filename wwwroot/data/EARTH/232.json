@@ -1,0 +1,22 @@
+{
+    "id": "004829",
+    "subject": "EARTH",
+    "catalogNumber": "232",
+    "title": "Introductory Petrography",
+    "description": "This course provides an introduction to the petrogenesis of igneous, metamorphic, and sedimentary rocks. Overview of textural, mineralogical, and chemical classification schemes for rocks. Introduction to silicate phase equilibria and the use of mineral stability diagrams to understand petrogenetic processes. Major relationships between tectonic setting and rock types. Laboratory work focuses on using a transmitted light microscope to study the optic properties of minerals in order to identify them as well as observe rock textures and interpret geological histories. [Offered: W,S]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "EARTH 231"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "EARTH 331",
+        "EARTH 332",
+        "EARTH 333",
+        "EARTH 471"
+    ]
+}

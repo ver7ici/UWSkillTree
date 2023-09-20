@@ -1,0 +1,14 @@
+{
+    "id": "001021",
+    "subject": "ENGL",
+    "catalogNumber": "700",
+    "title": "Rhetorical Studies",
+    "description": "A course in rhetorical theory and criticism for graduate-level students.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

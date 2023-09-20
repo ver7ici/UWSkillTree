@@ -1,0 +1,20 @@
+{
+    "id": "016243",
+    "subject": "MSCI",
+    "catalogNumber": "546",
+    "title": "Advanced Machine Learning",
+    "description": "This course provides a deeper understanding of machine learning (ML) techniques by utilizing students' prior background in ML and operations research to understand the drivers of ML methodologies rather than using black-box processes. The course first reviews supervised and unsupervised learning methods, and then dives deeper into their assumptions, mathematical models, and underlying algorithms to help students systematically develop and enhance ML processes. Using the same approach, the course covers more advanced topics in ML, such as neural networks and reinforcement learning. Application areas within this course may include, but are not limited to healthcare, energy, sports, transportation, and manufacturing. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "MSCI 332",
+        "CS 480",
+        "ECE 457B",
+        "MSCI 446",
+        "SYDE 522"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

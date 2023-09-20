@@ -1,0 +1,20 @@
+{
+    "id": "007789",
+    "subject": "PSCI",
+    "catalogNumber": "350",
+    "title": "Political Economy of Development",
+    "description": "What problems impede development in the Global South? Students will undertake the critical examination of North-South relations through the examination of topics including trade, investment, aid, industrialization, agri-business, development assistance, education, health, and food production.",
+    "term": [],
+    "prereq": [
+        "PSCI 250",
+        "PSCI 252",
+        "PSCI 281"
+    ],
+    "coreq": [],
+    "antireq": [
+        "INDEV 200"
+    ],
+    "next": [
+        "PSCI 404"
+    ]
+}

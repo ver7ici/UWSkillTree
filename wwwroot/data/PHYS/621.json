@@ -1,0 +1,14 @@
+{
+    "id": "013283",
+    "subject": "PHYS",
+    "catalogNumber": "621",
+    "title": "Perimeter Scholars International Cosmology",
+    "description": "FRW metric, Hubble expansion, dark energy, dark matter, CMB.  Thermodynamic history of early universe.  Growth of perturbations, CDM model of structure formation and comparison to observations, cosmic microwave background anisotropies, inflation and observational tests.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,16 @@
+{
+    "id": "015140",
+    "subject": "PACS",
+    "catalogNumber": "335",
+    "title": "Perspectives in Music and Peace",
+    "description": "This course examines music's role in peace and conflict from a variety of perspectives through listening, reading, discussion, and using examples from around the world. Topics include the use of music in dissent and resistance, and as an instrument of propaganda, conflict, and peacebuilding.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "PACS 301",
+        "LEC 001",
+        "MUSIC 391"
+    ],
+    "next": []
+}

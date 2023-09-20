@@ -1,0 +1,22 @@
+{
+    "id": "015480",
+    "subject": "KIN",
+    "catalogNumber": "204L",
+    "title": "Movement Assessment and Exercise Prescription Laboratory",
+    "description": "This laboratory course provides the student with some of the practical tools used in movement assessment and exercise prescription. The labs have been designed to develop students' practical skills and understanding of material discussed in the KIN 204 lectures.",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "KIN 202",
+        "KIN 202L"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "KIN 414",
+        "KIN 351",
+        "KIN 492"
+    ]
+}

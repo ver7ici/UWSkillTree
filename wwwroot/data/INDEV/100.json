@@ -1,0 +1,16 @@
+{
+    "id": "012674",
+    "subject": "INDEV",
+    "catalogNumber": "100",
+    "title": "Introduction to International Development",
+    "description": "Students obtain an overview of the multi-dimensional and transdisciplinary nature of development. Themes include theories and strategies of development; history of development; relevance of context (culture, economics, and politics); the impact of law and international regulatory bodies; environmental influences; urbanization; the factors of health, literacy and violence; development agencies. Reference is made to particular development problems in specific developing countries.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "INDEV 101"
+    ]
+}

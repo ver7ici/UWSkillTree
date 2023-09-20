@@ -1,0 +1,44 @@
+{
+    "id": "008863",
+    "subject": "STAT",
+    "catalogNumber": "221",
+    "title": "Statistics (Non-Specialist Level)",
+    "description": "Empirical problem solving, measurement systems, causal relationships, statistical models, estimation, confidence intervals, tests of significance. [Offered: F, W]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [
+        "MATH 128",
+        "MATH 138",
+        "MATH 148",
+        "STAT 220",
+        "STAT 230",
+        "STAT 240"
+    ],
+    "coreq": [],
+    "antireq": [
+        "STAT 231",
+        "STAT 241"
+    ],
+    "next": [
+        "ECON 457",
+        "ECON 421",
+        "ECON 422",
+        "STAT 321",
+        "STAT 322",
+        "ECON 456",
+        "HLTH 333",
+        "STAT 337",
+        "ECON 452",
+        "ECON 406",
+        "ECON 407",
+        "ECON 408",
+        "ECON 409",
+        "ECON 423",
+        "ECON 496",
+        "ECON 424",
+        "ECON 425",
+        "ECON 426"
+    ]
+}

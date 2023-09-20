@@ -1,0 +1,19 @@
+{
+    "id": "008110",
+    "subject": "REC",
+    "catalogNumber": "200",
+    "title": "Play, Creativity and Child Development",
+    "description": "A critical analysis of definitions, concepts and assumptions of classical, recent and modern theories of play with implications for programming, planning and evaluating children's play.",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "PSYCH 101",
+        "PSYCH 101R",
+        "PSYCH 121R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

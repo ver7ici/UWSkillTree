@@ -1,0 +1,14 @@
+{
+    "id": "000518",
+    "subject": "CIVE",
+    "catalogNumber": "680",
+    "title": "Water Management",
+    "description": "Multipurpose nature of water resouces planning and operational problems - cost and benefit variations in water resouces and conditions for project optimality.  Optimization techniques - linear programming, dynamic programming, non-linear optimization - water management examples.  Capacity expansion problems and long-term planning problems - short-term operation problems - operations decisions for power generation, flood control and irrigation releases as examples - multi-objective analysis models.  Simulation of water resouce systems.  Introduction to stochasti optimization of water resource systems.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

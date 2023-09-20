@@ -1,0 +1,19 @@
+{
+    "id": "007418",
+    "subject": "PHYS",
+    "catalogNumber": "242L",
+    "title": "Electricity and Magnetism Laboratory",
+    "description": "For students who have taken or are taking  PHYS 242. [Note: Lab alternates weeks. Offered: W,S]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [
+        "PHYS 242"
+    ],
+    "antireq": [
+        "PHYS 224L"
+    ],
+    "next": []
+}

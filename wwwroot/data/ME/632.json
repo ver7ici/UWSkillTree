@@ -1,0 +1,14 @@
+{
+    "id": "011466",
+    "subject": "ME",
+    "catalogNumber": "632",
+    "title": "Experimental Methods in Materials Engineering",
+    "description": "This course will focus on techniques used to characterise materials including metals, ceramics, polymers and composites. Techniques will include scanning and transmission electron microscopy, x-ray and neutron diffraction, thermal analysis (DSC, DMA, TGA, dilactometry), and quantitative metallography. Some of the techniques covered in lectures will be used in laboratory exercises. These exercises will be used to demonstrate the practical use of the equipment and illustrate materials processing, microstructure and property relationships.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

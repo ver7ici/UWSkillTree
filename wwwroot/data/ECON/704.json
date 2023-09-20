@@ -1,0 +1,14 @@
+{
+    "id": "014729",
+    "subject": "ECON",
+    "catalogNumber": "704",
+    "title": "Monetary Economics 2",
+    "description": "This course for PhD students examines the monetary and financial aspects of the macro-economy.  Its main purpose is to prepare students to conduct analyses of problems and policies in monetary economics.  Topics may include the link between monetary policy and output, the economic cost of aggregate fluctuations, the costs and benefits of price stability, the role of central banks and the banking system.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "ECON 604"
+    ],
+    "next": []
+}

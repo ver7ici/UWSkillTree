@@ -1,0 +1,16 @@
+{
+    "id": "015340",
+    "subject": "AE",
+    "catalogNumber": "315",
+    "title": "Building Structural Systems",
+    "description": "A review of different structural systems and materials with a focus on constructability, sustainability, economy, and performance. Concrete, steel, wood, masonry, and polymer materials, as well as framed, hybrid, shear wall, cable stayed, tension, and inflatable systems will be covered. The selection of systems as a function of occupancy, scale, labour, economy, geography, and climate will be introduced. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "AE 200"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

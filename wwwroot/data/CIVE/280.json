@@ -1,0 +1,21 @@
+{
+    "id": "004222",
+    "subject": "CIVE",
+    "catalogNumber": "280",
+    "title": "Fluid Mechanics",
+    "description": "An introduction to fluid mechanics. Fluid properties. Review of fluid statics. Buoyancy. Bernoulli equation. The momentum equation and applications. Laminar and turbulent flow. Dimensionless numbers. Closed conduit flow including friction losses. Pipe network analysis. Pump systems. Four lab sessions. [Offered: S]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "CIVE 105",
+        "CIVE 221"
+    ],
+    "coreq": [],
+    "antireq": [
+        "ENVE 280"
+    ],
+    "next": [
+        "CIVE 375"
+    ]
+}

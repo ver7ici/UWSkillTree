@@ -1,0 +1,20 @@
+{
+    "id": "015777",
+    "subject": "AFM",
+    "catalogNumber": "207",
+    "title": "Introduction to Performance Analytics",
+    "description": "This course is one of a set of courses that focuses on the knowledge and skills that enhance experiential learning during a first or second co-op work term. Topic areas for this course include performance measurement, professional ethics, and leveraging technology for performance analytics.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "AFM 113",
+        "ECON 221",
+        "STAT 211",
+        "STAT 231",
+        "STAT 241"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

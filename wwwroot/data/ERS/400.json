@@ -1,0 +1,18 @@
+{
+    "id": "015429",
+    "subject": "ERS",
+    "catalogNumber": "400",
+    "title": "Social-Ecological Approaches to Sustainability",
+    "description": "This course examines how societies and organizations deal with and respond to social-ecological system complexity, uncertainty and change, and emphasizes tools, strategies and approaches to foster environment and resource sustainability.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "ERS 410"
+    ],
+    "next": [
+        "ERS 401"
+    ]
+}

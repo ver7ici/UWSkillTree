@@ -1,0 +1,19 @@
+{
+    "id": "013831",
+    "subject": "MATH",
+    "catalogNumber": "630",
+    "title": "Foundations of Probability",
+    "description": "This course will explore the basic properties of probability focusing on both discrete and continuous random variables.  Topics include:  Laws of probability, discrete and continuous random variables, probability distributions, mean, variance, generating functions, Markov chains, problem solving, history of probability.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [
+        "MATH 600",
+        "MATH 692"
+    ],
+    "antireq": [],
+    "next": [
+        "MATH 631"
+    ]
+}

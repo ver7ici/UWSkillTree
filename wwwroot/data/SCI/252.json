@@ -1,0 +1,14 @@
+{
+    "id": "015388",
+    "subject": "SCI",
+    "catalogNumber": "252",
+    "title": "Quantum Mechanics for Everyone",
+    "description": "Quantum mechanics is driving a technological revolution. This course offers an introduction to the basic concepts of quantum mechanics from a historical and philosophical perspective. The course will supply the background needed to understand the controversies surrounding the interpretation of quantum mechanics as well as the principles behind the cutting-edge research being carried out at the Perimeter Institute and the University of Waterloo.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "PHIL 271"
+    ],
+    "next": []
+}

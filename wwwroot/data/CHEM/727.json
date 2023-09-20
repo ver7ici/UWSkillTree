@@ -1,0 +1,14 @@
+{
+    "id": "000437",
+    "subject": "CHEM",
+    "catalogNumber": "727",
+    "title": "Separations",
+    "description": "Material to be covered will be drawn from the following topics: Diffusion; Isolation of organic material from the matrix; Chromatographic techniques - principles of chromatographic separations; Gas (GLC, GSC), Liquid (LLC, LSC, GPC, IEC), Supercritical Fluid (SFC) Chromatographies; GC-MS, GC-FTIR; Electrophoresis; Flow field fractionation.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

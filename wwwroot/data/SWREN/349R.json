@@ -1,0 +1,21 @@
+{
+    "id": "011388",
+    "subject": "SWREN",
+    "catalogNumber": "349R",
+    "title": "Cross-Cultural Psychology",
+    "description": "This course focuses on human psychology (behaviours, cognition, emotion, motivation, and personality) across cultures, with the aim of raising awareness and understanding of human commonality and diversity. It examines theoretical, methodological, and ethical issues in cross-cultural psychology in light of the current literature. [Note: SWREN 349R is available only to students who have been given conditional admission to the BSW program; such students must have already completed their first undergraduate degree.]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "PSYCH 220R",
+        "PSYCH 253",
+        "PSYCH 253R"
+    ],
+    "coreq": [],
+    "antireq": [
+        "PSYCH 222R",
+        "PSYCH 352"
+    ],
+    "next": []
+}

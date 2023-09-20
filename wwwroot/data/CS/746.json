@@ -1,0 +1,12 @@
+{
+    "id": "000656",
+    "subject": "CS",
+    "catalogNumber": "746",
+    "title": "Software Architecture",
+    "description": "A project-oriented course that covers the concepts in software architecture. Topics include basic concepts (components and connectors, rationale, views, architectural diagrams, team implictions, evolution, size considerations), theory underlying softeware architecture, extraction of architecture from implementation artifacts, architecture of web-based and enterprise systems, clustering of subsystems, visualization approaches to software architecture, comprehension and cognitive aspects of software architecture.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

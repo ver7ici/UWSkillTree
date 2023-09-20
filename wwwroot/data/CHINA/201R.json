@@ -1,0 +1,21 @@
+{
+    "id": "004203",
+    "subject": "CHINA",
+    "catalogNumber": "201R",
+    "title": "Second-Year Chinese 1",
+    "description": "Development of speaking, writing, reading, and listening skills. This course and its follow-up (CHINA 202R) include a survey of grammar, complex sentences, and logical stress.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "CHINA 102R",
+        "CHINA 120R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "CHINA 202R"
+    ]
+}

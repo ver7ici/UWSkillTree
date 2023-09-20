@@ -1,0 +1,47 @@
+﻿<h3>DiagramDemo</h3>
+
+<div style="width: 1000px; height: 1000px;">
+    <!-- Add this where you want to show the diagram -->
+    <CascadingValue Value="diagram">
+        <DiagramCanvas></DiagramCanvas>
+    </CascadingValue>
+</div>
+
+
+
+@code 
+{
+    private Diagram diagram { get; set; }
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+
+        var options = new DiagramOptions
+        {
+
+        };
+        diagram = new Diagram(options);
+        setup();
+    }
+
+    private void setup()
+    {
+        var node1 = newNode(50, 50);
+        var node2 = newNode(300, 300);
+        var node3 = newNode(300, 50);
+        diagram.Nodes.Add(new List<NodeModel> { node1, node2, node3 });
+        diagram.Links.Add(new LinkModel(node1.GetPort(PortAlignment.Right), node2.GetPort(PortAlignment.Left)));
+    }
+
+    private NodeModel newNode(double x, double y)
+    {
+        var node = new NodeModel(new Point(x, y));
+        node.AddPort(PortAlignment.Bottom);
+        node.AddPort(PortAlignment.Top);
+        node.AddPort(PortAlignment.Left);
+        node.AddPort(PortAlignment.Right);
+        return node;
+    }
+
+}

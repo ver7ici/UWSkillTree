@@ -1,0 +1,22 @@
+{
+    "id": "012955",
+    "subject": "COMM",
+    "catalogNumber": "432",
+    "title": "Electronic Business",
+    "description": "This course will introduce students to approaches, techniques, and terminology used in electronic business. Students will also study issues in disciplines related to electronic business. They will review a number of sites and identify efficient e-commerce analysis, design and development techniques. Students will be introduced to current electronic business tools and standards, and will construct their own simple electronic business site.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "MGMT 244",
+        "ARBUS 302",
+        "BUS 352W",
+        "CS 330",
+        "CS 490"
+    ],
+    "coreq": [],
+    "antireq": [
+        "AFM 443"
+    ],
+    "next": []
+}

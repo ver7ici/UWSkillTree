@@ -1,0 +1,18 @@
+{
+    "id": "015332",
+    "subject": "AE",
+    "catalogNumber": "225",
+    "title": "Environmental Building Systems Studio",
+    "description": "Environmental performance of buildings studied via physical investigations, demonstrations, case studies, and design exercises with a focus on building mechanical and electrical systems and lighting. Embodied energy and life-cycle implications will be introduced. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "AE 200"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "AE 300"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": "007502",
+    "subject": "PLAN",
+    "catalogNumber": "362",
+    "title": "Regional Planning and Economic Development",
+    "description": "The relationship of economic planning to regional planning. Concepts of economic development and models of regional development planning. Case studies and examples are drawn from federal regional development efforts in Canada and/or from Third World nations. Workshops focus on regional planning and development at both a conceptual and empirical level.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "REC 383",
+        "PLAN 450"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "id": "008981",
+    "subject": "SYDE",
+    "catalogNumber": "522",
+    "title": "Foundations of Artificial Intelligence",
+    "description": "The objective of this course is to introduce students to fundamental concepts of Artificial Intelligence. An overview of different learning schemes will be provided, including supervised and unsupervised algorithms. The focus of this course will be on dimensionality reduction, clustering, classification, deep and shallow artificial neural networks, and reinforcement learning. Ethical aspects of artificial intelligence will be discussed. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "BME 122",
+        "CS 240",
+        "ECE 250",
+        "MSCI 240",
+        "MTE 140",
+        "SYDE 223"
+    ],
+    "coreq": [],
+    "antireq": [
+        "CS 480",
+        "CS 486",
+        "ECE 457A",
+        "ECE 457B"
+    ],
+    "next": [
+        "MSCI 546"
+    ]
+}

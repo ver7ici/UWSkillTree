@@ -1,0 +1,18 @@
+{
+    "id": "010396",
+    "subject": "ARCH",
+    "catalogNumber": "463",
+    "title": "Integrated Environmental Systems",
+    "description": "This course is focused on the integrated environmental systems of buildings with an aim to develop the knowledge and skills appropriate to architectural practice. Subjects covered include environmental parameters, air and water systems, heating and cooling loads, energy conservation, ventilating and air conditioning systems, plumbing and waste systems, artificial source lighting and daylighting, acoustics, and fire protection criteria and systems, with reference to building codes and standards. [Offered: S]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [
+        "ARCH 493"
+    ],
+    "antireq": [
+        "ARCH 263"
+    ],
+    "next": []
+}

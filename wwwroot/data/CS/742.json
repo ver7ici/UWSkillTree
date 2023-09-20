@@ -1,0 +1,15 @@
+{
+    "id": "000650",
+    "subject": "CS",
+    "catalogNumber": "742",
+    "title": "Parallel and Distributed Database Systems",
+    "description": "Algorithms and architectures used in parallel database management systems, with a focus on relational systems. Topics include system architectures; parallel and distributed query processing; federated dtabase systems; distributed transactions; data replication.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "CS 748T",
+        "CS 748Q"
+    ],
+    "next": []
+}

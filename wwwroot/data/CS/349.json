@@ -1,0 +1,21 @@
+{
+    "id": "011727",
+    "subject": "CS",
+    "catalogNumber": "349",
+    "title": "User Interfaces",
+    "description": "An introduction to contemporary user interfaces, including the basics of human-computer interaction, the user interface design/evaluation process, the event abstraction, user interface components, specification of user interfaces, and the architectures within which user interfaces are developed. Implementation and evaluation of a typical user interface is considered. [Note: Lab is not scheduled and students are expected to find time in open hours to complete their work. Offered: F,W,S]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "CS 241",
+        "MATH 115",
+        "MATH 136",
+        "MATH 146"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

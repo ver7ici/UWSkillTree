@@ -1,0 +1,16 @@
+{
+    "id": "008993",
+    "subject": "SYDE",
+    "catalogNumber": "461",
+    "title": "Systems Design Capstone Project 1",
+    "description": "The first half of a two-term engineering design project continuing the systems design project sequence. Students work in small groups applying the principles of systems design engineering to a situation of concern of their own choosing. Students have individual project supervisors as well as an overall co-ordinator who provides the framework for the term assessments. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "BME 461"
+    ],
+    "next": []
+}

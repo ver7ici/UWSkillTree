@@ -1,0 +1,14 @@
+{
+    "id": "014106",
+    "subject": "GEOG",
+    "catalogNumber": "410",
+    "title": "Global Navigation Satellite Systems",
+    "description": "The course covers the essence of Global Navigation Satellite Systems (GNSS), including reference systems, satellite orbits, satellite signals, observables, mathematical models for positioning, data processing, transformation, and applications.",
+    "term": [],
+    "prereq": [
+        "GEOG 310"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

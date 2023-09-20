@@ -1,0 +1,14 @@
+{
+    "id": "009357",
+    "subject": "MATH",
+    "catalogNumber": "692",
+    "title": "Reading, Writing and Discovering Proofs",
+    "description": "Objectives: To develop the vocabulary, techniques and analytical skills associated with reading and writing proofs, and to gain practice in formulating conjectures and discovering proofs.  Emphasis will be placed on understanding logical structures, recognition and command over common proof techniques, and precision in language. \r\n\r\nTopics Include: rules of formal logic, truth tables, role of definitions, implications, sets, existential and universal quantifiers, negation and counter-example, proofs by contradiction, proofs using the contrapositive, proofs of uniqueness and induction.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

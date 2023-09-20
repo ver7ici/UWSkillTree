@@ -1,0 +1,14 @@
+{
+    "id": "016325",
+    "subject": "GEOG",
+    "catalogNumber": "314",
+    "title": "Climate Services",
+    "description": "This course provides an overview of the key concepts related to climate services (i.e., useful, timely, and robust information about climatic trends that can support decision-making) and the development of the United Nations' Global Framework for Climate Services. The value of climate-informed decision-making across diverse sectors of the economy are examined, both for climate variability and extremes today and in an era of accelerating climate change. The scientific and practical challenges of utilizing climate information for decision-making in government policy, community planning, business operations, and international development, as well as the technical standards and professional ethics associated with providing climate services, are examined. Students gain practical experience in the development and application of climate services through climate data assembly and interpretation.",
+    "term": [],
+    "prereq": [
+        "GEOG 207"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

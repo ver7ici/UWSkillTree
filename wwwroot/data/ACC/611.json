@@ -1,0 +1,14 @@
+{
+    "id": "000004",
+    "subject": "ACC",
+    "catalogNumber": "611",
+    "title": "External Reporting",
+    "description": "This course examines accounting standards in evolution, adopting critical perspectives of current issues.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

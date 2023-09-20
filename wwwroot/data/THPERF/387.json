@@ -1,0 +1,16 @@
+{
+    "id": "005167",
+    "subject": "THPERF",
+    "catalogNumber": "387",
+    "title": "Shakespeare 2",
+    "description": "A study of the plays written after 1599-1600, including Julius Caesar.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "DRAMA 387"
+    ],
+    "next": []
+}

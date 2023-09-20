@@ -1,0 +1,20 @@
+{
+    "id": "012895",
+    "subject": "ENBUS",
+    "catalogNumber": "204",
+    "title": "Principles of Industrial Ecology",
+    "description": "The course presents the history of industrial ecology, defines its key concepts, presents its main methods, and discusses future directions. Local, national and international case studies will be discussed.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "ENBUS 102"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ENBUS 308",
+        "ENBUS 406",
+        "ENBUS 304"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": "015400",
+    "subject": "CS",
+    "catalogNumber": "231",
+    "title": "Algorithmic Problem Solving",
+    "description": "The study of the steps required to solve real-world problems on a computer, including problem specification, choice of algorithmic paradigm, analysis, and implementation.  Topics include exhaustive search, divide and conquer, greedy, and dynamic programming approaches. [Note: Lab is not scheduled and students are expected to find time in open hours to complete their work. Offered: S]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "CS 116",
+        "CS 136",
+        "CS 138",
+        "CS 146"
+    ],
+    "coreq": [],
+    "antireq": [
+        "BME 122",
+        "CS 341",
+        "ECE 250",
+        "MSCI 240",
+        "MTE 140",
+        "SYDE 223"
+    ],
+    "next": [
+        "CS 338",
+        "CS 370",
+        "CS 487",
+        "CS 431"
+    ]
+}

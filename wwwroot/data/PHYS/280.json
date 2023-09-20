@@ -1,0 +1,19 @@
+{
+    "id": "012773",
+    "subject": "PHYS",
+    "catalogNumber": "280",
+    "title": "Introduction to Biophysics",
+    "description": "Introduction to a physical understanding of biological systems at macro and molecular scales. The course is intended for second-year science and engineering students and will cover a broad spectrum of topics in biophysics, as well as an introduction to neurobiology, nanotechnology, and biotechnology. [Offered: W,S]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PHYS 396",
+        "PHYS 395",
+        "PHYS 383"
+    ]
+}

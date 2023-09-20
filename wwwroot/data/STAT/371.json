@@ -1,0 +1,34 @@
+{
+    "id": "011723",
+    "subject": "STAT",
+    "catalogNumber": "371",
+    "title": "Applied Linear Models and Process Improvement for Business",
+    "description": "Practical and theoretical aspects of simple and multiple linear regression models. Model building, fitting, and assessment. Process thinking and improvement. Strategies for variation reduction such as control charting. Process monitoring, control, and adjustment. Applications to problems in business. [Offered: F,W,S]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "MATH 235",
+        "MATH 245",
+        "STAT 231",
+        "STAT 241"
+    ],
+    "coreq": [],
+    "antireq": [
+        "STAT 321",
+        "STAT 331",
+        "STAT 373"
+    ],
+    "next": [
+        "ACTSC 463",
+        "ACTSC 432",
+        "STAT 430",
+        "STAT 431",
+        "STAT 441",
+        "STAT 443",
+        "STAT 444",
+        "MTHEL 300"
+    ]
+}

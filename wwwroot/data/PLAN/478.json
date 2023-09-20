@@ -1,0 +1,17 @@
+{
+    "id": "004249",
+    "subject": "PLAN",
+    "catalogNumber": "478",
+    "title": "Transit Planning and Operations",
+    "description": "The historical evolution of transit in cities; the technological innovations which made transit possible; and transit mode definitions. Models of transit vehicle motion are presented; transit travel times under different travel regimes are derived. Transit scheduling methods are shown. System operational characteristics are defined and quantitative measures of effectiveness are introduced. Transit network planning objectives are identified; actual geometries are qualitatively and quantitatively analyzed. Transit ownership structures and economics are discussed; contemporary ITS applications are presented. Methods for selecting appropriate transit modes are covered. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "CIVE 342",
+        "ENVS 278"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

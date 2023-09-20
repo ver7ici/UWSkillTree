@@ -1,0 +1,16 @@
+{
+    "id": "004743",
+    "subject": "DUTCH",
+    "catalogNumber": "102",
+    "title": "Elementary Dutch 2",
+    "description": "A continuation of DUTCH 101.  [Note: DUTCH 102 is not open to students with native, near-native, or similar advanced ability.]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "DUTCH 101"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

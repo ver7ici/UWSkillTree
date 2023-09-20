@@ -1,0 +1,14 @@
+{
+    "id": "000605",
+    "subject": "CS",
+    "catalogNumber": "648",
+    "title": "Database Systems Implementation",
+    "description": "The objective of this course is to introduce students to fundamentals of building a relational database management system.  The course focuses on the database engine core technology by studying topics such as storage management (data layout, disk-based data structures), indexing, query processing algorithms, query optimization, transactional concurrency control, logging and recovery.  Preference will be given to CS graduate students.  All other require permission from the school.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

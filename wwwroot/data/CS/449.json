@@ -1,0 +1,23 @@
+{
+    "id": "013910",
+    "subject": "CS",
+    "catalogNumber": "449",
+    "title": "Human-Computer Interaction",
+    "description": "An introduction to the fundamental theories, methods, and research in the design and evaluation of novel computational artifacts designed to meet real-world human needs. [Note: Lab is not scheduled and students are expected to find time in open hours to complete their work.]",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [
+        "CS 240",
+        "CS 241"
+    ],
+    "coreq": [],
+    "antireq": [
+        "SYDE 348",
+        "SYDE 548"
+    ],
+    "next": [
+        "MSCI 436"
+    ]
+}

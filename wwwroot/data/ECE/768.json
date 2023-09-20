@@ -1,0 +1,14 @@
+{
+    "id": "013907",
+    "subject": "ECE",
+    "catalogNumber": "768",
+    "title": "Power System Quality",
+    "description": "This course addresses all the dimensions of Power Quality (PQ) issues including mitigation strategies.  The focus is mainly on qualitative concepts and comprehensive coverage.  This course introduces PQ definitions, limitations, related international standards and mathematical techniques for PQ analysis of Power Systems.  Different identification, localization and classification techniques for PQ problems will be investigated.  The various kinds of PQ problems and their effects on load/system equipment will be looked at in detail.  Mitigation strategies like passive filtering, active and hybrid power filtering, static VAT compensation, DVR, UPQC, etc. will be investigated.  Areas covered include voltage sags, interruptions, transients, flickers, harmonics and  modeling and simulation of utility systems.  Grounding imperfection as a major cause for PQ problems will be addressed in detail.  Moreover, the requirements and impacts of distributed generation (DG) on network power quality will be studies in detail.  Effects of DG on voltage regulation, relaying losses, islanding and standards will be examined.  Background Required - Basic understanding of modeling of power system elements and analysis techniques.  Familiarity wit a programming language and/or a simulation package such as EMTDC/PSCAD and MATLAB is desirable.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "ECE 760"
+    ],
+    "next": []
+}

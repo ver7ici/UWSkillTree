@@ -1,0 +1,22 @@
+{
+    "id": "004864",
+    "subject": "EARTH",
+    "catalogNumber": "459",
+    "title": "Chemical Hydrogeology",
+    "description": "An introduction to the chemical side of hydrogeology with emphasis on groundwater quality and contaminants in the groundwater zone, the geochemical origin of major ions in natural groundwater, causes of hardness, groundwater age determination using isotopes, common causes of groundwater contamination; processes governing contaminant behaviour including dispersion, diffusion and adsorption, hydrogeologic aspects of site selection for waste disposal. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "EARTH 458",
+        "EARTH 221",
+        "CIVE 375",
+        "ENVE 375"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "EARTH 657",
+        "EARTH 658"
+    ]
+}

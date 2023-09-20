@@ -1,0 +1,19 @@
+{
+    "id": "012378",
+    "subject": "MSCI",
+    "catalogNumber": "342",
+    "title": "Principles of Software Engineering",
+    "description": "In this course, students learn how to work as a team to efficiently design and build software that works correctly and solves a customer's problem. Topics include software development processes, requirements gathering and analysis, software design, specifications, estimation, scheduling, revision control, software testing, deployment, and team behavior. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "MSCI 245"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "MSCI 343",
+        "MSCI 436"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "id": "011590",
+    "subject": "CS",
+    "catalogNumber": "758",
+    "title": "Cryptography/Network Security",
+    "description": "Cryptographic protocols and their application to secure communication, especially in a network setting. Identification and entity authentication; protocols for key establishment, transport, agreement and maintenance; secret sharing, broadcast encryption, tracing schemes; certificates, public-key infrastructure, PGP.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

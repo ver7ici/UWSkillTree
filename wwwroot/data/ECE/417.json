@@ -1,0 +1,16 @@
+{
+    "id": "013433",
+    "subject": "ECE",
+    "catalogNumber": "417",
+    "title": "Image Processing",
+    "description": "This course introduces the basic theories and methodologies of digital image processing. Topics include intensity transformations for image enhancement, two-dimensional discrete Fourier transform, spatial and frequency domain linear image filtering, nonlinear image filtering, binary image processing, edge detection, image segmentation, and digital video processing basics. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "SYDE 575"
+    ],
+    "next": []
+}

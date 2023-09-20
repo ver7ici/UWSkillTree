@@ -1,0 +1,16 @@
+{
+    "id": "012503",
+    "subject": "PHARM",
+    "catalogNumber": "391",
+    "title": "Seminars in Pharmacy 2",
+    "description": "Through the Seminar Series of courses students are exposed to a number of speakers who address relevant topics within a content area.  Speakers may include subject-matter experts, patients, and health care professionals. [Note: Course will be graded on a CR/NCR basis. Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "PHARM 490"
+    ],
+    "next": []
+}

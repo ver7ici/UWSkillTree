@@ -1,0 +1,16 @@
+{
+    "id": "008888",
+    "subject": "STAT",
+    "catalogNumber": "450",
+    "title": "Estimation and Hypothesis Testing",
+    "description": "Discussion of inference problems under the headings of hypothesis testing and point and interval estimation. Frequentist and Bayesian approaches to inference. Construction and evaluation of tests and estimators. Large sample theory of point estimation. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "STAT 330"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

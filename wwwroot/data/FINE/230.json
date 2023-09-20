@@ -1,0 +1,16 @@
+{
+    "id": "005445",
+    "subject": "FINE",
+    "catalogNumber": "230",
+    "title": "Printmaking",
+    "description": "Students are introduced to a variety of printmaking processes. Techniques explored include etching, engraving, monoprinting, collograph, and lithography. Training in traditional skills is combined with opportunities for individual expression. [Note: Studio course.]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "FINE 100"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

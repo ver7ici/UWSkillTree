@@ -1,0 +1,18 @@
+{
+    "id": "003359",
+    "subject": "AMATH",
+    "catalogNumber": "463",
+    "title": "Fluid Mechanics",
+    "description": "Incompressible, irrotational flow. Incompressible viscous flow. Introduction to wave motion and geophysical fluid mechanics. Elements of compressible flow. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "AMATH 353",
+        "PHYS 364",
+        "AMATH 361"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

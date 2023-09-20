@@ -1,0 +1,12 @@
+{
+    "id": "013788",
+    "subject": "QIC",
+    "catalogNumber": "880",
+    "title": "Nanoelectronics for Quantum Information Processing",
+    "description": "Electrodynamics of superconductors, BCS theory and tunnel junctions, the Josephson effect, flux and fluxoid quantization, quantization of electric circuits, the basic types of superconducting qubits, decoherence in the solid state, circuit quantum electrodynamics, readout of nanoscale qubits, fabrication of qubit devices, measurement techniques.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

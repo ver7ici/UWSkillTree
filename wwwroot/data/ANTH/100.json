@@ -1,0 +1,19 @@
+{
+    "id": "014704",
+    "subject": "ANTH",
+    "catalogNumber": "100",
+    "title": "Introduction to Anthropology",
+    "description": "Anthropology aims at understanding what it is to be human and to examine how humanity is manifested in the diversity of cultures and societies across time and space. This course gives the student an overview of the breadth of anthropology and orients them toward thinking anthropologically in our shared worlds.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "ANTH 101",
+        "ANTH 102"
+    ],
+    "next": []
+}

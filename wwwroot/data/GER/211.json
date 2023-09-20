@@ -1,0 +1,20 @@
+{
+    "id": "014285",
+    "subject": "GER",
+    "catalogNumber": "211",
+    "title": "Contemporary German Language and Culture",
+    "description": "This course develops reading, writing, and oral skills, and intercultural competence. [Note: Students may take GER 201 and 211 concurrently.]",
+    "term": [],
+    "prereq": [
+        "GER 102"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "GER 303",
+        "GER 304",
+        "GER 331",
+        "GER 307",
+        "GER 308"
+    ]
+}

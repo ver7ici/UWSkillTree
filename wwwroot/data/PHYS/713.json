@@ -1,0 +1,12 @@
+{
+    "id": "002203",
+    "subject": "PHYS",
+    "catalogNumber": "713",
+    "title": "Molecular Physics",
+    "description": "Angular momentum and the rotation of molecules; introduction to group theory with application to molecular vibrations; principles of molecular spectroscopy; spectra of isolated molecules; intermolecular interactions and their effects on molecular spectra; selected additional topics (e.g., electronic structure of molecules, experimental spectroscopic techniques, neutron scattering, correlation functions, collision induced absorption, extension of group theory to molecular crystals, normal coordinate analysis, etc.).",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

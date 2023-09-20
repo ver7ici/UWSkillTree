@@ -1,0 +1,19 @@
+{
+    "id": "014955",
+    "subject": "CIVE",
+    "catalogNumber": "341",
+    "title": "Transportation Engineering Applications",
+    "description": "Traffic engineering and travel forecasting. Evaluation, design and management of urban transport systems through advanced traffic control techniques. Quantitative methods for evaluating investments in transportation infrastructure or operational changes. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "CIVE 224",
+        "ENVE 224"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "CIVE 343"
+    ]
+}

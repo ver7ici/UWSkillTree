@@ -1,0 +1,17 @@
+{
+    "id": "010393",
+    "subject": "OPTOM",
+    "catalogNumber": "385",
+    "title": "Clinical Medicine for Optometric Practice",
+    "description": "Overview of current medical diagnoses and management of systemic diseases with ocular involvement. History and physical examination (including neurological examination), clinical laboratory testing, and diagnostic imaging. Diseases of high prevalence including cardiovascular, cancer, endocrine, and neurological disorders.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "OPTOM 215",
+        "OPTOM 231"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

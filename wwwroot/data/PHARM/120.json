@@ -1,0 +1,17 @@
+{
+    "id": "012459",
+    "subject": "PHARM",
+    "catalogNumber": "120",
+    "title": "Pharmacy in an Evolving Healthcare System",
+    "description": "This course introduces students to the profession of pharmacy within the larger context of healthcare delivery in Canada. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PDPHRM 1",
+        "PHARM 230"
+    ]
+}

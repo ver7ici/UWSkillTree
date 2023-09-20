@@ -1,0 +1,16 @@
+{
+    "id": "004806",
+    "subject": "ECE",
+    "catalogNumber": "463",
+    "title": "Design & Applications of Power Electronic Converters",
+    "description": "Principles of power conditioning. Switching characteristics of power semiconductor devices. Computer simulation of power electronic circuits. Analysis, design, and applications of power converters. [Offered: S]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "MTE 420"
+    ],
+    "next": []
+}

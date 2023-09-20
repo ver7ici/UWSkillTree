@@ -1,0 +1,12 @@
+{
+    "id": "000836",
+    "subject": "ECE",
+    "catalogNumber": "738",
+    "title": "Low Power VLSI Circuits for Wireless Communication",
+    "description": "This course covers the system level design of integrated circuits for wireless transceivers. Specific mixed analog/digital circuits such as: mixers, A/D and D/A converters (Nyquist rate and oversampled) for IF digitizing as well as switched capacitor filters for IF and baseband processing will be studied. Related Background: Basic knowledge of Analog Integrated Circuits.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

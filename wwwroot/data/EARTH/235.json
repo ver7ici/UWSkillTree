@@ -1,0 +1,23 @@
+{
+    "id": "004830",
+    "subject": "EARTH",
+    "catalogNumber": "235",
+    "title": "Stratigraphic Approaches to Understanding Earth's History",
+    "description": "An introduction to stratigraphic principles and methods used in deciphering geological history. Techniques of collecting surface and subsurface geologic data and representation of stratigraphic data. Procedures applicable to the classification and nomenclature of stratigraphic units using the North American Stratigraphic Code. The development of stratigraphic sequences as controlled by global and regional tectonics and sea level fluctuations. Interrelating aspects of Earth's physical, chemical, and biological history. Examples are drawn primarily from Canadian geology. Laboratory work will include construction and interpretation of various types of learning media such as traditional maps, cross sections, new physical and digital models, as well as extended reality. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "EARTH 121",
+        "EARTH 121L",
+        "CIVE 153",
+        "GEOE 153",
+        "ENVE 153"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "EARTH 333",
+        "EARTH 390"
+    ]
+}

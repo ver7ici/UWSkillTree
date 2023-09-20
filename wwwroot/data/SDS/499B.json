@@ -1,0 +1,19 @@
+{
+    "id": "006517",
+    "subject": "SDS",
+    "catalogNumber": "499B",
+    "title": "Senior Honours Essay/Thesis",
+    "description": "Under the supervision of a faculty member, students focus on an area of Social Development Studies and either complete an essay involving in-depth literature research and analysis or complete a scholarly report on their own study involving literature review, research design, data collection, and analysis.  [Note: Formerly ISS 499B]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "SDS 499A",
+        "ISS 499A"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

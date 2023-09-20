@@ -1,0 +1,14 @@
+{
+    "id": "010445",
+    "subject": "CHE",
+    "catalogNumber": "632",
+    "title": "Introduction to Catalysis",
+    "description": "Principles and applications of heterogeneous and homogeneous catalysis. Adsorption, reaction kinetics and mass transfer effects. Catalyst synthesis and characterization. Industrial catalytic processes. The fundamentals of catalytic phenomena will focus on catalytic technology, catalyst materials, properties and preparation as well as catalyst characterization and selection.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

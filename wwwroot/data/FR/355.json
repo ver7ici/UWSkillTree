@@ -1,0 +1,19 @@
+{
+    "id": "014222",
+    "subject": "FR",
+    "catalogNumber": "355",
+    "title": "Business French 2",
+    "description": "A French language course designed to enhance written and oral expression through the study of economic and business topics in the social and economic contexts of Canada and France.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "FR 251",
+        "FR 252",
+        "FR 255",
+        "FR 297"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

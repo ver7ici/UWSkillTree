@@ -1,0 +1,23 @@
+{
+    "id": "007663",
+    "subject": "PMATH",
+    "catalogNumber": "336",
+    "title": "Introduction to Group Theory with Applications",
+    "description": "Groups, permutation groups, subgroups, homomorphisms, symmetry groups in two and three dimensions, direct products, Polya-Burnside enumeration.",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "MATH 235",
+        "MATH 245"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "CO 434",
+        "CO 444",
+        "CO 485",
+        "CO 431"
+    ]
+}

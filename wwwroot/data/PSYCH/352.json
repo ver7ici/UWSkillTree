@@ -1,0 +1,18 @@
+{
+    "id": "010124",
+    "subject": "PSYCH",
+    "catalogNumber": "352",
+    "title": "Culture and Psychology",
+    "description": "Special emphasis will be given to questions of how some cultural patterns get established, and how they are maintained once they are established. Topics may include aggression, individualism and collectivism, perspectives on the self, and methodological concerns.",
+    "term": [],
+    "prereq": [
+        "PSYCH 253",
+        "PSYCH 253R"
+    ],
+    "coreq": [],
+    "antireq": [
+        "PSYCH 349R",
+        "SWREN 349R"
+    ],
+    "next": []
+}

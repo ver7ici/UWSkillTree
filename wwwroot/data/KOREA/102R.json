@@ -1,0 +1,20 @@
+{
+    "id": "006667",
+    "subject": "KOREA",
+    "catalogNumber": "102R",
+    "title": "First-Year Korean 2",
+    "description": "Students deepen their understanding of basic grammatical (particularly verb, noun, and adverb) forms and sentence construction and enlarge their general vocabulary. Reading ability is expanded, and more attention is given to idiomatic expressions and the use of the language in actual contexts.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "KOREA 101R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "KOREA 201R"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "id": "012874",
+    "subject": "NE",
+    "catalogNumber": "320L",
+    "title": "Characterization of Materials Laboratory",
+    "description": "Follow-up labs associated with the NE 226 (Characterization of Materials) course. The laboratory exercises focus upon the synthesis and characterization of nano-based materials. Specifically, the synthesis of carbon nanotubes, quantum dots, magnetic ceramics, or other common nanomaterials will be investigated, and sample preparations for various characterization tools will be carried out. Characterization techniques such as infrared and Raman spectroscopy, x-ray diffraction, scanning electron microscope (SEM), and magnetic inductive heating will be utilized. [Offered: S]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "NE 226"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

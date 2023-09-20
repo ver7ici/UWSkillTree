@@ -1,0 +1,16 @@
+{
+    "id": "011396",
+    "subject": "PSYCH",
+    "catalogNumber": "319",
+    "title": "Problem Behaviour in the Classroom",
+    "description": "This course will address theories related to problem behaviours in the classroom, the incidence and etiology of conduct problems and behavioural disorders, and the learning outcomes of children with such disorders. Special emphasis is given to research and theory related to the promotion of academic success.",
+    "term": [],
+    "prereq": [
+        "PSYCH 211",
+        "PSYCH 212",
+        "PSYCH 212R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,19 @@
+{
+    "id": "015376",
+    "subject": "GSJ",
+    "catalogNumber": "221",
+    "title": "Language and Society",
+    "description": "This course introduces students to the study of language and culture. Topics covered include language socialization, narrative, the politics of multilingualism, and hate speech.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "ARTS 290",
+        "LEC 001",
+        "ANTH 400",
+        "SEM 001"
+    ],
+    "next": []
+}

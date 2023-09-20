@@ -1,0 +1,18 @@
+{
+    "id": "004811",
+    "subject": "ECE",
+    "catalogNumber": "474",
+    "title": "Radio and Wireless Systems",
+    "description": "Modern transmitter and receiver architectures, Noise and linearity in radio and wireless systems, Design considerations of RF/microwave subsystems, radio and wireless system designs, CAD tools for radio and wireless systems, Antennas, Radio wave propagation models, Indoor radio, Satellite communication, Personal communication systems (PCSs). [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "ECE 375",
+        "ECE 206",
+        "MATH 212"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

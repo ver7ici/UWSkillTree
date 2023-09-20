@@ -1,0 +1,14 @@
+{
+    "id": "007004",
+    "subject": "MUSIC",
+    "catalogNumber": "256",
+    "title": "Music Since 1900",
+    "description": "A study of music of the 20th and early 21st centuries in cultural, political, and artistic contexts. Topics include modern and contemporary composers' challenges to traditional musical ideals in the music of Debussy, Stravinsky, Schoenberg, Cage, and others.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,20 @@
+{
+    "id": "007102",
+    "subject": "OPTOM",
+    "catalogNumber": "246",
+    "title": "Ophthalmic Optics 2",
+    "description": "Multifocal spectacle lenses.  Aberrations of thin lenses and spectacle lens design.  Prescribing and fitting of spectacles.  Environmental and occupational prescribing.  Prescription analysis.  Ophthalmic and visual standards.  Computer vision syndrome.  Ophthalmic laboratory procedures: measurement of complex spectacle lenses, and spectacle frame adjustment and repairs.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "OPTOM 106",
+        "OPTOM 216"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "OPTOM 346",
+        "OPTOM 347"
+    ]
+}

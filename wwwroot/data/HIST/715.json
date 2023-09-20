@@ -1,0 +1,15 @@
+{
+    "id": "010526",
+    "subject": "HIST",
+    "catalogNumber": "715",
+    "title": "Modern European History Major Field",
+    "description": "",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,15 @@
+{
+    "id": "012920",
+    "subject": "GRK",
+    "catalogNumber": "332",
+    "title": "Advanced Studies in Greek: Poetry",
+    "description": "A selection of material from one author or several authors within the field of Greek poetry. Topics and selections may include epic, tragedy, comedy, lyric poetry, Homer, Sophokles, Aristophanes, Simonides, and Pindar. [Note: This is a repeatable course, subject to different content; it may be completed a total of four times.]",
+    "term": [],
+    "prereq": [
+        "GRK 202",
+        "RS 224"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

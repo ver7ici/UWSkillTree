@@ -1,0 +1,16 @@
+{
+    "id": "003512",
+    "subject": "ARCH",
+    "catalogNumber": "327",
+    "title": "Architecture of the Urban Environment",
+    "description": "An introduction to the structure and form of urban environments as understood through the urban architecture. The forces that determine the creation and development of urban places will be examined. Topics include the plan as a generative form, urban building types, urban morphology, and the shape of the public realm, infrastructure as both system and architectural object, nature and the park, and real estate and development controls. Of special interest will be analyses of the suburb, and urban master plans. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ARCH 624"
+    ]
+}

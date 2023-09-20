@@ -1,0 +1,12 @@
+{
+    "id": "011468",
+    "subject": "CS",
+    "catalogNumber": "782",
+    "title": "Pattern Discovery in Biomolecular Data",
+    "description": "This course examines, from an algorithmic point of view, the pattern discovery techniques that are currently used to extract the functional knowledge hidden in biomolecular data that is derived from DNA, RNA, proteins and their reaction products. Topics include: DNA sequence analysis, RNA structure prediction techniques, protein motif discovery techniques, protein structure prediction, analysis of expression data.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

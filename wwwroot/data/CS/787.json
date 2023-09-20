@@ -1,0 +1,14 @@
+{
+    "id": "000743",
+    "subject": "CS",
+    "catalogNumber": "787",
+    "title": "Computational Vision",
+    "description": "Fundamental problems in computational vision where efficient and robust algorithms can be applied. Topics include image formation; linear systems and Fourier theory; image registration; feature detection; fitting models to data; optical flow; structure from motion; steriopsis; object recognition; high-level vision.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "CS 698Q"
+    ],
+    "next": []
+}

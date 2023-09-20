@@ -1,0 +1,14 @@
+{
+    "id": "010368",
+    "subject": "SCI",
+    "catalogNumber": "397",
+    "title": "Science Study Abroad Program",
+    "description": "Waterloo students studying abroad for academic transfer credits under a Science Exchange Program during the Spring term.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

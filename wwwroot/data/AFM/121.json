@@ -1,0 +1,19 @@
+{
+    "id": "013719",
+    "subject": "AFM",
+    "catalogNumber": "121",
+    "title": "Introduction to Global Financial Markets",
+    "description": "This course is the first in a two-course sequence which offers an overview of global capital markets. The course describes the role of finance in the modern global economy, introduces the major classes of financial assets, and presents some basic foundational principles of financial decision-making.",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "AFM 273",
+        "AFM 204",
+        "AFM 205"
+    ]
+}

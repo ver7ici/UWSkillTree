@@ -1,0 +1,22 @@
+{
+    "id": "013644",
+    "subject": "PHYS",
+    "catalogNumber": "342",
+    "title": "Electricity and Magnetism 2",
+    "description": "Electric and magnetic fields in media, auxiliary fields, Maxwell's equations, electromagnetic waves, electric and magnetic properties of matter. [Note: PHYS 236 or knowledge of computational methods recommended. Offered: F,S]",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [
+        "PHYS 242",
+        "MATH 228",
+        "AMATH 250",
+        "AMATH 251"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "PHYS 442"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "008122",
+    "subject": "REC",
+    "catalogNumber": "251",
+    "title": "Therapeutic Recreation: Developmental and Emotional Disabilities",
+    "description": "This course is designed to explore the etiology of disability and the role of therapeutic recreation in the lives of people with developmental and emotional disabilities.",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "REC 100"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "REC 253",
+        "REC 351",
+        "REC 357"
+    ]
+}

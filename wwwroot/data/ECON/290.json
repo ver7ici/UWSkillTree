@@ -1,0 +1,29 @@
+{
+    "id": "015187",
+    "subject": "ECON",
+    "catalogNumber": "290",
+    "title": "Models of Choice in Competitive Markets",
+    "description": "Choice lies at the heart of all economic models. This course focuses on choice by consumers and firms. It explains the notion and use of utility functions and budgets, and shows how their interaction allows economists to make predictions about behaviour. The constrained maximization techniques from ECON 211 are used extensively, and extended to situations covering uncertainty (risk) and time. Profit maximization by firms is explored.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "SOC 206",
+        "SOC 211",
+        "SOC 220",
+        "SOC 230",
+        "SOC 240"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ECON 332",
+        "ECON 361",
+        "ECON 363",
+        "ECON 422",
+        "ECON 391",
+        "ECON 392"
+    ]
+}

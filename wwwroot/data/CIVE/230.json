@@ -1,0 +1,20 @@
+{
+    "id": "011493",
+    "subject": "CIVE",
+    "catalogNumber": "230",
+    "title": "Engineering and Sustainable Development",
+    "description": "This course introduces the concept of sustainability and how it applies to decision-making in civil engineering. The course begins by defining sustainability, both practically and technically, and describing the concepts of systems, and systems interactions. Quantitative methods and measures of effectiveness are derived and applied to components of sustainability; air quality, water quality, energy, transportation and solid waste. Economic concepts and their applicability to sustainability are described for both developed and developing countries. [Offered: S]",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "CIVE 224",
+        "GEOE 224"
+    ],
+    "coreq": [
+        "CIVE 392",
+        "GEOE 392"
+    ],
+    "antireq": [],
+    "next": []
+}

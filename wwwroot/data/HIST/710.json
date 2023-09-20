@@ -1,0 +1,15 @@
+{
+    "id": "009428",
+    "subject": "HIST",
+    "catalogNumber": "710",
+    "title": "Canadian History Major Field",
+    "description": "",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

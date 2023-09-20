@@ -1,0 +1,18 @@
+{
+    "id": "016093",
+    "subject": "PHYS",
+    "catalogNumber": "160L",
+    "title": "Introductory Measurement Laboratory",
+    "description": "A lab for students following the Honours Physics Plan. [Note: Lab alternates weeks. Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [
+        "PHYS 122L"
+    ],
+    "antireq": [
+        "PHYS 132L"
+    ],
+    "next": []
+}

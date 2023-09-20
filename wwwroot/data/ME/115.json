@@ -1,0 +1,22 @@
+{
+    "id": "006710",
+    "subject": "ME",
+    "catalogNumber": "115",
+    "title": "Structure and Properties of Materials",
+    "description": "The relevance of materials to engineering practice. The microstructure of materials, crystallinity and crystal imperfections, glasses, and amorphous solids. Elastic and plastic deformation in metals, viscoelasticity of plastics. Strengthening mechanisms in metals, polymers, and ceramics. Fracture of brittle and ductile solids. Electrical and magnetic properties of materials. [Offered: W,S]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "CHE 102"
+    ],
+    "coreq": [],
+    "antireq": [
+        "ME 235",
+        "MTE 111"
+    ],
+    "next": [
+        "ME 230"
+    ]
+}

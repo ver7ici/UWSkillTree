@@ -1,0 +1,28 @@
+{
+    "id": "003665",
+    "subject": "BIOL",
+    "catalogNumber": "239",
+    "title": "Genetics",
+    "description": "Mendelian genetics. Chromosomal mechanisms in mitosis and meiosis. The origin, inheritance and adaptive significance of chromosomal changes. Nucleic acids as the carriers of genetic information. Natural selection and the evolution of genetic systems. [Formerly BIOL 139. Offered: W,S; online F]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "BIOL 303",
+        "BIOL 433",
+        "BIOL 359",
+        "BIOL 365",
+        "BIOL 309",
+        "BIOL 308",
+        "BIOL 484",
+        "BIOL 479",
+        "PHYS 395",
+        "BIOL 469",
+        "HLTH 465"
+    ]
+}

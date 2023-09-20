@@ -1,0 +1,12 @@
+{
+    "id": "012995",
+    "subject": "CS",
+    "catalogNumber": "783",
+    "title": "Computer Modeling of Biophysical Phenomena",
+    "description": "This course addresses the computer (in silico) simulation of biophysical processes involved in the interaction of light with organic and inorganic matter.  Computer models used to simulate these processes are presented, and key stages of the simulation pipeline, such as data gathering, design constraints and evaluation methodologies, are examined in detail.  This course also includes discussions of open problems and current trends in the computer simulation of biophysical processes.  Application fields include, but are not limited to computer graphics, remote sensing, biology and biomedical optics.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,15 @@
+{
+    "id": "016043",
+    "subject": "DATSC",
+    "catalogNumber": "702",
+    "title": "Data Science Project 2",
+    "description": "The student will undertake a significant project on a topic related to data science, under the supervision of a faculty member; graduate officer approval required.",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

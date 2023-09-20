@@ -1,0 +1,16 @@
+{
+    "id": "016442",
+    "subject": "HLTH",
+    "catalogNumber": "284",
+    "title": "Microbes in Health and Disease",
+    "description": "This course is designed to provide students with a broad overview of microbes in both health and disease. Microbes and the microbiome have important beneficial roles in maintaining health. Other beneficial microbes, such as probiotics, also promote health. Pathogenic microbes, however, can adversely impact health causing severe acute disease to chronic diseases. This course will explore several key groups of microbes and how they either promote health or cause pathology.",
+    "term": [
+        "Spring"
+    ],
+    "prereq": [
+        "HLTH 101"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,16 @@
+{
+    "id": "008952",
+    "subject": "SYDE",
+    "catalogNumber": "292",
+    "title": "Circuits, Instrumentation, and Measurements",
+    "description": "Active and passive circuit elements, Kirchhoff's laws, mesh and nodal circuit analysis, principle of superposition; step response of first and second order networks; sinusoidal steady state analysis using complex impedance phasors; input-output relationships, transfer functions and frequency response of linear systems; operational amplifiers, operational amplifier circuits using negative or positive feedback; diodes, operational amplifier circuits using diodes; analog signal detection, conditioning and conversion systems; transducers, difference and instrumentation amplifiers, active filters, A/D and D/A conversion. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "BME 392"
+    ],
+    "next": []
+}

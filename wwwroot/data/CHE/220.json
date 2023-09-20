@@ -1,0 +1,22 @@
+{
+    "id": "003950",
+    "subject": "CHE",
+    "catalogNumber": "220",
+    "title": "Process Data Analysis",
+    "description": "Introduction to statistical methods for analyzing and interpreting process data.  Introduction to statistical ideas, probability theory, distribution theory, sampling theory, confidence intervals and significance tests. Introduction to regression analysis. Introduction to design of experiments and statistical quality control. [Offered: F, W]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "MSCI 432",
+        "MSCI 452",
+        "MSCI 446",
+        "MSCI 334",
+        "MSCI 541",
+        "MSCI 551"
+    ]
+}

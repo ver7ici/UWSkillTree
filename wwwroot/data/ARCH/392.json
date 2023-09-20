@@ -1,0 +1,18 @@
+{
+    "id": "003556",
+    "subject": "ARCH",
+    "catalogNumber": "392",
+    "title": "Design Studio",
+    "description": "Development of design skills and theoretical knowledge through their application in projects involving various building types in urban situations. Emphasis is placed upon issues of materiality and technology in architectural design. [Note: Passing grade is 60%. Required four to five day field trip, cost $400-$500. Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "ARCH 293"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "ARCH 393"
+    ]
+}

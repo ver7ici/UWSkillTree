@@ -1,0 +1,19 @@
+{
+    "id": "003401",
+    "subject": "ANTH",
+    "catalogNumber": "309",
+    "title": "The Archaeology of North America",
+    "description": "This course examines past Indigenous lifeways in North America north of Mexico from the time of earliest settlement to contact with Europeans. It provides a broad survey of space-time systematics as well as conceptual, methodological, and ethical issues relevant to study of the North American archaeological record. [Note: Formerly ANTH 203]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "ANTH 201",
+        "CLAS 221"
+    ],
+    "coreq": [],
+    "antireq": [
+        "ANTH 203"
+    ],
+    "next": []
+}

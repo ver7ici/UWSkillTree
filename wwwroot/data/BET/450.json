@@ -1,0 +1,19 @@
+{
+    "id": "015529",
+    "subject": "BET",
+    "catalogNumber": "450",
+    "title": "Leadership",
+    "description": "Leaders make things happen. Leaders make things possible. This course explores the relevant concepts, theories, and skills needed to lead successfully in any environment, from new ventures to change management in large corporations, government, and not-for-profits. Course topics include leadership and followership, group and team dynamics, change management, interpersonal dynamics, and supporting leadership skills such as self-awareness, conflict management, and communications. Course topics will be enriched through a critical study of leadership exemplars in popular media. [Offered: F,W]",
+    "term": [
+        "Fall",
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "MSCI 411",
+        "SPCOM 204",
+        "SPCOM 227"
+    ],
+    "next": []
+}

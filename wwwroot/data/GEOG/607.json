@@ -1,0 +1,15 @@
+{
+    "id": "001349",
+    "subject": "GEOG",
+    "catalogNumber": "607",
+    "title": "Fundamentals of Geographic Information Systems",
+    "description": "Introduces the fundamentals of GIS at a graduate level, including cartographic best practices, map projections and coordinate systems, georeferencing data, quantitative mapping, web mapping, and introductory spatial analysis, including clustering, network, and multicriteria analysis. Intended for students without significant experience in GIS. *eligible for MES.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "GEOG 381",
+        "GEOG 387"
+    ],
+    "next": []
+}

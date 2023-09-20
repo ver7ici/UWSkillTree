@@ -1,0 +1,36 @@
+{
+    "id": "006915",
+    "subject": "MATH",
+    "catalogNumber": "239",
+    "title": "Introduction to Combinatorics",
+    "description": "Introduction to graph theory: colourings, matchings, connectivity, planarity. Introduction to combinatorial analysis: generating series, recurrence relations, binary strings, plane trees. [Offered: F,W,S]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "MATH 106",
+        "MATH 136",
+        "MATH 146",
+        "MATH 135",
+        "MATH 145"
+    ],
+    "coreq": [],
+    "antireq": [
+        "CO 220",
+        "MATH 229",
+        "MATH 249"
+    ],
+    "next": [
+        "CO 330",
+        "CO 342",
+        "CO 444",
+        "CO 454",
+        "CO 456",
+        "CS 341",
+        "CS 360",
+        "CS 365",
+        "CO 471"
+    ]
+}

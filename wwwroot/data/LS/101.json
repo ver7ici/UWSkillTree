@@ -1,0 +1,31 @@
+{
+    "id": "011710",
+    "subject": "LS",
+    "catalogNumber": "101",
+    "title": "Introduction to Legal Studies",
+    "description": "An introduction to the study of law, its structure, and legal institutions from a cross-cultural and historical perspective. This interdisciplinary course examines the origins of legal systems and their impact on society. Included is an analysis of the diverse historical, political, economic, and cultural conditions under which law arises and functions within society.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "LS 363",
+        "LS 280",
+        "LS 221",
+        "LS 202",
+        "LS 496",
+        "LS 463",
+        "LS 386",
+        "LS 286",
+        "LS 203",
+        "LS 330",
+        "HRTS 204",
+        "HRTS 203",
+        "SOC 305",
+        "SOC 213"
+    ]
+}

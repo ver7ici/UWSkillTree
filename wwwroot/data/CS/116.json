@@ -1,0 +1,49 @@
+{
+    "id": "012766",
+    "subject": "CS",
+    "catalogNumber": "116",
+    "title": "Introduction to Computer Science 2",
+    "description": "This course builds on the techniques and patterns learned in CS 115 while making the transition to use of an imperative language. Generative and structural recursion. Mutation (assignment) and its role in an imperative language. Primitive types and basic I/O. Sequencing, selection, looping. Function definition and use. File and console I/O. Issues in computer science. [Offered: F,W,S]",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "CS 115",
+        "CS 135",
+        "CS 145"
+    ],
+    "coreq": [],
+    "antireq": [
+        "CS 136",
+        "CS 137",
+        "CS 138",
+        "CS 146",
+        "PHYS 236",
+        "PHYS 239",
+        "MSCI 240",
+        "NE 111"
+    ],
+    "next": [
+        "CS 230",
+        "CS 234",
+        "CS 330",
+        "CS 338",
+        "STAT 340",
+        "PHYS 363",
+        "PHYS 364",
+        "PHYS 375",
+        "BIOL 365",
+        "CO 487",
+        "CS 371",
+        "CS 136",
+        "CS 335",
+        "CS 231",
+        "HLTH 453",
+        "HLTH 454",
+        "PHYS 267",
+        "PHYS 249",
+        "CS 136L"
+    ]
+}

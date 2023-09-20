@@ -1,0 +1,19 @@
+{
+    "id": "016261",
+    "subject": "GEOG",
+    "catalogNumber": "484",
+    "title": "Machine Learning in Geospatial Science",
+    "description": "An in-depth study of current machine learning algorithms and their applications in geospatial science, with a focus on earth observation data processing and analysis. Topics include k-nearest neighbour, decision trees, support vector machines, ensemble learning, and some deep neural networks (e.g., CNN, U-Net). Machine learning algorithms implemented using Python will be applied for semantic segmentation, land use and land cover classification, and building and road detection using aerial and satellite images.",
+    "term": [],
+    "prereq": [
+        "GEOG 316",
+        "GEOG 371"
+    ],
+    "coreq": [],
+    "antireq": [
+        "GEOG 474",
+        "GEOG 001",
+        "CS 480"
+    ],
+    "next": []
+}

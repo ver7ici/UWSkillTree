@@ -1,0 +1,14 @@
+{
+    "id": "000198",
+    "subject": "BIOL",
+    "catalogNumber": "645",
+    "title": "Recent  Advances in Microbial Ecology",
+    "description": "Recent advances in selected topics of microbial ecology will be examined. Topics will be selected from soil, fresh water or other ecosystems with an important microbial component.",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

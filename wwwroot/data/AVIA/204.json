@@ -1,0 +1,20 @@
+{
+    "id": "013239",
+    "subject": "AVIA",
+    "catalogNumber": "204",
+    "title": "Professional Pilot Program Course 4",
+    "description": "This course continues from AVIA 203 and provides the required Preparatory Ground Instruction to prepare students for the air exercises to be completed during in-aircraft instruction that is conducted as part of the course. Students will complete a dual cross border flight to the United States as well as a dual flight into high density controlled airspace (CYYZ).  Students also complete a check-out in a complex aircraft and acquire additional cross-country pilot-in-command time. Students will have acquired approximately 110 hours total flight time by the end of the course. This course also includes the ground school required to prepare the student to write the Transport Canada Commercial Pilot Licence - Airplane examination.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "AVIA 203"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "AVIA 205"
+    ]
+}

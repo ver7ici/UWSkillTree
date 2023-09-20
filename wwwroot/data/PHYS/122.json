@@ -1,0 +1,48 @@
+{
+    "id": "013651",
+    "subject": "PHYS",
+    "catalogNumber": "122",
+    "title": "Waves, Electricity and Magnetism",
+    "description": "Simple harmonic motion, resonance, damped harmonic motion, complex numbers, wave motion and sound, electrostatic force and potential, electric current and power, capacitors, DC circuits, LRC circuits, introduction to magnetic fields Lorentz Force. [Offered: W, S; also offered online: S]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "PHYS 111",
+        "PHYS 115",
+        "PHYS 121",
+        "ECE 105"
+    ],
+    "coreq": [
+        "MATH 127",
+        "MATH 137",
+        "MATH 147"
+    ],
+    "antireq": [
+        "PHYS 112",
+        "PHYS 125"
+    ],
+    "next": [
+        "PHYS 263",
+        "EARTH 260",
+        "OPTOM 106",
+        "PHYS 234",
+        "PHYS 256",
+        "PHYS 391",
+        "PHYS 358",
+        "PHYS 375",
+        "PHYS 380",
+        "PHYS 396",
+        "PHYS 242",
+        "PHYS 395",
+        "PHYS 224",
+        "PHYS 225",
+        "PHYS 233",
+        "PHYS 383",
+        "MNS 211",
+        "ECE 403",
+        "ECE 404",
+        "PHYS 267"
+    ]
+}

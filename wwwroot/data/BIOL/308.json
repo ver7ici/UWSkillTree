@@ -1,0 +1,29 @@
+{
+    "id": "012246",
+    "subject": "BIOL",
+    "catalogNumber": "308",
+    "title": "Principles of Molecular Biology",
+    "description": "Prokaryote and eukaryote genome structure and replication; mechanisms of gene expression and regulation. [Note: BIOL 240 is recommended. BIOL 308 is recommended for those wishing a general understanding in molecular biology. Students intending to take several upper year molecular biology courses are advised to take BIOL 308 and BIOL 309 concurrently. BIOL 308 is required as a prerequisite for the following courses: BIOL 331, 403, 428, 431, 434, 438, 441, 442, 448. Offered: F, S]",
+    "term": [
+        "Fall",
+        "Spring"
+    ],
+    "prereq": [
+        "BIOL 130",
+        "BIOL 139",
+        "BIOL 239"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "BIOL 331",
+        "BIOL 403",
+        "BIOL 431",
+        "BIOL 434",
+        "BIOL 438",
+        "BIOL 441",
+        "BIOL 442",
+        "BIOL 448",
+        "BIOL 484"
+    ]
+}

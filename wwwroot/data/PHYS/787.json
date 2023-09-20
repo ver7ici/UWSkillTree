@@ -1,0 +1,14 @@
+{
+    "id": "002232",
+    "subject": "PHYS",
+    "catalogNumber": "787",
+    "title": "Cosmology",
+    "description": "Friedmann-Robertson-Walker metric and dynamics; big bang thermodynamics; nucleosynthesis; recombination; perturbation theory and structure formation; anisotropies in the Cosmic Microwave Background; statistics of cosmological density and velocity fields; galaxy formation; inflation.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

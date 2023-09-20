@@ -1,0 +1,15 @@
+{
+    "id": "003957",
+    "subject": "CHE",
+    "catalogNumber": "330",
+    "title": "Chemical Engineering Thermodynamics",
+    "description": "Review of fundamentals, including 2nd law and concepts of equilibrium, phase and reaction equilibria, fugacity, exergy. Thermodynamics applied to practical situations. Examples chosen from: fluid flow; power generation; refrigeration; air conditioning and water cooling; liquefaction of gases; equilibria in complex chemical reactions and separation processes; surface phenomena; electrochemical reactions; biological processes. [Offered: W, S]",
+    "term": [
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

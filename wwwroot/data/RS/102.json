@@ -1,0 +1,19 @@
+{
+    "id": "006165",
+    "subject": "RS",
+    "catalogNumber": "102",
+    "title": "Introductory Ancient Greek 2",
+    "description": "This course is a continuation of GRK 101/RS 101. The majority of the rules of ancient Greek grammar will be covered by the end of the course. Students will begin to read more complex ancient Greek texts relevant to the study of classical studies and religious studies.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "GRK 101",
+        "RS 101"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "RS 223"
+    ]
+}

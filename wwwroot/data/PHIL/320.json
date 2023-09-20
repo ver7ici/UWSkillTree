@@ -1,0 +1,14 @@
+{
+    "id": "015385",
+    "subject": "PHIL",
+    "catalogNumber": "320",
+    "title": "Topics in Value Theory",
+    "description": "Special topics in value theory, as announced by the department. Possible topics include (but are not limited to) meta-ethics, moral psychology, moral responsibility, justice and oppression, international justice, and specific topics in applied ethics. [Note: This is a repeatable course, subject to different content; it may be completed a total of three times.]",
+    "term": [],
+    "prereq": [
+        "PHIL 221"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

@@ -1,0 +1,12 @@
+{
+    "id": "014597",
+    "subject": "ECE",
+    "catalogNumber": "754",
+    "title": "Software Bug Detection and Tolerance",
+    "description": "This course discusses a broad range of techniques in reducing the negative impact of software bugs to improve software reliability and security. Main topics include: fundamental concepts of software reliability and security, software bug detection and diagnosis, software bug tolerance and recovery, and text analytics.",
+    "term": [],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

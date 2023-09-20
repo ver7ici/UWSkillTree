@@ -1,0 +1,23 @@
+{
+    "id": "014279",
+    "subject": "SPAN",
+    "catalogNumber": "150",
+    "title": "Welcome to Latin America",
+    "description": "Discover the vibrant diversity of Latin American cultures and societies from their genesis in conquest and colonization through to independence, and the post-colonial quest for identity and self-determination. [Note: Taught in English.]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "SPAN 217",
+        "SPAN 326",
+        "SPAN 387",
+        "GSJ 430",
+        "SPAN 400",
+        "SPAN 410",
+        "SPAN 234",
+        "SPAN 317"
+    ]
+}

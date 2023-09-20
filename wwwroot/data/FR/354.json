@@ -1,0 +1,16 @@
+{
+    "id": "005616",
+    "subject": "FR",
+    "catalogNumber": "354",
+    "title": "19th-Century French Literature",
+    "description": "A detailed study of selected aspects of 19th-century French literature.",
+    "term": [],
+    "prereq": [
+        "FR 197",
+        "FR 296",
+        "FR 297"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

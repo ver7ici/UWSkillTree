@@ -1,0 +1,16 @@
+{
+    "id": "000136",
+    "subject": "AMATH",
+    "catalogNumber": "877",
+    "title": "Foundations of Quantum Theory",
+    "description": "Review mathematical formulation of operational quantum theory; theory of measurements and decoherence; quantum-classical contrast; review of historical perspectives on interpretation, including EPR paradox; Bell's theorem, non-locality and contextuality; PBR theorem; selected topics including overviews of current interpretations of quantum mechanics and critical experiments in quantum foundations.",
+    "term": [],
+    "prereq": [
+        "AMATH 473",
+        "AMATH 673",
+        "PHYS 454"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

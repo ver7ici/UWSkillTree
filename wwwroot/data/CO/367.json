@@ -1,0 +1,24 @@
+{
+    "id": "003898",
+    "subject": "CO",
+    "catalogNumber": "367",
+    "title": "Nonlinear Optimization",
+    "description": "A course on the fundamentals of nonlinear optimization, including both the mathematical and the computational aspects.  Necessary and sufficient optimality conditions for unconstrained and  constrained problems. Convexity and its applications. Computational  techniques and their analysis. [Offered: F]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [
+        "CO 250",
+        "CO 255",
+        "CO 352",
+        "MATH 128",
+        "MATH 138",
+        "MATH 148"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "CO 466",
+        "CO 463"
+    ]
+}

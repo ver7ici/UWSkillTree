@@ -1,0 +1,19 @@
+{
+    "id": "012769",
+    "subject": "ARBUS",
+    "catalogNumber": "301",
+    "title": "International Business",
+    "description": "This course examines the opportunities, risks, and challenges faced by businesses in international markets, as well as the preparation required to operate them.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "ARBUS 101",
+        "AFM 132"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

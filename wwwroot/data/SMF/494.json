@@ -1,0 +1,19 @@
+{
+    "id": "013015",
+    "subject": "SMF",
+    "catalogNumber": "494",
+    "title": "Seminar in Sexuality",
+    "description": "This seminar allows students to integrate their knowledge in the domain of sexuality studies. Topics reflect current issues from a theoretical and research perspective. [Note: SMF 220 equivalent courses: KIN 330, PSCI 315, PSYCH 291, REC 270, SDS/SWREN 251R, SOC/LS 221. SMF 230 equivalent courses: ARTS 280, ECON 221, ENVS 278, KIN 222, PSCI 314, PSYCH 292, REC 371, SDS/SWREN 250R, SOC/LS 280, STAT 202, 206, 211, 221, 231, 241.]",
+    "term": [],
+    "prereq": [
+        "SMF 220",
+        "SMF 230",
+        "SMF 304",
+        "SMF 305",
+        "SMF 365",
+        "SMF 310"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

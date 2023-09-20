@@ -1,0 +1,20 @@
+{
+    "id": "008694",
+    "subject": "LS",
+    "catalogNumber": "300",
+    "title": "Sociology of Law",
+    "description": "This course examines the social construction of law and its administration as a social process. Topics will include law as an instrument of social control and social change, legal culture, the identification and evaluation of criminal suspects, the trial process and the rights of special groups. The specific laws highlighted will vary.",
+    "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+    ],
+    "prereq": [
+        "SOC 101",
+        "SOC 101R",
+        "SOC 120R"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}

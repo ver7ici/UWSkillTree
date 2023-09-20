@@ -1,0 +1,19 @@
+{
+    "id": "015033",
+    "subject": "GEOG",
+    "catalogNumber": "325",
+    "title": "Geographies of Health",
+    "description": "A critical examination of major themes related to the distribution, diffusion, determinants and delivery of health and health care with a particular emphasis on the roles of space, place and environment.",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [
+        "GEOG 101",
+        "GEOG 225"
+    ],
+    "coreq": [],
+    "antireq": [],
+    "next": [
+        "GEOG 432"
+    ]
+}

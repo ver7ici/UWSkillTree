@@ -1,0 +1,18 @@
+{
+    "id": "007249",
+    "subject": "PHIL",
+    "catalogNumber": "284",
+    "title": "Great Works: Modern",
+    "description": "A historical survey of modern philosophy in the Western tradition. [Note: Formerly PHIL 250B.]",
+    "term": [
+        "Fall"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [
+        "PHIL 250B"
+    ],
+    "next": [
+        "PHIL 350"
+    ]
+}

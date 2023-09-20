@@ -1,0 +1,14 @@
+{
+    "id": "008954",
+    "subject": "SYDE",
+    "catalogNumber": "312",
+    "title": "Applied Linear Algebra",
+    "description": "Vector spaces, linear independence, linear maps and matrix representations. Inner product spaces and orthogonality.  Gramm-Schmidt algorithm and orthogonal projection. Interpolation and curve-fitting. Eigenvalues and eigenvectors, diagonalization, singular value decomposition. Applications and numerical methods. [Offered: W]",
+    "term": [
+        "Winter"
+    ],
+    "prereq": [],
+    "coreq": [],
+    "antireq": [],
+    "next": []
+}
