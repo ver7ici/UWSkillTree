@@ -1,3 +1,49 @@
+@import '_content/Z.Blazor.Diagrams/Z.Blazor.Diagrams.bundle.scp.css';
+
+/* /Pages/Index.razor.rz.scp.css */
+.diagram-window[b-3prjl02dkq] {
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+}
+/* /Shared/CourseWidget.razor.rz.scp.css */
+div.course-node[b-o275ajc70i] {
+    /*width: 150px;*/
+    /*height: 50px;*/
+    outline: 1px solid;
+    padding: 10px;
+}
+
+    div.course-node > h5[b-o275ajc70i] {
+        text-transform: uppercase;
+        margin-bottom: 2px;
+    }
+
+[b-o275ajc70i] .diagram-port {
+    position: absolute;
+    width: 0;
+    height: 0;
+    /*border-radius: 50%;*/
+}
+    [b-o275ajc70i] .diagram-port.top {
+        /*border-top: 1px solid;*/
+        top: 0;
+    }
+
+    [b-o275ajc70i] .diagram-port.bottom {
+        /*border-bottom: 1px solid;*/
+        bottom: 0;
+    }
+
+    [b-o275ajc70i] .diagram-port.left {
+        /*border-left: 1px solid;*/
+        left: 0;
+    }
+
+    [b-o275ajc70i] .diagram-port.right {
+        /*border-right: 1px solid;*/
+        right: 0;
+    }
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-k3c108hpe9] {
     position: relative;
@@ -76,70 +122,7 @@ main[b-k3c108hpe9] {
     }
 
     .top-row[b-k3c108hpe9], article[b-k3c108hpe9] {
-        padding-left: 2rem !important;
-        padding-right: 1.5rem !important;
-    }
-}
-/* /Shared/NavMenu.razor.rz.scp.css */
-.navbar-toggler[b-55eacz1blh] {
-    background-color: rgba(255, 255, 255, 0.1);
-}
-
-.top-row[b-55eacz1blh] {
-    height: 3.5rem;
-    background-color: rgba(0,0,0,0.4);
-}
-
-.navbar-brand[b-55eacz1blh] {
-    font-size: 1.1rem;
-}
-
-.oi[b-55eacz1blh] {
-    width: 2rem;
-    font-size: 1.1rem;
-    vertical-align: text-top;
-    top: -2px;
-}
-
-.nav-item[b-55eacz1blh] {
-    font-size: 0.9rem;
-    padding-bottom: 0.5rem;
-}
-
-    .nav-item:first-of-type[b-55eacz1blh] {
-        padding-top: 1rem;
-    }
-
-    .nav-item:last-of-type[b-55eacz1blh] {
-        padding-bottom: 1rem;
-    }
-
-    .nav-item[b-55eacz1blh]  a {
-        color: #d7d7d7;
-        border-radius: 4px;
-        height: 3rem;
-        display: flex;
-        align-items: center;
-        line-height: 3rem;
-    }
-
-.nav-item[b-55eacz1blh]  a.active {
-    background-color: rgba(255,255,255,0.25);
-    color: white;
-}
-
-.nav-item[b-55eacz1blh]  a:hover {
-    background-color: rgba(255,255,255,0.1);
-    color: white;
-}
-
-@media (min-width: 641px) {
-    .navbar-toggler[b-55eacz1blh] {
-        display: none;
-    }
-
-    .collapse[b-55eacz1blh] {
-        /* Never collapse the sidebar for wide screens */
-        display: block;
+        /*padding-left: 2rem !important;*/
+        /*padding-right: 1.5rem !important;*/
     }
 }
