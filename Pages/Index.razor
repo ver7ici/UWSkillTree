@@ -2,172 +2,22 @@
 @using System.Diagnostics
 @using System.Text.Json
 @inject HttpClient Http
+@inject CourseService Service
 
 <PageTitle>Index</PageTitle>
 
-<div class="top-row px-4">
-    <form @onsubmit="search">
-        <input @bind-value="query" placeholder="ex. HLTH 630" />
-        <button>Submit</button>
-    </form>
+<CourseSearch></CourseSearch>
+<CourseDisplay></CourseDisplay>
+
+<div class="diagram-window">
+    <CourseDiagram />
 </div>
-
-@if (course is null) 
-{
-    <p>1111111...</p>
-} 
-else 
-{
-    <CourseDisplay C="@course" />
-    <br/>
-    @*<Branch C="@course" />*@
-}
-
-@if (course is null || grid.Length < 1) 
-{
-    <p>CourseTree goes here</p>
-} 
-else 
-{
-    <CourseTree Map="@grid" />
-}
-
-@*<DiagramDemo />*@
-
 
 @code 
 {
-    private string query { get; set; } = "";
-    private Course? course { get; set; }
-    private Dictionary<string, Course>? courses { get; set; }
-
-    private const int n = 200;
-    private string[,] grid { get; set; } = new string[n, n];
-
-    #region get course data
     protected override async Task OnInitializedAsync() 
     {
         await base.OnInitializedAsync();
-        courses = await Http.GetFromJsonAsync<Dictionary<string, Course>>("data/courses.json");
+        await Service.InitializeIndex(Http);
     }
-
-    private Course? getCourse(string subject, string catalogNumber) 
-    {
-        if (courses is null) 
-        {
-            return null;
-        }
-        Course? c;
-        if (courses.TryGetValue(subject + " " + catalogNumber, out c) && c is not null) 
-        {
-            return c;
-        }
-        return null;
-    }
-
-    private Course? getCourse(string courseCode) 
-    {
-        if (string.IsNullOrEmpty(courseCode))
-        {
-            return null;
-        }
-
-        var c = new Course(courseCode);
-        return getCourse(c.Subject, c.CatalogNumber);
-    }
-
-    private void search()
-    {
-        if (string.IsNullOrEmpty(query)) 
-        {
-            return;
-        }
-
-        //if (courses is null) 
-        //{
-        //    return;
-        //}
-
-        //course = await Course.GetCourseAsync(Http, query);
-
-        //string s = query.Replace(" ", "").ToUpper();
-        //int i = 0;
-        //while (i < s.Length)
-        //{
-        //    if ("1234567890".Contains(s[i])) break;
-        //    i++;
-        //}
-
-        course = getCourse(query);
-        createMap();
-    }
-    #endregion
-
-    #region create tree
-    private int traverse(Course course, int row, int col) 
-    {
-        grid[row, col] = course.Code;
-
-        if (course.Prereq.Count == 0) 
-        {
-            return 1;
-        }
-
-        int totalSpacing = 0;
-        foreach (string reqCode in course.Prereq) 
-        {
-            Course? req = getCourse(reqCode);
-            if (req is null) {
-                req = new Course(reqCode);
-            }
-            totalSpacing += traverse(req, row + totalSpacing, col + 1);
-        }
-
-        return totalSpacing;
-    }
-
-    private void createMap() 
-    {
-        //if (courses is null) 
-        //{
-        //    return;
-        //}
-        if (course is null)
-        {
-            return;
-        }
-
-        //_map = new List<List<string>> 
-        //{
-        //    new List<string> 
-        //    {
-        //        course.Subject + " " + course.CatalogNumber,
-        //    },
-        //};
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                grid[i, j] = "";
-            }
-        }
-        _ = traverse(course, 0, 0);
-
-        //if (_map.Count > 1) 
-        //{
-        //    int max = 1;
-        //    foreach (var list in _map)
-        //    {
-        //        max = list.Count > max ? list.Count : max;
-        //    }
-        //    for (int i = 0; i < _map.Count; i++)
-        //    {
-        //        while (_map[i].Count < max)
-        //        {
-        //            _map[i].Add("O");
-        //        }
-        //    }
-        //}
-        
-        //map = _map;
-    }
-    #endregion
 }

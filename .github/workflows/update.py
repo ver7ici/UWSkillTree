@@ -192,7 +192,7 @@ def main():
                 courses[k1]["next"].append(k2)
     
     path = "wwwroot/data"
-    print("creating index at %s ... " %path, end="", flush=True)
+    print("creating index at %s ... " % path, end="", flush=True)
     with open("{}/courses.json".format(path), "w") as f:
         f.write(json.dumps(courses, indent=4))
     print("done")

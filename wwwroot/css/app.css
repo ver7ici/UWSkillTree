@@ -2,8 +2,11 @@
 
 html, body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    background-color: white;
-    color: black;
+    /*background-color: white;
+    color: black;*/
+    margin: 0;
+    padding: 0;
+    /*overflow: hidden;*/
 }
 
 h1:focus {

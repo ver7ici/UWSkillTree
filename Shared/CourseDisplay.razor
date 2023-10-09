@@ -1,21 +1,37 @@
-﻿@if (C is null) 
+﻿@inject CourseService Service
+@implements IDisposable
+
+@if (Service.SelectedCourse is not null)
 {
-    <p>2222222...</p>
-} 
-else 
-{
-    <h4>@C.Subject @C.CatalogNumber</h4>
-    <h3>@C.Title</h3>
-    <p>@C.Description</p>
-    <p>
-        @foreach (var r in C.Prereq) 
-        {
-            <span>@r &nbsp;</span>
-        }
-    </p>
-    
+    <div class="course-display card position-absolute bottom-0 start-50 translate-middle-x col-12 col-lg-6">
+        <div class="card-body">
+            <h5 class="card-title m-0">
+                @Service.SelectedCourse.Title
+            </h5>
+            <p class="card-text">
+                @Service.SelectedCourse.Description
+            </p>
+        </div>
+    </div>
 }
+
+<style>
+    .course-display {
+        border: 1px solid;
+        z-index: 100;
+    }
+</style>
+
 @code
 {
-    [Parameter] public Course? C { get; set; }
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        Service.OnSelectionChange += StateHasChanged;
+    }
+
+    public void Dispose()
+    {
+        Service.OnSelectionChange -= StateHasChanged;
+    }
 }
