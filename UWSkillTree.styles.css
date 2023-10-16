@@ -6,10 +6,42 @@
     width: 100vw;
     overflow: hidden;
 }
+/* /Shared/CourseDiagram.razor.rz.scp.css */
+.diagram-container[b-6lbnuugxt2] {
+    width: 100%;
+    height: 100%;
+}
+
+.diagram-node[b-6lbnuugxt2] {
+    position: fixed;
+    z-index: 50;
+}
+/* /Shared/CourseDisplay.razor.rz.scp.css */
+.course-display[b-vgfdwomc7l] {
+    border: 1px solid;
+    z-index: 100;
+}
+/* /Shared/CourseSearch.razor.rz.scp.css */
+.course-search[b-gfs2wzujzx] {
+    border: 1px solid;
+    z-index: 100;
+}
+
+.dropdown-menu[b-gfs2wzujzx] {
+    width: 100%;
+    max-height: 50vh;
+    overflow: auto;
+}
+
+button[b-gfs2wzujzx] {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
 /* /Shared/CourseWidget.razor.rz.scp.css */
 div.course-node[b-o275ajc70i] {
-    /*width: 150px;*/
-    /*height: 50px;*/
+    width: var(--course-node-w);
+    height: var(--course-node-h);
     outline: 1px solid;
     padding: 10px;
 }
@@ -21,10 +53,18 @@ div.course-node[b-o275ajc70i] {
 
 [b-o275ajc70i] .diagram-port {
     position: absolute;
-    width: 0;
-    height: 0;
-    /*border-radius: 50%;*/
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 1px solid;
+    /*z-index: 90;*/
+    background-color: var(--bs-body-bg);
 }
+
+    [b-o275ajc70i] .diagram-port:hover {
+        background-color: var(--bs-body-color);
+    }
+
     [b-o275ajc70i] .diagram-port.top {
         /*border-top: 1px solid;*/
         top: 0;
@@ -38,11 +78,16 @@ div.course-node[b-o275ajc70i] {
     [b-o275ajc70i] .diagram-port.left {
         /*border-left: 1px solid;*/
         left: 0;
+        top: 50%;
+        transform: translate(-50%, -50%);
     }
 
     [b-o275ajc70i] .diagram-port.right {
         /*border-right: 1px solid;*/
         right: 0;
+        top: 50%;
+        transform: translate(50%, -50%);
+        
     }
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-k3c108hpe9] {
