@@ -1,7 +1,8 @@
 ﻿using Blazor.Diagrams.Core.Geometry;
 using Blazor.Diagrams.Core.Models;
+using UWSkillTree.Services;
 
-namespace UWSkillTree
+namespace UWSkillTree.CustomDiagram
 {
     public class CourseNode : NodeModel
     {

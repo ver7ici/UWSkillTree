@@ -1,31 +1,22 @@
 ﻿@using Blazor.Diagrams.Components.Renderers
-@inject CourseService Service
+@using UWSkillTree.Services
+@inherits CourseWidgetBase
 
-<div class="course-node card d-flex justify-content-center align-items-center" @onclick=handleClick>
-    <h5 class="card-title">
+<div class="course-node card d-flex justify-content-center align-items-center">
+    <h5 class="card-title" @onclick=HandleNodeClick>
         @Node.Course.Code
     </h5>
     @foreach (var port in Node.Ports)
     {
-        <PortRenderer @key="port" Port="port" />
+        <a @onclick=@(_ => HandlePortClick(port))>
+            <PortRenderer @key="port" Port="port" />
+        </a>
     }
 </div>
 
 <style>
     .course-node {
-        width: @CourseService.NodeWidthPx;
-        height: @CourseService.NodeHeightPx;
+        --course-node-w: @DiagramService.NodeWidthPx;
+        --course-node-h: @DiagramService.NodeHeightPx;
     }
 </style>
-
-@code {
-    [Parameter] public CourseNode Node { get; set; } = null!;
-
-    private void handleClick()
-    {
-        Service.SelectedCourse = Node.Course;
-
-        Service.ToggleBranch(Node);
-
-    }
-}

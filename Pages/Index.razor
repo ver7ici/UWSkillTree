@@ -1,8 +1,5 @@
-﻿@page "/"
-@using System.Diagnostics
-@using System.Text.Json
-@inject HttpClient Http
-@inject CourseService Service
+﻿@inherits IndexBase
+@page "/"
 
 <PageTitle>Index</PageTitle>
 
@@ -12,12 +9,3 @@
 <div class="diagram-window">
     <CourseDiagram />
 </div>
-
-@code 
-{
-    protected override async Task OnInitializedAsync() 
-    {
-        await base.OnInitializedAsync();
-        await Service.InitializeIndex(Http);
-    }
-}

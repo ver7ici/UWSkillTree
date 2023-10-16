@@ -1,18 +1,16 @@
-﻿@inject CourseService Service
-@implements IDisposable
+﻿@inherits CourseSearchBase
 
 <div class="course-search card position-absolute top-0 start-50 translate-middle-x col-12 col-lg-6">
-    <form @onsubmit=handleSubmit>
+    <form @onsubmit=HandleSubmit>
         <div class="row g-0">
             <div class="col-11">
-                <input class="form-control filter" @bind=selectedCourseCode @oninput=handleInput placeholder="ex. HLTH 630" />
-                @if (courseList is not null && courseList.Count > 0)
+                <input class="form-control filter" @bind=SelectedCourseCode @oninput=HandleInput placeholder="ex. HLTH 630" />
+                @if (CourseList is not null && CourseList.Count > 0)
                 {
                     <div class="dropdown-menu show">
-
-                        @foreach (var c in courseList)
+                        @foreach (var c in CourseList)
                         {
-                            <a class="dropdown-item" @onclick=@(_ => selectCourse(c))>
+                            <a class="dropdown-item" @onclick=@(_ => SelectCourse(c))>
                                 @c.Code - @c.Title
                             </a>
                         }
@@ -25,76 +23,3 @@
         </div>
     </form>
 </div>
-
-<style>
-    .course-search {
-        border: 1px solid;
-        z-index: 100;
-    }
-    button {
-        width: 100%;
-        display: flex;
-        justify-content: center;
-    }
-</style>
-
-@code {
-    private string? selectedCourseCode;
-    private string? filter;
-    List<CourseInfo>? courseList;
-
-    protected override void OnInitialized()
-    {
-        base.OnInitialized();
-
-        // Service.OnChange += StateHasChanged;
-        Service.OnCenterChange += StateHasChanged;
-    }
-
-    public void Dispose()
-    {
-        // Service.OnChange -= StateHasChanged;
-        Service.OnCenterChange -= StateHasChanged;
-    }
-
-    private void handleInput(ChangeEventArgs e)
-    {
-        filter = e.Value?.ToString();
-
-        if (filter?.Replace(" ", null).Length > 2)
-        {
-            courseList = Service.GetSearchResults(filter);
-        }
-        else
-        {
-            courseList = null;
-            // selectedCourse = null;
-            // selectedCourseCode = null;
-        }
-    }
-
-    private void selectCourse(CourseInfo c)
-    {
-        Service.CenterCourse = c;
-        Service.SelectedCourse = c;
-        selectedCourseCode = c.Code;
-        courseList = null;
-    }
-
-    private void handleSubmit()
-    {
-        if (string.IsNullOrEmpty(selectedCourseCode))
-        {
-            return;
-        }
-        var c = Service.GetCourse(selectedCourseCode);
-        if (c is not null)
-        {
-            selectCourse(c);
-        }
-        else if (courseList is not null && courseList.Count > 0)
-        {
-            selectCourse(courseList.First());
-        }
-    }
-}

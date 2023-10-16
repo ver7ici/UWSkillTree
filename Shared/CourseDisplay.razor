@@ -1,37 +1,15 @@
-﻿@inject CourseService Service
-@implements IDisposable
+﻿@inherits CourseDisplayBase
 
-@if (Service.SelectedCourse is not null)
+@if (CSvc.SelectedCourse is not null)
 {
     <div class="course-display card position-absolute bottom-0 start-50 translate-middle-x col-12 col-lg-6">
         <div class="card-body">
             <h5 class="card-title m-0">
-                @Service.SelectedCourse.Title
+                @CSvc.SelectedCourse.Title
             </h5>
             <p class="card-text">
-                @Service.SelectedCourse.Description
+                @CSvc.SelectedCourse.Description
             </p>
         </div>
     </div>
-}
-
-<style>
-    .course-display {
-        border: 1px solid;
-        z-index: 100;
-    }
-</style>
-
-@code
-{
-    protected override void OnInitialized()
-    {
-        base.OnInitialized();
-        Service.OnSelectionChange += StateHasChanged;
-    }
-
-    public void Dispose()
-    {
-        Service.OnSelectionChange -= StateHasChanged;
-    }
 }

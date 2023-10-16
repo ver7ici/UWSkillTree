@@ -1,6 +1,6 @@
 ﻿div.course-node {
-    /*width: 150px;*/
-    /*height: 50px;*/
+    width: var(--course-node-w);
+    height: var(--course-node-h);
     outline: 1px solid;
     padding: 10px;
 }
@@ -12,10 +12,18 @@
 
 ::deep .diagram-port {
     position: absolute;
-    width: 0;
-    height: 0;
-    /*border-radius: 50%;*/
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 1px solid;
+    /*z-index: 90;*/
+    background-color: var(--bs-body-bg);
 }
+
+    ::deep .diagram-port:hover {
+        background-color: var(--bs-body-color);
+    }
+
     ::deep .diagram-port.top {
         /*border-top: 1px solid;*/
         top: 0;
@@ -29,9 +37,14 @@
     ::deep .diagram-port.left {
         /*border-left: 1px solid;*/
         left: 0;
+        top: 50%;
+        transform: translate(-50%, -50%);
     }
 
     ::deep .diagram-port.right {
         /*border-right: 1px solid;*/
         right: 0;
+        top: 50%;
+        transform: translate(50%, -50%);
+        
     }

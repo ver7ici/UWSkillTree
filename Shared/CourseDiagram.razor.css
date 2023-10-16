@@ -1,0 +1,9 @@
+﻿.diagram-container {
+    width: 100%;
+    height: 100%;
+}
+
+.diagram-node {
+    position: fixed;
+    z-index: 50;
+}
